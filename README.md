@@ -45,7 +45,7 @@ oke 互动小说 GitHub Pages 个人主页。
 | `description` | 否 | 卡片描述 |
 | `enabled` | 否 | 设为 `false` 可隐藏，默认显示 |
 | `order` | 否 | 排序权重，数字越小越靠前 |
-| `wrapper` | 否 | 设为 `true` 时经 `play.html` 外壳加载；默认直链 `entry` |
+| `wrapper` | 否 | 设为 `false` 时直链 `entry`；默认经 `play.html` 外壳加载（oke 游戏必须） |
 
 ## 本地预览
 
@@ -64,11 +64,8 @@ npx serve .
 ## 页面说明
 
 - **首页** (`index.html`)：读取 `configs/games.json`，以卡片形式展示游戏封面，点击跳转至播放器
-- **播放器外壳** (`play.html`)：可选，通过 iframe 加载游戏；仅当游戏构建产物实现了 `STORY_PLAYER_READY` 握手时才需要
+- **播放器外壳** (`play.html`)：首页点击游戏后由此页 iframe 加载游戏，并完成 `STORY_PLAYER_AUTH` 握手（**oke 游戏启动的必要条件**）
 
-直接访问游戏：`/okeweb/ailisi/index.html`（推荐）  
-经外壳访问：`/play.html?player=okeweb/ailisi/index.html`（需游戏支持握手）
+### 为什么不能直链 index.html？
 
-### 关于「认证超时」
-
-若通过 `play.html` 进入游戏并看到「认证超时」，说明游戏构建产物**未实现** `postMessage` 握手协议（`STORY_PLAYER_READY` / `STORY_PLAYER_AUTH`）。当前 `okeweb/ailisi` 为独立页面，首页已默认直链 `entry`，无需经过外壳。
+oke 游戏构建产物内置了 `CanPlay` 认证：启动前会向父页面发送 `STORY_PLAYER_READY`，收到正确的 `STORY_PLAYER_AUTH`（`AUTH_KEY` 需与 `play.html` 一致）后才会渲染。直接打开 `okeweb/xxx/index.html` 没有父页面响应握手，页面会一直保持黑屏。

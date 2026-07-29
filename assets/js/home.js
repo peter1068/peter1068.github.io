@@ -40,17 +40,17 @@
 
     /**
      * 构建游戏跳转链接
-     * - 默认直链 entry（适用于独立部署的游戏）
-     * - wrapper: true 时走 play.html 外壳（需游戏实现 STORY_PLAYER_READY 握手）
+     * - 默认经 play.html 外壳加载（oke 游戏需 STORY_PLAYER_AUTH 握手后才能启动）
+     * - wrapper: false 时直链 entry（仅适用于无需外壳认证的独立游戏）
      * @param {object} game
      * @returns {string}
      */
     function buildGameUrl(game) {
         var entry = normalizePath(game.entry);
-        if (game.wrapper === true) {
-            return PLAY_PAGE + '?player=' + encodeURIComponent(entry);
+        if (game.wrapper === false) {
+            return './' + entry;
         }
-        return './' + entry;
+        return PLAY_PAGE + '?player=' + encodeURIComponent(entry);
     }
 
     /**

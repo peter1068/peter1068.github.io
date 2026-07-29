@@ -248,12 +248,12 @@
                     clearTimeout(handshakeTimer);
                 }
 
-                // 握手为可选：部分游戏构建产物未实现 STORY_PLAYER_READY，超时后静默继续
                 handshakeTimer = setTimeout(function () {
-                    handshakeTimer = null;
-                    console.warn(
-                        '[play] 未收到 STORY_PLAYER_READY，跳过认证握手。' +
-                        '若游戏需要外壳认证，请确认构建产物包含 CanPlay 模块且 AUTH_KEY 一致。'
+                    showOverlay(
+                        'error',
+                        '认证超时',
+                        '播放器未在限定时间内完成握手。请从首页进入游戏，或确认 AUTH_KEY 与游戏构建产物一致。',
+                        true
                     );
                 }, HANDSHAKE_TIMEOUT_MS);
             }
