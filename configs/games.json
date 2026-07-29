@@ -1,0 +1,17 @@
+{
+  "site": {
+    "title": "oke 互动小说",
+    "description": "精选互动故事与视觉小说"
+  },
+  "games": [
+    {
+      "id": "ailisi",
+      "title": "爱丽丝赫尔达克魔法之旅",
+      "description": "在中央公园的午后，一段奇幻冒险即将展开……",
+      "cover": "okeweb/ailisi/cover.jpg",
+      "entry": "okeweb/ailisi/index.html",
+      "enabled": true,
+      "order": 1
+    }
+  ]
+}

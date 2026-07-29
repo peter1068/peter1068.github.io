@@ -1,0 +1,4458 @@
+{
+  "uid": "alshedkmfzl_20260728204938",
+  "name": "alshedkmfzl_20260728204938",
+  "token": "U2FsdGVkX1/afHk87zlWreOd0HYE+E4okrzlFGKkT+V1+zqPz5efMG4nSCOaUfId",
+  "cover": "scenes\\images\\alshedkmfzl_20260728204938_0001.webp",
+  "version": "20260729-2207",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "Alice is chasing a kitten on the grass in Central Park. The afternoon sun makes the grass blades hot, and the wind carries the scent of grass and soil.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "Alice squats down and rubs the kitten's head. Her fingertips brush against the kitten's soft fur.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0003.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00000.mp3",
+        "text": "You're especially lively today, running around. Are you very happy?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "The kitten wags its tail. Instead of rubbing against Alice's hand as usual, it pricks up its ears and looks at the bushes not far away.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "The next second, the kitten suddenly darts into an abandoned rabbit hole. The entrance is half - covered by wild grass and seems to have been untouched for a long time.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0006.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00001.mp3",
+        "text": "What are you doing in the hole? That hole has been abandoned for ages. It might not be safe inside...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "Alice kneels down at the entrance and looks down. There's a faint cold light flickering in the darkness.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "Alice holds her breath, pushes aside the withered grass, and takes out a shiny black crystal. The surface of the crystal is like it's covered with a thin layer of ice. It feels cool to the touch, but a strange throb spreads from Alice's fingertips.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "The kitten squats outside the hole, growling softly in its throat and doesn't get close.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0010.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00002.mp3",
+        "text": "You don't like it?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0011.webp",
+        "dubbing": "scenes\\audio\\Kitten00000.mp3",
+        "text": "I don't like the feeling it gives off.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0012.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00003.mp3",
+        "text": "But it seems to be calling me. Do you think I should take it?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_12",
+          "label": "Ignore the crystal"
+        },
+        {
+          "nextId": "scene_31",
+          "label": "Pick up the crystal"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0013.webm",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "Alice stares at the black crystal in silence for a long time.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Two voices in her heart are tugging at her - one urges her to reach out, and the other tells her to leave.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "The wind outside the hole gently sways the grass. The light in the crystal flickers, as if it's breathing.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "Finally, Alice gently puts the crystal back into the hole and covers it with withered grass again.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0017.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00004.mp3",
+        "text": "Let's go. You're right. Some things shouldn't be touched casually.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0018.webp",
+        "dubbing": "scenes\\audio\\Kitten00001.mp3",
+        "text": "Yeah, let's go home.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0019.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00005.mp3",
+        "text": "Don't you think it's a pity? What if it's really important?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0020.webp",
+        "dubbing": "scenes\\audio\\Kitten00002.mp3",
+        "text": "Just because it's important doesn't mean we should take it now. Your hands were shaking just now.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0021.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00006.mp3",
+        "text": "...I didn't notice.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "Alice pauses for a moment, then looks down at her hands. Her fingertips are still trembling slightly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "In the days after she got home, she fed the cat, did the cleaning, and went for a walk in the park as usual. Her life was so calm that it seemed nothing had happened.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "But every time she passed by those bushes, she couldn't help but glance in the direction of the rabbit hole. There's an empty feeling in her heart.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "She occasionally dreams about that black crystal at night. When she wakes up, her palms are cold.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "On the fourth night, she suddenly sits up in bed. Her chest feels tight, as if she's missed something that she'll never get back.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "She puts on her coat and rushes to the park. Her steps are getting faster and faster.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "The rabbit hole is still there, but it's empty inside. The black crystal has disappeared, leaving only damp soil and a lingering chill.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_16",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0029.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00007.mp3",
+        "text": "I clearly had a chance...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_17",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "The kitten had followed Alice without her noticing and sat down at her feet. It neither comforted nor blamed her, just quietly accompanied her.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_18",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "The wind rustled the grass. There were no more strange lights in the park.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_31",
+          "label": "Pick up the crystal"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "Alice's fingertips hovered in mid - air. Curiosity welled up in her heart, along with an inexplicable unease. She remembered the kitten's warning just now and the beckoning light deep inside the crystal, like someone waving at her in the dark.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0033.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00008.mp3",
+        "text": "I'm scared, but I'm even more afraid of doing nothing.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0034.webp",
+        "dubbing": "scenes\\audio\\Kitten00003.mp3",
+        "text": "You can put it down. No one is forcing you. We can still go home and act like nothing happened.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0035.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00009.mp3",
+        "text": "No, I know nothing yet. I can't scare myself. But if I turn around and leave, I'll keep thinking about it - that crystal, that hole, and the look in your eyes just now.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "Alice took a deep breath and grasped the crystal.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "Suddenly, a blinding light exploded. Alice instinctively closed her eyes. A shrill buzzing filled her ears. The grass, the park, and the city skyline shattered in the light. When the light faded, instead of the familiar Central Park, there were two floating gates in front of Alice. Behind one gate, there were faint city lights, and behind the other, a strange starry sky and a wasteland.",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0038.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00010.mp3",
+        "text": "Where is this? I was just in the park...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0039.webp",
+        "dubbing": "scenes\\audio\\Kitten00004.mp3",
+        "text": "I don't like this. I'm on edge. Let's go back.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0040.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00011.mp3",
+        "text": "Back through which one? I don't even understand what's going on.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_40",
+          "label": "Return to Earth"
+        },
+        {
+          "nextId": "scene_50",
+          "label": "Go to the other world"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Alice stared at the gate labeled \"The Way Back\". Her mind was in a complete mess.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "The howling wind from the other world still echoed in Alice's ears, but she was even more afraid of never being able to go back.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0043.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00012.mp3",
+        "text": "I want to go home. I'm sick of this feeling of not knowing what's going to happen next.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0044.webp",
+        "dubbing": "scenes\\audio\\Kitten00005.mp3",
+        "text": "Then go back. But don't expect everything to be the same as before. The words on the door may not be trustworthy.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0045.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00013.mp3",
+        "text": "I have no other choice.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "Alice stepped into the gate. The moment the light engulfed her vision, Alice heard the kitten meow behind her, but she couldn't turn back.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "When Alice opened her eyes again, she was standing alone on a strange street. The buildings, the road signs, and the smell in the air were all unfamiliar to her memory of Earth. Alice looked around. People walked by in a hurry, not even glancing at her, as if she never belonged here.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "A low growl came from the end of the street. The black crystal was gone, and there was only cold sweat in Alice's palm.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0049.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00014.mp3",
+        "text": "This isn't my home... Where is this place?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "Story begins: The Strange World Side Quest.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_50",
+          "label": "Go to the other world"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0051.webm",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "Alice looked at the gate leading to the star - filled wilderness. Her feet felt like they were filled with lead. The wind outside carried the smell of scorched earth and blood. With each step she took closer, her heart beat heavier.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0052.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00015.mp3",
+        "text": "What if I make the wrong choice? What if I can't help anyone at all?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0053.webp",
+        "dubbing": "scenes\\audio\\Kitten00006.mp3",
+        "text": "Then run. At least don't pretend you're not scared.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0054.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00016.mp3",
+        "text": "... I'm really scared. But when the crystal lit up just now, I seemed to see a lot of injured little animals. They were crying.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0055.webp",
+        "dubbing": "scenes\\audio\\Kitten00007.mp3",
+        "text": "What you see isn't always real. Crystals can deceive.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0056.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00017.mp3",
+        "text": "But what if part of it is true? If I leave, those images will haunt me for life.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "Alice gritted her teeth and stepped into the portal to the other world.",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "After a bout of dizziness, the feeling under Alice's feet changed from grass to parched, cracked earth.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "The planet before Alice was littered with ruins. The sky had a sickly dark - red hue, and thick smoke billowed in the distance.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "The wind carried cries, as if they were surging from all directions at once. Before Alice could steady herself, she heard a shrill meow up ahead.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "— A water - type shark bully was whipping up waves and charging towards a rickety cat tribe.",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "The wooden fence shattered, wood chips flying everywhere. The cats fled in all directions, some already lying in pools of blood, their meows growing weaker with each one.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Alice felt sick to her stomach, her knees buckled, and she could barely stand.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0064.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00018.mp3",
+        "text": "I haven't even learned a single spell... What can I do?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0065.webp",
+        "dubbing": "scenes\\audio\\Kitten00008.mp3",
+        "text": "If you go now, you'll just be another casualty. You're not ready.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0066.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00019.mp3",
+        "text": "So, am I supposed to just watch them die?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "The kitten didn't answer, just stood in front of Alice, arching its back. Looking at the injured cats, Alice tightened her fingers. The black crystal in her palm grew hot, as if urging her to make a choice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_17",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0068.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00020.mp3",
+        "text": "I have to try at least once. If I do, I won't regret it.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_18",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "Alice clenched the black crystal and followed the light towards the sea. The cat tribe was just ahead. Waves crashed against the shore, and a fishy smell filled the air. There were signs of struggle on the beach, and broken wooden stakes were half - buried in the sand. The black crystal showed a vision: the shark bully tearing at the tribe's shelter, while small, weak fish huddled behind the rocks, too scared to show their heads.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_19",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0070.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00021.mp3",
+        "text": "It stole their home and blocked their food source. Those little fish have been hiding for days.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_20",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0071.webp",
+        "dubbing": "scenes\\audio\\Kitten00009.mp3",
+        "text": "You're seeing what the crystal shows you, not what your eyes see. Don't let it lead you astray.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_21",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0072.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00022.mp3",
+        "text": "So, what do your eyes see?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_22",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0073.webp",
+        "dubbing": "scenes\\audio\\Kitten00010.mp3",
+        "text": "A monster ten times your size, made entirely of water. I don't think you should charge at it now.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_23",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0074.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00023.mp3",
+        "text": "Then do you support me running away?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet5_24",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0075.webp",
+        "dubbing": "scenes\\audio\\Kitten00011.mp3",
+        "text": "No. I think you'll die. But that's different from 'not being able to just stand by'.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet5_25",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0076.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00024.mp3",
+        "text": "But if I turn around and leave now, I won't be able to sleep tonight. I'll keep hearing their cries.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet5_26",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "Alice got up, and the light from the black crystal led her towards the sea. Sensing a stranger, the shark bully turned its massive body. Water swirled around it, and the waves grew taller and taller.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet5_27",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0077.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00025.mp3",
+        "text": "You can't keep acting like a tyrant! Give their home back!",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet5_28",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "Alice's voice trembled more than she expected, and the end of her words was almost drowned out by the waves.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet5_29",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "The shark bully let out a low growl, and the sea water boiled.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet5_30",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0079.webp",
+        "dubbing": "scenes\\audio\\Kitten00012.mp3",
+        "text": "It's coming. Hurry and choose — how will you defend yourself?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "branches": [
+        {
+          "nextId": "scene_81",
+          "label": "Fire magic"
+        },
+        {
+          "nextId": "scene_90",
+          "label": "Earth - element magic"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "The black crystal burned like a branding iron, and fiery red incantations poured uncontrollably from Alice's palm.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "Alice didn't have time to think and instinctively raised her hand.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0082.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00026.mp3",
+        "text": "Fire magic! Block it!",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\huoyan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0083.webp",
+        "dubbing": "scenes\\audio\\Kitten00013.mp3",
+        "text": "No! It's a water - type. Fire will be...",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "As soon as the fire wall rose, it was torn apart by the wave. The water vapor exploded, and the scalding steam hit Alice's face. Her skin burned with pain.",
+        "soundEffects": "scenes\\audio\\penshejiguang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0085.webp",
+        "dubbing": "scenes\\audio\\Kitten00014.mp3",
+        "text": "Dodge! Roll to the left!",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "The Shark Bully broke through the remaining flames, opening its huge mouth. Its shadow enveloped Alice completely, and the smell of seawater rushed towards her.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "It was too late for Alice. Darkness swallowed everything. Seawater filled her lungs, and she could no longer hear any sound.",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "Story ending: Bad death ending.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_90",
+          "label": "Earth - element magic"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0088.webm",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "Alice desperately recalled the images that flashed in the crystal. She pressed her hands on the ground, digging her fingertips into the sand.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0089.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00027.mp3",
+        "text": "Earth should counter water... Earth - element magic, rise! Earth spikes, pierce!",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "The rock wall rose from the ground, blocking the first wave. The Shark Bully rammed into the wall. The wall cracked, and gravel flew everywhere. Several pieces hit the shore. Alice's knees went weak, her虎口（可替换为 palms）numb from the shock, and her ears were filled with a roar.",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "The kitten circled to the side and deliberately raised its tail to attract the Shark Bully's attention. The wave shifted an inch and crashed onto the beach.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0092.webp",
+        "dubbing": "scenes\\audio\\Kitten00015.mp3",
+        "text": "Don't stop! You said you'd give it a try!",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "Alice gritted her teeth and poured her last bit of strength into the ground. The rock spikes pierced through the water flow and hit the Shark Bully's abdomen.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "The Shark Bully let out a pained roar. The water flow suddenly became chaotic. After struggling a few times, it finally sank to the bottom of the sea.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "The beach fell silent, only the sound of waves hitting the shore remained. Alice collapsed on the beach, gasping for breath. Her palms were full of blisters. Before she could even feel happy, she heard the kitten let out a stifled groan.",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0096.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00028.mp3",
+        "text": "Kitten!",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "The kitten lay on the side. Its abdomen was cut open by the flying gravel, and the blood stained its fur. The kitten tried to stand up but failed.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0097.webp",
+        "dubbing": "scenes\\audio\\Kitten00016.mp3",
+        "text": "Don't cry... I'm okay, maybe.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0098.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00029.mp3",
+        "text": "You're lying. You're bleeding a lot. Why did you distract it just now?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0099.webp",
+        "dubbing": "scenes\\audio\\Kitten00017.mp3",
+        "text": "Because... you were too slow. Next time, ask me if I agree before charging.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "The black crystal glowed again, and a blurry line of words appeared: In the depths of the jungle, the Elixir Flower can heal serious injuries.",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet7_14",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0101.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00030.mp3",
+        "text": "I'll go find the medicine. Hold on, got it? Don't close your eyes.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet7_15",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0102.webp",
+        "dubbing": "scenes\\audio\\Kitten00018.mp3",
+        "text": "You were... actually quite good just now.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet7_16",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "Alice's throat tightened. She picked up the kitten and ran towards the jungle, not daring to look back at the sea.",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet7_17",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "The air in the jungle was damp and stuffy. The smell of rotting leaves mixed with the stench of mud. Occasionally, the chirping of insects came from the darkness and was soon swallowed by the silence. Alice carried the injured kitten in one hand and held the black crystal in the other, stepping on the unknown fallen leaves with each step.",
+        "soundEffects": "scenes\\audio\\chongzimingjiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet7_18",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "Her feet slipped from time to time, and muddy water got into her shoes.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet7_19",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0106.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00031.mp3",
+        "text": "Are you okay? Are you still awake?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet7_20",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0107.webp",
+        "dubbing": "scenes\\audio\\Kitten00019.mp3",
+        "text": "I'm not dead yet. But your hand has been shaking since we entered the jungle.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet7_21",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0108.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00032.mp3",
+        "text": "I didn't.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet7_22",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0109.webp",
+        "dubbing": "scenes\\audio\\Kitten00020.mp3",
+        "text": "Yes, you did. You actually didn't want to come in, right?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet7_23",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0110.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00033.mp3",
+        "text": "I'm afraid of not finding the medicine and being late. I'm also afraid... afraid that this crystal is lying to me again.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet7_24",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0111.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00034.mp3",
+        "text": "Afraid of going all the way only to return empty - handed.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet7_25",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0112.webp",
+        "dubbing": "scenes\\audio\\Kitten00021.mp3",
+        "text": "Then why did you still keep going?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet7_26",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0113.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00035.mp3",
+        "text": "Because I don't know what else to do other than keep moving forward. The kitten is still bleeding in my arms, and the cats in the tribe are waiting.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet7_27",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0114.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00036.mp3",
+        "text": "I'm not even sure if I'm doing the right thing, but I can't stop.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet7_28",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "A fork in the road appears ahead. The left path is dark, with moss climbing on the tree trunks, yet there's wind blowing through the forest; the right path is shrouded in mist, with vines hanging like curtains, and it's unusually quiet. The black crystal suddenly dims for a moment, as if giving a warning.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet7_29",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0116.webp",
+        "dubbing": "scenes\\audio\\Kitten00022.mp3",
+        "text": "The magic is leaking over to the right. It'll be trouble if we go in. The left isn't safe either, but at least we can still feel the wind.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet7_30",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0117.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00037.mp3",
+        "text": "If I make the wrong choice, will you blame me?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet7_31",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0118.webp",
+        "dubbing": "scenes\\audio\\Kitten00023.mp3",
+        "text": "Yes. So don't make the wrong choice.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "branches": [
+        {
+          "nextId": "scene_122",
+          "label": "Right path"
+        },
+        {
+          "nextId": "scene_132",
+          "label": "Left path"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "Alice takes a chance, thinking there might be a shortcut deep in the mist. Alice steps onto the right path. After just a few steps, the black crystal goes out completely.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "The air is like solidified glue, pressing on Alice's chest. It becomes difficult for Alice to breathe.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0121.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00038.mp3",
+        "text": "I can't use my magic...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0122.webp",
+        "dubbing": "scenes\\audio\\Kitten00024.mp3",
+        "text": "Me neither. This place is sucking our power away, like a net.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "The mist gets thicker and thicker. Alice looks back but can't see the way she came. Even the soil under her feet feels different from before.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "Alice holds the kitten and spins in place. Every step she takes feels like she's stepping on the same spot.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "Alice's shouts are swallowed by the mist. No one responds. Only her own echo lingers in her ears.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0126.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00039.mp3",
+        "text": "Will we get out? Kitten, answer me.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "The kitten doesn't answer. A long time later, in the mist, there's only Alice holding the cat. The light in Alice's eyes gradually fades.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "Story ending: The bad ending of being imprisoned.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_132",
+          "label": "Left path"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0129.webm",
+        "dubbing": "scenes\\audio\\Alice Heldak00040.mp3",
+        "text": "Let's take the left. At least there's wind, which means the path is alive.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0130.webp",
+        "dubbing": "scenes\\audio\\Kitten00025.mp3",
+        "text": "You trust me?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0131.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00041.mp3",
+        "text": "I trust that you want to stay alive more than I do.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "The left path under Alice's feet is rough and difficult to walk on. Vines entangle her ankles, and thorns scratch her arms. Drops of blood seep into her cuffs. The moss on the tree bark by her feet is slippery. Alice almost falls several times, all thanks to her protecting the kitten in her arms. Alice doesn't know how long she's been walking, only that the kitten's breathing is getting weaker and weaker. Every breath makes her heart skip a beat.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0133.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00042.mp3",
+        "text": "Hold on a little longer. We're almost there. The medicine is just ahead.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0134.webp",
+        "dubbing": "scenes\\audio\\Kitten00026.mp3",
+        "text": "Stop talking... Save your energy for walking.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0135.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00043.mp3",
+        "text": "I'm even more scared when I'm silent. When it's quiet, I can hear your breathing. It's so faint.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "Alice rounded a rock wall and suddenly stopped. Ahead, a giant spider hung silently in the center of its web. Its eight eyes glowed eerily, and the fine hairs on its legs quivered slightly, as if sensing the fear in the air.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0137.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00044.mp3",
+        "text": "It's blocking the way... The medicinal flower should be deeper inside.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0138.webp",
+        "dubbing": "scenes\\audio\\Kitten00027.mp3",
+        "text": "Step back. Don't startle it. The flower is important, but so is your life.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0139.webp",
+        "dubbing": "scenes\\audio\\Kitten00028.mp3",
+        "text": "I don't think it's a good idea to go up and talk to it.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0140.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00045.mp3",
+        "text": "Do you have any other ideas?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0141.webp",
+        "dubbing": "scenes\\audio\\Kitten00029.mp3",
+        "text": "No. But I don't like that look on your face—you're planning to negotiate with it.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0142.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00046.mp3",
+        "text": "Maybe we can make an exchange and pay a price...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0143.webp",
+        "dubbing": "scenes\\audio\\Kitten00030.mp3",
+        "text": "You're not good at making exchanges. You're good at sacrificing yourself.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "branches": [
+        {
+          "nextId": "scene_159",
+          "label": "Ask politely."
+        },
+        {
+          "nextId": "scene_147",
+          "label": "Fight it."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "Alice gently placed the kitten on a rock behind her and stepped forward alone, trying to keep her voice steady.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0145.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00047.mp3",
+        "text": "We mean no harm. I'm looking for the medicinal flower deep in the jungle. Can we discuss an exchange? I'm willing to pay a price, but not everything.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0146.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00000.mp3",
+        "text": "Everything. Give me all your magic.",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0147.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00048.mp3",
+        "text": "That won't work. I still have to save someone and go back to save the cats in the tribe.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0148.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00001.mp3",
+        "text": "Then there's no flower. Everything, now.",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "Fear made Alice want to end this stand - off quickly. Alice nodded, her voice weak.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0148.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00049.mp3",
+        "text": "...Okay.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "The spider silk instantly wrapped around Alice's wrist and tightened. Her magic gushed out like water from an open tap, taking away her body heat and consciousness. Her limbs felt as heavy as lead. Alice knelt on the ground, her vision going dark, and the only thing she could hear was her own slowing heartbeat.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0150.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00050.mp3",
+        "text": "Stop... Please... I can't die here...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0151.webm",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "The kitten pounced forward but was bounced off by the web and fell on the rock. It watched helplessly as Alice's eyes lost focus, her body grew colder, and her lips lost their color.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0152.webp",
+        "dubbing": "scenes\\audio\\Kitten00031.mp3",
+        "text": "Alice—!",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "The last bit of light on Alice faded, and she died on the spot.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_159",
+          "label": "Ask politely."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "Alice shielded the kitten behind her and whispered quietly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0156.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00051.mp3",
+        "text": "No more negotiation. It never intended to let us pass from the start.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0157.webp",
+        "dubbing": "scenes\\audio\\Kitten00032.mp3",
+        "text": "You finally listened to me this time. But you've used up most of your strength fighting the shark bully, and your shoulder is still bleeding.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0158.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00052.mp3",
+        "text": "Then use what's left. We haven't found the flower yet. We can't fall here.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "Alice activated the black crystal, and wind blades and gravel swept towards the web.",
+        "soundEffects": "scenes\\audio\\mofa1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "The giant spider let out a shrill scream and pounced from the top of the web. Its eight legs sliced through the air, bringing a foul stench.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "Alice rolled around in the mud. The wound on her shoulder tore open, and warm blood seeped into the soil. The pain made her vision go black.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0162.webp",
+        "dubbing": "scenes\\audio\\Kitten00033.mp3",
+        "text": "Left! Its abdomen is soft. Stab there!",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "Alice gritted her teeth and leaped up, condensing her last bit of earth - based magic into a spike.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "She stabbed it into the abdomen of the giant spider. The giant spider crashed to the ground. Its eight legs twitched a few times, and debris on the web rustled down. Finally, it stopped moving.",
+        "soundEffects": "scenes\\audio\\leibao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0165.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00002.mp3",
+        "text": "...Stop. I surrender. Here's the spider - silk defensive magic. Don't go any further and cause trouble.",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0166.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00053.mp3",
+        "text": "What's ahead?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0167.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00003.mp3",
+        "text": "A swamp. The bully alligator is stealing the medicinal flower from the flower - guarding snake. It's much fiercer than me.",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0168.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00054.mp3",
+        "text": "You should have said so earlier.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0169.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00004.mp3",
+        "text": "You didn't ask either.",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet11_15",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "Alice put away the magic and picked up the kitten, then continued deeper.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet11_16",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "The light in the forest grew dimmer. In the distance, there came splashes and roars. A swamp appeared before them. The flower - guarding snake was pinned under the muddy bank by the bully alligator. There was a glowing medicinal flower beside it.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet11_17",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0172.webp",
+        "dubbing": "scenes\\audio\\Kitten00034.mp3",
+        "text": "Your legs are shaking. Want to retreat?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet11_18",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0173.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00055.mp3",
+        "text": "If I keep retreating, all that'll be left is regret.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet11_19",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "The stench in the swamp was disgusting. Bubbles rose from the muddy water, and occasionally a dead fish flipped over, showing its white belly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet11_20",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0175.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "The bully alligator let go of the flower - guarding snake and turned to stare at Alice. There was still mud hanging from its fangs, and its eyes were like two murky topazes.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet11_21",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0176.webp",
+        "dubbing": "scenes\\audio\\Crocodile Bully00000.mp3",
+        "text": "Another meddler. Couldn't that giant spider stop you?",
+        "characterImage": "scenes\\images\\crocodilebully tou.webp",
+        "characterName": "Crocodile Bully"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet11_22",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0177.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00056.mp3",
+        "text": "It couldn't. Leave the medicinal flower. The cats in the tribe are waiting.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet11_23",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0178.webp",
+        "dubbing": "scenes\\audio\\Crocodile Bully00001.mp3",
+        "text": "I've had my eye on this flower for three years. That flower - guarding snake is just a guard. Why should I give it to you?",
+        "characterImage": "scenes\\images\\crocodilebully tou.webp",
+        "characterName": "Crocodile Bully"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet11_24",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0179.webp",
+        "dubbing": "scenes\\audio\\Flower Guardian Serpent00000.mp3",
+        "text": "The flower is the cats' lives in the tribe... They're still waiting... Please...",
+        "characterImage": "scenes\\images\\flowerguardianserpent tou.webp",
+        "characterName": "Flower Guardian Serpent"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet11_25",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0180.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00057.mp3",
+        "text": "I know. That's why I'm here. You can fight me, but you can't have the flower.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet11_26",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "Alice clenched the black crystal. Just as the earth - yellow light began to shine, the kitten sharply interrupted her.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet11_27",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0181.webp",
+        "dubbing": "scenes\\audio\\Kitten00035.mp3",
+        "text": "Don't use earth magic! Its hide is too thick. Earth spikes can't pierce it. The trick you used on the bully shark won't work here!",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet11_28",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0182.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00058.mp3",
+        "text": "Then what else can I use? Spider silk?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet11_29",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0183.webp",
+        "dubbing": "scenes\\audio\\Kitten00036.mp3",
+        "text": "You haven't tried it yet. But your hands are shaking so much. I'm not sure if you can condense it.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet11_30",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0184.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00059.mp3",
+        "text": "...I have to try. There's no other way.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet11_31",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "The bully alligator charged over. Muddy waves crashed against the bank. Its fangs glistened coldly, bringing with it a stinky wind.",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_191",
+          "label": "Earth - based magic"
+        },
+        {
+          "nextId": "scene_198",
+          "label": "Spider - Silk Magic"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0185.webm",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Alice's heart sank, but she instinctively activated her earth - based magic anyway.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0186.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00060.mp3",
+        "text": "This is the only way - Earth spikes!",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "The rock spikes hit the back of the Crocodile Bully, making a dull thud and shattering into powder. The Crocodile Bully didn't even have a scratch on its skin.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0188.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "Instead, it was completely enraged and let out a shrill cackle.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0188.webp",
+        "dubbing": "scenes\\audio\\Crocodile Bully00002.mp3",
+        "text": "Is that all you've got? And you dare to come for the medicine?",
+        "characterImage": "scenes\\images\\crocodilebully tou.webp",
+        "characterName": "Crocodile Bully"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "Alice tried to dodge, but her legs felt like they were filled with lead. Fatigue, blood loss, and fear all came over her at once, and she was half a beat too slow.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "The Crocodile Bully closed its huge jaws, and the shadow loomed over. Story ending: Bad End - Death.",
+        "soundEffects": "scenes\\audio\\nvrensiqiancanjiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_198",
+          "label": "Spider - Silk Magic"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0191.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "Alice took a deep breath and pushed the spider - silk defense magic to its limit.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0192.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00061.mp3",
+        "text": "Spider silk, entangle!",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "Silver - white threads shot out from Alice's palm and wove into a dense net.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0193.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "The Crocodile Bully rushed into the net. It failed to bite through it on the first try. Its fangs slipped on the spider silk, making a shrill screeching sound. The Crocodile Bully struggled wildly, splashing muddy water everywhere, but the spider silk just wrapped around it tighter and dug into its thick hide.",
+        "soundEffects": "scenes\\audio\\gaokejixianshichu.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0194.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00062.mp3",
+        "text": "It works... Tighter...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0195.webp",
+        "dubbing": "scenes\\audio\\Kitten00037.mp3",
+        "text": "Enough! Don't exhaust yourself! You've lost too much blood!",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0196.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "The last layer of spider silk sealed the Crocodile Bully's mouth. It crashed to the ground, unable to move, with only its eyes still rolling.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0197.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "The Medicine - Flower Guardian Snake crawled out of the mud. It was covered in wounds, but still tremblingly sent a ball of emerald - green light into Alice's forehead, and then pushed the magic medicine flower in front of Alice.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_206",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0198.webp",
+        "dubbing": "scenes\\audio\\Flower Guardian Serpent00001.mp3",
+        "text": "I'll teach you the healing magic. And here's the medicine flower. Go back quickly. Those cats can't wait any longer.",
+        "characterImage": "scenes\\images\\flowerguardianserpent tou.webp",
+        "characterName": "Flower Guardian Serpent"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0199.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "The moment Alice learned the incantation, her palm grew warm. She picked up the medicine flower and the kitten and turned to run. The roars from the swamp behind gradually faded away.",
+        "soundEffects": "scenes\\audio\\zoulusheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_208",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0200.webp",
+        "dubbing": "scenes\\audio\\Kitten00038.mp3",
+        "text": "You didn't back down just now.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0201.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00063.mp3",
+        "text": "I said, if you back down, all you'll have left is regret.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0202.webp",
+        "dubbing": "scenes\\audio\\Kitten00039.mp3",
+        "text": "But you were clearly scared. Your legs were shaking the whole time.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0203.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00064.mp3",
+        "text": "I have to finish it even if I'm scared. Otherwise, I'll wonder for the rest of my life - what if I'd been a bit braver?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0204.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "Alice carried the medicine flower and the kitten across the scorched earth.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0205.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "The gravel on the ground hurt her feet, but she didn't dare to stop.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "Along the way, Alice murmured the syllables of the healing incantation, fearing to forget a single word. Finally, the tribe appeared at the end of her sight -",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0207.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "The tents had collapsed, the fences were broken. The injured cats huddled in the broken huts, moaning softly. Some were already unconscious. The air was filled with the smell of blood and dust.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "Alice rushed into the tribe and almost fell to her knees. She propped herself up and held up the medicine flower, chanting the newly - learned healing incantation. The green light rippled out like water waves, passing over each pained face and healing the wounds from the edges inwards. The broken bones made a slight cracking sound as they reset, and the moaning gradually stopped. Finally, it was quiet in the broken hut.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0209.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00065.mp3",
+        "text": "It works... It really works...",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0210.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "The cats opened their eyes one by one. An old cat walked over shakily and licked Alice's hand, with tears in its eyes.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0211.webp",
+        "dubbing": "scenes\\audio\\Elder Cat00000.mp3",
+        "text": "Thank you, stranger.",
+        "characterImage": "scenes\\images\\eldercat tou.webp",
+        "characterName": "Elder Cat"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0212.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00066.mp3",
+        "text": "Don't thank me. I almost got everyone killed. The kitten almost died, and I almost died in the jungle too.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0213.webp",
+        "dubbing": "scenes\\audio\\Elder Cat00001.mp3",
+        "text": "But you came back. That's enough.",
+        "characterImage": "scenes\\images\\eldercat tou.webp",
+        "characterName": "Elder Cat"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet13_24",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0214.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "The kitten jumped out of Alice's arms. Its steps were still a bit wobbly, but it managed to stand firm on the ground. The kitten looked around at the devastated tribe, remained silent for a long time, and finally fixed its gaze on the black crystal in Alice's palm. Its ears flattened slowly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet13_25",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0215.webp",
+        "dubbing": "scenes\\audio\\Kitten00040.mp3",
+        "text": "Don't you think it's been too easy? The shark bully, the giant spider, the crocodile bully - one more predictable than the last. It's like someone deliberately set up these challenges.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet13_26",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0216.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00067.mp3",
+        "text": "What do you mean?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet13_27",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0217.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "Suddenly, the black crystal started to tremble violently. It left Alice's palm and hovered in mid - air. The sky above the tribe suddenly darkened. The wind stopped, and even the meows of the cats fell silent.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet13_28",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0218.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "A figure emerged from the crystal, taking the form of the crystal's will. Its face was blurred, but its voice seemed to come from all directions at once, pressing down on people and making it hard to breathe.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_227",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet13_29",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0218.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00000.mp3",
+        "text": "Well done, Alice Herdak.",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet13_30",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0219.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00068.mp3",
+        "text": "Who are you? Did you arrange all this?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_229",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet13_31",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0220.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00001.mp3",
+        "text": "It was a trial. The black crystal chose you, but it wasn't sure if you were worthy of it.",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_230",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet13_32",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0221.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00069.mp3",
+        "text": "What about those injured creatures - did you arrange them too?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_231",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet13_33",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0222.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00002.mp3",
+        "text": "The shark bully tested your courage, the giant spider tested your strategy, and the crocodile bully tested your perseverance.",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_232",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet13_34",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0223.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00003.mp3",
+        "text": "At each stage, you could have fled or died.",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_233",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet13_35",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0224.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00004.mp3",
+        "text": "It was real. The pain was real, and so was the possibility of death. If you had failed, they would have really died. Trials are never fake.",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_234",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet13_36",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0225.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00070.mp3",
+        "text": "So what are you then? A god watching indifferently?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet13_37",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0226.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00005.mp3",
+        "text": "I'm the will of the crystal. You've passed. The final step - accept the power or give it up?",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_236",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet13_38",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0227.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "The black crystal split into two halves. One half glowed with a warm light, like a park in the early morning; the other was as black as an abyss, like the cold light deep in the rabbit hole.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_237",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet13_39",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0228.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00006.mp3",
+        "text": "If you accept, you'll become the guardian of this world, fighting forever and never being able to return to Earth. If you give up, the healing will remain, and you'll be sent back to the park, forgetting everything here, the tribe's cats, and even the kitten.",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_238",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet13_40",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0229.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "All the cats in the tribe were looking at Alice. Some were propping up on their injured legs, and some were holding their companions. The kitten was also looking at Alice. It didn't give an answer for her, just quietly sat at her feet.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_239",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet13_41",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0230.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00007.mp3",
+        "text": "What are you waiting for?",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_240",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet13_42",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0231.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00071.mp3",
+        "text": "If I stay, will you stay with me?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet13_43",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0232.webp",
+        "dubbing": "scenes\\audio\\Kitten00041.mp3",
+        "text": "I will. But I don't want you to stay out of guilt.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_242",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet13_44",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0233.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00072.mp3",
+        "text": "What if I go back?",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_243",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_243",
+      "sheetName": "Sheet13_45",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0234.webp",
+        "dubbing": "scenes\\audio\\Kitten00042.mp3",
+        "text": "Then I'll act like I never knew you. Although... it's not very likely.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_244",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_244",
+      "sheetName": "Sheet13_46",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0235.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "Alice remembered the sunshine in the park, her hesitation in front of the rabbit hole, her trembling hands when she first chanted the spell, the nights in the jungle when she could hardly move, and the kitten saying, \"Ask me first before you rush in.\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_245",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_245",
+      "sheetName": "Sheet13_47",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0236.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "Alice looked at the warm half of the crystal, then at the dark half. Finally, she stepped forward and didn't touch the dark one.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_246",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_246",
+      "sheetName": "Sheet13_48",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0237.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00073.mp3",
+        "text": "I'll stay. Not because you chose me, but because I've already chosen them.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_247",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_247",
+      "sheetName": "Sheet13_49",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0238.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "The light engulfed the crystal's will, which shattered into countless light spots and merged into the tribe's land. The wind blew again. Tender green shoots sprouted from the scorched earth, and the broken fences made a soft sound of healing.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_248",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_248",
+      "sheetName": "Sheet13_50",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0239.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "The black crystal fell back into Alice's palm. This time, it wasn't cold anymore, but was like a quiet heart, beating in sync with Alice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_249",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_249",
+      "sheetName": "Sheet13_51",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0240.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "The healing wave spread out one last time, passing over every tent and every wound.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_250",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_250",
+      "sheetName": "Sheet13_52",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0241.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "The cats stood up, rubbing against each other and meowing. The long - lost sounds echoed in the tribe - not cries, but the sounds of being alive.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_251",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_251",
+      "sheetName": "Sheet13_53",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0242.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "Alice sat on the grass, her back against a newly - grown tree. The kitten lay on Alice's lap, and the sun shone on the kitten's restored fur.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_252",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_252",
+      "sheetName": "Sheet13_54",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0243.webp",
+        "dubbing": "scenes\\audio\\Kitten00043.mp3",
+        "text": "Do you regret it?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_253",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_253",
+      "sheetName": "Sheet13_55",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0244.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00074.mp3",
+        "text": "Sometimes, I still get scared and tired. I also wonder - why should I be the one to do this right? But when I see them survive, I think... it's worth it.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_254",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_254",
+      "sheetName": "Sheet13_56",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0245.webp",
+        "dubbing": "scenes\\audio\\Kitten00044.mp3",
+        "text": "Then will you still do it?",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_255",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_255",
+      "sheetName": "Sheet13_57",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0246.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00075.mp3",
+        "text": "Yes. I'll do it despite my fears. At least I can sleep well tonight.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_256",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_256",
+      "sheetName": "Sheet13_58",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0247.webp",
+        "dubbing": "scenes\\audio\\Elder Cat00002.mp3",
+        "text": "Guardian, the tribe welcomes you. From now on, this is also your home.",
+        "characterImage": "scenes\\images\\eldercat tou.webp",
+        "characterName": "Elder Cat"
+      },
+      "nextId": "scene_257",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_257",
+      "sheetName": "Sheet13_59",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0248.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00076.mp3",
+        "text": "Let's go. There are other creatures waiting for us tomorrow.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_258",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_258",
+      "sheetName": "Sheet13_60",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0249.webp",
+        "dubbing": "scenes\\audio\\Kitten00045.mp3",
+        "text": "I'll follow. But next time, ask me before you fight.",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_259",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_259",
+      "sheetName": "Sheet13_61",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0250.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00077.mp3",
+        "text": "Okay. I definitely will next time.",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_260",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_260",
+      "sheetName": "Sheet13_62",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0251.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "The wind blows through the forest, carrying the scent of herbs and soil. Alice looks down at the black crystal in her palm. It glows quietly, no longer cold, no longer urging.",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

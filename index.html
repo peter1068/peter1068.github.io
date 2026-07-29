@@ -2,297 +2,36 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>故事播放器</title>
-    <style>
-        * {
-            box-sizing: border-box;
-        }
-
-        html, body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            background: #000;
-        }
-
-        #storyFrame {
-            width: 100%;
-            height: 100%;
-            border: none;
-            display: none;
-        }
-
-        .overlay {
-            position: fixed;
-            inset: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            gap: 12px;
-            padding: 24px;
-            color: #fff;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-            text-align: center;
-            background: #000;
-            z-index: 10;
-        }
-
-        .overlay--hidden {
-            display: none;
-        }
-
-        .overlay__title {
-            font-size: 16px;
-            font-weight: 600;
-        }
-
-        .overlay__message {
-            font-size: 14px;
-            line-height: 1.6;
-            color: rgba(255, 255, 255, 0.72);
-            max-width: 320px;
-        }
-
-        .overlay__retry {
-            margin-top: 8px;
-            padding: 8px 16px;
-            border: 1px solid rgba(255, 255, 255, 0.35);
-            border-radius: 6px;
-            background: transparent;
-            color: #fff;
-            font-size: 14px;
-            cursor: pointer;
-        }
-
-        .overlay__retry:active {
-            background: rgba(255, 255, 255, 0.08);
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="oke 互动小说 — 精选互动故事与视觉小说">
+    <meta name="theme-color" content="#0a0a0f">
+    <title>oke 互动小说</title>
+    <link rel="stylesheet" href="./assets/css/home.css">
 </head>
 <body>
-    <div class="overlay" id="overlay">
-        <div class="overlay__title" id="overlayTitle">正在加载</div>
-        <div class="overlay__message" id="overlayMessage">播放器初始化中，请稍候…</div>
-        <button class="overlay__retry overlay--hidden" id="retryButton" type="button">重新加载</button>
-    </div>
+    <main class="page">
+        <header class="header">
+            <h1 class="header__title" id="siteTitle">oke 互动小说</h1>
+            <p class="header__desc" id="siteDesc">精选互动故事与视觉小说</p>
+        </header>
 
-    <iframe
-        id="storyFrame"
-        title="故事播放器"
-        allow="autoplay; fullscreen; encrypted-media"
-        allowfullscreen
-    ></iframe>
+        <div class="status" id="loading" aria-live="polite">
+            <div class="status__spinner" aria-hidden="true"></div>
+            <span>正在加载游戏列表…</span>
+        </div>
 
-    <script>
-        (function () {
-            'use strict';
+        <div class="status status--hidden" id="error" role="alert">
+            <span id="errorMessage">加载失败</span>
+            <button class="status__retry" id="retryButton" type="button">重试</button>
+        </div>
 
-            // 必须与 CanPlay.ts 中 AUTH_KEY 保持一致
-            var AUTH_KEY = 'your-secret-key-2025';
+        <section class="grid grid--hidden" id="gameGrid" aria-label="游戏列表"></section>
 
-            // 外壳页专用参数，不会透传给 iframe 播放器
-            var WRAPPER_ONLY_PARAMS = ['player', 'playerSrc'];
+        <footer class="footer">
+            <span>© <span id="year"></span> oke 互动小说</span>
+        </footer>
+    </main>
 
-            // 握手与加载超时（毫秒）
-            var HANDSHAKE_TIMEOUT_MS = 8000;
-            var IFRAME_LOAD_TIMEOUT_MS = 30000;
-
-            var iframe = document.getElementById('storyFrame');
-            var overlay = document.getElementById('overlay');
-            var overlayTitle = document.getElementById('overlayTitle');
-            var overlayMessage = document.getElementById('overlayMessage');
-            var retryButton = document.getElementById('retryButton');
-
-            var usedNonces = Object.create(null);
-            var handshakeTimer = null;
-            var loadTimer = null;
-            var playerOrigin = '';
-
-            /**
-             * 显示外壳层状态
-             * @param {'loading'|'error'} state
-             * @param {string} title
-             * @param {string} message
-             * @param {boolean} showRetry
-             */
-            function showOverlay(state, title, message, showRetry) {
-                overlay.classList.remove('overlay--hidden');
-                overlayTitle.textContent = title;
-                overlayMessage.textContent = message;
-                retryButton.classList.toggle('overlay--hidden', !showRetry);
-            }
-
-            function hideOverlay() {
-                overlay.classList.add('overlay--hidden');
-                retryButton.classList.add('overlay--hidden');
-            }
-
-            function clearTimers() {
-                if (handshakeTimer) {
-                    clearTimeout(handshakeTimer);
-                    handshakeTimer = null;
-                }
-                if (loadTimer) {
-                    clearTimeout(loadTimer);
-                    loadTimer = null;
-                }
-            }
-
-            /**
-             * 获取需要透传给播放器的查询字符串
-             * @returns {string}
-             */
-            function getForwardedQueryString() {
-                var params = new URLSearchParams(window.location.search);
-                WRAPPER_ONLY_PARAMS.forEach(function (key) {
-                    params.delete(key);
-                });
-                var query = params.toString();
-                return query ? '?' + query : '';
-            }
-
-            /**
-             * 构建 iframe 播放器地址
-             * 支持：
-             * - 默认加载同目录 index.html
-             * - ?player=./index.html 或 ?playerSrc=https://cdn.example.com/player/index.html
-             * @returns {string}
-             */
-            function buildPlayerUrl() {
-                var params = new URLSearchParams(window.location.search);
-                var playerPath = params.get('player') || params.get('playerSrc') || './index.html';
-                return playerPath + getForwardedQueryString();
-            }
-
-            /**
-             * 根据播放器 URL 计算可信 origin
-             * @param {string} playerUrl
-             * @returns {string}
-             */
-            function resolvePlayerOrigin(playerUrl) {
-                try {
-                    return new URL(playerUrl, window.location.href).origin;
-                } catch (error) {
-                    return window.location.origin;
-                }
-            }
-
-            /**
-             * 向 iframe 回复握手认证
-             * @param {string} nonce
-             * @param {string} targetOrigin
-             */
-            function sendAuth(nonce, targetOrigin) {
-                if (!iframe.contentWindow || usedNonces[nonce]) {
-                    return;
-                }
-
-                usedNonces[nonce] = true;
-
-                iframe.contentWindow.postMessage({
-                    type: 'STORY_PLAYER_AUTH',
-                    nonce: nonce,
-                    key: AUTH_KEY
-                }, targetOrigin || playerOrigin || '*');
-
-                if (handshakeTimer) {
-                    clearTimeout(handshakeTimer);
-                    handshakeTimer = null;
-                }
-            }
-
-            /**
-             * 处理播放器发起的握手请求
-             * @param {MessageEvent} event
-             */
-            function handleMessage(event) {
-                if (!iframe.contentWindow || event.source !== iframe.contentWindow) {
-                    return;
-                }
-
-                if (playerOrigin && event.origin !== playerOrigin) {
-                    return;
-                }
-
-                var data = event.data;
-                if (!data || data.type !== 'STORY_PLAYER_READY' || !data.nonce) {
-                    return;
-                }
-
-                sendAuth(data.nonce, event.origin);
-            }
-
-            /**
-             * 启动握手超时监控
-             */
-            function startHandshakeWatch() {
-                if (handshakeTimer) {
-                    clearTimeout(handshakeTimer);
-                }
-
-                handshakeTimer = setTimeout(function () {
-                    showOverlay(
-                        'error',
-                        '认证超时',
-                        '播放器未在限定时间内完成握手，请确认外壳页与播放器部署在同一可信环境。',
-                        true
-                    );
-                }, HANDSHAKE_TIMEOUT_MS);
-            }
-
-            /**
-             * 加载 iframe 播放器
-             */
-            function loadPlayer() {
-                clearTimers();
-                usedNonces = Object.create(null);
-                iframe.style.display = 'none';
-
-                var playerUrl = buildPlayerUrl();
-                playerOrigin = resolvePlayerOrigin(playerUrl);
-
-                showOverlay('loading', '正在加载', '播放器初始化中，请稍候…', false);
-
-                iframe.onload = function () {
-                    if (loadTimer) {
-                        clearTimeout(loadTimer);
-                        loadTimer = null;
-                    }
-
-                    iframe.style.display = 'block';
-                    hideOverlay();
-                    startHandshakeWatch();
-                };
-
-                iframe.onerror = function () {
-                    showOverlay('error', '加载失败', '播放器页面无法打开，请检查 player 参数或网络连接。', true);
-                };
-
-                loadTimer = setTimeout(function () {
-                    showOverlay('error', '加载超时', '播放器加载时间过长，请稍后重试。', true);
-                }, IFRAME_LOAD_TIMEOUT_MS);
-
-                iframe.src = playerUrl;
-            }
-
-            function init() {
-                window.addEventListener('message', handleMessage);
-                retryButton.addEventListener('click', loadPlayer);
-                loadPlayer();
-            }
-
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', init);
-            } else {
-                init();
-            }
-        })();
-    </script>
+    <script src="./assets/js/home.js" defer></script>
 </body>
 </html>

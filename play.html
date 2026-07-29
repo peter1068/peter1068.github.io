@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>故事播放器</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: #000;
+        }
+
+        #storyFrame {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: none;
+        }
+
+        .overlay {
+            position: fixed;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            padding: 24px;
+            color: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            text-align: center;
+            background: #000;
+            z-index: 10;
+        }
+
+        .overlay--hidden {
+            display: none;
+        }
+
+        .overlay__title {
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .overlay__message {
+            font-size: 14px;
+            line-height: 1.6;
+            color: rgba(255, 255, 255, 0.72);
+            max-width: 320px;
+        }
+
+        .overlay__actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .overlay__btn {
+            padding: 8px 16px;
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            border-radius: 6px;
+            background: transparent;
+            color: #fff;
+            font-size: 14px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .overlay__btn:active {
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .back-link {
+            position: fixed;
+            top: 12px;
+            left: 12px;
+            z-index: 20;
+            padding: 6px 12px;
+            border-radius: 6px;
+            background: rgba(0, 0, 0, 0.55);
+            color: #fff;
+            font-size: 13px;
+            text-decoration: none;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s ease;
+        }
+
+        .back-link--visible {
+            opacity: 1;
+            pointer-events: auto;
+        }
+    </style>
+</head>
+<body>
+    <a class="back-link" id="backLink" href="./">← 返回首页</a>
+
+    <div class="overlay" id="overlay">
+        <div class="overlay__title" id="overlayTitle">正在加载</div>
+        <div class="overlay__message" id="overlayMessage">播放器初始化中，请稍候…</div>
+        <div class="overlay__actions">
+            <button class="overlay__btn overlay--hidden" id="retryButton" type="button">重新加载</button>
+            <a class="overlay__btn overlay--hidden" id="homeButton" href="./">返回首页</a>
+        </div>
+    </div>
+
+    <iframe
+        id="storyFrame"
+        title="故事播放器"
+        allow="autoplay; fullscreen; encrypted-media"
+        allowfullscreen
+    ></iframe>
+
+    <script>
+        (function () {
+            'use strict';
+
+            // 必须与 CanPlay.ts 中 AUTH_KEY 保持一致
+            var AUTH_KEY = 'your-secret-key-2025';
+
+            // 外壳页专用参数，不会透传给 iframe 播放器
+            var WRAPPER_ONLY_PARAMS = ['player', 'playerSrc'];
+
+            // 握手与加载超时（毫秒）
+            var HANDSHAKE_TIMEOUT_MS = 8000;
+            var IFRAME_LOAD_TIMEOUT_MS = 30000;
+
+            var iframe = document.getElementById('storyFrame');
+            var overlay = document.getElementById('overlay');
+            var overlayTitle = document.getElementById('overlayTitle');
+            var overlayMessage = document.getElementById('overlayMessage');
+            var retryButton = document.getElementById('retryButton');
+            var homeButton = document.getElementById('homeButton');
+            var backLink = document.getElementById('backLink');
+
+            var usedNonces = Object.create(null);
+            var handshakeTimer = null;
+            var loadTimer = null;
+            var playerOrigin = '';
+
+            function showOverlay(state, title, message, showActions) {
+                overlay.classList.remove('overlay--hidden');
+                overlayTitle.textContent = title;
+                overlayMessage.textContent = message;
+                retryButton.classList.toggle('overlay--hidden', !showActions);
+                homeButton.classList.toggle('overlay--hidden', !showActions);
+            }
+
+            function hideOverlay() {
+                overlay.classList.add('overlay--hidden');
+                retryButton.classList.add('overlay--hidden');
+                homeButton.classList.add('overlay--hidden');
+                backLink.classList.add('back-link--visible');
+            }
+
+            function clearTimers() {
+                if (handshakeTimer) {
+                    clearTimeout(handshakeTimer);
+                    handshakeTimer = null;
+                }
+                if (loadTimer) {
+                    clearTimeout(loadTimer);
+                    loadTimer = null;
+                }
+            }
+
+            function getForwardedQueryString() {
+                var params = new URLSearchParams(window.location.search);
+                WRAPPER_ONLY_PARAMS.forEach(function (key) {
+                    params.delete(key);
+                });
+                var query = params.toString();
+                return query ? '?' + query : '';
+            }
+
+            function buildPlayerUrl() {
+                var params = new URLSearchParams(window.location.search);
+                var playerPath = params.get('player') || params.get('playerSrc');
+
+                if (!playerPath) {
+                    return '';
+                }
+
+                return playerPath + getForwardedQueryString();
+            }
+
+            function resolvePlayerOrigin(playerUrl) {
+                try {
+                    return new URL(playerUrl, window.location.href).origin;
+                } catch (error) {
+                    return window.location.origin;
+                }
+            }
+
+            function sendAuth(nonce, targetOrigin) {
+                if (!iframe.contentWindow || usedNonces[nonce]) {
+                    return;
+                }
+
+                usedNonces[nonce] = true;
+
+                iframe.contentWindow.postMessage({
+                    type: 'STORY_PLAYER_AUTH',
+                    nonce: nonce,
+                    key: AUTH_KEY
+                }, targetOrigin || playerOrigin || '*');
+
+                if (handshakeTimer) {
+                    clearTimeout(handshakeTimer);
+                    handshakeTimer = null;
+                }
+            }
+
+            function handleMessage(event) {
+                if (!iframe.contentWindow || event.source !== iframe.contentWindow) {
+                    return;
+                }
+
+                if (playerOrigin && event.origin !== playerOrigin) {
+                    return;
+                }
+
+                var data = event.data;
+                if (!data || data.type !== 'STORY_PLAYER_READY' || !data.nonce) {
+                    return;
+                }
+
+                sendAuth(data.nonce, event.origin);
+            }
+
+            function startHandshakeWatch() {
+                if (handshakeTimer) {
+                    clearTimeout(handshakeTimer);
+                }
+
+                handshakeTimer = setTimeout(function () {
+                    showOverlay(
+                        'error',
+                        '认证超时',
+                        '播放器未在限定时间内完成握手，请确认外壳页与播放器部署在同一可信环境。',
+                        true
+                    );
+                }, HANDSHAKE_TIMEOUT_MS);
+            }
+
+            function loadPlayer() {
+                clearTimers();
+                usedNonces = Object.create(null);
+                iframe.style.display = 'none';
+                backLink.classList.remove('back-link--visible');
+
+                var playerUrl = buildPlayerUrl();
+
+                if (!playerUrl) {
+                    showOverlay('error', '缺少游戏地址', '请从首页选择游戏，或通过 ?player= 参数指定入口页面。', true);
+                    return;
+                }
+
+                playerOrigin = resolvePlayerOrigin(playerUrl);
+                showOverlay('loading', '正在加载', '播放器初始化中，请稍候…', false);
+
+                iframe.onload = function () {
+                    if (loadTimer) {
+                        clearTimeout(loadTimer);
+                        loadTimer = null;
+                    }
+
+                    iframe.style.display = 'block';
+                    hideOverlay();
+                    startHandshakeWatch();
+                };
+
+                iframe.onerror = function () {
+                    showOverlay('error', '加载失败', '播放器页面无法打开，请检查 player 参数或网络连接。', true);
+                };
+
+                loadTimer = setTimeout(function () {
+                    showOverlay('error', '加载超时', '播放器加载时间过长，请稍后重试。', true);
+                }, IFRAME_LOAD_TIMEOUT_MS);
+
+                iframe.src = playerUrl;
+            }
+
+            function init() {
+                window.addEventListener('message', handleMessage);
+                retryButton.addEventListener('click', loadPlayer);
+                loadPlayer();
+            }
+
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', init);
+            } else {
+                init();
+            }
+        })();
+    </script>
+</body>
+</html>

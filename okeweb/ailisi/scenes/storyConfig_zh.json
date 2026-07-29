@@ -1,0 +1,4458 @@
+{
+  "uid": "alshedkmfzl_20260728204938",
+  "name": "爱丽丝赫尔达克魔法之旅合成导入表程序表格式",
+  "token": "U2FsdGVkX18HyiL/UuVC5LJdUXLXXKPv/qVQCkEgTiVZIC67HSWk61LT+qo1DBG0UwgFXh5jmeXPbu1/Y8xlxqusqK39BNBi8uLFR64++y8=",
+  "cover": "scenes\\images\\alshedkmfzl_20260728204938_0001.webp",
+  "version": "20260729-2207",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "爱丽丝在中央公园草地上追着小猫跑。午后的阳光晒得草叶发烫，风里带着青草和泥土的气息。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "爱丽丝蹲下来揉了揉小猫的脑袋，指尖蹭过小猫柔软的毛。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0003.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00000.mp3",
+        "text": "你今天特别活泼呢，跑来跑去，是不是很开心？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "小猫甩甩尾巴，没有像往常一样蹭爱丽丝的手，反而竖起耳朵，望向不远处的灌木丛。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "下一秒，小猫忽然窜进一处废弃兔子洞。洞口被野草半掩，看起来很久没人碰过。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0006.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00001.mp3",
+        "text": "你跑去洞里干什么？那洞废弃很久了，里面可能不安全——",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "爱丽丝跪到洞口往下看，黑暗里有一点冷光在轻轻跳动。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "爱丽丝屏住呼吸，拨开枯草，取出一块乌黑发亮的水晶。水晶表面像结了薄冰，摸上去凉丝丝的，爱丽丝的指尖却传来一阵说不清的悸动。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "小猫蹲在洞外，喉咙低鸣，没有靠近。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0010.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00002.mp3",
+        "text": "你不喜欢它？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0011.webp",
+        "dubbing": "scenes\\audio\\Kitten00000.mp3",
+        "text": "我不喜欢它发出来的感觉。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0012.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00003.mp3",
+        "text": "可它好像在叫我。你觉得我该拿吗？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_12",
+          "label": "无视水晶"
+        },
+        {
+          "nextId": "scene_31",
+          "label": "拿起水晶"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0013.webm",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "爱丽丝望着黑水晶沉默良久",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "心里两个声音拉扯——一个催促她伸手，一个让她离开。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "洞外的风轻轻吹动草叶，水晶里的光一明一暗，像在呼吸。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "最终，爱丽丝把水晶轻轻放回洞里，用枯草重新盖住。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0017.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00004.mp3",
+        "text": "我们走吧。你说得对，有些东西不该随便碰。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0018.webp",
+        "dubbing": "scenes\\audio\\Kitten00001.mp3",
+        "text": "嗯，回家吧。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0019.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00005.mp3",
+        "text": "你不觉得可惜吗？万一它真的很重要呢？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0020.webp",
+        "dubbing": "scenes\\audio\\Kitten00002.mp3",
+        "text": "重要也不代表现在就该拿。你刚才手都在抖。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0021.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00006.mp3",
+        "text": "……我没察觉。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "爱丽丝愣了一下，低头看自己的手，指尖还在微微发颤。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "回家后那几天，她照常喂猫、打扫、去公园散步，生活平静得像什么都没发生。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "可每当她经过那片灌木丛，她都会忍不住朝兔子洞的方向看一眼，她心里空落落的。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "她夜里偶尔梦见那块黑水晶，醒来时她手心发凉。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "第四天夜里，她忽然从床上坐起来，胸口发闷，像错过了什么再也找不回来的东西。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "她披上外套冲去公园，脚步越来越快。",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "兔子洞还在，洞里却空无一物。黑水晶消失了，只留下潮湿泥土和一点残存的凉意。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_16",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0029.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00007.mp3",
+        "text": "我明明有机会的……",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_17",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "小猫不知何时跟了过来，在爱丽丝脚边坐下，没有安慰，也没有责备，只是安静地陪着。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_18",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "风吹动草叶，公园里再没有一点异常的光。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_31",
+          "label": "拿起水晶"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "爱丽丝指尖悬在半空，心里涌起好奇，也涌起莫名的不安。她想起小猫刚才的警告，又想起水晶深处那一点召唤般的光，像有人在黑暗里朝她招手。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0033.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00008.mp3",
+        "text": "我害怕，但更怕什么都不做。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0034.webp",
+        "dubbing": "scenes\\audio\\Kitten00003.mp3",
+        "text": "你可以放下，没有人逼你。我们还能够回家，当什么都没发生。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0035.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00009.mp3",
+        "text": "不，我什么都还不知道，不能自己吓自己。可要是转身走了，我会一直想这件事——那块水晶，那个洞，你刚才的眼神。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "爱丽丝深吸一口气，握住了水晶。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "刹那间，刺目的光芒炸开。爱丽丝下意识闭眼，耳边响起尖锐的嗡鸣，草地、公园、城市轮廓都在光里碎裂。等光芒散去，爱丽丝眼前不再是熟悉的中央公园，而是两扇悬浮的大门——一扇门后隐约是城市灯火，另一扇门外则是陌生的星空与荒原。",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0038.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00010.mp3",
+        "text": "这是哪里？刚才还在公园……",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0039.webp",
+        "dubbing": "scenes\\audio\\Kitten00004.mp3",
+        "text": "我不喜欢这个。毛都炸起来了，我们回去。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0040.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00011.mp3",
+        "text": "回去哪一扇？我连发生了什么都没弄明白。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_40",
+          "label": "返回地球"
+        },
+        {
+          "nextId": "scene_50",
+          "label": "前往异世界"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "爱丽丝盯着写着\"归途\"的那扇门，心里乱成一团。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "异世界的风声还在爱丽丝耳边回响，可爱丽丝更怕再也回不去。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0043.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00012.mp3",
+        "text": "我想回家。我受够了这种不知道下一步会发生什么的感觉。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0044.webp",
+        "dubbing": "scenes\\audio\\Kitten00005.mp3",
+        "text": "那就回吧。但别指望一切和原来一样，门上的字未必可信。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0045.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00013.mp3",
+        "text": "我没有别的选择了。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "爱丽丝踏入大门。光芒吞没爱丽丝视野的瞬间，爱丽丝听见小猫在身后叫了一声，却没能回头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "爱丽丝再睁眼时，独自站在一条陌生的街道上。建筑、路牌、空气里的味道，都不属于爱丽丝记忆中的地球。爱丽丝环顾四周，行人匆匆走过，没有人看她一眼，仿佛爱丽丝从来就不属于这里。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "街道尽头传来低沉的嘶吼，黑水晶也不见了，爱丽丝掌心只剩冷汗。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0049.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00014.mp3",
+        "text": "这不是我家……这是什么地方？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "故事开启：陌生世界支线。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_50",
+          "label": "前往异世界"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0051.webm",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "爱丽丝望向通往星野的大门，脚步像灌了铅。门外的风带着焦土和血腥的气息，爱丽丝每靠近一步，心跳就重一分。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0052.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00015.mp3",
+        "text": "要是我选错了呢？要是我根本帮不了任何人呢？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0053.webp",
+        "dubbing": "scenes\\audio\\Kitten00006.mp3",
+        "text": "那就逃。至少别假装自己不害怕。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0054.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00016.mp3",
+        "text": "……我很害怕。可刚才水晶亮起来的时候，我好像看见了很多受伤的小动物，它们在哭。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0055.webp",
+        "dubbing": "scenes\\audio\\Kitten00007.mp3",
+        "text": "你看见的，不一定都是真的。水晶会骗人。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0056.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00017.mp3",
+        "text": "但万一有一部分是真的呢？我要是走了，那些画面会跟着我一辈子。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "爱丽丝咬牙，踏入了异世界的大门。",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "一阵眩晕过后，爱丽丝脚下的触感从草地变成了干裂的焦土。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "爱丽丝眼前的星球遍布废墟，天空泛着病态的暗红，远处有浓烟升起。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "风中夹着哭喊，像是从四面八方同时涌来。爱丽丝还没站稳，就听见前方传来凄厉的猫叫声",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "——一头水属性鲨鱼恶霸正掀起浪头，冲向一座摇摇欲坠的猫猫部落。",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "木栅栏碎裂，木屑飞溅，猫咪四散奔逃，有的已经倒在血泊里，叫声一声比一声弱。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "爱丽丝胃里一阵翻涌，膝盖发软，几乎站不住。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0064.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00018.mp3",
+        "text": "我连一种魔法都还没学会……我能做什么？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0065.webp",
+        "dubbing": "scenes\\audio\\Kitten00008.mp3",
+        "text": "你现在过去，只会多一个死人。你还没准备好。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0066.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00019.mp3",
+        "text": "那要眼睁睁看着吗？看着它们死？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "小猫没有回答，只是挡在爱丽丝前面，脊背弓起。爱丽丝看着那些受伤的猫咪，手指收紧，黑水晶在掌心发烫，像在催促她做出选择。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_17",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0068.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00020.mp3",
+        "text": "我至少要试一次。试过了，至少不会后悔。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_18",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "爱丽丝握紧黑水晶，跟着光芒走向海边。猫猫部落就在前方，浪头拍岸，腥气扑面，沙滩上还留着挣扎的痕迹，折断的木桩半埋在沙里。黑水晶浮现幻象：鲨鱼恶霸撕扯部落庇护所，弱小鱼群躲在礁石后瑟瑟发抖，不敢露头。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_19",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0070.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00021.mp3",
+        "text": "它抢走了它们的家，还堵住了觅食的路。那些小鱼已经躲了好几天了。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_20",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0071.webp",
+        "dubbing": "scenes\\audio\\Kitten00009.mp3",
+        "text": "你看的是水晶给你看的，不是你的眼睛。别被它牵着走。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_21",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0072.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00022.mp3",
+        "text": "那你的眼睛看见了什么？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_22",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0073.webp",
+        "dubbing": "scenes\\audio\\Kitten00010.mp3",
+        "text": "一头比你大十倍的怪物，浑身都是水。我不支持你现在冲上去。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_23",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0074.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00023.mp3",
+        "text": "那你支持我逃跑吗？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet5_24",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0075.webp",
+        "dubbing": "scenes\\audio\\Kitten00011.mp3",
+        "text": "也不支持。我觉得你会死，这和'不能不管'是两回事。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet5_25",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0076.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00024.mp3",
+        "text": "可要是现在转身走了，我今晚睡不着。我会一直听见它们的叫声。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet5_26",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "爱丽丝站起身，黑水晶的光芒引着她走向海边。鲨鱼恶霸察觉生人，转过庞大的身躯，水流在它周身旋转，浪头一层层推高。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet5_27",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0077.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00025.mp3",
+        "text": "你不能再这样横行霸道了！把他们的家还回去！",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet5_28",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "爱丽丝的声音比自己预想的还要抖，尾音几乎被浪声吞没。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet5_29",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "鲨鱼恶霸发出低沉的咆哮，海水随之沸腾。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet5_30",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0079.webp",
+        "dubbing": "scenes\\audio\\Kitten00012.mp3",
+        "text": "它要来了，快选——你要怎么挡？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "branches": [
+        {
+          "nextId": "scene_81",
+          "label": "火焰魔法"
+        },
+        {
+          "nextId": "scene_90",
+          "label": "土元素魔法"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "黑水晶烫得像烙铁，火红色的咒文不受控制地从爱丽丝掌心涌出。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "爱丽丝来不及思考，本能地抬手。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0082.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00026.mp3",
+        "text": "火焰魔法，挡住它！",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\huoyan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0083.webp",
+        "dubbing": "scenes\\audio\\Kitten00013.mp3",
+        "text": "不对！它是水系的，火会被——",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "火墙刚升起，就被浪头撕碎。水汽炸开，灼热的蒸汽扑了爱丽丝满脸，爱丽丝皮肤火辣辣地疼。",
+        "soundEffects": "scenes\\audio\\penshejiguang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0085.webp",
+        "dubbing": "scenes\\audio\\Kitten00014.mp3",
+        "text": "躲开——！往左边滚！",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "鲨鱼恶霸冲破残焰，巨口张开，阴影将爱丽丝整个人笼罩，海水的气息扑面而来。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "爱丽丝来不及了。黑暗吞没一切，海水灌入爱丽丝肺里，爱丽丝再也听不见任何声音。",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "故事结局：死亡坏结局。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_90",
+          "label": "土元素魔法"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0088.webm",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "爱丽丝拼命回想水晶里闪过的画面，双手按地，指尖抠进沙里。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0089.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00027.mp3",
+        "text": "土应该克水……土系魔法，起！土刺，穿！",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "岩墙拔地而起，挡住了第一波浪头。鲨鱼恶霸撞在墙上，墙身开裂，碎石飞溅，有几块砸向岸边。爱丽丝双膝发软，虎口被震得发麻，耳朵里全是轰鸣。",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "小猫绕到侧面，故意扬起尾巴吸引鲨鱼恶霸的注意。浪头偏了一寸，砸在沙滩上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0092.webp",
+        "dubbing": "scenes\\audio\\Kitten00015.mp3",
+        "text": "别停！你说过要试一次！",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "爱丽丝咬牙，将最后的力量灌入地面。岩刺贯穿水流，命中鲨鱼恶霸腹部。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "鲨鱼恶霸发出痛苦的嘶吼，水流骤然紊乱，挣扎了几下，终于沉入海底。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "海滩安静下来，只剩浪声一下下拍岸。爱丽丝瘫坐在沙滩上，大口喘气，手心全是血泡。爱丽丝还没来得及高兴，就听见小猫一声闷哼。",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0096.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00028.mp3",
+        "text": "小猫！",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "小猫倒在一旁，腹部被飞溅的碎石划开，鲜血染红了毛。小猫想站起来，却没能成功。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0097.webp",
+        "dubbing": "scenes\\audio\\Kitten00016.mp3",
+        "text": "别哭……我没事，大概。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0098.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00029.mp3",
+        "text": "你骗人，你流了好多血。你刚才为什么要引开它？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0099.webp",
+        "dubbing": "scenes\\audio\\Kitten00017.mp3",
+        "text": "因为……你太慢了。下次，先问问我同不同意再冲。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "黑水晶再次亮起，浮现一行模糊的字迹：丛林深处，灵药花可愈重伤。",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet7_14",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0101.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00030.mp3",
+        "text": "我去找药。你撑住，听见没有？不许闭眼。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet7_15",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0102.webp",
+        "dubbing": "scenes\\audio\\Kitten00018.mp3",
+        "text": "你刚才……其实挺厉害的。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet7_16",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "爱丽丝喉咙发紧，抱起小猫往丛林方向跑去，不敢回头再看那片海。",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet7_17",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "丛林里的空气又湿又闷，腐叶的气息裹着泥土的腥味，偶尔有虫鸣从暗处传来，随即被寂静吞没。爱丽丝一手抱着受伤的小猫，一手握着黑水晶，每一步都踩在未知的落叶上",
+        "soundEffects": "scenes\\audio\\chongzimingjiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet7_18",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "脚下不时打滑，鞋里灌进了泥水。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet7_19",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0106.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00031.mp3",
+        "text": "你还好吗？还醒着吗？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet7_20",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0107.webp",
+        "dubbing": "scenes\\audio\\Kitten00019.mp3",
+        "text": "还死不了。倒是你，手一直在抖，从进丛林开始就有。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet7_21",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0108.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00032.mp3",
+        "text": "我没有。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet7_22",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0109.webp",
+        "dubbing": "scenes\\audio\\Kitten00020.mp3",
+        "text": "有。你其实不想进来，对不对？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet7_23",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0110.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00033.mp3",
+        "text": "我怕找不到药，怕来晚了。我也怕……怕这水晶又在骗我",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet7_24",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0111.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00034.mp3",
+        "text": "怕走到尽头还是空着手回去。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet7_25",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0112.webp",
+        "dubbing": "scenes\\audio\\Kitten00021.mp3",
+        "text": "那你为什么还走？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet7_26",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0113.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00035.mp3",
+        "text": "因为除了继续走，我不知道还能做什么。小猫还在我怀里流血，部落里的猫还在等。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet7_27",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0114.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00036.mp3",
+        "text": "我连自己是不是做对都不确定，但不能停。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet7_28",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "前方出现岔路口。左侧道路阴暗，树干上爬满苔藓，却有风从林间穿过；右侧道路雾气弥漫，藤蔓垂落如帘，安静得反常。黑水晶忽然变暗了一瞬，像在发出警告。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet7_29",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0116.webp",
+        "dubbing": "scenes\\audio\\Kitten00022.mp3",
+        "text": "右边魔力在往那边漏，进去就麻烦了。左边也不安全，但至少还能感觉到风。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet7_30",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0117.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00037.mp3",
+        "text": "要是我选错了，你会怪我吗？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet7_31",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0118.webp",
+        "dubbing": "scenes\\audio\\Kitten00023.mp3",
+        "text": "会。所以别选错。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "branches": [
+        {
+          "nextId": "scene_122",
+          "label": "右侧道路"
+        },
+        {
+          "nextId": "scene_132",
+          "label": "左侧道路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "爱丽丝抱着侥幸心理，心想雾气深处或许有捷径。爱丽丝踏上右侧道路，才走几步，黑水晶就彻底熄灭。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "空气像凝固的胶，压在爱丽丝胸口，爱丽丝呼吸都变得困难。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0121.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00038.mp3",
+        "text": "我的魔法……用不出来了。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0122.webp",
+        "dubbing": "scenes\\audio\\Kitten00024.mp3",
+        "text": "我也是。这里在吸走我们的力量，像一张网。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "雾气越来越浓，爱丽丝回头已看不见来路，连脚下的泥土都感觉和来时不同。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "爱丽丝抱着小猫在原地转圈，爱丽丝每走一步，都像是踩在同样的位置上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "爱丽丝的喊声被雾气吞没，没有人回应，只有爱丽丝自己的回声在耳边打转。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0126.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00039.mp3",
+        "text": "我们会出去吗？小猫，回答我。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "小猫没有回答。很久以后，雾气里只剩下抱着猫的爱丽丝，爱丽丝的一双眼睛渐渐失去光彩。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "故事结局：囚禁坏结局。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_132",
+          "label": "左侧道路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0129.webm",
+        "dubbing": "scenes\\audio\\Alice Heldak00040.mp3",
+        "text": "走左边。至少风还在，说明路是活的。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0130.webp",
+        "dubbing": "scenes\\audio\\Kitten00025.mp3",
+        "text": "你信我？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0131.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00041.mp3",
+        "text": "我信你比我更想活着。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "爱丽丝脚下的左侧道路崎岖难行，藤蔓缠住爱丽丝的脚踝，荆棘划破爱丽丝的手臂，血珠渗进爱丽丝的袖口。爱丽丝脚边树皮上的苔藓湿滑，爱丽丝好几次差点摔倒，全靠一手护着怀里的小猫。爱丽丝不知道自己走了多久，只知道小猫的呼吸越来越弱，每一次起伏都让爱丽丝心惊。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0133.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00042.mp3",
+        "text": "再撑一下，快到了，花药就在前面。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0134.webp",
+        "dubbing": "scenes\\audio\\Kitten00026.mp3",
+        "text": "你别说话了……省点力气走路。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0135.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00043.mp3",
+        "text": "我不说话更怕。一安静，就听见你呼吸的声音，太轻了。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "爱丽丝转过一处岩壁，猛地停住脚步。前方，巨型蜘蛛静静悬在网中央，八只眼睛泛着幽光，腿上细密的绒毛微微颤动，像在感知空气里的恐惧。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0137.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00044.mp3",
+        "text": "它挡住了路……花药应该还在更深处。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0138.webp",
+        "dubbing": "scenes\\audio\\Kitten00027.mp3",
+        "text": "往后退，别惊动它。花药重要，命也重要",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0139.webp",
+        "dubbing": "scenes\\audio\\Kitten00028.mp3",
+        "text": "我不赞成你上去搭话。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0140.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00045.mp3",
+        "text": "你有别的办法吗？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0141.webp",
+        "dubbing": "scenes\\audio\\Kitten00029.mp3",
+        "text": "没有。但我不喜欢你那个表情——你打算去跟它商量。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0142.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00046.mp3",
+        "text": "也许可以交换，付出一点代价……",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0143.webp",
+        "dubbing": "scenes\\audio\\Kitten00030.mp3",
+        "text": "你不擅长交换。你擅长把自己送出去。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "branches": [
+        {
+          "nextId": "scene_159",
+          "label": "和气询问"
+        },
+        {
+          "nextId": "scene_147",
+          "label": "出手对战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "爱丽丝把小猫轻轻放在身后的石头上，独自上前一步，尽量让声音听起来平稳。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0145.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00047.mp3",
+        "text": "我们没有恶意。我在找丛林深处的灵药花，可以商量交换吗？我愿意付出代价，但不是全部。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0146.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00000.mp3",
+        "text": "全部。你的魔力，全部给我。",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0147.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00048.mp3",
+        "text": "那不行，我还得救人，还要回去救部落里的猫。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0148.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00001.mp3",
+        "text": "那就没有药。全部，现在。",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "恐惧让爱丽丝想快点了结这场对峙。爱丽丝点了点头，声音发虚。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0148.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00049.mp3",
+        "text": "……好。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "蛛丝瞬间缠住爱丽丝的手腕，一圈圈收紧。魔力像被拧开的水龙头，汹涌外流，带走爱丽丝的体温，带走爱丽丝的意识，爱丽丝的四肢变得像灌了铅。爱丽丝跪倒在地，眼前发黑，耳边只剩下自己越来越慢的心跳。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0150.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00050.mp3",
+        "text": "停下……求你……我不能死在这里……",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0151.webm",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "小猫扑过来，却被蛛网弹开，摔在石头上。小猫眼睁睁看着爱丽丝的眼神涣散，身体一点点冷下去，嘴唇失去颜色。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0152.webp",
+        "dubbing": "scenes\\audio\\Kitten00031.mp3",
+        "text": "爱丽丝——！",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "爱丽丝身上最后一点光芒熄灭，爱丽丝当场殒命。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_159",
+          "label": "和气询问"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "爱丽丝把小猫护在身后，压低声音。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0156.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00051.mp3",
+        "text": "不商量了。它从头到尾就没打算放我们过去。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0157.webp",
+        "dubbing": "scenes\\audio\\Kitten00032.mp3",
+        "text": "你终于听劝了一次。但你打鲨鱼恶霸已耗尽大半力气，肩膀还在流血。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0158.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00052.mp3",
+        "text": "那就用剩下的。药还没找到，不能倒在这里。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "爱丽丝催动黑水晶，风刃与石砾卷向蛛网。",
+        "soundEffects": "scenes\\audio\\mofa1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "巨型蜘蛛发出尖啸，从网顶扑下，八足划过空气，带起一阵腥风。",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "爱丽丝在泥地里翻滚，肩膀伤口被撕开，温热的血渗进泥土，疼得眼前发黑。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0162.webp",
+        "dubbing": "scenes\\audio\\Kitten00033.mp3",
+        "text": "左边！它腹部是软的，刺那里！",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "爱丽丝咬牙跃起，将最后一股土系魔力凝成尖刺",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "刺入巨型蜘蛛腹部。巨型蜘蛛轰然坠地，八足抽搐了几下，网上碎屑簌簌落下，终于不动。",
+        "soundEffects": "scenes\\audio\\leibao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0165.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00002.mp3",
+        "text": "……停手，我认输。蜘蛛丝防御魔法，拿去。别再往前惹麻烦。",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0166.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00053.mp3",
+        "text": "前面还有什么？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0167.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00003.mp3",
+        "text": "沼泽。鳄鱼恶霸在抢花药守护蛇的花药，它比我凶多了。",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0168.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00054.mp3",
+        "text": "你早不说。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0169.webp",
+        "dubbing": "scenes\\audio\\Giant Spider00004.mp3",
+        "text": "你也没问。",
+        "characterImage": "scenes\\images\\giantspider tou.webp",
+        "characterName": "Giant Spider"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet11_15",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "爱丽丝收好魔法，抱起小猫继续深入。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet11_16",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "林间的光越来越暗，远处传来水花与嘶吼。一片沼泽出现在眼前，花药守护蛇被鳄鱼恶霸压在泥岸下，身旁护着一株发光的灵药花。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet11_17",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0172.webp",
+        "dubbing": "scenes\\audio\\Kitten00034.mp3",
+        "text": "你的腿在发抖。要退吗？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet11_18",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0173.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00055.mp3",
+        "text": "退到最后，就只剩后悔了。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet11_19",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "沼泽里的气味令人作呕，泥水泛着气泡，偶尔有死鱼翻起白肚。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet11_20",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0175.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "鳄鱼恶霸松开花药守护蛇，转头盯住爱丽丝，獠牙上还挂着泥，眼睛像两颗浑浊的黄玉。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet11_21",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0176.webp",
+        "dubbing": "scenes\\audio\\Crocodile Bully00000.mp3",
+        "text": "又来一个多管闲事的。刚才那只巨型蜘蛛没能拦住你？",
+        "characterImage": "scenes\\images\\crocodilebully tou.webp",
+        "characterName": "Crocodile Bully"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet11_22",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0177.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00056.mp3",
+        "text": "它拦不住。把花药留下，部落里的猫还在等。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet11_23",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0178.webp",
+        "dubbing": "scenes\\audio\\Crocodile Bully00001.mp3",
+        "text": "这药我盯了三年。那条花药守护蛇不过是看门的，凭什么给你？",
+        "characterImage": "scenes\\images\\crocodilebully tou.webp",
+        "characterName": "Crocodile Bully"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet11_24",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0179.webp",
+        "dubbing": "scenes\\audio\\Flower Guardian Serpent00000.mp3",
+        "text": "花药是部落那些猫的命……它们还在等……求你……",
+        "characterImage": "scenes\\images\\flowerguardianserpent tou.webp",
+        "characterName": "Flower Guardian Serpent"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet11_25",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0180.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00057.mp3",
+        "text": "我知道。所以我来了。你可以打我，但花药不能给你。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet11_26",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "爱丽丝握紧黑水晶，土黄色的光芒刚亮起，小猫就厉声打断她。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet11_27",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0181.webp",
+        "dubbing": "scenes\\audio\\Kitten00035.mp3",
+        "text": "别用土！它皮太厚，土刺穿不透，打鲨鱼恶霸那招在这里没用！",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet11_28",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0182.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00058.mp3",
+        "text": "那我还能用什么？蜘蛛丝？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet11_29",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0183.webp",
+        "dubbing": "scenes\\audio\\Kitten00036.mp3",
+        "text": "你还没试过。可你手抖成这样，我不确定你能不能凝出来。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet11_30",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0184.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00059.mp3",
+        "text": "……我必须试。没有别的路了。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet11_31",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "鳄鱼恶霸已经冲了过来，泥浪拍岸，獠牙闪着寒光，带起腥臭的风。",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_191",
+          "label": "土系魔法"
+        },
+        {
+          "nextId": "scene_198",
+          "label": "蜘蛛丝魔法"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0185.webm",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "爱丽丝心里一沉，却还是本能地催动土系魔法。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0186.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00060.mp3",
+        "text": "只能这样了——土刺！",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "岩刺撞在鳄鱼恶霸背上，发出钝响，碎成粉末。鳄鱼恶霸连皮都没破，",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0188.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "反而被彻底激怒，发出刺耳的狂笑。",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0188.webp",
+        "dubbing": "scenes\\audio\\Crocodile Bully00002.mp3",
+        "text": "就这点本事，也敢来抢药？",
+        "characterImage": "scenes\\images\\crocodilebully tou.webp",
+        "characterName": "Crocodile Bully"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "爱丽丝想躲，双腿却像灌了铅。疲惫、失血、恐惧一起涌上来，爱丽丝慢了半拍。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\muchanghuihundezhenxiang (online-audio-converter.com).mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "鳄鱼恶霸的巨口合拢，阴影压下来。故事结局：死亡坏结局。",
+        "soundEffects": "scenes\\audio\\nvrensiqiancanjiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_198",
+          "label": "蜘蛛丝魔法"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0191.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "爱丽丝深吸一口气，将蜘蛛丝防御魔法催至极限。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0192.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00061.mp3",
+        "text": "蜘蛛丝，缠！",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "银白色的丝线从爱丽丝掌心喷出，织成密网。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0193.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "鳄鱼恶霸撞入网中，第一次没能咬穿，獠牙在蛛丝上打滑，发出刺耳的摩擦声。鳄鱼恶霸疯狂挣扎，泥水四溅，蛛丝却越缠越紧，勒进它厚重的皮里。",
+        "soundEffects": "scenes\\audio\\gaokejixianshichu.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0194.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00062.mp3",
+        "text": "行得通……再紧一点……",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0195.webp",
+        "dubbing": "scenes\\audio\\Kitten00037.mp3",
+        "text": "够了！别把自己榨干！你已经流了太多血了！",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0196.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "最后一层蛛丝封住鳄鱼恶霸的嘴，鳄鱼恶霸轰然倒地，动弹不得，只剩眼睛还在转动。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0197.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "花药守护蛇从泥里爬出来，身上满是伤痕，却还是颤抖着将一团翠绿色的光送入爱丽丝眉心，又把灵药花推到爱丽丝面前。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_206",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0198.webp",
+        "dubbing": "scenes\\audio\\Flower Guardian Serpent00001.mp3",
+        "text": "治愈魔法，我教你。花药，也给你。快回去，那些猫等不了了。",
+        "characterImage": "scenes\\images\\flowerguardianserpent tou.webp",
+        "characterName": "Flower Guardian Serpent"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0199.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "爱丽丝学会咒文的瞬间，掌心温热起来。爱丽丝抱起花药和小猫，转身狂奔，身后沼泽的嘶吼渐渐远去。",
+        "soundEffects": "scenes\\audio\\zoulusheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_208",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0200.webp",
+        "dubbing": "scenes\\audio\\Kitten00038.mp3",
+        "text": "你刚才没有退。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0201.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00063.mp3",
+        "text": "我说了，退到最后只剩后悔。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0202.webp",
+        "dubbing": "scenes\\audio\\Kitten00039.mp3",
+        "text": "可你明明怕，腿一直在抖。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0203.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00064.mp3",
+        "text": "怕也得做完。不然一辈子都会想——要是当时再勇敢一点呢？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0204.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "爱丽丝抱着花药和小猫穿过焦土，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0205.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "脚底被碎石硌得生疼，却不敢停。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "一路上爱丽丝默念治愈咒文的音节，生怕忘记一个字。终于，部落出现在视野尽头——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0207.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "帐篷倒塌，栅栏断裂，受伤猫咪挤在破屋里低声呻吟，有的已经昏迷，空气里弥漫着血和尘土的味道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "爱丽丝冲进部落，几乎跪倒在地，强撑着举起花药，念出刚学会的治愈咒文。绿光如水波荡开，掠过每一张痛苦的脸，从伤口边缘向内愈合。断骨发出轻微的复位声，低吟渐渐止息，破屋里终于安静下来。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0209.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00065.mp3",
+        "text": "有效……真的有效……",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0210.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "猫咪们陆续睁开眼睛。老猫颤巍巍走来，舔了舔爱丽丝的手背，眼里有泪光。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0211.webp",
+        "dubbing": "scenes\\audio\\Elder Cat00000.mp3",
+        "text": "谢谢你，外乡人。",
+        "characterImage": "scenes\\images\\eldercat tou.webp",
+        "characterName": "Elder Cat"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0212.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00066.mp3",
+        "text": "别谢我。我还差点害死大家，小猫差点死，我也差点死在丛林里。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0213.webp",
+        "dubbing": "scenes\\audio\\Elder Cat00001.mp3",
+        "text": "可你回来了。这就够了。",
+        "characterImage": "scenes\\images\\eldercat tou.webp",
+        "characterName": "Elder Cat"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet13_24",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\anliuhoudezhengyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0214.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "小猫从爱丽丝怀里跳下来，脚步还有些虚，却能在地上站稳。小猫环顾满目疮痍的部落，沉默了很久，目光最后落在爱丽丝掌心的黑水晶上，耳朵慢慢压平。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet13_25",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0215.webp",
+        "dubbing": "scenes\\audio\\Kitten00040.mp3",
+        "text": "你不觉得太顺了吗？鲨鱼恶霸、巨型蜘蛛、鳄鱼恶霸，一个比一个准，像是有人故意摆好的关卡。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet13_26",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0216.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00067.mp3",
+        "text": "什么意思？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet13_27",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0217.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "黑水晶忽然剧烈震颤，脱离爱丽丝的掌心，悬浮在半空。部落上空的天色骤然暗下，风停了，连猫咪的叫声都安静下来。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet13_28",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0218.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "一道身影从水晶中剥离，化作水晶意志，面容模糊，声音却像从四面八方同时传来，压得人喘不过气。",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_227",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet13_29",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0218.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00000.mp3",
+        "text": "做得好，爱丽丝・赫尔达克。",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet13_30",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0219.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00068.mp3",
+        "text": "你是谁？这一切是你安排的？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_229",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet13_31",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0220.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00001.mp3",
+        "text": "是试炼。黑水晶选中了你，却不敢确信你是否配得上它。",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_230",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet13_32",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0221.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00069.mp3",
+        "text": "那些受伤的生灵——它们也是你安排的？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_231",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet13_33",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0222.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00002.mp3",
+        "text": "鲨鱼恶霸试你的勇，巨型蜘蛛试你的谋，鳄鱼恶霸试你的持。",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_232",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet13_34",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0223.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00003.mp3",
+        "text": "每一关，你都可以逃，也可以死。",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_233",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet13_35",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0224.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00004.mp3",
+        "text": "是真的。痛苦是真的，死亡也是真的。你若失败，她们就真的死了。试炼从不作假。",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_234",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet13_36",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0225.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00070.mp3",
+        "text": "那你算什么？冷眼旁观的神？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet13_37",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0226.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00005.mp3",
+        "text": "我是水晶的意志。你通过了。最后一步——接受力量，还是放弃力量？",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_236",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet13_38",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0227.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "黑水晶分裂成两瓣，一瓣光芒温暖，像清晨的公园；一瓣深渊般漆黑，像兔子洞深处那一点冷光。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_237",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet13_39",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0228.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00006.mp3",
+        "text": "接受，你将成为这个世界的守护者，永远战斗，永远不能回地球。放弃，治愈会保留，你会被送回公园，忘记这里的一切，忘记部落群猫，也忘记小猫。",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_238",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet13_40",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0229.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "部落群猫都看着爱丽丝，有的撑着伤腿，有的抱着同伴。小猫也看着爱丽丝，没有替她说答案，只是静静坐在她脚边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_239",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet13_41",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0230.webp",
+        "dubbing": "scenes\\audio\\Crystal Will00007.mp3",
+        "text": "你在等什么？",
+        "characterImage": "scenes\\images\\crystalwill tou.webp",
+        "characterName": "Crystal Will"
+      },
+      "nextId": "scene_240",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet13_42",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0231.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00071.mp3",
+        "text": "要是我留下，你会跟我吗？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet13_43",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0232.webp",
+        "dubbing": "scenes\\audio\\Kitten00041.mp3",
+        "text": "我会。但我不想你因为愧疚才留下。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_242",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet13_44",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0233.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00072.mp3",
+        "text": "要是我回去呢？",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_243",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_243",
+      "sheetName": "Sheet13_45",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0234.webp",
+        "dubbing": "scenes\\audio\\Kitten00042.mp3",
+        "text": "那我就当没认识过你。虽然……不太可能。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_244",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_244",
+      "sheetName": "Sheet13_46",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0235.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "爱丽丝想起公园的阳光，想起兔子洞前的犹豫，想起第一次念咒时发抖的手，想起丛林里几乎走不动的夜，想起小猫说\"先问问我同不同意再冲\"。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_245",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_245",
+      "sheetName": "Sheet13_47",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0236.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "爱丽丝看了看温暖的那瓣水晶，又看了看漆黑的那瓣，终于迈步向前，没有碰漆黑的那瓣。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_246",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_246",
+      "sheetName": "Sheet13_48",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0237.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00073.mp3",
+        "text": "我留下。不是因为你选了我，是因为我已经选择了她们。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_247",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_247",
+      "sheetName": "Sheet13_49",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0238.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "光芒吞没水晶意志，水晶意志碎作无数光点，融入部落的大地。风重新吹起，焦土上冒出嫩绿的新芽，断裂的栅栏发出轻微的愈合声。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_248",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_248",
+      "sheetName": "Sheet13_50",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0239.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "黑水晶重新落回爱丽丝掌心，这一次黑水晶不再冰凉，而是像一颗安静的心脏，跳动和爱丽丝同步。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_249",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_249",
+      "sheetName": "Sheet13_51",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0240.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "治愈的光波最后一次荡开，掠过每一顶帐篷、每一道伤口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_250",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_250",
+      "sheetName": "Sheet13_52",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0241.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "猫咪们站了起来，互相蹭着、叫着，部落里响起久违的声音——不是哭喊，是活着的声音。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_251",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_251",
+      "sheetName": "Sheet13_53",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0242.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "爱丽丝坐在草地上，背靠着一棵新长出的树。小猫趴在爱丽丝膝头，阳光晒在小猫恢复的毛上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_252",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_252",
+      "sheetName": "Sheet13_54",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0243.webp",
+        "dubbing": "scenes\\audio\\Kitten00043.mp3",
+        "text": "你后悔吗？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_253",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_253",
+      "sheetName": "Sheet13_55",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0244.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00074.mp3",
+        "text": "有时候还是会怕，也会累，也会想——我凭什么能做好。可看着它们活下来，我觉得……值得。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_254",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_254",
+      "sheetName": "Sheet13_56",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0245.webp",
+        "dubbing": "scenes\\audio\\Kitten00044.mp3",
+        "text": "那你还做吗？",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_255",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_255",
+      "sheetName": "Sheet13_57",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0246.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00075.mp3",
+        "text": "做。怕就怕着做。至少今晚，我能睡着。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_256",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_256",
+      "sheetName": "Sheet13_58",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0247.webp",
+        "dubbing": "scenes\\audio\\Elder Cat00002.mp3",
+        "text": "守护者，部落欢迎你。从今以后，这里也是你的家。",
+        "characterImage": "scenes\\images\\eldercat tou.webp",
+        "characterName": "Elder Cat"
+      },
+      "nextId": "scene_257",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_257",
+      "sheetName": "Sheet13_59",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0248.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00076.mp3",
+        "text": "走吧。明天还有别的生灵等着呢。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_258",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_258",
+      "sheetName": "Sheet13_60",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0249.webp",
+        "dubbing": "scenes\\audio\\Kitten00045.mp3",
+        "text": "我跟着。但下次打架前，先问我。",
+        "characterImage": "scenes\\images\\kitten tou.webp",
+        "characterName": "Kitten"
+      },
+      "nextId": "scene_259",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_259",
+      "sheetName": "Sheet13_61",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0250.webp",
+        "dubbing": "scenes\\audio\\Alice Heldak00077.mp3",
+        "text": "好。下次一定。",
+        "characterImage": "scenes\\images\\aliceheldak tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_260",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_260",
+      "sheetName": "Sheet13_62",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\alshedkmfzl_20260728204938_0251.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "风从林间吹过，带着药草和泥土的气息。爱丽丝低头看了看掌心的黑水晶，黑水晶安静地亮着，不再冰凉，也不再催促。",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}
