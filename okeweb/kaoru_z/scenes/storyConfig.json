@@ -1,0 +1,3259 @@
+{
+  "uid": "qwbbckrz3_20260729204429",
+  "name": "qwbbckrz3_20260729204429",
+  "token": "U2FsdGVkX19BVSkT6PrbBdcWFoSJhTJoNotN0rpRAuiO2Wdq+4AFGbUYqNXRPaSy",
+  "cover": "scenes\\images\\chapterCover1.jpg",
+  "version": "20260729-2205",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0001.webm",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "The twilight was deepening. In the low and shabby adobe pigsty, there was a pungent smell of a mixture of damp earth, pigweed, and manure. Straw was strewn messily on the ground. Several old sows huddled in the corner, grunting softly. Only the little pig Tuantuan curled up alone beside the stone trough at the innermost part of the pigsty, its chubby pink body trembling slightly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0002.webm",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "On the dirt road outside the pigsty, there came a continuous hubbub of voices. The hoarse shouts, the clanging of iron pots, and the sharp sound of whetting knives penetrated through the pigsty fence layer by layer. Every sound was like a sharp knife, stabbing into Tuantuan's heart.",
+        "soundEffects": "scenes\\audio\\mofa2.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0003.webm",
+        "dubbing": "scenes\\audio\\Villager A00000.mp3",
+        "text": "That fattest little pig is just right for a suckling pig roast tonight. The skin will be crispy and the meat tender. It's perfect for ancestor worship and entertaining guests!",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0004.webm",
+        "dubbing": "scenes\\audio\\Villager A00001.mp3",
+        "text": "I've been whetting this knife for half an hour. One cut and it's done. Easy!",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0005.webp",
+        "dubbing": "scenes\\audio\\Villager A00002.mp3",
+        "text": "Block the pigsty door. Don't let it run away. This little guy runs really fast!",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0006.webm",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "Tuantuan's ears drooped tightly. Its short limbs trembled uncontrollably. Its big, round, black - shiny eyes were full of fear. Tuantuan knew clearly that the 'fattest little pig' the villagers were talking about was itself. From a young age, Tuantuan had heard the villagers discuss how to make suckling pig roast countless times: marinating, hanging in the oven, slow - roasting, and brushing with honey. Just imagining the hot grill made Tuantuan shiver all over.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0007.webm",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "With a 'bang', the wooden door of the fence was kicked open roughly. The huge impact made the dust on the wall fall in a rustle. A strong villager A carried a half - foot - long shiny kitchen knife in one hand. The reflection of the blade was so blinding that Tuantuan couldn't open its eyes. Villager A stepped over the threshold of the pigsty in big strides, his eyes firmly fixed on the little pig Tuantuan, which had nowhere to escape in the corner. He rushed over quickly, raising the kitchen knife high and about to slash down at Tuantuan's body with all his might.",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "At the moment of life and death, the blade was only half a step away from Tuantuan. Tuantuan had no room to back away and dodge. At this moment, there were only two ways out for Tuantuan, and each choice would lead to a completely different fate.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "Use the iron - head skill to block the knife"
+        },
+        {
+          "nextId": "scene_21",
+          "label": "Clamp the kitchen knife with the butt"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "At this critical moment, Tuantuan didn't have time to think. The instinct for survival overcame the timidity in its heart. Tuantuan suddenly pushed its hind legs firmly against the ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "All the fat on its body tightened. It tucked in its head and gathered all its strength.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "It rammed straight into the arm of Villager A holding the kitchen knife.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "With a dull and heavy 'thud', Tuantuan's hard pig's forehead hit Villager A's wrist hard. The huge impact force spread through Villager A's whole body along his arm.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "The kitchen knife in Villager A's hand fell out and hit the straw pile with a 'clank'.",
+        "soundEffects": "scenes\\audio\\mofa3.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "Villager A was shaken off - balance by the impact. He staggered back five or six steps in a row.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "His back hit the adobe wall of the pigsty heavily. He let out a muffled groan in pain, and his wrist went numb and he couldn't exert any strength at all.",
+        "soundEffects": "scenes\\audio\\nanrencanjiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "Tuantuan seized this fleeting opportunity and didn't dare to stay for a moment. It immediately turned around and ran towards the wooden fence at the back of the pigsty. It successfully dodged the fatal blow and unlocked the main line of escaping from the pigsty.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "The little pig Tuantuan didn't dare to look back at what was going on behind. It ran to the wooden fence at the back of the pigsty with all its might.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "The half - person - high wooden fence had wide gaps between the planks. Straw and dead branches were piled up in the left corner of the fence. There was a hidden haystack on one side and an unobstructed railing on the other. Two escape routes were in front of Tuantuan. It had to choose a route quickly. The stunned Villager A behind had come to his senses, and his footsteps were approaching rapidly. The shouts of other villagers outside the adobe wall were getting closer and closer.",
+        "soundEffects": "scenes\\audio\\zoulusheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0019.webp",
+        "dubbing": "scenes\\audio\\Villager A00003.mp3",
+        "text": "It ran towards the fence! Block it quickly!",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "The noisy footsteps were closing in from all directions. Tuantuan had less than ten seconds to think. A moment of hesitation would mean being surrounded. Tuantuan gasped for breath. Its pink belly heaved violently. Its fur was covered with sweat and mud. Its heart was pounding wildly. It looked at the two completely different escape routes in front of it.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "It made its choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_27",
+          "label": "Hide behind the haystack"
+        },
+        {
+          "nextId": "scene_32",
+          "label": "Jump over the railing and run"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0022.webm",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "In a panic, Tuantuan's mind went blank and misjudged how to block the attack. Instead of ramming head - on, it wriggled its chubby body and stuck out its fat butt towards the blade, hoping to clamp the kitchen knife with its thick flesh and stop the slash.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "But Tuantuan's movements were clumsy and slow. The fat hindered its agility. Before Tuantuan's butt could touch the blade, Villager A reached out and grabbed the scruff of Tuantuan's neck. Tuantuan struggled wildly with its four limbs, but it couldn't break free from the adult's strong hand. Villager A picked up the kitchen knife on the ground.",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "He sneered and picked up the little pig.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0024.webp",
+        "dubbing": "scenes\\audio\\Villager A00004.mp3",
+        "text": "Still trying to move around. Good. I'll turn you into a suckling pig roast tonight.",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "The screen fades to black",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "Text prompt appears: You chose to hold the kitchen knife with your butt, but due to an operation error, you were caught on the spot. The little pig turned into a roasted suckling pig. The plot reverts to the starting point of the pigsty crisis in Chapter One. Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "Use the iron head to block the knife"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "In a state of extreme panic, Tuan Tuan's first reaction was to hide. Tuan Tuan immediately turned around and plunged headfirst into the mountain - high haystack on the left, desperately raking the straw to cover its body.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Tuan Tuan just thought that as long as it couldn't see the villagers, the villagers couldn't find it. Tuan Tuan was fat, and its short limbs simply couldn't bury its huge body completely in the hay. Most of its round butt stuck out high above the straw, and its pink flesh was especially eye - catching against the backdrop of the withered yellow hay.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "Villager A, who had chased after, spotted the pig's butt sticking out oddly from the haystack at a glance. Villager A stepped forward a few paces, reached out, grabbed Tuan Tuan's ears, and pulled it out of the haystack.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "Tuan Tuan kicked and struggled desperately, scattering the straw all over the ground, but still couldn't escape from Villager A's grasp.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "The screen fades to black. Text prompt appears: You hid in the haystack but exposed your butt and were spotted and caught by the villagers at a glance. The little pig turned into a roasted suckling pig. The plot reverts to the starting point of the pigsty crisis in Chapter One. Please make a new choice.",
+        "soundEffects": "scenes\\audio\\dahuoranshao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_32",
+          "label": "Escape by jumping over the railing"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "After a brief observation, Tuan Tuan immediately realized that hiding was simply not an option. The haystack couldn't hide its fat body. Instead of waiting to die in place, it was better to jump over the fence and rush out of the pigsty directly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "Tuan Tuan didn't hesitate any longer. It turned around to face the wooden railing, lowered its center of gravity to gather strength, and then all four short legs exerted force simultaneously to sprint towards the railing, successfully initiating the choice plot of escaping over the railing in Chapter Three.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "Tuan Tuan rushed to the railing. The rough wooden railing stood in front of it. There were narrow, long gaps between the rails. The width of the gaps was only enough for small poultry to pass through, while the overall height of the railing was moderate. As long as it exerted force to jump, it could directly jump over.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "The roar of Villager A behind Tuan Tuan was right behind it. It could even hear the rustling sound of Villager A's soles rubbing against the ground when running. Two ways of escape were in front of Tuan Tuan, and each one was crucial for Tuan Tuan to escape from the pigsty successfully.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "Tuan Tuan looked up at the railing. On one side was the narrow gap, and on the other side was the intact railing. Tuan Tuan quickly weighed the pros and cons of the two escape methods and made a choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_37",
+          "label": "Squeeze through the railing gap"
+        },
+        {
+          "nextId": "scene_46",
+          "label": "Jump over the railing"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "Tuan Tuan was being wishful. It thought that squeezing through the gap didn't require a big jump, was less likely to make a sound, and wouldn't attract more villagers' attention.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "Tuan Tuan turned its body sideways and squeezed hard into the narrow wooden gap. Its front half managed to squeeze into the gap, but its plump and wide butt got stuck firmly between two pieces of wood. Tuan Tuan couldn't move forward or backward.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "Tuan Tuan's front legs were stretched outside the fence, and its hind legs were still inside the pigsty. Its waist was tightly squeezed by the wooden railing. No matter whether Tuan Tuan pushed forward or backed up, it didn't budge an inch.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "Tuan Tuan was so anxious that it kept grunting and flailing its limbs wildly. Straw debris covered its whole body, but it couldn't break free from the railing's restraint at all.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Within a few seconds, Villager A caught up with the fence. Looking at the little pig stuck in the railing and unable to move, Villager A easily reached out and picked Tuan Tuan up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "Tuan Tuan completely lost the chance to escape.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "The screen fades to black.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "Text prompt appears: You tried to squeeze through the railing gap, but your butt got stuck and you couldn't get out. You were caught by the arriving villagers. The little pig turned into a roasted suckling pig. The plot reverts to the starting point of the pigsty crisis in Chapter One.",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "Jump over the railing"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "Tuan Tuan gave up the idea of squeezing through the gap and bent its legs to gather strength.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "Its hind legs suddenly pushed against the ground, and the whole little pig leaped into the air.",
+        "soundEffects": "scenes\\audio\\dianshikatong.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "It划过 a chubby arc in the air.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "It landed steadily on the muddy road outside the pigsty.",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "After landing, Tuan Tuan didn't dare to stay and immediately ran forward at full speed",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "Villager A, who was chasing from behind, was extremely anxious. He only stared at Tuan Tuan's back and rushed forward, without noticing the pig manure mud puddle on the ground. He slipped and lost his balance, falling straight into the stinking manure pit in a sorry state.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "Tuan Tuan ran dozens of meters out of the pigsty and stopped to look back.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "The manure pit beside the dirt road was turbid and black, with rotten straw and feces floating on it. Villager A was covered in filth, half of his body sunk in the bottom of the pit. He flailed his hands at the mud on the edge of the pit. He tried to climb out several times but slipped back again, constantly letting out desperate howls and emitting a pungent stench.",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "At this moment, Tuan Tuan was in a dilemma.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "Just a few minutes ago, Villager A was holding a kitchen knife, trying to turn Tuan Tuan into a roasted suckling pig. He was Tuan Tuan's mortal enemy. But now, Villager A was stuck in the mud and might choke on the dirty water and get injured at any time. Tuan Tuan couldn't bear to just leave him there.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "On one hand, Tuan Tuan could mock and vent the fear and resentment in his heart. On the other hand, he could let go of the grudges and offer help. These two choices would lead to completely opposite outcomes. Looking at Villager A struggling in the manure pit, Tuan Tuan made a decision.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_57",
+          "label": "Mock the villager"
+        },
+        {
+          "nextId": "scene_63",
+          "label": "Save the villager and clean him up"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "Remembering the deadly moment when the kitchen knife came slashing just now, the fear and anger that had been building up in Tuan Tuan's heart burst out instantly. Tuan Tuan stood by the roadside, raised his front hoof and pointed at the villager in the manure pit.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "He tilted his head back and let out a loud laugh, accompanied by a series of smug and mocking grunts, not caring at all about the other's embarrassing and dangerous situation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "The harsh mocking laughter completely ignited Villager A's anger. He endured the discomfort caused by the filth on his body and climbed out of the manure pit with all his might, using his hands and feet.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "Without bothering to clean the dirt on his body, he ran towards Tuan Tuan with red eyes. Tuan Tuan didn't have time to escape and was grabbed by the stinking Villager A, losing the chance to escape completely.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "The screen fades to black, and text prompts appear:",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "You mocked the villager in distress and completely enraged him. You were caught by him. The little pig became a roasted suckling pig. The plot reverts to the starting point of the pigsty crisis in Chapter One. Please choose again.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_63",
+          "label": "Save the villager and clean him up"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "Tuan Tuan is kind - hearted. He let go of the grudge of Villager A chasing him with a knife before. He couldn't bear to see Villager A trapped in the manure pit and getting injured. Tuan Tuan ran to the edge of the pit.",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0064.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "He used his head to push against Villager A's arm",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "And little by little, he dragged Villager A out of the mud with the help of his own strength.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "Villager A was stinking and covered in dirt, making it hard for him to move. Tuan Tuan then led him to a shallow beach of a nearby small river. Tuan Tuan used his head to push the water to wash the feces off Villager A's body, rinsing back and forth for a long time.",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "Villager A looked at little pig Tuan Tuan, who saved him without holding a grudge. His heart was filled with guilt and gratitude. The idea of catching the little pig to make roasted suckling pig completely disappeared. Villager A squatted down and gently stroked Tuan Tuan's head.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0068.webp",
+        "dubbing": "scenes\\audio\\Villager A00005.mp3",
+        "text": "I almost hurt you. You saved my life. From now on, I'll escort you on your escape and protect you from being caught by other villagers.",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "Villager A and Tuan Tuan, this man and this pig, formed a temporary partnership and started their escape journey together, entering the plot of choosing a shelter in Chapter Five. Villager A took Tuan Tuan to hide in the bushes by the roadside. The shouts of other villagers searching in the distance echoed one after another. A large group of villagers were searching along the road with clubs and kitchen knives. Villager A and Tuan Tuan might be discovered by the search team at any time. They had to find a hidden place to hide temporarily and avoid the large - scale search.",
+        "soundEffects": "scenes\\audio\\yilun.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "There were two shelter options in front of Villager A and Tuan Tuan: the deep and secluded back - mountain forest or the idle solitary cottage of Villager A's family. Villager A actively introduced the advantages and disadvantages of the two places to Tuan Tuan and waited for Tuan Tuan to make a final decision.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "The back - mountain forest is dense with vegetation, which can block the line of sight, but there are often wild beasts. The idle solitary cottage of Villager A's family is hidden in a corner of the village. Few villagers visit it. It's hidden and safe, and there are dry rations and water sources. It's suitable for a short - term rest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "Tuan Tuan looked at the dark forest in the distance and then at the low - lying cottage in the corner of the village. He carefully weighed the risks and made a choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_73",
+          "label": "Hide in the forest"
+        },
+        {
+          "nextId": "scene_85",
+          "label": "Hide in the villager's house"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Tuan Tuan thought that all the villagers in the village wanted to catch him, and it was too risky to stay around the village.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "He果断 proposed to hide in the back - mountain forest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "Villager A couldn't persuade the little pig",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "I had no choice but to follow it deep into the forest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "In the forest, ancient trees towered to the sky, and the weeds were taller than a person's limbs. The light was dim and cold. Just over a hundred meters after Villager A and his companion set off,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "Suddenly, a low and fierce wolf howl came from the grass.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "A huge and stocky gray wolf leaped out of the bushes.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "The wolf's green eyes locked onto the tender - fleshed little pig, Tuan Tuan, and it pounced straight at Tuan Tuan.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0083.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "Villager A was unarmed and had no power to stop the beast. He could only watch helplessly as the wolf carried Tuan Tuan away.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "The screen fades to black.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "Text prompt appears: You chose to hide in the forest and encountered a wolf that loves suckling pigs. The little pig was captured and turned into a roasted suckling pig.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "The plot reverts to the starting point of the Pigsty Crisis in Chapter One. Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_85",
+          "label": "Hide in a villager's house"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "After careful consideration, Tuan Tuan realized the deadly danger of wild beasts in the forest and immediately agreed to follow Villager A to his house to hide.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "Tuan Tuan and Villager A crouched low and quietly shuttled along the edge of the village wall, avoiding the searching villagers on the way, and successfully reached an isolated earthen house at the far edge of the village.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "The small house had tight - shut doors and windows, and there was a fence around it. Few people came to visit. Inside, there were stored coarse grains, clean water, and a hay bed for rest, perfectly meeting the needs for short - term hiding and recuperation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "Tuan Tuan and Villager A closed the doors and windows and pulled down the tattered burlap curtains, temporarily isolating themselves from the outside search. They safely evaded the daytime search, and the plot advanced to the choice in Chapter Six: The Late - Night Knocking on the Door.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "The sky was completely engulfed in darkness, and a crescent moon hung in the sky. The sound of the search in the village gradually subsided, and most of the villagers ended their search and went home to rest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "Inside the small house, it was quiet and dim. The nerves of Tuan Tuan and Villager A, which had been on edge all day, finally relaxed. They leaned against the corner for a short rest, and their bodies were extremely tired.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "Tuan Tuan hadn't eaten during the continuous hiding and traveling, and his stomach growled with hunger.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Villager A rummaged through all the storage corners in the house and found that the stored dry food was already gone. There was no food to fill their stomachs in the house, so Tuan Tuan and Villager A had to bear the hunger.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "Just when Tuan Tuan and Villager A were resting with their eyes closed, exhausted both physically and mentally,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "Suddenly, there was a rapid and heavy knocking on the door outside. The \"Dong Dong Dong\" knocking was very forceful, accompanied by the loud shouts of the person outside, which was extremely ear - piercing in the silent night.",
+        "soundEffects": "scenes\\audio\\yongliqiaomensheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "Tuan Tuan and Villager A inside the house instantly became highly vigilant. At this moment, there were two ways to respond: close the door tightly and pretend no one was inside, or summon the courage to open the door and check the identity of the person outside. The two choices would lead to completely different results.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_96",
+          "label": "Don't open the door"
+        },
+        {
+          "nextId": "scene_107",
+          "label": "Open the door and check"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "Tuan Tuan was worried that the person outside was a villager coming to hunt for the little pig. He was so scared that he trembled all over and firmly held the wooden door, not responding to the shouts outside the whole time.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "He quickly motioned for Villager A to be quiet.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "The person outside knocked for a long time but got no response, then turned around and left.",
+        "soundEffects": "scenes\\audio\\qiaomensheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "The crisis was temporarily averted, but new problems came one after another.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "There was no food supply in the house, and Tuan Tuan's hunger continued to intensify. Tuan Tuan was hungry from late at night until the next evening. He hadn't had a single drop of water or a grain of food for a whole day. Tuan Tuan had already consumed a lot of energy during the long - distance escape.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "Finally, Tuan Tuan's physical strength was completely exhausted. His vision went black, and he fainted straight to the ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "When other villagers accidentally passed by the small house, they found the unconscious little pig",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "Just take the little pig away and make it into a roasted suckling pig.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "The screen fades to black.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "Text prompt appears: You locked the door and refused to open it. After running out of food, you fainted from hunger due to lack of strength and were captured by the villagers. The little pig became a roasted suckling pig.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "The plot reverts to the starting point of the pigsty crisis in Chapter One. Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_107",
+          "label": "Open the door to check."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0109.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "Tuantuan suppressed the fear in her heart and exchanged a glance with Villager A.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "She decided to open the door to find out who was outside.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0111.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "Villager A slowly pulled open the wooden door. There stood a delivery guy holding a multi - layer food box outside.",
+        "soundEffects": "scenes\\audio\\mumentuikaisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "The delivery guy heard that someone in a nearby villager's house needed food delivery, so he traveled all night to bring a whole table of delicious food.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "There were whole - grain buns, fresh fruits and vegetables, and clear meat soup. All were suitable for a person and a pig to eat.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "Tuantuan and her companion were overjoyed and immediately ate to their hearts' content.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "The ample food quickly replenished the energy they had lost.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "After Tuantuan and her companion were full, they spread out the hay and fell asleep soundly. They had a good rest without any dreams all night.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "When dawn broke the next day, the two began to carefully plan a long - term route to completely escape the village and entered the plot of choosing the ultimate escape destination in Chapter Seven.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "After a good night's rest, Tuantuan had fully recovered her strength. She no longer wanted to stay in this southern village where everyone coveted the roasted suckling pig. She had to go to a place where no one would ever catch or roast her, and completely escape the fate of being put on the grill.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "Villager A flipped through the local customs he had heard about during his years of traveling far and wide and offered Tuantuan two escape destinations.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "The first destination is Guangzhou. It's a moderate distance from here, with convenient transportation and a bustling city. However, the local custom is special. During the Tomb - Sweeping Festival for ancestor worship, every family must have a roasted suckling pig as a sacrificial offering. Roasted suckling pigs are sold in large quantities in the city's markets and restaurants, and live pigs are very likely to be targeted and captured by the locals.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "The second destination is Xinjiang. It's vast and far away, spanning thousands of miles of mountains and rivers. The local people don't have the habit of eating pork, so there's no need to roast suckling pigs. It's the only safe place where the little pig can live in peace and gain permanent freedom. The only difficulty is that the journey is long and it takes a lot of energy to travel there.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0122.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "After hearing the pros and cons of the two places, Tuantuan seriously thought about the long - term survival problem and made her ultimate destination choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_121",
+          "label": "Escape to Guangzhou."
+        },
+        {
+          "nextId": "scene_130",
+          "label": "Escape to Xinjiang."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "Tuantuan was tempted by the shorter distance and the bustling city, ignoring the local ancestor - worship custom, and decided to escape to Guangzhou.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00116.mp3",
+        "text": "Tuantuan and the pig simply packed their luggage.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.mp3",
+        "text": "They set off for Guangzhou.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.mp3",
+        "text": "It happened to be the Tomb - Sweeping Festival. There were shops selling roasted suckling pigs everywhere on the streets of Guangzhou, and every family was buying live pigs.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.mp3",
+        "text": "They were preparing to roast them for ancestor worship.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.mp3",
+        "text": "As soon as Tuantuan stepped into the city, the chubby appearance of the little pig immediately caught the attention of the whole city's people.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.mp3",
+        "text": "People of all ages surrounded her. The whole city launched a manhunt. Tuantuan had nowhere to hide and was finally caught by a merchant. After being washed and pickled,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.mp3",
+        "text": "She was hung on the grill and became a roasted suckling pig specially for the Tomb - Sweeping Festival ancestor worship.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00123.mp3",
+        "text": "The screen fades to black. Text prompt appears: You chose to escape to Guangzhou. It happened to be the Tomb - Sweeping Festival when the whole city was searching for live pigs to make roasted suckling pigs. The little pig became a sacrificial ingredient. The plot reverts to the starting point of the pigsty crisis in Chapter One. Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_130",
+          "label": "Escape to Xinjiang"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00124.mp3",
+        "text": "After careful consideration, Tuan Tuan realized that short - term convenience was no match for long - term and stable freedom. So, it果断 decided to travel thousands of miles to Xinjiang. Even though the journey was long and arduous, once Tuan Tuan arrived there, it would no longer have to worry about being caught and roasted, and would completely escape the fate of being a roasted suckling pig.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.mp3",
+        "text": "Villager A highly approved of this decision. Immediately, Tuan Tuan and Villager A started to plan the long - distance travel route, packed simple luggage and dry food, and entered the plot of choosing the travel mode in Chapter 8. After setting the long - term goal of going to Xinjiang, the two packed enough dry food, water, and simple warm - keeping clothes, and were ready to set off. The journey of thousands of miles was long, and there were two completely different travel modes to choose from, each with its own advantages and disadvantages. Tuan Tuan needed to make a decision.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.mp3",
+        "text": "The first travel mode: Taking a plane. It's extremely fast. It only takes a few hours to cover thousands of miles and reach Xinjiang. The whole journey is sheltered from the wind, sun, and the need to walk long distances, saving a lot of physical strength. The only limitation is that airport security checks are strict, and there are clear regulations for the passage of live animals.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.mp3",
+        "text": "The second travel mode: Walking the whole way. It's not restricted by traffic security rules. You can stop to rest and look for water and food at any time along the way, with a very high degree of freedom. However, it relies entirely on walking on four limbs, crossing mountains and deserts. The journey is long and extremely tests one's endurance and willpower.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.mp3",
+        "text": "Tuan Tuan compared the advantages and disadvantages of the two travel modes, weighed the risks on the way, and selected a travel plan.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_135",
+          "label": "Take a plane"
+        },
+        {
+          "nextId": "scene_141",
+          "label": "Walk there"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.mp3",
+        "text": "Tuan Tuan wanted to reach Xinjiang quickly and didn't want to endure the hardship of walking, so it decided to travel by plane.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.mp3",
+        "text": "Villager A took the little pig to the airport. When going through the boarding procedures, the security staff stopped them.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0147.webp",
+        "dubbing": "scenes\\audio\\Security Check Staff00000.mp3",
+        "text": "Live pigs can't pass the airport security check and are prohibited from being carried on",
+        "characterImage": "scenes\\images\\securitycheckstaff tou.webp",
+        "characterName": "Security Check Staff"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0148.webp",
+        "dubbing": "scenes\\audio\\Security Check Staff00001.mp3",
+        "text": "the plane. They're also not allowed to be checked in as live pigs separately.",
+        "characterImage": "scenes\\images\\securitycheckstaff tou.webp",
+        "characterName": "Security Check Staff"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.mp3",
+        "text": "The staff contacted the freight channel, directly classified the little pig as fresh goods, arranged for cold - chain transportation, and after arriving at the destination, directly transferred it to a local restaurant to be processed into a roasted suckling pig.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.mp3",
+        "text": "The screen fades to black, and a text prompt appears: You chose to take a plane to Xinjiang. Live pigs can't pass the security check and were transported and processed as fresh goods. The little pig became a roasted suckling pig. The plot goes back to the starting point of the pigsty crisis in Chapter 1. Please choose again.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_141",
+          "label": "Walk there"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.mp3",
+        "text": "After learning that live animals can't take a plane, Tuan Tuan gave up the fast air travel and was determined to walk to Xinjiang step by step.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.mp3",
+        "text": "Villager A admired Tuan Tuan's courage very much. He accompanied Tuan Tuan out of the village for dozens of kilometers. When they reached a fork in the road, they couldn't go any further on the mountain road in the Gobi ahead. Since Villager A still had family members at home to take care of, he could only say goodbye here.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.mp3",
+        "text": "The two said goodbye to each other, and Villager A repeatedly advised Tuan Tuan.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0154.webp",
+        "dubbing": "scenes\\audio\\Villager A00006.mp3",
+        "text": "Watch out for wild animals and be careful of passers - by on the road.",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.mp3",
+        "text": "Tuan Tuan carried a simple dry - food bag on its back and embarked on the long walking route alone.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0156.webp",
+        "dubbing": "scenes\\audio\\Villager A00007.mp3",
+        "text": "We've agreed to take the mountain route. Let's pack our luggage now. But the journey to Xinjiang is long and the route is complicated. You don't know the way, so you need to choose a navigation app to plan the route.",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet17_6",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0157.webp",
+        "dubbing": "scenes\\audio\\Villager A00008.mp3",
+        "text": "Do you think it's better to use AutoNavi Map or Baidu Map?",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet17_7",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0158.webp",
+        "dubbing": "scenes\\audio\\Tuantuan00000.mp3",
+        "text": "I prefer AutoNavi Map. It plans the complex mountain routes more accurately and can show where we can pick wild fruits and hunt, which can sustain us for about ten days. The small town is too dangerous. The looks of those swindlers were so vicious. I can't forget them. Let's use it to plan the mountain road thoroughly and get rid of being caught. Do you agree?",
+        "characterImage": "scenes\\images\\tuantuan tou.webp",
+        "characterName": "Tuantuan"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet17_8",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0159.webp",
+        "dubbing": "scenes\\audio\\Villager A00009.mp3",
+        "text": "Agreed. I'll follow your advice. Let's use AutoNavi Map. Now let's download it to plan a route avoiding the small town. I was really scared by the knocking on the door just now. Now I'm calm and won't change my mind. I hope this choice will let us arrive safely without encountering wild animals or having nowhere to stay.",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet17_9",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0160.webp",
+        "dubbing": "scenes\\audio\\Tuantuan00001.mp3",
+        "text": "Okay, then let's choose AutoNavi Map to plan the route. I hope we can reach Xinjiang smoothly and completely get rid of those people's pursuit.",
+        "characterImage": "scenes\\images\\tuantuan tou.webp",
+        "characterName": "Tuantuan"
+      },
+      "branches": [
+        {
+          "nextId": "scene_151",
+          "label": "Google Map"
+        },
+        {
+          "nextId": "scene_154",
+          "label": "AutoNavi Map"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.mp3",
+        "text": "Tuan Tuan casually opened Google Map and couldn't understand the dense foreign words on the screen at all. It couldn't tell the direction of progress or the turning signs at the forks, so it could only rush on the way blindly based on the fuzzy picture.",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00138.mp3",
+        "text": "The navigation guidance was completely wrong. Tuan Tuan deviated from the main road all the way and accidentally broke into a farmyard of a mountain farmer. The farmer saw the fat little pig walking alone and directly locked it in an iron cage in the back yard, preparing to marinate and roast it into a roasted suckling pig.",
+        "soundEffects": "scenes\\audio\\jixieshiguanmen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.mp3",
+        "text": "The screen fades to black, and a text prompt appears: You chose the foreign Google Map and couldn't understand the guidance. You took the wrong route and strayed into a farmer's house. The little pig became a roasted suckling pig. The plot goes back to the starting point of the pigsty crisis in Chapter 1. Please choose again.",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_154",
+          "label": "Gaode Map"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet19_0",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.mp3",
+        "text": "Tuantuan skillfully opened Gaode Map and set the deep hiking mode to avoid crowds and the town. The map clearly marked the water sources, berry bushes, and caves where one could take a concealed rest.",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet19_1",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0172.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.mp3",
+        "text": "Guided by this professional navigation app, Tuantuan avoided all the dangerous checkpoints. It climbed over numerous mountains and traversed the desolate Gobi Desert. Despite going through untold hardships and even being nearly attacked by wild beasts several times, thanks to the precise guidance of the supply points provided by Gaode Map, Tuantuan always maintained its energy and headed west all the way.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet19_2",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.mp3",
+        "text": "After several months, Tuantuan finally crossed the horizon thousands of miles away and stepped into the vast land of Xinjiang. There were continuous snow - capped mountains and boundless grasslands. The local people were simple and kind, and no one had any appetite for Tuantuan. Some local herdsmen even voluntarily fed it grass.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet19_3",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.mp3",
+        "text": "Tuantuan looked at the blue sky and white clouds in the distance and felt the free wind. It completely escaped the fate of being a roasted suckling pig and started its leisurely life as a pig in Xinjiang.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "Go by taxi"
+        },
+        {
+          "nextId": "scene_162",
+          "label": "Ask passers - by for help"
+        },
+        {
+          "nextId": "scene_166",
+          "label": "Keep going on the journey"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet20_0",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0178.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.mp3",
+        "text": "Tuantuan propped up its weak limbs and walked to the roadside to stop and rest. It saw a group of passers - by coming from afar and quickly went up to them, grunting to indicate that it was out of energy and wanted to rest there.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet20_1",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.mp3",
+        "text": "When Tuantuan got closer, it found that these passers - by were Guangzhou merchants going to Xinjiang to purchase ingredients. These Guangzhou merchants usually specialized in buying live pigs to make roasted suckling pigs. When they saw the plump Tuantuan, they were overjoyed on the spot and immediately took out ropes to tie it up and take it away.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet20_2",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.mp3",
+        "text": "The screen dimmed, and a text prompt appeared: You asked passers - by for help. They are Guangzhou merchants who love roasted suckling pigs. The little pig was caught on the spot. The plot goes back to the starting point of the pigsty crisis in Chapter One. Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet20_3",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.mp3",
+        "text": "Ask passers - by for help",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_162",
+          "label": "Keep going on the journey"
+        },
+        {
+          "nextId": "scene_166",
+          "label": "Tuantuan propped up its weak limbs and walked to the roadside to stop and rest. It saw a group of passers - by coming from afar and quickly went up to them, grunting to indicate that it was out of energy and wanted to rest there."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet21_0",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0183.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.mp3",
+        "text": "When Tuantuan got closer, it found that these passers - by were Guangzhou merchants going to Xinjiang to purchase ingredients. These Guangzhou merchants, who usually specialized in buying live pigs to make roasted suckling pigs, were overjoyed on the spot when they saw the plump Tuantuan. They immediately took out ropes to tie it up and take it away.",
+        "soundEffects": "scenes\\audio\\xingjun.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet21_1",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.mp3",
+        "text": "The screen dimmed, and a text prompt appeared: You asked passers - by for help. They are Guangzhou merchants who love roasted suckling pigs. The little pig was caught on the spot. The plot goes back to the starting point of the pigsty crisis in Chapter One. Please make a new choice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet21_2",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.mp3",
+        "text": "Go by taxi",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet21_3",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.mp3",
+        "text": "Keep going on the journey",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "Tuantuan knew that asking for help or taking a ride would bring fatal danger. Only by relying on itself could it survive."
+        },
+        {
+          "nextId": "scene_166",
+          "label": "Tuantuan took a deep breath, rubbed its sore limbs, replenished basic energy with wild grass and mountain springs along the way, and gritted its teeth and kept walking forward."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet22_0",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.mp3",
+        "text": "The long - distance hiking day after day continuously tempered Tuantuan's body. The original chubby fat on Tuantuan slowly turned into firm and strong muscles. Its short limbs were full of explosive power, and its body had a tough outline. Tuantuan completely transformed into a muscular pig with well - defined muscles. Its physical strength and power were greatly improved, and ordinary wild beasts couldn't harm Tuantuan at all.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet22_1",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.mp3",
+        "text": "Tuantuan crossed the Gobi Desert. Ahead was the last dense forest blocking the way. After passing through this forest, it could officially step into the territory of Xinjiang. Tuantuan packed up its things and walked into the forest, triggering the decision - making plot of the confrontation with the big bad wolf in Chapter Eleven.",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet22_2",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.mp3",
+        "text": "The evolved muscular Tuantuan was in good shape and full of strength. It could cross mountains and ridges effortlessly. There was only one last primeval forest lying across the way ahead. After passing through the forest boundary, it could reach the long - awaited Xinjiang and completely escape the fate of being a roasted suckling pig.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet22_3",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.mp3",
+        "text": "The forest was lush with vegetation. The towering trees blocked the sunlight, and there was a thick layer of dead leaves on the ground, making a soft rustling sound when stepped on. Tuantuan walked forward steadily. Just when it reached the middle of the forest, the grass on both sides suddenly shook violently. A huge gray wolf leaped out suddenly and blocked the middle of the path. Its sharp fangs were exposed, and it growled fiercely, staring fixedly at Tuantuan, wanting to prey on it.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet22_4",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0194.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.mp3",
+        "text": "Now that Tuantuan had strong muscles and the ability to fight against wild beasts, there were still two ways to deal with the situation. One was to hide and avoid, and the other was to fight the gray wolf head - on. Tuantuan quickly judged the threat of the wild beast and made a choice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet22_5",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.mp3",
+        "text": "The evolved muscular Tuantuan was in good shape and full of strength. It could cross mountains and ridges effortlessly. There was only one last primeval forest lying across the way ahead. After passing through the forest boundary, it could reach the long - awaited Xinjiang and completely escape the fate of being a roasted suckling pig.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet22_6",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.mp3",
+        "text": "The forest was lush with vegetation. The towering trees blocked the sunlight, and there was a thick layer of dead leaves on the ground, making a soft rustling sound when stepped on. Tuantuan walked forward steadily. Just when it reached the middle of the forest, the grass on both sides suddenly shook violently. A huge gray wolf leaped out suddenly and blocked the middle of the path. Its sharp fangs were exposed, and it growled fiercely, staring fixedly at Tuantuan, wanting to prey on it.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet22_7",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.mp3",
+        "text": "Now that Tuantuan had strong muscles and the ability to fight against wild beasts, there were still two ways to deal with the situation. One was to hide and avoid, and the other was to fight the gray wolf head - on. Tuantuan quickly judged the threat of the wild beast and made a choice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet22_8",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.mp3",
+        "text": "The forest is dense with vegetation. Tall trees block out the sunlight, and the ground is covered in a thick layer of dead branches and leaves that rustle softly underfoot. Tuan Tuan strides forward steadily. Just as he reaches the middle of the woods, the grass on both sides suddenly stirs violently. A huge gray wolf leaps out and blocks the path. Its sharp fangs are bared as it growls menacingly, glaring at Tuan Tuan, eager to make a meal of him.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet22_9",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.mp3",
+        "text": "Now, Tuan Tuan has a strong, muscular build and the ability to fight wild beasts. Still, there are two ways to deal with this situation: either hide and avoid the wolf or face it head - on. Tuan Tuan quickly assesses the threat of the beast and makes a decision.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_176",
+          "label": "Dodge the big bad wolf"
+        },
+        {
+          "nextId": "scene_179",
+          "label": "Fight the big bad wolf head - on"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet23_0",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.mp3",
+        "text": "The long - standing fear was deeply engraved in its heart. Even after evolving into a muscular pig, Tuan Tuan's first reaction was still to hide. Tuan Tuan quickly dodged behind a thick tree trunk, thinking it could avoid the wolf's sight.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet23_1",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0207.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.mp3",
+        "text": "The big bad wolf had a sharp sense of smell and quickly locked in on Tuan Tuan's hiding place. Taking advantage of the moment when Tuan Tuan curled up and exposed its soft rear, the wolf leaped forward and sank its teeth into the pig's butt. Tuan Tuan was unable to break free and became the wolf's meal. In the end, Tuan Tuan still failed to reach Xinjiang and met the tragic end of becoming a \"roast suckling pig\".",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet23_2",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00164.mp3",
+        "text": "The screen fades to black, and text appears: You chose to hide from the big bad wolf. Your vulnerable rear was bitten by the beast, and the little pig met with an accident. The plot reverts to the start of the pigsty crisis in Chapter One. Please make a new choice.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_179",
+          "label": "Fight the big bad wolf head - on"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet24_0",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\huoliquankaizhandou.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0210.webp",
+        "dubbing": "scenes\\audio\\pangbai00165.mp3",
+        "text": "Tuan Tuan was no longer timid. Its strong muscles gave it the confidence to fight the beast. Tuan Tuan firmly planted its four legs, tensed all its muscles, and stepped forward to meet the wolf's pounce. Its two thick front legs firmly grabbed the wolf's body and, using the great strength developed from walking, flung it out forcefully.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet24_1",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\huoliquankaizhandou.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0210.webp",
+        "dubbing": "scenes\\audio\\pangbai00166.mp3",
+        "text": "The huge throwing force sent the big bad wolf flying high into the air, breaking through the clouds and heading straight for Mars, completely eliminating the only beastly threat on the way ahead.",
+        "soundEffects": "scenes\\audio\\jianshechu.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet24_2",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0212.webp",
+        "dubbing": "scenes\\audio\\pangbai00167.mp3",
+        "text": "There were no more obstacles in the forest. Tuan Tuan steadily walked through the whole forest and stepped out of the forest boundary. Before its eyes was the vast Xinjiang grassland, officially unlocking the perfect and free ending.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet24_3",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0212.webp",
+        "dubbing": "scenes\\audio\\pangbai00168.mp3",
+        "text": "The moment Tuan Tuan crossed the forest boundary, it was greeted by the boundless Xinjiang grassland. The blue sky and white clouds stretched across the horizon. Herds of cattle and sheep strolled leisurely, and there were distinctive houses scattered in the distance. The air was fresh and dry, without a trace of the pungent smell of slaughter and roasting in the village.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet24_4",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00169.mp3",
+        "text": "Tuan Tuan stopped and looked around. All the fear and fatigue that had been building up in its heart for dozens of days dissipated. Tuan Tuan's long - running escape finally reached its end. Along the way, Tuan Tuan had faced the crisis of the kitchen knife in the pigsty, the villagers' pursuit, the dangerous manure pit, the long - distance walk in the wilderness, and the beast's attack. It had been on the verge of becoming a roast suckling pig countless times. Thanks to every correct choice and its unwavering will, it finally reached a safe place.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet24_5",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00170.mp3",
+        "text": "The local herdsmen saw this strong and muscular little pig Tuan Tuan from afar and were very curious. They all came forward to ask about Tuan Tuan's origin. Tuan Tuan simply told them about its whole experience of escaping from the southern village, avoiding the fate of becoming a roast suckling pig. Everyone was amazed after hearing the story and sincerely admired the little pig's courage to survive tenaciously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet24_6",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00171.mp3",
+        "text": "The local residents have no custom of eating pork for generations. No one will harm Tuan Tuan. Instead, they are very kind to this heroic fugitive from afar. The herdsmen built a warm and comfortable hut for Tuan Tuan and fed it fresh grass, fruits, and grains every day, allowing Tuan Tuan to run freely, take walks, and soak up the sun on the grassland.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet24_7",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00172.mp3",
+        "text": "There are no kitchen knives, no ovens, no villagers in pursuit, and no predators eyeing Tuan Tuan here. Tuan Tuan no longer has to live in the fear of being slaughtered at any time. Tuan Tuan strolls on the grassland in the morning facing the rising sun, lies on the grass to watch the sunset in the evening, and plays with cattle and sheep in its free time. Life is leisurely and care - free.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet24_8",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00173.mp3",
+        "text": "The local residents highly respect Tuan Tuan's spirit of never giving up and surviving in desperate situations. They regard Tuan Tuan as the pig god guarding freedom and often bring their children to interact with Tuan Tuan and tell the legendary story of Tuan Tuan's thousand - mile escape.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet24_9",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00174.mp3",
+        "text": "In the long years to come, Tuan Tuan permanently settles in the vast Xinjiang, completely cutting off the tragic fate of becoming a roast suckling pig. With its own choices and perseverance, it gains a lifetime of stability and permanent freedom, achieving the only perfect ending of the story.",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

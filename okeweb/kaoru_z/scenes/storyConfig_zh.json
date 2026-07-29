@@ -1,0 +1,3259 @@
+{
+  "uid": "qwbbckrz3_20260729204429",
+  "name": "千万别变成烤乳猪3合成导入表程序表格式",
+  "token": "U2FsdGVkX19t1glNSPm7dhI4oW/g9vuPQSo7W8uPAGV8n7hRQcbIgO1koQqOpEZ0pdwokQwSWLJ2n3JWx0n9Nd7L8W8gc1insUME9Vu7CxA=",
+  "cover": "scenes\\images\\chapterCover1.jpg",
+  "version": "20260729-2205",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0001.webm",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "暮色沉沉，低矮老旧的土坯猪圈里弥漫着潮湿的泥土、猪草与粪便混合的刺鼻气味。稻草凌乱地铺在地面，几头老母猪缩在角落低声哼哼，唯独小猪团团独自蜷缩在猪圈最内侧的石槽边，圆滚滚的粉色身子微微发抖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0002.webm",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "猪圈外围的土路上传来此起彼伏的喧闹人声，粗哑的吆喝声、铁锅碰撞的叮当声、磨刀霍霍的刺耳声响层层叠叠钻进猪圈围栏，每一道声音都像锋利的尖刀，扎进团团的心底。",
+        "soundEffects": "scenes\\audio\\mofa2.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0003.webm",
+        "dubbing": "scenes\\audio\\Villager A00000.mp3",
+        "text": "那只最肥的小猪今晚刚好拿来做烤乳猪，皮脆肉嫩，祭祖待客刚刚好！",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0004.webm",
+        "dubbing": "scenes\\audio\\Villager A00001.mp3",
+        "text": "我磨刀磨了半个钟头，一刀下去直接解决，省事！",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0005.webp",
+        "dubbing": "scenes\\audio\\Villager A00002.mp3",
+        "text": "堵住猪圈门，别让它跑了，这小家伙跑起来快得很！",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0006.webm",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "团团耳朵紧紧耷拉下来，短小的四肢止不住打颤，黑亮的圆眼睛里蓄满了恐惧。团团清楚村民口中那只“最肥的小猪”说的就是自己。从小到大，团团无数次听见村民讨论烤乳猪的做法，腌制、挂炉、慢烤、刷蜜糖，光是想象那滚烫烤架，团团就浑身发冷。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0007.webm",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "围栏木门“哐当”一声被粗暴踹开，巨大的冲击力震得墙面尘土簌簌掉落。一名身材壮实的村民甲单手拎着半尺长的雪亮菜刀，刀刃反光刺得团团睁不开眼，村民甲大步跨过猪圈门槛，目光死死锁定角落里无处可逃的小猪团团，脚步急促地直冲过来，高举菜刀，胳膊发力就要朝着团团的身躯劈砍而下。",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "生死一线，刀锋距离团团仅有半步之遥，团团根本没有后退躲避的空间，此刻团团面前仅有两条生路可供选择，每一个选择都会导向截然不同的命运。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "铁头功挡刀"
+        },
+        {
+          "nextId": "scene_21",
+          "label": "屁股夹菜刀"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "千钧一发之际，团团来不及多想，求生的本能压过心底的胆怯。团团后腿猛地蹬紧地面",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "全身肥肉紧绷，收拢脑袋，卯足全部力气",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "直直朝着村民甲握着菜刀的手臂狠狠撞上去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "“咚 ——” 一声沉闷厚重的碰撞声响炸开。团团坚硬的猪额头狠狠撞上村民甲的手腕，巨大的冲撞力顺着手臂传遍村民甲全身。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "村民甲手中的菜刀 “哐当” 脱手砸在稻草堆里",
+        "soundEffects": "scenes\\audio\\mofa3.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "村民甲整个人被冲击力震得重心不稳，踉跄着连续后退五六步",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "后背重重撞在猪圈土墙上，疼得他闷哼一声，手腕发麻完全使不上力气。",
+        "soundEffects": "scenes\\audio\\nanrencanjiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "团团抓住这转瞬即逝的空档，不敢有半分停留，立刻转身朝着猪圈后方的木质围栏狂奔而去，顺利躲开致命一刀，成功解锁猪圈逃生主线。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "小猪团团不敢回头观望身后的动静，拼尽全力冲到猪圈后方的木质围栏边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "半人高的木头围栏拼接缝隙宽大，稻草、枯枝堆放在围栏左侧墙角，一边是隐蔽的干草堆，一边是毫无遮挡的栏杆，两条逃离路线摆在团团眼前，必须快速选定路线，身后被撞懵的村民甲已经缓过劲，脚步声正在快速逼近。土墙外其他村民的呼喊声越来越近。",
+        "soundEffects": "scenes\\audio\\zoulusheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0019.webp",
+        "dubbing": "scenes\\audio\\Villager A00003.mp3",
+        "text": "它往围栏那边跑了！快堵住！",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "嘈杂的脚步声从四面八方围拢过来，留给团团思考的时间不足十秒，稍有迟疑就会被合围困住。团团大口喘着粗气，粉色的肚皮剧烈起伏，汗水混着泥土沾满皮毛，心脏砰砰狂跳，它看向眼前两条截然不同的逃生路径，",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "做出自己的抉择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_27",
+          "label": "躲干草后面"
+        },
+        {
+          "nextId": "scene_32",
+          "label": "跨栏杆逃跑"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0022.webm",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "慌乱之下团团脑子一片空白，错判了阻拦的方式。团团没有选择正面冲撞，反而扭动圆滚滚的身躯，撅起肥大的屁股朝着刀刃凑过去，妄想用肥厚的皮肉夹住菜刀，阻止对方劈砍。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "可团团动作笨拙迟缓，肥肉拖累了身体灵活度，团团的屁股还没碰到刀刃，村民甲就顺势伸手一把攥住团团的后颈皮。团团四肢胡乱蹬踏挣扎，却根本挣脱不开成年人有力的手掌。村民甲捡起地上的菜刀",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "冷笑一声拎起小猪。",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0024.webp",
+        "dubbing": "scenes\\audio\\Villager A00004.mp3",
+        "text": "还敢乱动，正好，今晚就把你处理成烤乳猪。",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "画面暗下",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "浮现文字提示：你选择用屁股夹住菜刀，操作失误被当场抓获，小猪变成烤乳猪，剧情回溯至第一章猪圈危机起点，请重新做出选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "铁头功挡刀"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "过度恐慌的团团第一反应是藏起来，团团立刻转身一头扎进左侧堆积如山的干草堆里，拼命扒拉稻草盖住自己的身体",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "团团只觉得只要看不见村民，村民就找不到自己。团团体型肥胖，团团短小的四肢根本没法把庞大的身躯完全埋进干草，团团大半截圆滚滚的屁股高高翘在稻草外面，粉色皮肉在枯黄干草的衬托下格外扎眼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "追来的村民甲一眼就看见草堆里突兀露出的猪屁股，村民甲几步上前伸手揪住团团的耳朵把它从草堆里拽了出来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "团团拼命蹬腿挣扎，稻草散落一地，团团依旧逃不出村民甲的手掌。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "画面暗下，浮现文字提示：你躲进干草堆却暴露屁股，被村民一眼识破抓获，小猪变成烤乳猪，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "soundEffects": "scenes\\audio\\dahuoranshao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_32",
+          "label": "跨栏杆逃跑"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "团团短暂观察后立刻明白，躲藏根本行不通，干草堆遮挡不住自己肥胖的身体，与其原地等死，不如直接翻越围栏冲出猪圈。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "团团不再犹豫，调转身体正对木质栏杆，压低重心蓄力，四条短腿同时发力冲刺，直奔围栏而去，顺利开启第三章栏杆逃离选择剧情。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "团团冲到围栏跟前，粗糙的木栏杆横亘身前，栏杆之间留有窄窄的长条缝隙，缝隙宽度仅能容纳小型家禽穿过，而栏杆整体高度适中，只要发力跳跃就能直接翻越。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "团团身后村民甲的怒吼声近在咫尺，甚至能听见村民甲奔跑时鞋底摩擦地面的沙沙声响，两条出逃方式摆在团团面前，每一条都关乎团团能否顺利逃出猪圈。",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "团团抬头打量栏杆，一边是狭窄缝隙，一边是完整栏杆，团团快速权衡两种出逃方式的利弊，做出选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_37",
+          "label": "钻栏杆缝隙"
+        },
+        {
+          "nextId": "scene_46",
+          "label": "跨栏杆跳过"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "团团心存侥幸，觉得钻缝隙不需要大幅度跳跃，不容易发出声响，不会吸引更多村民注意。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "团团侧过身子，使劲往狭窄的木缝里挤压，前半身勉强挤进缝隙，团团肥厚宽大的臀部死死卡在两根木头中间，团团前后动弹不得。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "团团前腿伸在围栏外侧，团团后腿还留在猪圈内部，团团腰部被木栏杆紧紧勒住，无论团团往前拱还是往后退都纹丝不动。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "团团急得不停哼唧，四肢胡乱扑腾，稻草碎屑沾满团团全身，团团却丝毫无法挣脱栏杆的束缚。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "没过几秒，村民甲就追到围栏边，村民甲看着卡在栏杆里动弹不得的小猪，轻松伸手将团团抱了出来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "团团彻底失去逃跑机会。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "画面暗下，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "浮现文字提示：你试图从栏杆缝隙钻出，屁股被卡住无法脱身，被赶来的村民抓获，小猪变成烤乳猪，剧情回溯至第一章猪圈危机起点，",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "跨栏杆跳过"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "团团放弃钻缝隙的想法，双腿弯曲蓄力",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "后腿猛地蹬地，整只小猪腾空跃起",
+        "soundEffects": "scenes\\audio\\dianshikatong.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "在空中划过一道胖乎乎的弧线",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "稳稳落在猪圈外侧的泥土路面上",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "团团落地后不敢停留，立刻向前狂奔",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "身后追赶的村民甲心急如焚，只顾着盯着团团的背影猛冲，没有留意脚下地面堆积的猪粪泥潭，脚下一滑，整个人失去平衡，直直摔进臭气熏天的粪坑之中，狼狈不堪。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "团团跑出猪圈数十米，停下脚步回头观望。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "土路边的粪坑浑浊发黑，漂浮着腐烂秸秆与粪便，村民甲浑身沾满污秽，半个身子陷在坑底，双手胡乱扒拉坑边泥土，好几次想要爬上来都再次打滑摔回去，嘴里不断发出狼狈的哀嚎，身上散发着刺鼻难闻的臭味。",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "此刻团团内心陷入纠结。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "就在几分钟前，村民甲还拎着菜刀想要把团团做成烤乳猪，是团团的生死仇敌；可眼下村民甲身陷泥潭，随时可能呛到脏水受伤，团团放任不管实在于心不忍。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "一边是肆意嘲讽发泄团团心中的恐惧与怨气，一边是放下恩怨出手相助，两种选择带来完全相反的结局，团团看着粪坑里挣扎的村民甲，做出决定。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_57",
+          "label": "嘲笑村民"
+        },
+        {
+          "nextId": "scene_63",
+          "label": "救村民洗净"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "想起刚才菜刀劈来的致命瞬间，团团心中积攒的恐惧与愤怒瞬间爆发，团团站在路边抬起前蹄，指着粪坑里的村民",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "仰头放声大笑，发出一连串得意又嘲讽的哼哼声，丝毫没有顾及对方窘迫危险的处境。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "刺耳的嘲笑声彻底点燃了村民甲的怒火，村民甲强忍身上污秽带来的不适，拼尽全力手脚并用爬出粪坑",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "顾不上清理身上脏污，红着眼睛朝着团团狂奔而来。团团来不及逃跑，被满身臭味的村民甲一把抱住，彻底失去逃生机会。",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "画面暗下，浮现文字提示：",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "你嘲笑落难村民彻底激怒对方，被对方抓住，小猪变成烤乳猪，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_63",
+          "label": "救村民洗净"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "团团心底善良，放下之前村民甲持刀追捕自己的恩怨，不忍心看着村民甲困在粪坑受伤。团团跑到坑边",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0064.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "用脑袋顶住村民甲的手臂",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "一点点借力将村民甲从泥潭里拖拽出来",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "村民甲浑身恶臭，满身脏污难以行动，团团又带着村民甲走到不远处的小河浅滩，团团用脑袋推着水流冲刷村民甲身上的粪便，来回反复冲洗许久。",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "村民甲看着不计前嫌救助自己的小猪团团，内心充满愧疚与感动，原本一心抓捕小猪做烤乳猪的念头彻底消散，村民甲蹲下身轻轻抚摸团团的脑袋。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0068.webp",
+        "dubbing": "scenes\\audio\\Villager A00005.mp3",
+        "text": "是我差点害了你，你救了我一命，从今往后我护送你逃亡，保护你不被其他村民抓住。",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "村民甲和团团这一人一猪就此结成临时伙伴，结伴开启逃亡之路，进入第五章避难地点抉择剧情。村民甲带着团团躲进路边灌木丛，远处村落里其他村民的搜寻叫喊声此起彼伏，大批村民拿着棍棒、菜刀沿路搜查，村民甲和团团随时可能被搜寻队伍发现，必须立刻寻找一处隐蔽场所暂时躲藏，避开大范围搜捕。",
+        "soundEffects": "scenes\\audio\\yilun.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "村民甲和团团面前摆着两个避难选择：幽深偏僻的后山森林，或是村民甲自家闲置的独居小屋。村民甲主动向团团介绍两处地点的利弊，等待团团做出最终决定。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "后山森林草木茂密，能够遮挡视线，但时常有野兽出没；村民甲家的闲置独居小屋藏在村落边角，极少有村民登门，隐蔽安全，存有干粮水源，适合短期休整。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "团团看向远处黑压压的山林，又看向村落角落低矮的小屋，仔细权衡风险，做出选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_73",
+          "label": "躲进森林"
+        },
+        {
+          "nextId": "scene_85",
+          "label": "躲进村民家"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "团团认为村落里全是想要抓捕自己的村民，待在村子周边风险太高，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "果断提议躲进后山森林，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "村民甲拗不过小猪，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "只能跟着它一同钻进山林深处。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "森林里古树参天，杂草没过四肢，光线昏暗阴冷，村民甲与同行者刚走出去百余米",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "草丛中突然传来低沉凶狠的狼嚎",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "一头体型壮硕的大灰狼猛地从灌木丛中跃出",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "大灰狼翠绿的眼睛死死锁定肉质肥嫩的小猪团团，径直扑向小猪团团",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0083.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "村民甲赤手空拳根本无力阻拦猛兽，只能眼睁睁看着大灰狼叼走小猪团团",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "画面暗下，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "浮现文字提示：你选择躲进森林，遭遇爱吃乳猪的大灰狼，小猪被捕获变成烤乳猪，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_85",
+          "label": "躲进村民家"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "团团认真思考后，明白森林存在野兽致命隐患，当即同意跟随村民甲前往他家躲藏。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "团团和村民甲压低身形，沿着村落围墙边角悄无声息穿梭，避开沿路搜寻的村民，顺利抵达村落最边缘一间独立土屋。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "小屋门窗严实，外围有篱笆围挡，极少有人前来串门，屋内储存着粗粮、清水，还有可供休息的干草床铺，完美满足短期躲藏休整需求。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "团团和村民甲关好门窗，拉上破旧麻布窗帘，暂时隔绝外界搜寻，安稳躲过白天的搜捕，剧情推进至第六章深夜敲门声抉择。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "天色彻底沉入黑夜，一轮残月挂在天边，村落里的搜寻声响渐渐平息，大部分村民结束搜查回家休息。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "小屋内安静昏暗，团团和村民甲紧绷了一整天的神经终于放松下来，两人靠在墙角短暂休息，身体疲惫不堪。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "团团连续躲藏赶路没有进食，肚子饿得咕咕作响",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "村民甲翻遍屋内储物角落，发现储存的干粮早已吃完，屋内没有任何可以充饥的食物，团团和村民甲只能硬扛饥饿。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "就在团团和村民甲闭目休整、身心俱疲之时，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "屋外突然响起急促厚重的敲门声，“咚咚咚” 的敲击声力道十足，伴随着门外人高声呼喊，寂静的深夜里格外刺耳。",
+        "soundEffects": "scenes\\audio\\yongliqiaomensheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "屋内的团团和村民甲瞬间高度警惕，此刻有两种应对方式：紧闭房门假装屋内无人，或是鼓起勇气开门查看门外来人身份，两种选择带来完全不同的结果。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_96",
+          "label": "不开门"
+        },
+        {
+          "nextId": "scene_107",
+          "label": "开门查看"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "团团担心门外是前来搜捕小猪的村民，吓得浑身发抖，死死顶住木门，全程不回应门外的呼喊",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "连忙示意村民甲不要出声",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "门外的人敲了许久不见应答，便转身离开",
+        "soundEffects": "scenes\\audio\\qiaomensheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "危机暂时解除，可新的难题接踵而至",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "屋内没有任何食物补给，团团饥饿感持续加剧，团团从深夜饿到次日黄昏，整整一天滴水、粮食都没有摄入，团团因长途逃亡本就消耗巨大",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "最终团团体力彻底透支，眼前一黑直直晕倒在地面",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "等到其他村民偶然路过小屋，其他村民发现昏迷的小猪",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "直接将小猪带走做成烤乳猪",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "画面暗下，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "浮现文字提示：你紧闭房门拒绝开门，断粮后体力不支饿晕，被村民抓获，小猪变成烤乳猪，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_107",
+          "label": "开门查看"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0109.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "团团强压心底的恐惧，和村民甲对视一眼",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "决定开门探明来人身份",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0111.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "村民甲缓慢拉开木门，门外站着一名手提多层食盒的外卖员",
+        "soundEffects": "scenes\\audio\\mumentuikaisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "外卖员听闻附近村民家有人需要送餐，连夜赶路送来满满一桌美食",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "杂粮窝头、新鲜果蔬、清水肉汤，全部都是适合一人一猪食用的食物",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "团团与同行的伙伴欣喜万分，当即敞开肚子饱餐一顿",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "充足的食物快速补充两人流失的体力",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "团团与同行的伙伴吃饱喝足后，铺好干草安稳入睡，一夜无梦好好休整",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "等到第二日天亮，两人开始详细规划彻底逃离村落的长远路线，进入第七章终极逃亡目的地选择剧情",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "经过一夜充足休整，团团体力完全恢复，团团再也不愿停留在这座人人觊觎烤乳猪的南方村落，必须前往一处永远不会有人抓捕、烤制自己的地方，彻底摆脱被送上烤架的命运。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "村民甲翻阅自己多年走南闯北听闻的各地风俗，给团团提供两个逃亡目的地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "第一个目的地是广州，广州距离本地路程适中，交通便利，城市繁华热闹，可当地民俗特殊，每逢清明祭祖，家家户户必备烤乳猪作为祭祀贡品，全城市场、餐馆都大量售卖烤乳猪，活猪极易被当地人盯上抓捕。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "第二个目的地是新疆，新疆地域辽阔遥远，跨越千里山河，当地民俗没有食用猪肉的习惯，不存在烤制乳猪的需求，是唯一能让小猪安稳生活、获得永久自由的安全之地，唯一难点是路途遥远，出行消耗巨大体力。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0122.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "团团听完两处地点的利弊介绍，认真思索未来长久的生存问题，做出属于自己的终极目的地选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_121",
+          "label": "逃往广州"
+        },
+        {
+          "nextId": "scene_130",
+          "label": "逃往新疆"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "团团贪图路程更近、城市繁华，忽略当地祭祖习俗，敲定前往广州逃亡。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00116.mp3",
+        "text": "团团和猪简单收拾行李",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.mp3",
+        "text": "动身赶往广州地界。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.mp3",
+        "text": "恰逢清明时节，广州街头随处可见售卖烤乳猪的商铺，家家户户采购生猪",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.mp3",
+        "text": "准备烤制祭祖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.mp3",
+        "text": "团团刚踏入城区，肥硕的小猪外形瞬间吸引全城百姓注意",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.mp3",
+        "text": "男女老少纷纷围堵上来，全城展开追捕。团团无处躲藏，最终被商户抓住，清洗腌制后",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.mp3",
+        "text": "挂上烤炉，成为清明拜山专用烤乳猪。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00123.mp3",
+        "text": "画面暗下，浮现文字提示：你选择逃往广州，恰逢清明全城搜寻生猪做烤乳猪，小猪沦为祭祀食材，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_130",
+          "label": "逃往新疆"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00124.mp3",
+        "text": "团团深思熟虑，明白短暂的便利比不上长久安稳的自由，果断选择远赴千里之外的新疆。哪怕路途遥远、行程艰苦，只要抵达当地，团团就再也不用担心被抓捕烤制，彻底摆脱烤乳猪的宿命。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.mp3",
+        "text": "村民甲十分认可这个决定，团团与村民甲当即开始规划长途出行方案，收拾简易行李干粮，进入第八章出行方式抉择剧情。确定前往新疆的长远目标后，两人打包充足干粮、清水、简易御寒衣物，准备正式动身出发。千里路途遥遥，有两种截然不同的出行方式可供选择，各有优劣，团团需要做出决定。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.mp3",
+        "text": "第一种出行方式：乘坐飞机。速度极快，短短数小时就能跨越千里抵达新疆，全程不用风吹日晒、徒步跋涉，节省大量体力，唯一限制是机场安检严格，活体动物通行有着明确规定。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.mp3",
+        "text": "第二种出行方式：全程徒步。不受交通安检规则限制，沿途可以随时停下休息、寻找水源食物，自由度极高，但全程依靠四肢行走，翻山越岭穿越戈壁，路程漫长，极其考验耐力与意志力。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.mp3",
+        "text": "团团对比两种出行方式的优缺点，权衡途中风险，选定出行方案。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_135",
+          "label": "坐飞机"
+        },
+        {
+          "nextId": "scene_141",
+          "label": "徒步前往"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.mp3",
+        "text": "团团想要快速抵达新疆，不愿承受徒步的辛苦，决定选择飞机出行。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.mp3",
+        "text": "村民甲带着小猪赶往机场，办理登机手续时，安检工作人员拦下两人。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0147.webp",
+        "dubbing": "scenes\\audio\\Security Check Staff00000.mp3",
+        "text": "活猪无法通过机场安检，禁止随身带上",
+        "characterImage": "scenes\\images\\securitycheckstaff tou.webp",
+        "characterName": "Security Check Staff"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0148.webp",
+        "dubbing": "scenes\\audio\\Security Check Staff00001.mp3",
+        "text": "飞机，也不允许单独托运活体生猪。",
+        "characterImage": "scenes\\images\\securitycheckstaff tou.webp",
+        "characterName": "Security Check Staff"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.mp3",
+        "text": "工作人员联系货运通道，直接将小猪归类为生鲜货物，安排冷链运输，抵达目的地后直接转交当地餐馆，加工做成烤乳猪。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.mp3",
+        "text": "画面暗下，浮现文字提示：你选择坐飞机前往新疆，活猪无法通过安检，被当作生鲜货物运送加工，小猪变成烤乳猪，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_141",
+          "label": "徒步前往"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.mp3",
+        "text": "团团得知活体动物无法搭乘飞机后，放弃快捷的航空出行，下定决心脚踏实地徒步奔赴新疆。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.mp3",
+        "text": "村民甲十分佩服团团的勇气，陪同团团走出村落数十公里，走到分岔路口，前方戈壁山路无法同行，村民甲家中尚有家人需要照料，只能在此告别。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.mp3",
+        "text": "两人互相道别，村民甲再三开口叮嘱团团。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0154.webp",
+        "dubbing": "scenes\\audio\\Villager A00006.mp3",
+        "text": "路上注意野兽、小心路人。",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.mp3",
+        "text": "团团独自背着简易干粮包裹，孤身踏上漫长徒步路线。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0156.webp",
+        "dubbing": "scenes\\audio\\Villager A00007.mp3",
+        "text": "我们同意走深山路线，现在就准备行李吧。但前往新疆路途遥远路线复杂，你不认识路，需要选择导航软件规划路线。",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet17_6",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0157.webp",
+        "dubbing": "scenes\\audio\\Villager A00008.mp3",
+        "text": "你认为用高德地图好还是用百度地图？",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet17_7",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0158.webp",
+        "dubbing": "scenes\\audio\\Tuantuan00000.mp3",
+        "text": "我倾向于高德地图，它对深山复杂路线的规划更准确，能显示哪里可以补充野果打猎，让我们支持十天左右。小镇太危险，那些骗子的样子太狠毒了，我忘不了。我们用它彻底规划山路，摆脱被抓捕。你同意吗？",
+        "characterImage": "scenes\\images\\tuantuan tou.webp",
+        "characterName": "Tuantuan"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet17_8",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0159.webp",
+        "dubbing": "scenes\\audio\\Villager A00009.mp3",
+        "text": "同意，我听你的。就用高德地图，现在我们下载它来规划避开小镇的路径。我刚才被敲门声吓坏了，现在心定了，不会改变主意。但愿这个选择让我们安全到达，不会遇上野兽或没地方落脚的情况。",
+        "characterImage": "scenes\\images\\villagera tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet17_9",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0160.webp",
+        "dubbing": "scenes\\audio\\Tuantuan00001.mp3",
+        "text": "好，那就选高德地图规划路线。希望我们能顺利抵达新疆，彻底摆脱那些人的追踪。",
+        "characterImage": "scenes\\images\\tuantuan tou.webp",
+        "characterName": "Tuantuan"
+      },
+      "branches": [
+        {
+          "nextId": "scene_151",
+          "label": "Google地图"
+        },
+        {
+          "nextId": "scene_154",
+          "label": "高德地图"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.mp3",
+        "text": "团团随手点开 Google 地图，完全看不懂屏幕上密密麻麻的外文文字，无法分辨前进方向、岔路转弯提示，只能凭着模糊画面胡乱赶路。",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00138.mp3",
+        "text": "导航指引完全错乱，团团一路偏离主干道，误闯深山农户的农家大院，农户看见独自赶路的肥小猪，直接将其关进后院铁笼，准备腌制烤制烤乳猪。",
+        "soundEffects": "scenes\\audio\\jixieshiguanmen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.mp3",
+        "text": "画面暗下，浮现文字提示：你选用外文 Google 地图看不懂指引，走错路线误入农户家中，小猪变成烤乳猪，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_154",
+          "label": "高德地图"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet19_0",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.mp3",
+        "text": "团团熟练地打开高德地图，设置好避开人群与小镇的深度徒步模式。地图清晰标注出水源地、浆果丛以及可以隐蔽休息的山洞。",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet19_1",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0172.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.mp3",
+        "text": "在这款专业导航的指引下，团团避开了所有的危险关卡。团团翻越重重高山，穿过荒凉的戈壁滩，虽然历经千辛万苦，甚至多次险些被野兽袭击，但凭借高德地图提供的精确补给点指引，团团始终保持体力，一路向西。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet19_2",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.mp3",
+        "text": "历时数月，团团终于跨越千里地平线，踏入了新疆广袤的土地。这里有着连绵的雪山与无际的草场，民风淳朴，没有人对团团有任何食欲，甚至有当地牧民主动给团团喂食青草。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet19_3",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.mp3",
+        "text": "团团看着远处蓝天白云，感受着自由的风，团团彻底摆脱了烤乳猪的命运，在新疆开启了属于它的小猪悠闲生活。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "打车前往"
+        },
+        {
+          "nextId": "scene_162",
+          "label": "求助路人"
+        },
+        {
+          "nextId": "scene_166",
+          "label": "坚持赶路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet20_0",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0178.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.mp3",
+        "text": "团团撑着发软的四肢，走到路边停下休息，看见远方走来一队赶路",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet20_1",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.mp3",
+        "text": "的路人，连忙上前发出哼哼声，示意自己体力透支想要借地休整。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet20_2",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.mp3",
+        "text": "团团走近后才发现，这群路人正是前往新疆采购食材的广州商户，这些广州商户平日里专门收购生猪制作烤乳猪，看见肥硕的团团当场大喜，直接拿出绳索将团团捆绑带走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet20_3",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.mp3",
+        "text": "画面暗下，浮现文字提示：你向路人求助，对方是爱吃烤乳猪的广州商户，小猪被当场抓获，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_162",
+          "label": "求助路人"
+        },
+        {
+          "nextId": "scene_166",
+          "label": "坚持赶路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet21_0",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0183.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.mp3",
+        "text": "团团撑着发软的四肢，走到路边停下休息，看见远方走来一队赶路",
+        "soundEffects": "scenes\\audio\\xingjun.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet21_1",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.mp3",
+        "text": "的路人，连忙上前发出哼哼声，示意自己体力透支想要借地休整。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet21_2",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.mp3",
+        "text": "团团走近后才发现，这群路人正是前往新疆采购食材的广州商户，这群平日里专门收购生猪制作烤乳猪的广州商户看见肥硕的团团当场大喜，直接拿出绳索将团团捆绑带走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet21_3",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.mp3",
+        "text": "画面暗下，浮现文字提示：你向路人求助，对方是爱吃烤乳猪的广州商户，小猪被当场抓获，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "打车前往"
+        },
+        {
+          "nextId": "scene_166",
+          "label": "坚持赶路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet22_0",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.mp3",
+        "text": "团团明白求助、搭车都会带来致命危险，唯有依靠自己才能活下去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet22_1",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.mp3",
+        "text": "团团深吸一口气，揉搓酸痛的四肢，依靠沿途野草、山泉补充基础能量，咬紧牙关不停向前行走。",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet22_2",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.mp3",
+        "text": "日复一日的长途徒步不断锤炼团团的身躯，团团原本胖乎乎的肥肉慢慢转化为紧实强壮的肌肉，短小四肢充满爆发力，身躯线条硬朗，团团彻底蜕变成为一身腱子肉的肌肉猛猪，体能、力量大幅提升，普通野兽根本无法伤害团团。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet22_3",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.mp3",
+        "text": "团团穿过戈壁滩，前方出现最后一片阻隔道路的茂密森林，穿过这片森林就能正式踏入新疆地界，团团整理行装，走进森林，触发第十一章大灰狼对决抉择剧情。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet22_4",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0194.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.mp3",
+        "text": "进化成肌肉猛猪的团团身形健壮，浑身充满力量，翻山越岭毫不费力，仅剩最后一片横亘前路的原始森林，穿过林地边界，就能抵达心心念念的新疆，彻底摆脱烤乳猪的命运。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet22_5",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.mp3",
+        "text": "林间草木茂密，参天大树遮挡阳光，地面枯枝落叶厚厚一层，行走时发出沙沙轻响。团团稳步向前行进，刚走到林地中段，两侧草丛突然剧烈晃动，一头体型巨大的大灰狼猛地纵身跃出，挡在道路正中央，锋利獠牙外露，凶狠低吼，死死盯着团团，想要将其捕食。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet22_6",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.mp3",
+        "text": "如今团团拥有一身强悍肌肉，拥有对抗猛兽的实力，但依旧存在两种应对方式，一是躲藏避让，二是正面迎战大灰狼，团团快速判断猛兽威胁，做出应对选择。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet22_7",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.mp3",
+        "text": "进化成肌肉猛猪的团团身形健壮，浑身充满力量，翻山越岭毫不费力，仅剩最后一片横亘前路的原始森林，穿过林地边界，就能抵达心心念念的新疆，彻底摆脱烤乳猪的命运。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet22_8",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.mp3",
+        "text": "林间草木茂密，参天大树遮挡阳光，地面枯枝落叶厚厚一层，行走时发出沙沙轻响。团团稳步向前行进，刚走到林地中段，两侧草丛突然剧烈晃动，一头体型巨大的大灰狼猛地纵身跃出，挡在道路正中央，锋利獠牙外露，凶狠低吼，死死盯着团团，想要将其捕食。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet22_9",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0198.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.mp3",
+        "text": "如今团团拥有一身强悍肌肉，拥有对抗猛兽的实力，但依旧存在两种应对方式，一是躲藏避让，二是正面迎战大灰狼，团团快速判断猛兽威胁，做出应对选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_176",
+          "label": "躲避大灰狼"
+        },
+        {
+          "nextId": "scene_179",
+          "label": "正面迎战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet23_0",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.mp3",
+        "text": "长久以来的恐惧刻在心底，即便进化成肌肉猛猪，团团第一反应依旧是躲藏避险。团团迅速侧身躲到粗壮树干后方，以为可以避开大灰狼视线。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet23_1",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0207.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.mp3",
+        "text": "大灰狼嗅觉敏锐，很快锁定团团躲藏位置，趁团团蜷缩身体、柔软臀部暴露在外的瞬间，大灰狼猛地飞扑上前死死咬住猪臀，团团无力挣脱，沦为大灰狼的食物，最终团团依旧没能抵达新疆，变相走向 “烤乳猪” 的悲剧结局。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet23_2",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00164.mp3",
+        "text": "画面暗下，浮现文字提示：你选择躲藏避让大灰狼，脆弱臀部被猛兽咬住，小猪遭遇不测，剧情回溯至第一章猪圈危机起点，请重新选择。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_179",
+          "label": "正面迎战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet24_0",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\huoliquankaizhandou.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0210.webp",
+        "dubbing": "scenes\\audio\\pangbai00165.mp3",
+        "text": "团团不再胆怯，一身强壮肌肉赋予团团对抗猛兽的底气。团团稳稳扎住四肢，绷紧全身肌肉，迎着大灰狼的扑击主动上前，两只粗壮前肢牢牢抓住狼身，借着徒步锻炼出的巨力狠狠向外一甩。",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet24_1",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\huoliquankaizhandou.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0210.webp",
+        "dubbing": "scenes\\audio\\pangbai00166.mp3",
+        "text": "巨大的抛射力直接将大灰狼甩向高空，冲破云层径直飞向火星，彻底消除前路唯一猛兽威胁。",
+        "soundEffects": "scenes\\audio\\jianshechu.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet24_2",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0212.webp",
+        "dubbing": "scenes\\audio\\pangbai00167.mp3",
+        "text": "林间再无阻碍，团团稳步穿过整片森林，踏出林地边界，眼前便是辽阔的新疆草原，正式解锁完美自由尾声。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet24_3",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0212.webp",
+        "dubbing": "scenes\\audio\\pangbai00168.mp3",
+        "text": "穿过森林边界的那一刻，迎面而来的是开阔无垠的新疆草原，蓝天白云铺展在天际，成群牛羊悠闲漫步，远处散落着特色民居，空气清新干爽，没有一丝村落里刺鼻的屠宰、烘烤气味。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet24_4",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00169.mp3",
+        "text": "团团停下脚步，环顾四周，团团心中积压数十天的恐惧、疲惫全部消散，团团漫长逃亡之路终于走到终点。团团一路历经猪圈菜刀危机、村民追捕、粪坑险境、荒野徒步、猛兽袭击，无数次濒临变成烤乳猪，靠着每一次正确抉择、永不放弃的坚韧意志，终于抵达安全之地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet24_5",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00170.mp3",
+        "text": "当地牧民远远看见这只身形健壮、浑身肌肉的小猪团团，十分好奇，纷纷上前询问团团的来历。团团简单讲述自己从南方村落一路闯关逃亡、躲避烤乳猪命运的全部经历，众人听完纷纷惊叹不已，由衷敬佩这只小猪顽强求生的勇气。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet24_6",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00171.mp3",
+        "text": "当地居民世代没有食用猪肉的习俗，所有人都不会伤害团团，反而十分善待这位远道而来的逃亡英雄。牧民为团团搭建温暖舒适的小屋，每日投喂新鲜牧草、瓜果、谷物，任由团团在草原上自由奔跑、散步、沐浴阳光。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet24_7",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00172.mp3",
+        "text": "这里没有菜刀、没有烤炉、没有村民追捕、没有觊觎团团的捕食者，团团不必再整日活在随时被宰杀的恐惧之中。团团清晨迎着朝阳漫步草原，傍晚躺在草地上看落日晚霞，闲暇时和牛羊结伴嬉戏，日子悠闲自在，无忧无虑。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet24_8",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00173.mp3",
+        "text": "当地居民十分推崇团团永不认输、绝境求生的精神，将团团视作守护自由的猪神，时常带着自家孩童前来和团团互动，讲述团团千里逃亡的传奇故事。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet24_9",
+      "excelSheetName": "Sheet24",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\qwbbckrz3_20260729204429_0215.webp",
+        "dubbing": "scenes\\audio\\pangbai00174.mp3",
+        "text": "往后漫长岁月，团团永久定居在辽阔新疆，彻底斩断沦为烤乳猪的悲惨宿命，凭借自己的选择与坚持，收获一生安稳、永久自由，达成故事唯一完美结局。",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

@@ -1,0 +1,4875 @@
+{
+  "uid": "skbc2126js_20260729102352",
+  "name": "时空本草：2126救赎合成导入表程序表格式",
+  "token": "U2FsdGVkX18AIHl9PonV7Of46WXJNIJ+MId4oFRe0EstvIAPYjvigUbx+7zuTkV4tqUMdCKIdFnlxmSZ9/Kn4Z4SsFxc+bB7LycxiiLLDi8=",
+  "cover": "scenes\\images\\skbc2126js_20260729102352_0001.webp",
+  "version": "20260729-2304",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0001.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00000.mp3",
+        "text": "大家终日佩戴面具压抑失控情绪",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0002.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00001.mp3",
+        "text": "我看着社会一天天崩塌",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0003.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00002.mp3",
+        "text": "到处是因情绪爆发而争执的人群",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0004.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00003.mp3",
+        "text": "真是太可怕的。你有什么对策吗林茜？",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0005.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00000.mp3",
+        "text": "街上的人们因为无法控制情绪而互相伤害，曾经的秩序正在瓦解。但我没有放弃，在古籍中我发现了上古灵草的记录",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0006.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00001.mp3",
+        "text": "它或许能彻底解决情绪失控的问题。所以我打算自制一款沉浸式穿越游戏，去到明代寻找李时珍，求取那味灵药。你觉得这个计划可行吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "王芳声音颤抖着",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0008.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00004.mp3",
+        "text": "自制穿越游戏去找李时珍？听起来像天方夜谭，但如果你真的相信古籍，那也许是唯一的希望了。只是过程肯定充满危险，你真的要冒险吗？万一游戏出问题或者在明代遇到不测，我们可能就失去你了。",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "林茜点头",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0009.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00002.mp3",
+        "text": "是的，我知道风险很大，但我更知道如果不行动，我们就只能一直这样戴着面具生活下去，永远压抑自己的情感。古书不会骗人，李时珍是药王，他一定知道灵草的秘密。我已经开始准备了，希望你能理解并支持我。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "王芳最终叹息",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0010.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00005.mp3",
+        "text": "好吧，我支持你去做这件事。因为我也不想永远活在这种恐惧里。去吧，注意安全，找到灵草后快点回来。我们都等着你带来好消息，结束这疫病笼罩的日子。",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "林茜说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0011.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00003.mp3",
+        "text": "我会的，很快一切都会好起来的。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_14",
+          "label": "拜访科学家"
+        },
+        {
+          "nextId": "scene_20",
+          "label": "独自组装"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "林茜归来后立即找到顶尖王磊",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0013.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00000.mp3",
+        "text": "王磊，希望能和您合作搭建穿越游戏设备。",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0014.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00001.mp3",
+        "text": "您看这个方案行吗？我们一起努力肯定能成。",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0015.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00004.mp3",
+        "text": "不行，情绪病毒让我精神紊乱，我现在什么都想不了，更无法参与研发。你还是自己想办法吧，我已经废了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0016.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00002.mp3",
+        "text": "王磊，您别这样说好吗？您是顶尖的王磊，您的经验能指导我，我们不能放弃这个机会啊。请您帮帮我。",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0017.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00003.mp3",
+        "text": "帮不了，真的帮不了...我的头脑已是一片混乱，病毒控制了一切...你走吧。",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "branches": [
+        {
+          "nextId": "scene_20",
+          "label": "独自组装"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "回到二一二六年，林茜心中充满希望，林茜对李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0019.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00005.mp3",
+        "text": "先生，我不想寻求外援了。我要独自翻阅海量技术资料",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0020.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00006.mp3",
+        "text": "游走于废旧科技市场搜集零部件，然后自己设计和组装那穿越游戏装置。你支持我的决定吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0022.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00000.mp3",
+        "text": "姑娘，我支持你。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "林茜说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0024.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00007.mp3",
+        "text": "谢谢。我会投入所有时间研读那些复杂资料，在市场里仔细挑选每一个零部件，慢慢设计图纸并亲手组装。过程虽孤独但我充满动力，因为这是我的救赎之路。先生，在我需要时你还会指导我吧？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0025.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00001.mp3",
+        "text": "会的，保持信心。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_29",
+          "label": "高价采购"
+        },
+        {
+          "nextId": "scene_40",
+          "label": "分批调试"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "林茜感受到归来的平静与希望，向李时珍询问意见",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0027.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00008.mp3",
+        "text": "先生，我要用积蓄高价采购成套设备配件来加快我们的进度，你觉得呢？这能让组装大幅提前吗？我需要你的指导。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "李时珍开口回答道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0029.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00002.mp3",
+        "text": "姑娘，你的想法不错，尽管去做，我会一直陪着你。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "林茜接着开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0031.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00009.mp3",
+        "text": "谢谢先生，我采购完了，组装进度确实加快了很多。现在我要初次启动它了，你认为稳定吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "李时珍开口回应道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0032.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00003.mp3",
+        "text": "启动看看吧。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "林茜尝试启动设备后发现异常，慌乱地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0033.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00010.mp3",
+        "text": "启动……哎呀先生，不好了！稳定性极差，瞬间过载断电，硬件直接烧毁了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\dianliugongji.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0034.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00011.mp3",
+        "text": "我的积蓄都花光了，这让我很慌张，你说我们该怎么处理呢？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_40",
+          "label": "分批调试"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "在返回二一二六年之后，林茜稳定了情绪",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "对李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0036.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00012.mp3",
+        "text": "先生，我们成功了，我心里很平静，也充满希望。现在我想分批调试测试这个装置，你能帮我检查每个模块吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0037.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00004.mp3",
+        "text": "好的，我们从第一个开始，慢慢做，避免过载。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "林茜说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0039.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00013.mp3",
+        "text": "第一个模块测试完毕，很好。第二个我调试了四次才稳定。第三个也完成了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0040.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00005.mp3",
+        "text": "不错，我们要这样反复调试几次。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "林茜说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0041.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00014.mp3",
+        "text": "现在所有模块都没问题了，虚拟穿越游戏成功启动，意识通道连通明代时空。先生，我的心跳加速了，那边似乎有声音传来，我们的救赎之旅真的结束了吗，还是有新的开始？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "林茜接着说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0042.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00015.mp3",
+        "text": "我会的，很快一切都会好起来的。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "林茜话音刚落便启动装置，意识坠入通道。落地后四周是明代山林，林茜看见前方男子正在辨认草药，便快步上前。",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0044.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00016.mp3",
+        "text": "先生，请问您是李时珍吗？我专程跨越时空来找您。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "李时珍抬起头，眼中满是惊异。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0046.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00006.mp3",
+        "text": "在下正是李时珍。姑娘突然出现，衣着怪异，口音也不同，你究竟从何而来？为何直呼我名？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_17",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "林茜神色恳切地开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_18",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0048.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00017.mp3",
+        "text": "我从数百年后而来，那里的人们情绪彻底失控，像瘟疫一样互相伤害，秩序全崩了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_19",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0049.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00018.mp3",
+        "text": "古籍里记载上古灵草能根治这一切，您是药王，一定知道它的秘密。您愿意帮我吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_20",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "李时珍捋须沉思后开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_21",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0051.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00007.mp3",
+        "text": "听起来匪夷所思，但若真关乎救世，我不会袖手。你现在面临两个时间线分支，1532年我正备考科举，年轻气盛却忙于功名；1575年我正在编撰《本草纲目》，对药草钻研最深。你想落在哪个时期和我相遇？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_22",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "林茜赶紧开口询问。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet5_23",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0052.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00019.mp3",
+        "text": "如果选1532年，那时的您会放下书本先帮我找灵草吗？还是会因为科举压力直接拒绝我？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet5_24",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "李时珍开口答道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_25",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0053.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00008.mp3",
+        "text": "那时我虽醉心仕途，但对医药一往情深。若你把未来惨状讲给我听，或许我会暂缓考试陪你探寻。可那时世道不稳，你一个来历不明的女子，容易被官府盯上，你有把握说服我吗？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_26",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "林茜又开口询问。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_27",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0054.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00020.mp3",
+        "text": "那1575年呢？那时您经验最丰富，应该清楚灵草到底长在哪里、怎么用吧？我们能不能尽快找到它，让我立刻带回去救人？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_68",
+          "label": "1532年"
+        },
+        {
+          "nextId": "scene_75",
+          "label": "1575年"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "就在归来之际，时空却发生了偏移。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0056.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00021.mp3",
+        "text": "先生，通道带着我们穿越时空，但这里好像不是二一二六年，这书房好古老，我们落到哪里了？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0057.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00009.mp3",
+        "text": "姑娘，这里是一五三二年，我尚在备考科举，医术尚未大成。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0058.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00022.mp3",
+        "text": "那这灵草的解药您能为我配置吗？请您一定要帮帮我。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0059.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00010.mp3",
+        "text": "姑娘，我现在无力医治，这条线索失败了。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0060.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00023.mp3",
+        "text": "怎么会这样？我们历尽艰辛才得到灵草，就没有其他办法了吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0061.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00011.mp3",
+        "text": "很遗憾，姑娘，目前的我还不能胜任，或许我们需要寻找其他时空的线索。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_75",
+          "label": "1575年"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "李时珍正潜心行医，全力编撰本草纲目，精通百草。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "李时珍看到奇装异服的林茜到来，听完林茜的讲述后开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0064.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00012.mp3",
+        "text": "姑娘，你的故事我听明白了。从未来而来历经考验，如今落在一五七五年，莫要慌乱，你有何打算？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "林茜开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0065.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00024.mp3",
+        "text": "先生，通道本该带我回二一二六年，却因灵草能量把我送到这里。我很害怕，但您的声音让我安心。您能指导我如何继续这救赎吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "李时珍开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0066.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00013.mp3",
+        "text": "姑娘，当然。冷静下来，观察四周，告诉我所见。我会伴你左右，直到成功返回，完成心灵救赎。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "林茜开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0067.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00025.mp3",
+        "text": "先生，谢谢。我看到很多草药，也许是天意。有了您，我感觉希望重燃，我们一起面对吧。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_84",
+          "label": "坦白真相"
+        },
+        {
+          "nextId": "scene_91",
+          "label": "隐瞒秘密"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "返回二一二六年后，李时珍心生疑虑",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0069.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00014.mp3",
+        "text": "姑娘，我必须坦白，我很难相信你说的穿越和未来病毒真相。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0070.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00015.mp3",
+        "text": "我对你保持戒备，不愿轻易动身寻药。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0071.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00016.mp3",
+        "text": "这一切都太不可思议了。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0072.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00026.mp3",
+        "text": "先生，我理解。但请相信我，我向你坦白所有真相，那病毒真的在毁灭我们的世界。我从未来而来，没有任何理由欺骗你。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0073.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00017.mp3",
+        "text": "你的话有几分道理，但我仍心存疑虑。我们需要更多讨论，才能决定下一步。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0074.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00027.mp3",
+        "text": "是的，我们可以慢慢谈，我会回答你所有问题。希望这样能打消你的顾虑。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_91",
+          "label": "隐瞒秘密"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "归来之后，林茜的心虽充满平静与希望，却选择将时空的秘密深深隐瞒。林茜平静面对李时珍。李时珍没有过多质疑，只是满怀怜惜地说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0076.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00028.mp3",
+        "text": "林茜，这世间饱受病痛之人太多，我每当想起都心如胆绞。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0077.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00029.mp3",
+        "text": "你愿意现在就与我一同收拾药囊，深入群山采药救人吗？那些患者不能再等了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0078.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00018.mp3",
+        "text": "李时珍，我当然愿意。那些病人的模样让我也夜不能寐，我们该带哪些工具？山里情况复杂，我怕自己不懂会误事。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0079.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00030.mp3",
+        "text": "药囊已大致备好，只需再添些布袋和钩镰。你紧跟在我身侧，随时告诉我看到的草木和异常，我会一步步教你怎么分辨灵药。你的心意已让我安心许多。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0080.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00019.mp3",
+        "text": "好的李时珍，我听您的指导，不会乱来。能跟您这样李时珍一起做事，我觉得踏实极了。我们一定会采到好药，救回很多人的对吧？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0081.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00020.mp3",
+        "text": "正是如此。走吧林茜，群山在前，怜惜之心会指引我们避开险阻，完成这次采药。你的坚持让我相信，这次定能有所收获。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "李时珍点头",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0083.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00021.mp3",
+        "text": "姑娘，1575年我对药草研究最深，我们或能很快找到灵草。走吧。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "李时珍与林茜二人结伴走入群山，踏入这幻雾山道，这深山险境充满幻象，危机悄然潜伏。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0085.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00022.mp3",
+        "text": "你千万要保持警惕。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0086.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00031.mp3",
+        "text": "我知道了，我会紧跟在您身边。这雾好浓啊",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0087.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00032.mp3",
+        "text": "我们可能会看到什么幻境？是那些未来人们痛苦的画面吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0088.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00033.mp3",
+        "text": "您要一直告诉我真相，我怕自己分不清现实与虚幻。我们能快点穿过这里吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0089.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00023.mp3",
+        "text": "会的，但需步步小心。幻境会试探人心，你若动摇就危险了。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet9_15",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0090.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00024.mp3",
+        "text": "感觉到寒意了吗？那可能是它在靠近。记住我们的目标是灵草，它能救世。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet9_16",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0091.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00034.mp3",
+        "text": "是的，我的目标很坚定。但这山道好险，脚下像有东西在动。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_17",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0092.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00035.mp3",
+        "text": "先生，您觉得我们安全吗？危机真的潜伏着吗？请告诉我该怎么做。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_18",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0093.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00025.mp3",
+        "text": "稳住心神，跟我走。我们会成功的。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_19",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0093.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00036.mp3",
+        "text": "好的，我会稳住的。但这雾里好像有声音在叫我的名字，是真的吗？我们不能被它骗了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_20",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0093.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00026.mp3",
+        "text": "那是幻觉，忽略它。继续前进，灵草就在不远处等着我们。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "低调赶路"
+        },
+        {
+          "nextId": "scene_129",
+          "label": "主动问路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "林茜充满希望地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0095.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00037.mp3",
+        "text": "先生，归来后我们低调赶路进山吧，我心里还充满对未来的期盼，但要小心行事。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "李时珍开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0097.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00027.mp3",
+        "text": "是的姑娘，我们不提任何关于妖灵和灵草的话，保持平静。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "林茜开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0099.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00038.mp3",
+        "text": "你认为这样村民就不会误会我们吗？我担心他们听到只言片语。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "李时珍开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0100.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00028.mp3",
+        "text": "别怕，只要我们低声交谈就没事。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "林茜开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0101.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00039.mp3",
+        "text": "好的，我听你的，坚持下去。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "偷听到二人对话的村民大声喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0102.webp",
+        "dubbing": "scenes\\audio\\Ming Dynasty Village Villagers00000.mp3",
+        "text": "他们在散播妖言惑众！大家快来啊！",
+        "characterImage": "scenes\\images\\mingdynastyvillagevillagers tou.webp",
+        "soundEffects": "scenes\\audio\\yilun.mp3",
+        "characterName": "Ming Dynasty Village Villagers"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "林茜着急地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0103.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00040.mp3",
+        "text": "不是的乡亲，我们只是路过，没有恶意啊！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "村民们齐声开口喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0104.webp",
+        "dubbing": "scenes\\audio\\Ming Dynasty Village Villagers00001.mp3",
+        "text": "别听信，四处造谣去，把他们驱逐出村寨！",
+        "characterImage": "scenes\\images\\mingdynastyvillagevillagers tou.webp",
+        "characterName": "Ming Dynasty Village Villagers"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "就这样，林茜和李时珍二人被驱逐出村寨，进山路线受阻。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_143",
+          "label": "奋力反抗"
+        },
+        {
+          "nextId": "scene_151",
+          "label": "舍弃逃命"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "随着通道平静，众人返回了二一二六年，落在这荒凉山道上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "林茜喘息着开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0108.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00041.mp3",
+        "text": "李时珍这里怎么这么荒芜我们主动问路打探下情况吧我心里完全没底。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0109.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00029.mp3",
+        "text": "姑娘别慌我们正该如此前边有人你去问。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0110.webm",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "林茜迈步上前开口询问。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0111.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00042.mp3",
+        "text": "强盗请问这山路通往哪里最近城镇该怎么走呢？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "强盗从山中跳出，厉声喝道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0113.webp",
+        "dubbing": "scenes\\audio\\Qiang Dao00000.mp3",
+        "text": "问路打探我们山中土匪埋伏在此今日撞见你们两人正好实施劫掠快交出所有东西。",
+        "characterImage": "scenes\\images\\qiangdao tou.webp",
+        "characterName": "Qiang Dao"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "林茜吓得惊叫出声。",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0115.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00043.mp3",
+        "text": "啊你们是土匪我们只是想问路没有恶意啊李时珍他们要抢我们的东西。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "李时珍神色冷静开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0117.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00030.mp3",
+        "text": "诸位我们刚历经考验归来身无长物何必为难。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "强盗面露狞笑开口说道。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0119.webp",
+        "dubbing": "scenes\\audio\\Qiang Dao00001.mp3",
+        "text": "归来又如何有命就留钱否则死路一条。",
+        "characterImage": "scenes\\images\\qiangdao tou.webp",
+        "characterName": "Qiang Dao"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "低调赶路"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0120.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00044.mp3",
+        "text": "李时珍，这不对劲！你一定是幻境里的妖灵，我的心智彻底乱了，我们拿灵草不是为了这个吧？我要奋力反抗突围，不会再听你的指导跟你返回！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0120.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00031.mp3",
+        "text": "醒醒吧，我是来帮你的，我们已拿到灵草",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0121.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00032.mp3",
+        "text": "别这样反抗扭打，这是心智幻境在发作啊！你快停手！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0122.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00045.mp3",
+        "text": "假的！你想把我推下悬崖害死，我必须打倒你才能突围！意识越来越混乱，我只想反抗这一切！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0123.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00033.mp3",
+        "text": "别这样，我们不是敌人，是伙伴啊！一起坚持住，停下扭打，不然会双双掉下去的！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0124.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00046.mp3",
+        "text": "我看你全是怪物模样，我们扭打着...脚下已经没地了！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0125.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00034.mp3",
+        "text": "不，我们坠落悬崖了，这是坏结局啊！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "李时珍和林茜二人意识混乱扭打在一起，双双失足坠落悬崖，黑暗瞬间吞没了一切。",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_151",
+          "label": "舍弃逃命"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "林茜的声音带着哭腔响起",
+        "soundEffects": "scenes\\audio\\nvrenkuqi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0128.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00047.mp3",
+        "text": "先生，通道完全扭曲了，我们回不去啦！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0129.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00048.mp3",
+        "text": "这些物件太重，必须舍弃财物逃命啊，不然我们都会被吸进去的！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "李时珍急促回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0130.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00035.mp3",
+        "text": "姑娘，别怕，先把所有随身东西扔掉，轻装上阵才能跑得快。来，跟我继续往大山深处走，这里或许有生路。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "林茜一边丢下包裹一边喘息",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0132.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00049.mp3",
+        "text": "先生，扔了之后我轻松多了，可心里还是慌，这大山密林这么黑",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0133.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00050.mp3",
+        "text": "树枝像鬼手一样刮着衣服，我们会不会迷路啊？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0134.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00051.mp3",
+        "text": "你说我们这样逃，能不能活下来？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "李时珍低声鼓励",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0136.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00036.mp3",
+        "text": "姑娘，坚持住，我们有信念在，就不会轻易倒下。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0137.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00037.mp3",
+        "text": "看前面，那片藤蔓在动……天哪！那是一株巨型食人花，它的花冠足有房屋大小，瓣边缘满是倒刺，藤蔓正朝我们卷过来！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0138.webm",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "林茜惊恐大喊",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0139.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00052.mp3",
+        "text": "先生，它的花口张开了，里面好多黏液在滴，我们撞上它了！现在怎么办？我腿都软了，你快指导我，该攻击哪里才能脱身？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0140.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "李时珍说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0141.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00038.mp3",
+        "text": "姑娘，前面有巨大食人花拦在山路中央，花蕊之中暗藏凶险。你看清楚了吗？这是幻觉还是真实危机？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "林茜回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0143.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00053.mp3",
+        "text": "先生，我看到了，它好可怕。花瓣那么大，是要吃人吗？花蕊里有什么在动？我分不清这是不是幻境了。您告诉我真相吧，我怕被迷惑。我们的灵草之路要怎么继续？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "李时珍说",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0145.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00039.mp3",
+        "text": "稳住心神，这可能是真的。我们不能靠近花蕊，那里危险。忽略那些叫你名字的声音，跟紧我，从旁边绕行。你还坚定吗？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0146.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00054.mp3",
+        "text": "我坚定，但这雾太浓了。先生，它好像在朝我们靠近，是真的吗？如果被它吞了怎么办？请一直指导我，我需要您的声音对抗幻象。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0147.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00040.mp3",
+        "text": "会的，保持警惕。它试探人心，但我们目标明确。灵草不远，坚持下去就能成功。别看花蕊太久。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0148.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00055.mp3",
+        "text": "好的，我不看。但声音越来越大，叫我进去。先生，这是骗局对不对？我们安全吗？能快点穿过吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0149.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00041.mp3",
+        "text": "这是骗局，忽略它。继续走，我们会成功的。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_175",
+          "label": "浊气幻境"
+        },
+        {
+          "nextId": "scene_187",
+          "label": "腐蚀粘液"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0150.webm",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "林茜面露惊恐神色，大声呼喊",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0151.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00056.mp3",
+        "text": "李时珍，浊气喷出来了，它侵入我的意识，我的心神完全乱了",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0152.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00057.mp3",
+        "text": "你的样子变得好陌生，你为什么要攻击我，是不是想一个人完成救赎？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "李时珍神志混乱，开口回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0153.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00042.mp3",
+        "text": "林茜，你先攻击的我，你被幻境迷了心神",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0154.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00043.mp3",
+        "text": "我们都陷入疯狂幻境里了，互相猜忌了！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0155.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00058.mp3",
+        "text": "不，是你先动的手，你一直猜忌我，我也要攻击你来自保！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0156.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00044.mp3",
+        "text": "这是浊气造成的，我们不能互相攻击，停下来一起抵抗这幻境吧！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0157.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00059.mp3",
+        "text": "我抵抗不了，我只想消灭你这个突然变成的敌人！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0158.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00045.mp3",
+        "text": "我被迫还手了，但这不是我们的本意啊林茜，清醒一点！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet14_10",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0159.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00060.mp3",
+        "text": "少废话，接我的攻击吧！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet14_11",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "林茜与李时珍二人陷入疯狂幻境，互相猜忌，彼此发动攻击",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_203",
+          "label": "使用香囊"
+        },
+        {
+          "nextId": "scene_223",
+          "label": "忘记香囊"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0160.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00061.mp3",
+        "text": "先生，我伸手成功拿到灵草了！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0160.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00062.mp3",
+        "text": "但这妖灵却喷出腐蚀性粘液，不断泼洒，我们的身体在被侵蚀！你快指导我啊！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\jihuokejishebei.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "林茜慌张地喊道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0161.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00046.mp3",
+        "text": "姑娘，抱歉，现在指导也来不及了",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0161.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00047.mp3",
+        "text": "，这粘液威力太大，它不断泼洒，一旦被完全侵蚀，二人会化为白骨，这是坏结局。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "李时珍无奈道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0162.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00063.mp3",
+        "text": "先生，我的皮肤全在融化，骨头都快露出来了",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0162.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00064.mp3",
+        "text": "！你也一样吗？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0163.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00065.mp3",
+        "text": "我们就这么失败了？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0164.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00048.mp3",
+        "text": "是的姑娘，我全身都在被腐蚀，疼痛让我快说不出话。我们努力了但还是这个结局。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0165.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00066.mp3",
+        "text": "先生，我的心好乱，这是不是意味着我们的救赎失败了...我不想变成白骨...",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0166.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00067.mp3",
+        "text": "先生，我伸手成功拿到灵草了！但这妖灵却喷出腐蚀性粘液，不断泼洒，我们的身体在被侵蚀！你快指导我啊！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "林茜慌张地喊道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0167.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00049.mp3",
+        "text": "姑娘，抱歉，现在指导也来不及了，这粘液威力太大，它不断泼洒，一旦被完全侵蚀，二人会化为白骨，这是坏结局。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "李时珍无奈道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0168.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00068.mp3",
+        "text": "先生，我的皮肤全在融化，骨头都快露出来了！你也一样吗？我们就这么失败了？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_175",
+          "label": "浊气幻境"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "林茜带着颤抖的声音开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0170.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00050.mp3",
+        "text": "李时珍，我的心神快要完全乱了，这幻境太强了，请你继续指导我！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "李时珍开口对林茜说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_206",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0172.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00051.mp3",
+        "text": "姑娘，不要慌，取出清心香囊吧，它的香气可以净化迷瘴，帮助我们挣脱幻境。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0173.webm",
+        "dubbing": "scenes\\audio\\Lin Qian00069.mp3",
+        "text": "我明白了，我现在取出它。啊，香囊的香气散发出来，我感觉迷雾在消散",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0174.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00070.mp3",
+        "text": "那些幻象渐渐远去，我们终于挣脱幻境了！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet16_6",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0175.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00052.mp3",
+        "text": "做得好，现在继续向山巅前进吧，保持内心的平静。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet16_7",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "林茜充满希望地向李时珍提问。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet16_8",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0177.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00071.mp3",
+        "text": "好的李时珍，我看到远处山巅有发光的灵药，它发出柔和的光芒，好像在召唤我们。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet16_9",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0178.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00072.mp3",
+        "text": "我们能成功拿到它吗？这会是我们的救赎之路吧？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet16_10",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0179.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00053.mp3",
+        "text": "是的，林茜，那就是灵药所在。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet16_11",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0180.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00054.mp3",
+        "text": "让我们勇敢前进，一起完成这次重要的任务吧。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet16_12",
+      "excelSheetName": "Sheet16",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0181.webm",
+        "dubbing": "scenes\\audio\\Lin Qian00073.mp3",
+        "text": "李时珍，我们走过来后看到山巅谷地中发光灵药被无数黑色枯枝缠绕，那些枯枝正在缓缓蠕动",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet16_13",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0182.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00074.mp3",
+        "text": "黑木妖灵突然现身并发起攻击，那些枝条像活的一样向我们卷过来了！李时珍，它好可怕",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet16_14",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0183.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00075.mp3",
+        "text": "这是灵草的守护者吗？我们该如何是好？请快指导我！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet16_15",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0184.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00055.mp3",
+        "text": "林茜别怕，它确实是灵草守护者黑木妖灵。这是真实危机，我们要小心应对。保持冷静，从旁边绕行避开主要枝条的攻击。你还能坚定吗？",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet16_16",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0185.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00076.mp3",
+        "text": "我尽量坚定，李时珍。但它的攻击很激烈，枯枝从四面八方抽打过来，我看到黑木妖灵的躯体在枝条间显现",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\gongfugongji.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet16_17",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0186.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00077.mp3",
+        "text": "它在守护灵草不让我们靠近。我躲过了一次缠绕，但感觉越来越难了。这是考验吗？我们能拿到灵草吗？请您不要停下指导的声音！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet16_18",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0187.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00056.mp3",
+        "text": "这是考验，但我们会成功的。向右边移动，试着反击靠近的枝条。它的力量虽强，但我们有决心",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet16_19",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0188.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00057.mp3",
+        "text": "继续说你看到的情况，我会一直指导你的直到我们突破黑木妖灵的守护",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_231",
+          "label": "使用水枪"
+        },
+        {
+          "nextId": "scene_253",
+          "label": "使用火枪"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "通道剧烈扭曲中，林茜忽然感到一股阴冷浊气直钻心肺，林茜声音颤抖着开口发问。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0190.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00078.mp3",
+        "text": "先生，你感觉到了吗？这股气好重",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0191.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00079.mp3",
+        "text": "我们不是握着灵草在返回吗？为什么我眼前开始出现古代的宫殿和战场影子？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "李时珍神情急促，出声回应。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_227",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0193.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00058.mp3",
+        "text": "糟糕，我们忘记携带香囊了！那本该抵御浊气的护身物，我竟然没提醒你带上",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0194.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00059.mp3",
+        "text": "现在幻境要缠住我们了。你还能听到我吗？坚持住，别让那些古代画面吞噬你的意识。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_229",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet17_6",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0195.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "林茜面露惊慌之色，开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_230",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet17_7",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0196.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00080.mp3",
+        "text": "我忘了，我竟然完全忘了...",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_203",
+          "label": "使用香囊"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0197.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00060.mp3",
+        "text": "林茜保持冷静别慌张，现在立刻用水枪冲击黑木妖灵的主躯干",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_232",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0198.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00061.mp3",
+        "text": "水流会瞬间冻结它的躯体",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "soundEffects": "scenes\\audio\\guzhang.mp3",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_233",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0199.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00062.mp3",
+        "text": "你再一击就能让它碎裂，顺利夺取灵草，勇敢行动告诉我你看到什么。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_234",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet18_3",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0200.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00081.mp3",
+        "text": "李时珍我照你说的做了，水枪水流真的冻结了妖灵躯体",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet18_4",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0201.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00082.mp3",
+        "text": "它全身僵硬无法动弹，我趁机一击就让它彻底碎裂开来，现在我成功拿到灵草了",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\boliposui.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_236",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet18_5",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0202.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00083.mp3",
+        "text": "但灵草能量让时空通道立刻剧烈紊乱起来，一切都在震动扭曲，我们需要立刻返回二一二六年对吧？我心里害怕却同时感到救赎的轻松。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_237",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet18_6",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0203.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00063.mp3",
+        "text": "对林茜我们必须马上返回，握紧灵草跟我进入通道吧",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_238",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet18_7",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0204.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00064.mp3",
+        "text": "这不仅是空间转移更是心灵救赎，你的勇气令人敬佩，回去后所有努力都会有回报。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_239",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet18_8",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0205.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00084.mp3",
+        "text": "谢谢李时珍，现在通道带着我们穿越时空返回二一二六年，这次真的完成了救赎，我心充满平静和对未来的无限希望。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_240",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet18_9",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "林茜高声喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet18_10",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0207.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00065.mp3",
+        "text": "李时珍，我按你说的向右移动了，那些枯枝仍从四面八方疯狂卷过来，我反击了但还是很难，黑木妖灵的躯体显现了，它在全力守护灵草，我的心神快要完全乱了，我们究竟能成功拿到它吗？这真的是对我们的考验吗？请你继续指导我，我需要你的声音来稳定我的心！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_242",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet18_11",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "李时珍开口回应道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_243",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_243",
+      "sheetName": "Sheet18_12",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0209.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00066.mp3",
+        "text": "林茜，保持冷静不要慌张。它的力量虽强但我们有坚定的决心",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_244",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_244",
+      "sheetName": "Sheet18_13",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0210.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00067.mp3",
+        "text": "勇敢攻击它的主干部分，绕开次要枝条，告诉我你下一步看到的情况，我会一直指导你直到我们成功突破黑木妖灵的守护，拿到灵草完成这次救赎。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_245",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_245",
+      "sheetName": "Sheet18_14",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0211.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "林茜接着开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_246",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_246",
+      "sheetName": "Sheet18_15",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0212.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00085.mp3",
+        "text": "李时珍，听你的我击中了主干，那些枝条慢下来了，我看到灵草就在眼前，我伸手成功拿到灵草了！但是李时珍，灵草的能量让时空通道立刻剧烈紊乱起来，一切都在震动扭曲，我们需要立刻返回二一二六年对吧？",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_247",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_247",
+      "sheetName": "Sheet18_16",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0213.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00086.mp3",
+        "text": "我心里害怕但同时感到一种救赎的轻松。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_248",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_248",
+      "sheetName": "Sheet18_17",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0214.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00068.mp3",
+        "text": "对，林茜，我们必须马上返回二一二六年。握紧灵草跟我进入通道吧",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_249",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_249",
+      "sheetName": "Sheet18_18",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0215.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00069.mp3",
+        "text": "这归途不仅是空间的转移，更是心灵的救赎。你在过程中展现的勇气令人敬佩",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_250",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_250",
+      "sheetName": "Sheet18_19",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0216.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00070.mp3",
+        "text": "回到那里后你会发现所有努力都有了回报，我们一起成功回家，迎接新的生活。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_251",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_251",
+      "sheetName": "Sheet18_20",
+      "excelSheetName": "Sheet18",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0217.webm",
+        "dubbing": "scenes\\audio\\Lin Qian00087.mp3",
+        "text": "谢谢你李时珍，没有你我走不到这一步。现在通道已经带着我们穿越时空，我们正在返回二一二六年。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_252",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_252",
+      "sheetName": "Sheet18_21",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0218.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00088.mp3",
+        "text": "这次经历真的完成了我的救赎，信念和坚持让我们胜利，归来之后我的心充满了平静和对未来的无限希望。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_253",
+          "label": "使用火枪"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_253",
+      "sheetName": "Sheet19_0",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0219.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "林茜焦急地开口喊话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_254",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_254",
+      "sheetName": "Sheet19_1",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0219.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00071.mp3",
+        "text": "李时珍，虽然你让我保持冷静攻击主干绕开枝条，可我的心神乱了",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_255",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_255",
+      "sheetName": "Sheet19_2",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0220.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00072.mp3",
+        "text": "完全乱了，我要用火枪攻击黑木妖灵，你继续指导我该怎么控制它！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_256",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_256",
+      "sheetName": "Sheet19_3",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0221.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "李时珍神色紧张地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_257",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_257",
+      "sheetName": "Sheet19_4",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0222.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00073.mp3",
+        "text": "林茜，不行啊！火枪的火焰威力太大，很容易失控烧毁一切，千万别用，请听我的话！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_258",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_258",
+      "sheetName": "Sheet19_5",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0223.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "林茜开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_259",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_259",
+      "sheetName": "Sheet19_6",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0223.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00089.mp3",
+        "text": "但是我已经开了枪，火焰冲出来了！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shouqiang.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_260",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_260",
+      "sheetName": "Sheet19_7",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0224.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "李时珍开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_261",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_261",
+      "sheetName": "Sheet19_8",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0224.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00074.mp3",
+        "text": "糟糕，火焰失控，妖灵连同灵药一同被焚烧殆尽，寻药任务失败了，这真是个坏结局！",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_262",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_262",
+      "sheetName": "Sheet19_9",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0225.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "林茜开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_263",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_263",
+      "sheetName": "Sheet19_10",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0225.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00090.mp3",
+        "text": "李时珍，对不起，我太慌张了，现在一切都烧殆尽了，我们的救赎失败了！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_273",
+          "label": "告别回归"
+        },
+        {
+          "nextId": "scene_264",
+          "label": "逗留探讨"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_264",
+      "sheetName": "Sheet20_0",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0231.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "但在返回瞬间林茜却犹豫了，林茜对着李时珍开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_265",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_265",
+      "sheetName": "Sheet20_1",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0231.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00075.mp3",
+        "text": "李时珍，我有些逗留的想法，我们能暂停探讨一下这百草吗？它的药性能彻底救人类吗？请指导我全部细节。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_266"
+    },
+    {
+      "id": "scene_266",
+      "sheetName": "Sheet20_2",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0232.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00091.mp3",
+        "text": "林茜，通道已不稳，切莫再犹豫，我们必须马上返回。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_267",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_267",
+      "sheetName": "Sheet20_3",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0234.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00076.mp3",
+        "text": "李时珍，就一会儿吧，再说说它的用法和配方。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_268",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_268",
+      "sheetName": "Sheet20_4",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0236.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00092.mp3",
+        "text": "能清病毒之毒，但别耽搁了快走。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_269",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_269",
+      "sheetName": "Sheet20_5",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0236.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00077.mp3",
+        "text": "李时珍，它的来历和采集呢？我们再多讨论讨论。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_270"
+    },
+    {
+      "id": "scene_270",
+      "sheetName": "Sheet20_6",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0237.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00093.mp3",
+        "text": "通道开始崩塌，一切都晚了。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_271",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_271",
+      "sheetName": "Sheet20_7",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0237.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00094.mp3",
+        "text": "李时珍，这……",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_272"
+    },
+    {
+      "id": "scene_272",
+      "sheetName": "Sheet20_8",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0237.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "时空通道彻底崩塌，林茜被永远困在明代，再也无法返回未来，故土的人类永久沉沦在病毒灾难之中。这遗憾结局如噩梦般缠绕林茜，让林茜心中悔恨与悲凉久久不能平息。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_273",
+          "label": "告别回归"
+        }
+      ]
+    },
+    {
+      "id": "scene_273",
+      "sheetName": "Sheet21_0",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0222.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "通道剧烈震动终于平复，林茜紧握灵草睁开眼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_274",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_274",
+      "sheetName": "Sheet21_1",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0223.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00095.mp3",
+        "text": "李时珍，我们成功返回二一二六年了！",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_275",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_275",
+      "sheetName": "Sheet21_2",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0224.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "李时珍神色温和，开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_276",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_276",
+      "sheetName": "Sheet21_3",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0225.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00078.mp3",
+        "text": "是的，林茜。这是我们郑重告别的时刻。你拿着灵草去炼制解药，驱散那情绪病毒，拯救所有民众，实现圆满结局吧。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_277",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_277",
+      "sheetName": "Sheet21_4",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0226.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00096.mp3",
+        "text": "我真的很感激你，没有你的指导我坚持不到现在。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_278",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_278",
+      "sheetName": "Sheet21_5",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0228.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "林茜声音有些颤抖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_279",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_279",
+      "sheetName": "Sheet21_6",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0228.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00097.mp3",
+        "text": "现在我的心好平静，对未来有无限希望。我会立刻开始炼制药剂，让大家重获新生。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_280",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_280",
+      "sheetName": "Sheet21_7",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0230.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00098.mp3",
+        "text": "你要保重啊。",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_281",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_281",
+      "sheetName": "Sheet21_8",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0230.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00079.mp3",
+        "text": "林茜，你也保重。告别过去，勇敢前行。这次救赎是你努力的回报。",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      }
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

@@ -1,0 +1,4875 @@
+{
+  "uid": "skbc2126js_20260729102352",
+  "name": "skbc2126js_20260729102352",
+  "token": "U2FsdGVkX1+vHohB/wIKd+aWU61bGh6dicGPoDiPPf7JkxzrCSNjBwFf4Rj04v70",
+  "cover": "scenes\\images\\skbc2126js_20260729102352_0001.webp",
+  "version": "20260729-2304",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0001.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00000.mp3",
+        "text": "Everyone wears masks all day to suppress their out - of - control emotions.",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0002.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00001.mp3",
+        "text": "I watch society collapse day by day.",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0003.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00002.mp3",
+        "text": "Everywhere there are crowds arguing due to emotional outbursts.",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0004.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00003.mp3",
+        "text": "It's truly terrifying. Do you have any countermeasures, Lin Qian?",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0005.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00000.mp3",
+        "text": "People on the street hurt each other because they can't control their emotions. The once - existing order is disintegrating. But I haven't given up. In ancient books, I found records of an ancient spiritual herb.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0006.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00001.mp3",
+        "text": "It might completely solve the problem of emotional out - of - control. So I plan to make an immersive time - travel game and go back to the Ming Dynasty to find Li Shizhen and get that miraculous herb. Do you think this plan is feasible?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "Wang Fang said, her voice trembling.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0008.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00004.mp3",
+        "text": "Making a time - travel game to find Li Shizhen? It sounds like a wild fantasy. But if you really believe the ancient books, it might be our only hope. However, the process will surely be full of dangers. Are you really going to take the risk? What if there's a problem with the game or something bad happens to you in the Ming Dynasty? We might lose you.",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "Lin Qian nodded.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0009.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00002.mp3",
+        "text": "Yes, I know the risk is huge. But I also know that if we don't act, we'll have to keep living with these masks forever, always suppressing our emotions. Ancient books don't lie. Li Shizhen is the King of Medicine. He must know the secret of the spiritual herb. I've already started preparing. I hope you can understand and support me.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "Wang Fang finally sighed.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0010.webp",
+        "dubbing": "scenes\\audio\\Wang Fang00005.mp3",
+        "text": "Okay, I support you in doing this. Because I don't want to live in this fear forever either. Go, stay safe, and come back quickly after finding the spiritual herb. We're all waiting for good news from you to end these plague - ridden days.",
+        "characterImage": "scenes\\images\\wangfang tou.webp",
+        "characterName": "Wang Fang"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "Lin Qian said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0011.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00003.mp3",
+        "text": "I will. Everything will be okay soon.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_14",
+          "label": "Visiting the scientist."
+        },
+        {
+          "nextId": "scene_20",
+          "label": "Assembling alone."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "After Lin Qian returned, she immediately found the top - notch Wang Lei.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0013.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00000.mp3",
+        "text": "Wang Lei, I hope to cooperate with you to build the time - travel game device.",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0014.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00001.mp3",
+        "text": "Do you think this plan will work? We'll definitely succeed if we work together.",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0015.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00004.mp3",
+        "text": "No. The emotional virus has made my mind a mess. I can't think about anything now, let alone participate in the research and development. You'd better figure it out on your own. I'm useless.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0016.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00002.mp3",
+        "text": "Wang Lei, please don't talk like this. You're the top - notch Wang Lei. Your experience can guide me. We can't give up this chance. Please help me.",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0017.webp",
+        "dubbing": "scenes\\audio\\Wang Lei00003.mp3",
+        "text": "I can't help, really can't... My mind is in complete chaos. The virus controls everything... Just go.",
+        "characterImage": "scenes\\images\\wanglei tou.webp",
+        "characterName": "Wang Lei"
+      },
+      "branches": [
+        {
+          "nextId": "scene_20",
+          "label": "Assembling alone."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "Back in 2126, full of hope, Lin Qian said to Li Shizhen.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0019.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00005.mp3",
+        "text": "Sir, I don't want to seek external help anymore. I'll read through a vast amount of technical materials by myself.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0020.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00006.mp3",
+        "text": "I'll wander around the scrap technology market to collect parts, and then design and assemble the time - travel game device on my own. Do you support my decision?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "Li Shizhen says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0022.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00000.mp3",
+        "text": "Girl, I support you.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "Lin Qian said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0024.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00007.mp3",
+        "text": "Thank you. I'll devote all my time to studying those complicated materials, carefully select every part in the market, slowly design the blueprints, and assemble it with my own hands. The process will be lonely, but I'm full of motivation because this is my path to redemption. Sir, will you still guide me when I need it?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Li Shizhen says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0025.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00001.mp3",
+        "text": "Yes, keep your confidence.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_29",
+          "label": "Purchase at a high price"
+        },
+        {
+          "nextId": "scene_40",
+          "label": "Debug in batches"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "Lin Qian felt the calmness and hope upon her return and asked Li Shizhen for advice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0027.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00008.mp3",
+        "text": "Sir, I want to use my savings to purchase a complete set of equipment parts at a high price to speed up our progress. What do you think? Can it significantly advance the assembly? I need your guidance.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "Li Shizhen replied",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0029.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00002.mp3",
+        "text": "Miss, your idea is good. Just go ahead and do it. I'll always be with you.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "Lin Qian then continued speaking.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0031.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00009.mp3",
+        "text": "Thank you, sir. After the purchase, the assembly progress has indeed accelerated a lot. Now I'm going to start it for the first time. Do you think it'll be stable?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "Li Shizhen replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0032.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00003.mp3",
+        "text": "Let's start it and see.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "After Lin Qian tried to start the equipment and found something wrong, she said in a panic",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0033.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00010.mp3",
+        "text": "Starting... Oh, sir, it's bad! The stability is extremely poor. It overloaded and cut off the power instantly, and the hardware was directly burned out.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\dianliugongji.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0034.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00011.mp3",
+        "text": "I've spent all my savings, which makes me very panicked. What do you think we should do?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_40",
+          "label": "Debug in batches"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "After returning to the year 2126, Lin Qian calmed down her emotions.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "She said to Li Shizhen",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0036.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00012.mp3",
+        "text": "Sir, we've succeeded. I'm very calm and full of hope. Now I want to debug and test this device in batches. Can you help me check each module?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "Li Shizhen says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0037.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00004.mp3",
+        "text": "Okay, let's start with the first one and do it slowly to avoid overloading.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "Lin Qian said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0039.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00013.mp3",
+        "text": "The test of the first module is completed. It's good. I debugged the second one four times before it became stable. The third one is also done.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "Li Shizhen says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0040.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00005.mp3",
+        "text": "Not bad. We need to debug it several times like this.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "Lin Qian said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0041.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00014.mp3",
+        "text": "Now all the modules are okay. The virtual time - travel game has been successfully launched, and the consciousness channel is connected to the Ming Dynasty's time - space. Sir, my heart is racing. There seems to be a sound coming from there. Has our redemption journey really ended, or is there a new beginning?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "Lin Qian then said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0042.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00015.mp3",
+        "text": "I will. Everything will be okay soon.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "As soon as Lin Qian finished speaking, she started the device, and her consciousness fell into the channel. After landing, there was a Ming - Dynasty forest all around. Lin Qian saw a man in front identifying herbs and stepped forward quickly.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0044.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00016.mp3",
+        "text": "Sir, excuse me, are you Li Shizhen? I've traveled across time and space specifically to find you.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "Li Shizhen looked up, his eyes full of astonishment.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0046.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00006.mp3",
+        "text": "I am Li Shizhen. Miss, you suddenly appeared, dressed strangely and with a different accent. Where on earth do you come from? And why do you call me by my name directly?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_17",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Lin Qian spoke earnestly with a sincere look on her face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_18",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0048.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00017.mp3",
+        "text": "I come from hundreds of years later. People there have completely lost control of their emotions. They're hurting each other like a plague, and all order has collapsed.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_19",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0049.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00018.mp3",
+        "text": "Ancient records say that an ancient spiritual herb can cure all this. You're the Medicine King. You must know its secret. Will you help me?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_20",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "Li Shizhen stroked his beard, thought for a moment, and then spoke.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_21",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0051.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00007.mp3",
+        "text": "It sounds incredible. But if it really concerns saving the world, I won't stand by. You're now facing two timeline branches. In 1532, I was preparing for the imperial examinations. I was young and ambitious, busy pursuing fame and fortune. In 1575, I was compiling Compendium of Materia Medica and had the deepest understanding of herbs. Which period do you want to meet me in?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_22",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "Lin Qian quickly asked.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet5_23",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0052.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00019.mp3",
+        "text": "If I choose 1532, will you put down your books and help me find the spiritual herb first? Or will you reject me directly because of the pressure of the imperial examinations?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet5_24",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "Li Shizhen replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_25",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0053.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00008.mp3",
+        "text": "At that time, although I was obsessed with an official career, I was also deeply in love with medicine. If you tell me about the future's miserable state, maybe I'll postpone the exam and accompany you to search. But the world was unstable then. You're a woman of unknown origin and easily targeted by the government. Are you sure you can convince me?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_26",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "Lin Qian asked again.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_27",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0054.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00020.mp3",
+        "text": "What about 1575? You had the most experience then. You should know exactly where the spiritual herb grows and how to use it, right? Can we find it as soon as possible so that I can take it back immediately to save people?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_68",
+          "label": "1532"
+        },
+        {
+          "nextId": "scene_75",
+          "label": "1575"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "Just as they were about to return, a time - space shift occurred.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0056.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00021.mp3",
+        "text": "Sir, the passage brought us through time and space, but this doesn't seem to be 2126. This study looks so ancient. Where have we landed?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0057.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00009.mp3",
+        "text": "Miss, this is 1532. I'm still preparing for the imperial examinations, and my medical skills are not yet fully developed.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0058.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00022.mp3",
+        "text": "Then can you prepare the antidote from this spiritual herb for me? Please, you must help me.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0059.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00010.mp3",
+        "text": "Miss, I'm currently unable to treat it. This lead has failed.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0060.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00023.mp3",
+        "text": "How could this happen? We went through so much to get the spiritual herb. Isn't there any other way?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0061.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00011.mp3",
+        "text": "I'm sorry, miss. I'm not capable at present. Maybe we need to look for clues in other time - spaces.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_75",
+          "label": "1575"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "Li Shizhen was concentrating on practicing medicine and compiling Compendium of Materia Medica. He was an expert on all kinds of herbs.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "Li Shizhen saw Lin Qian in strange clothes arrive. After listening to Lin Qian's story, he said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0064.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00012.mp3",
+        "text": "Miss, I understand your story. You've come from the future and endured many tests. Now you've landed in 1575. Don't panic. What are your plans?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "Lin Qian said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0065.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00024.mp3",
+        "text": "Sir, the passage was supposed to take me back to 2126, but the energy of the spiritual herb sent me here. I'm very scared, but your voice makes me feel at ease. Can you guide me on how to continue this redemption?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "Li Shizhen said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0066.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00013.mp3",
+        "text": "Miss, of course. Calm down, look around and tell me what you see. I'll stay by your side until you successfully return and complete your spiritual redemption.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "Lin Qian said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0067.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00025.mp3",
+        "text": "Sir, thank you. I see many herbs. Maybe it's fate. With you, I feel hope rekindled. Let's face it together.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_84",
+          "label": "Confess the truth"
+        },
+        {
+          "nextId": "scene_91",
+          "label": "Hide the secret"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "After returning to 1575, Li Shizhen had doubts.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0069.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00014.mp3",
+        "text": "Miss, I must confess. I find it hard to believe your story about time - travel and the truth of the future virus.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0070.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00015.mp3",
+        "text": "I'm on guard against you and don't want to set out to find the medicine easily.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0071.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00016.mp3",
+        "text": "All this is just too incredible.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0072.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00026.mp3",
+        "text": "Sir, I understand. But please believe me. I'll tell you all the truth. That virus is really destroying our world. I came from the future and have no reason to deceive you.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0073.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00017.mp3",
+        "text": "What you said makes some sense, but I still have doubts. We need more discussions before deciding what to do next.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0074.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00027.mp3",
+        "text": "Yes, we can talk slowly. I'll answer all your questions. I hope this can dispel your concerns.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_91",
+          "label": "Hide the secret"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "After her return, although Lin Qian's heart was filled with peace and hope, she chose to deeply hide the secret of time - space. Lin Qian faced Li Shizhen calmly. Li Shizhen didn't question too much. Instead, he said with pity.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0076.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00028.mp3",
+        "text": "Lin Qian, there are too many people suffering from diseases in this world. Every time I think about it, my heart aches.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0077.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00029.mp3",
+        "text": "Are you willing to pack the medicine bag with me now and go deep into the mountains to collect herbs and save people? Those patients can't wait any longer.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0078.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00018.mp3",
+        "text": "Li Shizhen, of course I'm willing. The sight of those patients keeps me awake at night. What tools should we take? The situation in the mountains is complicated. I'm afraid I'll mess things up if I don't know what to do.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0079.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00030.mp3",
+        "text": "The medicine bag is almost ready. We just need to add some cloth bags and sickles. Stay close to me and tell me about the plants and any abnormalities you see at any time. I'll teach you step by step how to distinguish the magic herbs. Your determination has made me feel much more at ease.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0080.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00019.mp3",
+        "text": "Okay, Li Shizhen. I'll follow your instructions and won't act recklessly. I feel so secure working with you, Li Shizhen. We'll definitely collect good herbs and save many people, right?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0081.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00020.mp3",
+        "text": "Exactly. Let's go, Lin Qian. The mountains are ahead. Compassion will guide us to avoid the obstacles and complete this herb - collecting mission. Your perseverance makes me believe that we'll surely achieve something this time.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Li Shizhen nodded.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0083.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00021.mp3",
+        "text": "Miss, in 1575, I had the deepest research on herbs. We may find the magic herbs soon. Let's go.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "Li Shizhen and Lin Qian walked into the mountains together, stepping onto this fog - shrouded mountain path. This deep - mountain danger was full of illusions, and the crisis was quietly lurking.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0085.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00022.mp3",
+        "text": "You must stay vigilant at all times.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0086.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00031.mp3",
+        "text": "I got it. I'll stay close to you. The fog is so thick.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0087.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00032.mp3",
+        "text": "What illusions might we see? Will they be the painful pictures of those future people?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0088.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00033.mp3",
+        "text": "You must always tell me the truth. I'm afraid I can't tell the difference between reality and illusion. Can we get through here quickly?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0089.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00023.mp3",
+        "text": "We will, but we need to be careful every step of the way. The illusions will test your mind. You'll be in danger if you waver.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet9_15",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0090.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00024.mp3",
+        "text": "Do you feel the chill? That might be it approaching. Remember our goal is the magic herb. It can save the world.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet9_16",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0091.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00034.mp3",
+        "text": "Yes, my goal is very firm. But this mountain path is so dangerous. It feels like there's something moving under my feet.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_17",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0092.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00035.mp3",
+        "text": "Sir, do you think we're safe? Is there really a crisis lurking? Please tell me what to do.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_18",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0093.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00025.mp3",
+        "text": "Calm your nerves and follow me. We'll make it.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_19",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0093.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00036.mp3",
+        "text": "Okay, I'll stay calm. But there seems to be a voice calling my name in the fog. Is it real? We can't be deceived by it.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_20",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0093.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00026.mp3",
+        "text": "It's just an illusion. Ignore it. Keep going. The spiritual herb is not far ahead waiting for us.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "Keep a low profile and move on."
+        },
+        {
+          "nextId": "scene_129",
+          "label": "Ask for directions actively"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "Lin Qian said hopefully",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0095.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00037.mp3",
+        "text": "Sir, after we return, let's travel in low - key and enter the mountain. I still have high hopes for the future, but we need to be careful.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "Li Shizhen said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0097.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00027.mp3",
+        "text": "Yes, miss. Let's not mention anything about the demon spirits and spiritual herbs and stay calm.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "Lin Qian said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0099.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00038.mp3",
+        "text": "Do you think the villagers won't misunderstand us like this? I'm worried they'll catch a few words.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "Li Shizhen said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0100.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00028.mp3",
+        "text": "Don't be afraid. As long as we talk in a low voice, it'll be okay.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "Lin Qian said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0101.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00039.mp3",
+        "text": "Okay, I'll listen to you and hold on.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "A villager who overheard their conversation shouted loudly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0102.webp",
+        "dubbing": "scenes\\audio\\Ming Dynasty Village Villagers00000.mp3",
+        "text": "They're spreading fallacies to deceive people! Everyone, come quickly!",
+        "characterImage": "scenes\\images\\mingdynastyvillagevillagers tou.webp",
+        "soundEffects": "scenes\\audio\\yilun.mp3",
+        "characterName": "Ming Dynasty Village Villagers"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "Lin Qian said anxiously",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0103.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00040.mp3",
+        "text": "No, folks. We're just passing by and have no ill intentions!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "The villagers shouted in unison",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0104.webp",
+        "dubbing": "scenes\\audio\\Ming Dynasty Village Villagers00001.mp3",
+        "text": "Don't believe them. They're spreading rumors everywhere. Drive them out of the village!",
+        "characterImage": "scenes\\images\\mingdynastyvillagevillagers tou.webp",
+        "characterName": "Ming Dynasty Village Villagers"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "Just like that, Lin Qian and Li Shizhen were driven out of the village, and their route into the mountain was blocked.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_143",
+          "label": "Fight back with all your might."
+        },
+        {
+          "nextId": "scene_151",
+          "label": "Abandon your belongings and flee."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "As the passage calmed down, everyone returned to the year 2126 and landed on this desolate mountain path.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "Lin Qian gasped and spoke.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0108.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00041.mp3",
+        "text": "Li Shizhen, why is it so desolate here? Let's ask for directions and find out the situation. I'm completely in the dark.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0109.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00029.mp3",
+        "text": "Don't panic, miss. That's exactly what we should do. There's someone up ahead. You go and ask.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0110.webm",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "Lin Qian stepped forward and asked.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0111.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00042.mp3",
+        "text": "Bandit: Excuse me, which way on this mountain path leads to the nearest town? How should I get there?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "The bandit jumps out from the mountains and shouts sternly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0113.webp",
+        "dubbing": "scenes\\audio\\Qiang Dao00000.mp3",
+        "text": "We're bandits lying in wait here in the mountains. Since we've run into you two today, it's the perfect chance for a heist. Hand over all your stuff right now!",
+        "characterImage": "scenes\\images\\qiangdao tou.webp",
+        "characterName": "Qiang Dao"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "Lin Qian let out a terrified scream.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0115.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00043.mp3",
+        "text": "Ah! You're bandits! We're just asking for directions. We mean no harm! Li Shizhen, they're going to rob us!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "Li Shizhen calmly spoke up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0117.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00030.mp3",
+        "text": "Folks, we've just returned from a tough trial and have nothing on us. Why make things difficult for us?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "The bandit shows a hideous smile and starts speaking.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0119.webp",
+        "dubbing": "scenes\\audio\\Qiang Dao00001.mp3",
+        "text": "So what if you've returned? If you want to live, leave your money. Otherwise, it's a dead end.",
+        "characterImage": "scenes\\images\\qiangdao tou.webp",
+        "characterName": "Qiang Dao"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "Keep a low profile and move on."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0120.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00044.mp3",
+        "text": "Li Shizhen, something's off! You must be a demonic spirit in this illusion. My mind is in a complete mess. We didn't get the spiritual herbs for this, right? I'll fight back and break through. I won't follow your guidance and go back with you anymore!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0120.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00031.mp3",
+        "text": "Wake up. I'm here to help you. We've already got the spiritual herbs.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0121.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00032.mp3",
+        "text": "Stop this struggling and fighting. It's the mental illusion taking effect! You have to stop right now!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0122.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00045.mp3",
+        "text": "It's fake! You want to push me off the cliff and kill me. I have to defeat you to break through! My mind is getting more and more confused. I just want to fight against all this!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0123.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00033.mp3",
+        "text": "Don't do this. We're not enemies. We're partners! Hold on together. Stop fighting, or we'll both fall!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0124.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00046.mp3",
+        "text": "All I see are monsters in your forms. As we're wrestling... there's no ground under our feet!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0125.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00034.mp3",
+        "text": "No! We're falling off the cliff. This is a bad ending!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "Li Shizhen and Lin Qian were in a state of mental confusion and fought with each other. They both slipped and fell off the cliff. Darkness instantly engulfed everything.",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_151",
+          "label": "Abandon your belongings and flee."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "Lin Qian's voice came out with a sob.",
+        "soundEffects": "scenes\\audio\\nvrenkuqi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0128.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00047.mp3",
+        "text": "Sir, the passage is completely distorted. We can't go back!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0129.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00048.mp3",
+        "text": "These things are too heavy. We have to abandon our possessions to escape, or we'll all be sucked in!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "Li Shizhen quickly replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0130.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00035.mp3",
+        "text": "Miss, don't be afraid. First, throw away all your belongings. Traveling light will make us run faster. Come, follow me deeper into the mountains. There might be a way out here.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "Lin Qian gasped as she dropped her packages.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0132.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00049.mp3",
+        "text": "Sir, I feel much lighter after throwing them away, but I'm still scared. This dense mountain forest is so dark.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0133.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00050.mp3",
+        "text": "The branches are scratching at my clothes like ghostly hands. Will we get lost?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0134.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00051.mp3",
+        "text": "Do you think we'll survive this escape?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "Li Shizhen whispered words of encouragement.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0136.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00036.mp3",
+        "text": "Miss, hold on. As long as we have faith, we won't easily give up.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0137.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00037.mp3",
+        "text": "Look ahead. Those vines are moving... Oh my god! It's a giant man-eating flower. Its corolla is as big as a house, and the edges of its petals are full of barbs. The vines are curling towards us!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0138.webm",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "Lin Qian shouts in panic.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0139.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00052.mp3",
+        "text": "Sir, its flower mouth is open, and there's a lot of slime dripping inside. We've run into it! What should we do now? My legs are so weak. Please tell me where to attack to get out of here!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0140.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "Li Shizhen says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0141.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00038.mp3",
+        "text": "Miss, there's a huge man-eating flower blocking the mountain path in the middle. There's hidden danger in the stamen. Are you sure? Is this an illusion or a real crisis?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "Lin Qian replies.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0143.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00053.mp3",
+        "text": "Sir, I see it. It's so terrifying. Are those huge petals meant to devour people? What's moving inside the stamen? I can't tell if this is a hallucination. Please tell me the truth. I'm afraid of being deceived. How can we continue our journey for the spiritual herb?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "Li Shizhen says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0145.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00039.mp3",
+        "text": "Calm your mind. This might be real. We can't get close to the stamen. It's dangerous there. Ignore the voices calling your name. Follow me closely and go around it. Are you still determined?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0146.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00054.mp3",
+        "text": "I'm determined, but the fog is too thick. Sir, it seems to be getting closer to us. Is that true? What if it swallows us? Please keep guiding me. I need your voice to fight against the illusions.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0147.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00040.mp3",
+        "text": "I will. Stay vigilant. It tests our minds, but our goal is clear. The spiritual herb is not far away. Keep going and we'll succeed. Don't look at the stamen for too long.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0148.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00055.mp3",
+        "text": "Okay, I won't look. But the voices are getting louder, calling me in. Sir, this is a trick, right? Are we safe? Can we pass through quickly?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0149.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00041.mp3",
+        "text": "It's a trick. Ignore it. Keep moving forward. We'll make it.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_175",
+          "label": "Demonic Qi Illusion Realm"
+        },
+        {
+          "nextId": "scene_187",
+          "label": "Corrosive Slime"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0150.webm",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "Lin Qian looks terrified and shouts loudly.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0151.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00056.mp3",
+        "text": "Li Shizhen, the turbid qi is spurting out. It's invading my mind. I'm completely in a mess!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0152.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00057.mp3",
+        "text": "You're looking so strange. Why are you attacking me? Do you want to complete the redemption alone?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "Li Shizhen is in a state of confusion and replies.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0153.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00042.mp3",
+        "text": "Lin Qian, you attacked me first. You've been bewitched by the illusion.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0154.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00043.mp3",
+        "text": "We're both trapped in this crazy illusion and suspecting each other!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0155.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00058.mp3",
+        "text": "No, you made the first move. You've always suspected me. I'll attack you to defend myself!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0156.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00044.mp3",
+        "text": "This is caused by the turbid qi. We can't attack each other. Stop and resist this illusion together!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0157.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00059.mp3",
+        "text": "I can't resist. I just want to eliminate you, this sudden enemy!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0158.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00045.mp3",
+        "text": "I'm forced to fight back, but this isn't our intention, Lin Qian. Wake up!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet14_10",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0159.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00060.mp3",
+        "text": "Stop talking nonsense and take my attack!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet14_11",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "Lin Qian and Li Shizhen are trapped in the crazy illusion, suspecting each other and attacking each other.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_203",
+          "label": "Use the sachet."
+        },
+        {
+          "nextId": "scene_223",
+          "label": "Forget the sachet."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0160.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00061.mp3",
+        "text": "Sir, I reached out and got the spiritual herb successfully!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0160.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00062.mp3",
+        "text": "But this demon spirit is spitting out corrosive mucus and splashing it continuously. Our bodies are being corroded! Quick, give me some guidance!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\jihuokejishebei.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "Lin Qian shouts in a panic.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0161.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00046.mp3",
+        "text": "Miss, sorry, it's too late for guidance now.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0161.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00047.mp3",
+        "text": "This mucus is extremely powerful. It keeps splashing. Once we're completely corroded, we'll turn into白骨. This is a bad ending.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Li Shizhen says helplessly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0162.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00063.mp3",
+        "text": "Sir, my skin is melting, and my bones are almost showing!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0162.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00064.mp3",
+        "text": "Is it the same for you?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0163.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00065.mp3",
+        "text": "Are we just going to fail like this?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0164.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00048.mp3",
+        "text": "Yes, miss. My whole body is being corroded. The pain makes it hard for me to speak. We tried our best, but this is the outcome.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0165.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00066.mp3",
+        "text": "Sir, my mind is in a complete mess. Does this mean our redemption has failed... I don't want to turn into白骨...",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0166.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00067.mp3",
+        "text": "Sir, I reached out and successfully grabbed the spiritual herb! But this demon spirit is spitting out corrosive mucus and splashing it continuously. Our bodies are being corroded! Quick, give me some guidance!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "Lin Qian shouts in a panic.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0167.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00049.mp3",
+        "text": "Miss, sorry, it's too late for guidance now. This mucus is extremely powerful. It keeps splashing. Once we're completely corroded, we'll turn into白骨. This is a bad ending.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "Li Shizhen says helplessly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0168.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00068.mp3",
+        "text": "Sir, my skin is melting, and my bones are almost showing! Is it the same for you? Are we just going to fail like this?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_175",
+          "label": "Demonic Qi Illusion Realm"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "Lin Qian starts to speak with a trembling voice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0170.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00050.mp3",
+        "text": "Li Shizhen, my mind is about to go completely haywire. This illusion is too strong. Please keep guiding me!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "Li Shizhen says to Lin Qian.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_206",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0172.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00051.mp3",
+        "text": "Miss, don't panic. Take out the Heart - Clearing Sachet. Its fragrance can purify the miasma and help us break free from the illusion.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0173.webm",
+        "dubbing": "scenes\\audio\\Lin Qian00069.mp3",
+        "text": "I see. I'll take it out now. Ah, the fragrance of the sachet is spreading. I feel the fog is dissipating.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0174.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00070.mp3",
+        "text": "Those illusions are gradually fading away. We've finally broken free from the illusion!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet16_6",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0175.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00052.mp3",
+        "text": "Well done. Now continue moving towards the mountaintop and keep your mind calm.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet16_7",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "Lin Qian asks Li Shizhen hopefully.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet16_8",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0177.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00071.mp3",
+        "text": "Okay, Li Shizhen. I can see a glowing spiritual herb on the distant mountaintop. It emits a soft light, as if it's calling to us.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet16_9",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0178.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00072.mp3",
+        "text": "Can we successfully get it? Will this be our path to redemption?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet16_10",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0179.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00053.mp3",
+        "text": "Yes, Lin Qian. That's where the spiritual herb is.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet16_11",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0180.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00054.mp3",
+        "text": "Let's move forward bravely and complete this important task together.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet16_12",
+      "excelSheetName": "Sheet16",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0181.webm",
+        "dubbing": "scenes\\audio\\Lin Qian00073.mp3",
+        "text": "Li Shizhen, after we came here, we saw that the glowing spiritual herb in the valley on the mountaintop is surrounded by countless black dead branches. Those branches are wriggling slowly.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet16_13",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0182.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00074.mp3",
+        "text": "The Black Wood Demon Spirit suddenly appears and launches an attack. Those branches are like living things and are coiling towards us! Li Shizhen, it's so terrifying",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet16_14",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0183.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00075.mp3",
+        "text": "Is this the guardian of the spiritual herb? What should we do? Please guide me quickly!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet16_15",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0184.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00055.mp3",
+        "text": "Don't be afraid, Lin Qian. It's indeed the Blackwood Spirit, the guardian of the spiritual herb. This is a real crisis, and we need to handle it carefully. Stay calm and bypass it from the side to avoid the attacks of its main branches. Can you stay firm?",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet16_16",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0185.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00076.mp3",
+        "text": "I'll try to stay firm, Li Shizhen. But its attacks are intense. Dead branches are lashing at us from all directions. I can see the body of the Blackwood Spirit appearing among the branches.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\gongfugongji.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet16_17",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0186.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00077.mp3",
+        "text": "It's guarding the spiritual herb and won't let us get close. I managed to dodge one entanglement, but it's getting harder. Is this a test? Can we get the spiritual herb? Please don't stop guiding me!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet16_18",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0187.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00056.mp3",
+        "text": "This is a test, but we'll succeed. Move to the right and try to fight back against the approaching branches. Its power is strong, but we have determination.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet16_19",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0188.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00057.mp3",
+        "text": "Keep telling me what you see. I'll keep guiding you until we break through the Blackwood Spirit's protection.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_231",
+          "label": "Use the water gun."
+        },
+        {
+          "nextId": "scene_253",
+          "label": "Use the musket!"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "As the passageway distorted violently, Lin Qian suddenly felt a cold and turbid qi piercing into her heart and lungs. She asked with a trembling voice.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0190.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00078.mp3",
+        "text": "Sir, can you feel it? This qi is so strong.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0191.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00079.mp3",
+        "text": "Aren't we on our way back with the spiritual herb? Why are the shadows of ancient palaces and battlefields appearing in front of my eyes?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "Li Shizhen replied anxiously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_227",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0193.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00058.mp3",
+        "text": "Damn it! We forgot to bring the sachet! It's supposed to be a protective item against the turbid qi. I should have reminded you to bring it.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0194.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00059.mp3",
+        "text": "Now the illusions are going to trap us. Can you still hear me? Hold on. Don't let those ancient images devour your consciousness.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_229",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet17_6",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0195.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "Lin Qian said with a panicked look on her face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_230",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet17_7",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0196.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00080.mp3",
+        "text": "I forgot. I completely forgot...",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_203",
+          "label": "Use the sachet."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0197.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00060.mp3",
+        "text": "Lin Qian, stay calm and don't panic. Now, immediately use the water gun to blast the main trunk of the Blackwood Spirit.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_232",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0198.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00061.mp3",
+        "text": "The water will instantly freeze its body.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "soundEffects": "scenes\\audio\\guzhang.mp3",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_233",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0199.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00062.mp3",
+        "text": "Then you can strike it once more to shatter it and seize the spiritual herb smoothly. Act bravely and tell me what you see.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_234",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet18_3",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0200.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00081.mp3",
+        "text": "Li Shizhen, I did as you said. The water from the water gun really froze the spirit's body.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet18_4",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0201.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00082.mp3",
+        "text": "It's completely stiff and can't move. I took the opportunity to strike and shattered it. Now I've successfully got the spiritual herb.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\boliposui.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_236",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet18_5",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0202.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00083.mp3",
+        "text": "But the energy of the spiritual herb has made the time - space passageway extremely chaotic. Everything is shaking and twisting. We need to return to 2126 right away, don't we? I'm scared but also feel relieved as if I've been redeemed.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_237",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet18_6",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0203.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00063.mp3",
+        "text": "Yes, Lin Qian. We must go back right away. Hold the spiritual herb tightly and follow me into the passageway.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_238",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet18_7",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0204.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00064.mp3",
+        "text": "This is not only a spatial transfer but also a spiritual redemption. Your courage is admirable. All your efforts will be rewarded when we get back.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_239",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet18_8",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0205.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00084.mp3",
+        "text": "Thank you, Li Shizhen. Now the passageway is taking us through time and space back to 2126. We've really completed the redemption this time. My heart is filled with peace and infinite hope for the future.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_240",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet18_9",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "Lin Qian shouted loudly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet18_10",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0207.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00065.mp3",
+        "text": "Li Shizhen, I moved to the right as you said. The dead branches are still swirling at me wildly from all directions. I fought back, but it's still very difficult. The body of the Blackwood Spirit has appeared. It's guarding the spiritual herb with all its might. My mind is almost in a complete mess. Can we really get the spiritual herb? Is this really a test for us? Please keep guiding me. I need your voice to calm my mind!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_242",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet18_11",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "Li Shizhen replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_243",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_243",
+      "sheetName": "Sheet18_12",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0209.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00066.mp3",
+        "text": "Lin Qian, stay calm and don't panic. Its power is strong, but we have firm determination.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_244",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_244",
+      "sheetName": "Sheet18_13",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0210.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00067.mp3",
+        "text": "Attack its main trunk bravely. Avoid the secondary branches. Tell me what you see next. I'll keep guiding you until we break through the Blackwood Spirit's defense, get the spiritual herb, and complete this redemption.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_245",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_245",
+      "sheetName": "Sheet18_14",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0211.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "Lin Qian then continued speaking.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_246",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_246",
+      "sheetName": "Sheet18_15",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0212.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00085.mp3",
+        "text": "Li Shizhen, I followed your advice and hit the main trunk. The branches slowed down. I saw the spiritual herb right in front of me. I reached out and got it! But Li Shizhen, the energy of the spiritual herb made the time - space channel go into a violent disorder immediately. Everything is shaking and twisting. We need to go back to 2126 right away, don't we?",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_247",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_247",
+      "sheetName": "Sheet18_16",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0213.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00086.mp3",
+        "text": "I was scared but also felt a sense of relief from the redemption.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_248",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_248",
+      "sheetName": "Sheet18_17",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0214.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00068.mp3",
+        "text": "Yes, Lin Qian. We have to go back to 2126 right now. Hold the spiritual herb tight and come into the channel with me.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_249",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_249",
+      "sheetName": "Sheet18_18",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0215.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00069.mp3",
+        "text": "This journey back is not just a transfer in space, but also a redemption of the soul. Your courage during this process is admirable.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_250",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_250",
+      "sheetName": "Sheet18_19",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0216.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00070.mp3",
+        "text": "When we get back there, you'll find that all our efforts have paid off. We'll go home successfully together and embrace a new life.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_251",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_251",
+      "sheetName": "Sheet18_20",
+      "excelSheetName": "Sheet18",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0217.webm",
+        "dubbing": "scenes\\audio\\Lin Qian00087.mp3",
+        "text": "Thank you, Li Shizhen. I couldn't have made it this far without you. Now the channel is taking us through time and space. We're going back to 2126.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_252",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_252",
+      "sheetName": "Sheet18_21",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\mengxiang，pinboweilai.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0218.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00088.mp3",
+        "text": "This experience really completed my redemption. Faith and perseverance led us to victory. After coming back, my heart is filled with peace and infinite hope for the future.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_253",
+          "label": "Use the musket!"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_253",
+      "sheetName": "Sheet19_0",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0219.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "Lin Qian shouted anxiously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_254",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_254",
+      "sheetName": "Sheet19_1",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0219.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00071.mp3",
+        "text": "Li Shizhen, although you told me to stay calm, attack the main trunk, and avoid the branches, I'm all messed up.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_255",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_255",
+      "sheetName": "Sheet19_2",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0220.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00072.mp3",
+        "text": "Completely messed up. I'm going to use the musket to attack the Blackwood Spirit. Keep guiding me on how to control it!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_256",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_256",
+      "sheetName": "Sheet19_3",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0221.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "Li Shizhen said nervously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_257",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_257",
+      "sheetName": "Sheet19_4",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0222.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00073.mp3",
+        "text": "Lin Qian, no! The firepower of the musket is too strong. It's easy to get out of control and burn everything. Don't use it. Please listen to me!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_258",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_258",
+      "sheetName": "Sheet19_5",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0223.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "Lin Qian said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_259",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_259",
+      "sheetName": "Sheet19_6",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0223.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00089.mp3",
+        "text": "But I've already fired. The flames are out!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "soundEffects": "scenes\\audio\\shouqiang.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_260",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_260",
+      "sheetName": "Sheet19_7",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0224.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "Li Shizhen said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_261",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_261",
+      "sheetName": "Sheet19_8",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0224.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00074.mp3",
+        "text": "Damn it! The fire got out of control. The spirit and the spiritual herb were burned to ashes. The mission to find the herb failed. What a bad ending!",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_262",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_262",
+      "sheetName": "Sheet19_9",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0225.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "Lin Qian said.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_263",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_263",
+      "sheetName": "Sheet19_10",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0225.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00090.mp3",
+        "text": "Li Shizhen, I'm sorry. I was too panicked. Now everything is burned. Our redemption failed!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_273",
+          "label": "Farewell and no return"
+        },
+        {
+          "nextId": "scene_264",
+          "label": "Stay and Discuss"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_264",
+      "sheetName": "Sheet20_0",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0231.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "But at the moment of returning, Lin Qian hesitated. She turned to Li Shizhen and said,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_265",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_265",
+      "sheetName": "Sheet20_1",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0231.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00075.mp3",
+        "text": "Li Shizhen, I have a thought of staying a while. Can we pause and discuss these herbs? Can its medicinal properties completely save humanity? Please guide me through all the details.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_266"
+    },
+    {
+      "id": "scene_266",
+      "sheetName": "Sheet20_2",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0232.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00091.mp3",
+        "text": "Lin Qian, the passage is unstable. Don't hesitate any longer. We must return immediately.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_267",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_267",
+      "sheetName": "Sheet20_3",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0234.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00076.mp3",
+        "text": "Li Shizhen, just a little longer. Tell me more about its usage and formula.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_268",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_268",
+      "sheetName": "Sheet20_4",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0236.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00092.mp3",
+        "text": "It can clear the virus, but don't delay. Let's go.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_269",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_269",
+      "sheetName": "Sheet20_5",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0236.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00077.mp3",
+        "text": "Li Shizhen, what about its origin and collection? Let's discuss it more.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_270"
+    },
+    {
+      "id": "scene_270",
+      "sheetName": "Sheet20_6",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0237.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00093.mp3",
+        "text": "The passage began to collapse. It was too late.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_271",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_271",
+      "sheetName": "Sheet20_7",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0237.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00094.mp3",
+        "text": "Li Shizhen, this...",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_272"
+    },
+    {
+      "id": "scene_272",
+      "sheetName": "Sheet20_8",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0237.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "The time - space passage completely collapsed. Lin Qian was trapped in the Ming Dynasty forever and could never return to the future. The humans in her homeland were permanently trapped in the virus disaster. This regrettable ending haunted Lin Qian like a nightmare, and the remorse and sadness in her heart could not subside for a long time.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_273",
+          "label": "Farewell and no return"
+        }
+      ]
+    },
+    {
+      "id": "scene_273",
+      "sheetName": "Sheet21_0",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0222.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "The violent shaking of the channel finally calmed down. Lin Qian opened her eyes, tightly holding the spiritual herb.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_274",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_274",
+      "sheetName": "Sheet21_1",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0223.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00095.mp3",
+        "text": "Li Shizhen, we've successfully returned to 2126!",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_275",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_275",
+      "sheetName": "Sheet21_2",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0224.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "Li Shizhen said gently.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_276",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_276",
+      "sheetName": "Sheet21_3",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0225.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00078.mp3",
+        "text": "Yes, Lin Qian. It's time for us to say a solemn farewell. Take the spiritual herb and refine the antidote to dispel the emotional virus and save all the people. Achieve a perfect ending.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      },
+      "nextId": "scene_277",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_277",
+      "sheetName": "Sheet21_4",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0226.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00096.mp3",
+        "text": "I'm really grateful to you. I couldn't have persevered without your guidance.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_278",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_278",
+      "sheetName": "Sheet21_5",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0228.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "Lin Qian's voice trembled a little.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_279",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_279",
+      "sheetName": "Sheet21_6",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0228.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00097.mp3",
+        "text": "Now my heart is so calm, and I have infinite hope for the future. I'll start refining the potion right away to give everyone a new life.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_280",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_280",
+      "sheetName": "Sheet21_7",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0230.webp",
+        "dubbing": "scenes\\audio\\Lin Qian00098.mp3",
+        "text": "Take care of yourself.",
+        "characterImage": "scenes\\images\\linqian tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_281",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_281",
+      "sheetName": "Sheet21_8",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\skbc2126js_20260729102352_0230.webp",
+        "dubbing": "scenes\\audio\\Li Shizhen00079.mp3",
+        "text": "Lin Qian, you should take care too. Leave the past behind and move forward bravely. This redemption is the reward for your efforts.",
+        "characterImage": "scenes\\images\\lishizhen tou.webp",
+        "characterName": "Li Shizhen"
+      }
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}
