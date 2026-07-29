@@ -39,12 +39,18 @@
     }
 
     /**
-     * 构建播放器跳转链接
-     * @param {string} entry
+     * 构建游戏跳转链接
+     * - 默认直链 entry（适用于独立部署的游戏）
+     * - wrapper: true 时走 play.html 外壳（需游戏实现 STORY_PLAYER_READY 握手）
+     * @param {object} game
      * @returns {string}
      */
-    function buildPlayUrl(entry) {
-        return PLAY_PAGE + '?player=' + encodeURIComponent(normalizePath(entry));
+    function buildGameUrl(game) {
+        var entry = normalizePath(game.entry);
+        if (game.wrapper === true) {
+            return PLAY_PAGE + '?player=' + encodeURIComponent(entry);
+        }
+        return './' + entry;
     }
 
     /**
@@ -64,7 +70,7 @@
 
         var link = document.createElement('a');
         link.className = 'card';
-        link.href = buildPlayUrl(game.entry);
+        link.href = buildGameUrl(game);
         link.setAttribute('aria-label', '进入游戏：' + game.title);
 
         var coverWrap = document.createElement('div');
