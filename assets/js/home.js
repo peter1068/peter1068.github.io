@@ -82,7 +82,7 @@
         img.alt = game.title + ' 封面';
         img.loading = 'lazy';
         img.decoding = 'async';
-        img.width = 300;
+        img.width = 225;
         img.height = 400;
 
         img.addEventListener('error', function () {

@@ -136,8 +136,7 @@
             // 外壳页专用参数，不会透传给 iframe 播放器
             var WRAPPER_ONLY_PARAMS = ['player', 'playerSrc'];
 
-            // 握手与加载超时（毫秒）
-            var HANDSHAKE_TIMEOUT_MS = 8000;
+            // iframe 加载超时（毫秒）
             var IFRAME_LOAD_TIMEOUT_MS = 30000;
 
             var iframe = document.getElementById('storyFrame');
@@ -149,7 +148,6 @@
             var backLink = document.getElementById('backLink');
 
             var usedNonces = Object.create(null);
-            var handshakeTimer = null;
             var loadTimer = null;
             var playerOrigin = '';
 
@@ -169,10 +167,6 @@
             }
 
             function clearTimers() {
-                if (handshakeTimer) {
-                    clearTimeout(handshakeTimer);
-                    handshakeTimer = null;
-                }
                 if (loadTimer) {
                     clearTimeout(loadTimer);
                     loadTimer = null;
@@ -219,11 +213,6 @@
                     nonce: nonce,
                     key: AUTH_KEY
                 }, targetOrigin || playerOrigin || '*');
-
-                if (handshakeTimer) {
-                    clearTimeout(handshakeTimer);
-                    handshakeTimer = null;
-                }
             }
 
             function handleMessage(event) {
@@ -241,21 +230,6 @@
                 }
 
                 sendAuth(data.nonce, event.origin);
-            }
-
-            function startHandshakeWatch() {
-                if (handshakeTimer) {
-                    clearTimeout(handshakeTimer);
-                }
-
-                handshakeTimer = setTimeout(function () {
-                    showOverlay(
-                        'error',
-                        '认证超时',
-                        '播放器未在限定时间内完成握手。请从首页进入游戏，或确认 AUTH_KEY 与游戏构建产物一致。',
-                        true
-                    );
-                }, HANDSHAKE_TIMEOUT_MS);
             }
 
             function loadPlayer() {
@@ -282,7 +256,6 @@
 
                     iframe.style.display = 'block';
                     hideOverlay();
-                    startHandshakeWatch();
                 };
 
                 iframe.onerror = function () {

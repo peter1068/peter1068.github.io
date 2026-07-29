@@ -1,0 +1,1957 @@
+{
+  "uid": "gw20260729_20260729144424",
+  "name": "gw20260729_20260729144424",
+  "token": "U2FsdGVkX18MIr9BF21cw+494f4IapfbMMqtP5vchB78hQIqwTc6OoxbjR2y+ei1",
+  "cover": "scenes\\images\\gw20260729_20260729144424_0001.webp",
+  "version": "20260729-1711",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "I've long been in a state of mental fragmentation. Four pieces of my personality have been constantly tugging, confronting, and conflicting with each other deep in my consciousness. This has left my emotions and thoughts in a constant state of chaos and imbalance. My mother noticed my unusually silent and absent - minded state and gently asked me",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "If I wanted to go to the hospital for a check - up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0003.webp",
+        "dubbing": "scenes\\audio\\Mother00000.mp3",
+        "text": "Honey, you've been silent for too long. You just sit there in a daze, with empty eyes, and don't respond much when I call you. It makes me really worried. Are you feeling blocked and exhausted inside?",
+        "characterImage": "scenes\\images\\mother tou.webp",
+        "characterName": "Mother"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0004.webp",
+        "dubbing": "scenes\\audio\\Me00000.mp3",
+        "text": "I don't know how to describe it. My heart is broken into pieces. They're always arguing and pulling at each other. I can't control my thoughts, and I can't feel my emotions either.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0005.webp",
+        "dubbing": "scenes\\audio\\Mother00001.mp3",
+        "text": "It's okay. Don't force yourself. It's not your fault if you're physically or mentally unwell. Let's go to the hospital obediently and get things sorted out. Mom will always be with you and won't leave you alone.",
+        "characterImage": "scenes\\images\\mother tou.webp",
+        "characterName": "Mother"
+      },
+      "branches": [
+        {
+          "nextId": "scene_9",
+          "label": "Resist going to the hospital. Don't go."
+        },
+        {
+          "nextId": "scene_5",
+          "label": "Follow the arrangement and go to the hospital."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "I finally chose to go to the doctor. This choice directly wiped out three personalities in my body, leaving me with an empty, incomplete, and numb - sensored consciousness shell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "My body and mind were engulfed by a huge sense of emptiness.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "I fell into a deep sleep and plunged into a cold, illusory, and eerily mysterious dream.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "At the end of the dream, there was a pale and glowing hole hanging. The light was false and distant, and it was so quiet all around that there wasn't a single sound.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_11",
+          "label": "Crawl into the bright hole."
+        },
+        {
+          "nextId": "scene_15",
+          "label": "Stay still and don't crawl into the hole."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "You resist in your heart and stubbornly refuse to go to the hospital for treatment.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "But your parents are very worried about your mental state and force you to go to the hospital. The plot returns to the main line.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_5",
+          "label": "Follow the arrangement and go to the hospital."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "I suppressed the uneasiness in my heart and slowly walked into the halo, passing through the thin and hazy mist.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "A gentle and pure scene appeared before my eyes - the young me was standing quietly in the void, with pure eyebrows and an innocent expression, the way I was in my long - lost childhood.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0014.webp",
+        "dubbing": "scenes\\audio\\Me00001.mp3",
+        "text": "So you've been trapped in this void all along, sealed deep in my heart and never really gone. It's been hard on you waiting for me all these years.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0015.webp",
+        "dubbing": "scenes\\audio\\Young Me00000.mp3",
+        "text": "I've been waiting for the grown - up you to look back at me. You've become more and more silent and exhausted. You never painted with me again or imagined a beautiful world. I've been so lonely.",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_20",
+          "label": "Stay silent and don't say hello."
+        },
+        {
+          "nextId": "scene_18",
+          "label": "Take the initiative to say hello to your childhood self."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0016.webm",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "You hesitate and dare not move forward.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "Suddenly, you feel a strong sense of dizziness in your body.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "You're forcibly pulled back to the initial state by the power of the dream.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_11",
+          "label": "Crawl into the bright hole."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "I softly said hello to my childhood self, breaking the dead silence of the dream.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "There were building blocks and paper and pens scattered on the ground.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_22",
+          "label": "Choose to draw."
+        },
+        {
+          "nextId": "scene_30",
+          "label": "Choose to build with blocks"
+        }
+      ]
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "You choose to watch quietly and stay silent, not willing to approach your childhood self actively.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "A strong sense of guilt and regret suddenly wells up in your heart, prompting you to break the ice and return to the main plot.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_18",
+          "label": "Take the initiative to say hello to your childhood self."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "Instead of indulging in simple play, I reached out to pick up a paintbrush and accompanied my younger self in creating a painting stroke by stroke.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "Instead of rigidly copying cold, real - life photos, I let my heart flow freely and wantonly depicted a free and vivid dream world. Stroke by stroke, I outlined a deep forest in the void.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0024.webp",
+        "dubbing": "scenes\\audio\\Young Me00001.mp3",
+        "text": "We don't have to paint the cold and realistic world in the eyes of adults, right? We don't have to paint those depressing, sad, and helpless things, right?",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0025.webp",
+        "dubbing": "scenes\\audio\\Me00002.mp3",
+        "text": "Yes.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0026.webm",
+        "dubbing": "scenes\\audio\\Me00003.mp3",
+        "text": "Today, we just follow our own hearts. The real world is already desolate and cold enough. We should create a gentle and vivid world for ourselves with our own hands.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0027.webp",
+        "dubbing": "scenes\\audio\\Young Me00002.mp3",
+        "text": "Then let's paint a big forest! There's gentle breeze, shady trees, and quietly blooming flowers and grass in it. No quarrels, no brokenness, just peaceful and quiet.",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0028.webp",
+        "dubbing": "scenes\\audio\\Me00004.mp3",
+        "text": "Okay, I'll accompany you to paint it stroke by stroke.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0029.webp",
+        "dubbing": "scenes\\audio\\Me00005.mp3",
+        "text": "As long as there's still love and imagination in our hearts, the desolate void will never trap us.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_35",
+          "label": "Take the initiative to hug your childhood self."
+        },
+        {
+          "nextId": "scene_41",
+          "label": "Refuse to hug and keep your distance."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "You choose to pick up the building blocks and want to build something to play with.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "But the boring building makes you feel extremely bored inside.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "Your childhood self also becomes absent - minded.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "Whether you try to paint by referring to a photo",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Or give up passively and indifferently, you'll eventually lose all your interest.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_22",
+          "label": "Choose to paint."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "I actively opened my arms to hug my childhood self. The warm feeling of merging slowly spread. My broken self began to be initially filled and put back in place. My long - sealed imagination completely woke up and returned to my heart. This was the first gentle reshaping and construction of my incomplete personality.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0036.webp",
+        "dubbing": "scenes\\audio\\Young Me00003.mp3",
+        "text": "Please don't leave me again, okay? Don't let me stay alone in the dark place again.",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0037.webp",
+        "dubbing": "scenes\\audio\\Me00006.mp3",
+        "text": "I promise you.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0038.webp",
+        "dubbing": "scenes\\audio\\Me00007.mp3",
+        "text": "From now on, I'll always keep this purity and enthusiasm. I'll never lose my purest self again.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "As the integration is completed, the forest in the painting becomes completely concrete. The whole forest is deep and quiet, with twisted and intertwined tree shadows. It's deathly silent in the forest, exuding a cold and eerie sense of oppression. From the quiet depths, there comes a faint and fluttering meowing sound.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0040.webp",
+        "dubbing": "scenes\\audio\\Me00008.mp3",
+        "text": "This sound is so soft and fragile, full of cautious timidity. It's the part of myself that I'm most afraid to expose and speak out in my heart.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "Walk on the road paved with roses."
+        },
+        {
+          "nextId": "scene_43",
+          "label": "Follow the meowing sound."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "You deliberately keep your distance and refuse to embrace. The atmosphere becomes dull and boring.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "Your childhood self instantly looks lost and dejected.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_35",
+          "label": "Take the initiative to hug your childhood self."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "I avoided the path of roses, which were beautiful on the outside but hid deadly thorns beneath, and followed the faint sound to explore ahead.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "In the middle of the forest, there was a kitten curled up, with a blank look in its eyes and a timid and uneasy demeanor. It was the epitome of myself, who had been lost and confused for a long time, not daring to follow my heart.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0045.webp",
+        "dubbing": "scenes\\audio\\Me00009.mp3",
+        "text": "I've found you. For all these years, you've been curled up deep in my heart, afraid of making mistakes, afraid of making choices, and afraid of moving forward, always in a state of panic.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_49",
+          "label": "Pick up the kitten and follow its direction."
+        },
+        {
+          "nextId": "scene_59",
+          "label": "Turn a blind eye and ignore the kitten."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yuexiawenqing.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "You're attracted by the romantic path of roses and choose to turn around and walk into the sea of flowers.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yuexiawenqing.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "But there are sharp thorns all under the road surface.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yuexiawenqing.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "Fearing injury, you can only go back the same way.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_43",
+          "label": "Follow the sound of the cat meowing."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0049.webm",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "I no longer ignore my vulnerable self. I bend down and hold the kitten tightly in my arms.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "I resolutely give up the path marked with claw - prints on the tree trunk, which seems safe but actually hides the danger of wild beasts.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "This is the first time in my life that I've followed my heart when I was confused. I've accepted this timid and panicked self of mine and completely merged with the confused true self represented by the kitten. At this moment, my soul is filled again and rebuilt, and there is a sense of determination and courage in my once - empty consciousness.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0052.webp",
+        "dubbing": "scenes\\audio\\Me00010.mp3",
+        "text": "I used to hate your hesitation and timidity all the time. I always wanted to force myself to be tough and fearless.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0053.webp",
+        "dubbing": "scenes\\audio\\Me00011.mp3",
+        "text": "But I forgot that confusion and uneasiness are the most real parts of me. I accept all your panic and all your hesitation.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0054.webp",
+        "dubbing": "scenes\\audio\\Me00012.mp3",
+        "text": "There's no need to force yourself to be perfect. Your vulnerability has never been a flaw.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0054.webp",
+        "dubbing": "scenes\\audio\\Me00013.mp3",
+        "text": "From now on, I'll follow my heart and no longer wrong or ignore the confused you.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "After completely merging with my confused self, I hold the calmed - down kitten and walk out of the gloomy and silent forest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "A dark and solemn volcano suddenly stands in the desolate world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "The mountain is filled with a hot and oppressive atmosphere. The dark red embers are slowly churning, and the surrounding air is hot and suffocating.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_67",
+          "label": "Go to the fiery area where sparks are flying."
+        },
+        {
+          "nextId": "scene_62",
+          "label": "Go to the location where the roaring sound is coming from."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "You want to ignore the kitten and continue walking alone, but the innocent kitten raises its paw and hooks your trouser leg.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "The kitten tightly grabs the fabric of your trouser leg and won't let go.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "It makes you unable to ignore it at all.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_49",
+          "label": "Pick up the kitten and follow its direction."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "I avoid the fiery area where sparks are flying everywhere and can burn people's skin.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "I step by step walk towards the source of the low roars and whimpers deep in the volcano.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0063.webp",
+        "dubbing": "scenes\\audio\\Me00014.mp3",
+        "text": "This hot and oppressive world hides all my emotions that have nowhere to be released.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0064.webp",
+        "dubbing": "scenes\\audio\\Me00015.mp3",
+        "text": "All the grievances, unwillingness, and anger that have been buried in my heart for years are all trapped here and won't go away for a long time.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "In the thick shadow of the volcano's core, there is another extreme version of myself curled up. She is all tense, tightly wrapped by the hot gloom, full of years of accumulated anger, grievances, and deep powerlessness. She keeps falling into self - denial, repeatedly spitting on herself for being good - for - nothing, and struggling alone in the silent abyss of the volcano.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_84",
+          "label": "Turn around and flee."
+        },
+        {
+          "nextId": "scene_69",
+          "label": "Step forward to comfort."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "You rashly stepped into the scorching area where sparks were flying and got burned by the scalding sparks.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "The intense pain forced you to step back.",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_62",
+          "label": "Go to the direction where the roaring sound came from."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "Instead of cowering and running away, I stepped forward firmly and spoke to you softly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0069.webp",
+        "dubbing": "scenes\\audio\\Me00016.mp3",
+        "text": "I heard your sobs. For all these years, you've shouldered all the grievances and pent - up emotions alone.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0069.webp",
+        "dubbing": "scenes\\audio\\Me00017.mp3",
+        "text": "Breaking down while struggling with yourself, you've really had a tough time.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet18_3",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0070.webp",
+        "dubbing": "scenes\\audio\\Angry Self00000.mp3",
+        "text": "I'm just a good - for - nothing. All I can do is get angry, torture myself, and feel resentful.",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet18_4",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0071.webp",
+        "dubbing": "scenes\\audio\\Angry Self00001.mp3",
+        "text": "I can't change anything. All I do is torture myself and drag you down.",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet18_5",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0071.webp",
+        "dubbing": "scenes\\audio\\Angry Self00002.mp3",
+        "text": "Everyone else can live a good life, but I'm paranoid, sensitive, and irritable. I'm full of thorns. I don't deserve to be accepted at all.",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet18_6",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "I slowly raised my hand and showed the painting we created together in childhood to the angry self. I let the angry self see the imagination, pure inspiration, and vivid creativity that I've regained. I let the angry self see that our soul is not just full of darkness and flaws. We've had the ability to be romantic, passionate, and to build a world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet18_7",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0073.webp",
+        "dubbing": "scenes\\audio\\Me00018.mp3",
+        "text": "Take a good look. This is the world we created with our own hands. Our souls are passionate and vivid. We have imagination, love, and the original intention of not wanting to be mediocre.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet18_8",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0074.webp",
+        "dubbing": "scenes\\audio\\Me00019.mp3",
+        "text": "All your sharpness and stubbornness are because you refuse to compromise and bear everything silently. You're not useless. You're just too tired and have been hurt all over.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet18_9",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "Seeing the angry self still with its head down, deeply trapped in self - loathing and pain, unable to let go, I spoke seriously and firmly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet18_10",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0075.webp",
+        "dubbing": "scenes\\audio\\Me00020.mp3",
+        "text": "You also have your strengths.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet18_11",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0076.webp",
+        "dubbing": "scenes\\audio\\Angry Self00003.mp3",
+        "text": "Really? Someone like me, full of hostility, self - loathing, and covered in wounds, also has strengths and deserves to be affirmed?",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet18_12",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "Just as I completely merged with the angry self and my mind became completely calm, the earth suddenly trembled violently, and the whole volcano collapsed with a bang.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet18_13",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "A violent blizzard instantly engulfed the entire dream world. The wind howled, snow and ice filled the sky, and the bone - chilling cold enveloped the surroundings.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet18_14",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "From the deepest part of the endless snow, my last and the coldest and most terrifying dark self slowly walked out. The dark self carried all my pain, shadows, pent - up emotions, and hidden malice. It was surrounded by the coldness of death and silently confronted me.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_87",
+          "label": "Face the dark self bravely."
+        },
+        {
+          "nextId": "scene_90",
+          "label": "Be filled with fear and turn around to run."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet19_0",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "You turned around and fled in fear.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet19_1",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "You startled the angry self and were attacked.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet19_2",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "Her anger soared, and she completely lost control.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_69",
+          "label": "Step forward to comfort."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet20_0",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0083.webp",
+        "dubbing": "scenes\\audio\\Dark Self00000.mp3",
+        "text": "You've healed the innocent me, the cowardly me, and the angry me all the way, but you've never dared to face the darkest and most despicable me.",
+        "characterImage": "scenes\\images\\darkself tou.webp",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "Dark Self"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet20_1",
+      "excelSheetName": "Sheet20",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0084.webm",
+        "dubbing": "scenes\\audio\\Dark Self00001.mp3",
+        "text": "I am all your scars, all your despair, all the hidden malice and brokenness in your heart.",
+        "characterImage": "scenes\\images\\darkself tou.webp",
+        "characterName": "Dark Self"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet20_2",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0085.webp",
+        "dubbing": "scenes\\audio\\Dark Self00002.mp3",
+        "text": "Do you also want to completely erase me, get rid of me completely?",
+        "characterImage": "scenes\\images\\darkself tou.webp",
+        "characterName": "Dark Self"
+      },
+      "branches": [
+        {
+          "nextId": "scene_93",
+          "label": "Passively endure without counter - attacking."
+        },
+        {
+          "nextId": "scene_96",
+          "label": "Use the opponent's force to fight back and subdue the dark self."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet21_0",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "You're intimidated by the overwhelming dark aura and choose to retreat.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet21_1",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "The swirling snow instantly buries you whole.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet21_2",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "You're forced to restart and make a new choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_87",
+          "label": "Confront the dark self head - on."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet22_0",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "You opt for a passive stand - off without resistance, which completely enrages the dark self and you're subjected to a fierce attack.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet22_1",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "Whether you get hurt in close - combat or wake up from the dream after a defeat,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet22_2",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "you can't break the deadlock.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_96",
+          "label": "Use the opponent's force to fight back and subdue the dark self."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet23_0",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "I didn't break down and run away. Instead, I chose to face the extreme darkness deep in my heart.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet23_1",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "During the stand - off, I calmly used the sharp icicles around me to subdue the dark self firmly. I neither let the situation slide passively nor lost control in reckless close - combat, and I managed to hold onto the verge of my collapsing self - boundary.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet23_2",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "Facing the ultimate dark self that symbolizes all the dark traumas, I abandoned the extreme thought of completely eradicating and tearing apart the fragments of myself.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet23_3",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "I chose to fully accept and embrace all my imperfections and darkness, to permanently merge with my deepest self and coexist in peace.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet23_4",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "I've completed the return of the last piece of my soul.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet23_5",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0094.webp",
+        "dubbing": "scenes\\audio\\Me00021.mp3",
+        "text": "I never wanted to erase you. I used to run away from the darkness, the pain, and the embarrassing past, which led to the complete fragmentation of myself.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet23_6",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0095.webp",
+        "dubbing": "scenes\\audio\\Me00022.mp3",
+        "text": "Light and innocence make up the gentle me, while pain and darkness make up the complete me. You're the mark left by all the sufferings I've been through and an indispensable part of me.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet23_7",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0096.webp",
+        "dubbing": "scenes\\audio\\Me00023.mp3",
+        "text": "I don't reject your coldness, nor do I fear your darkness. I fully accept you, make peace with you, and make peace with all the past pain.",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet23_8",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "So far, the childhood self that's innocent and pure, which restores my imagination; the confused kitten self that teaches me to follow my heart; the angry self full of wounds and restlessness; and the dark self that's cold and gloomy, carrying all the traumas - these four long - divided personalities have finally embraced and merged one by one.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet23_9",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "Each acceptance is a process of filling and reconstructing the self;",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet23_10",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "Each merging makes the broken soul more and more whole.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet23_11",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "The swirling snow suddenly stops.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet23_12",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "The strange dream shatters and fades layer by layer. I wake up from this long and cold self - imprisonment, fully accept all of myself, and complete a silent, difficult, and thorough self - redemption.",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://oke.xnewd-b.com/"
+}

@@ -16,8 +16,8 @@
     {
       "id": "huanjing_dm",
       "title": "代码幻境",
-      "description": "在中央公园的午后，一段奇幻冒险即将展开……",
-      "cover": "okeweb/huanjing_dm/cover.jpg",
+      "description": "代码幻境",
+      "cover": "okeweb/huanjing_dm/cover.webp",
       "entry": "okeweb/huanjing_dm/index.html",
       "enabled": true,
       "order": 1
@@ -25,8 +25,8 @@
     {
       "id": "guiwei",
       "title": "归位",
-      "description": "在中央公园的午后，一段奇幻冒险即将展开……",
-      "cover": "okeweb/guiwei/cover.jpg",
+      "description": "归位",
+      "cover": "okeweb/guiwei/cover.webp",
       "entry": "okeweb/guiwei/index.html",
       "enabled": true,
       "order": 1
@@ -34,7 +34,7 @@
     {
       "id": "huayuan_wgqy",
       "title": "花园微观奇遇",
-      "description": "在中央公园的午后，一段奇幻冒险即将展开……",
+      "description": "花园微观奇遇",
       "cover": "okeweb/huayuan_wgqy/cover.jpg",
       "entry": "okeweb/huayuan_wgqy/index.html",
       "enabled": true,
@@ -43,7 +43,7 @@
     {
       "id": "kaoru_z",
       "title": "千万别变成烤乳猪",
-      "description": "在中央公园的午后，一段奇幻冒险即将展开……",
+      "description": "千万别变成烤乳猪",
       "cover": "okeweb/kaoru_z/cover.jpg",
       "entry": "okeweb/kaoru_z/index.html",
       "enabled": true,
@@ -52,9 +52,18 @@
     {
       "id": "shikong_bc",
       "title": "时空草本",
-      "description": "在中央公园的午后，一段奇幻冒险即将展开……",
+      "description": "时空草本",
       "cover": "okeweb/shikong_bc/cover.jpg",
       "entry": "okeweb/shikong_bc/index.html",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "guimie_zymt",
+      "title": "鬼灭：地狱迷途",
+      "description": "鬼灭：地狱迷途",
+      "cover": "okeweb/guimie_zymt/fm.jpg",
+      "entry": "okeweb/guimie_zymt/index.html",
       "enabled": true,
       "order": 1
     }

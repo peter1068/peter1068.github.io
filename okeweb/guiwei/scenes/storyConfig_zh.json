@@ -1,0 +1,1957 @@
+{
+  "uid": "gw20260729_20260729144424",
+  "name": "~$归位20260729合成导入表程序表格式",
+  "token": "U2FsdGVkX18l6QnYLY0dLDPNkWoYkY9W9ipQYvlKViCbyLuhjnqmKHSP7wPUNxgmeM8MYtuqwqdC/nEYFbJn0g==",
+  "cover": "scenes\\images\\gw20260729_20260729144424_0001.webp",
+  "version": "20260729-1711",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "我的精神长久处于割裂破碎的状态，四块人格碎片在意识深处不断拉扯、对峙、相互抵触，让我的情绪与思绪常年混乱失重。母亲察觉到我状态异常的死寂与恍惚，轻声问我",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "是否要去医院检查。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0003.webp",
+        "dubbing": "scenes\\audio\\Mother00000.mp3",
+        "text": "孩子，你已经沉默太久了。你总是坐着发呆，眼神空空的，喊你也没什么反应，妈妈看着心里特别慌。你是不是心里堵得难受，撑得很累了？",
+        "characterImage": "scenes\\images\\mother tou.webp",
+        "characterName": "Mother"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0004.webp",
+        "dubbing": "scenes\\audio\\Me00000.mp3",
+        "text": "我不知道怎么形容。我的心里碎成了好几块，它们一直在吵架、在拉扯，我控制不了我的思绪，也感受不到情绪了。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0005.webp",
+        "dubbing": "scenes\\audio\\Mother00001.mp3",
+        "text": "没关系的，不用硬撑。身体和心里不舒服都不是过错，我们乖乖去医院看一看，好好调整，妈妈一直陪着你，不会让你一个人。",
+        "characterImage": "scenes\\images\\mother tou.webp",
+        "characterName": "Mother"
+      },
+      "branches": [
+        {
+          "nextId": "scene_9",
+          "label": "抗拒就医，不去医院"
+        },
+        {
+          "nextId": "scene_5",
+          "label": "听从安排，前往医院"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "我最终选择前往就医，这次选择直接湮灭了体内三个人格，只留给我一具空洞残缺、感知麻木的意识躯壳。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "身心被巨大的空虚裹挟",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "我沉沉睡去，坠入一场冰冷、虚幻、带着未知诡谲感的深层梦境。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jingyin.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "梦境的尽头悬着一片惨白发亮的洞口，光线虚假又疏离，四周安静得没有一丝声响。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_11",
+          "label": "钻进光亮洞口"
+        },
+        {
+          "nextId": "scene_15",
+          "label": "停步不前，不钻洞口"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "你内心抗拒，执意不肯前往医院诊治。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "但父母十分担心你的精神状态，强行带你前往医院，剧情回归主线。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_5",
+          "label": "听从安排，前往医院"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "我压下心底的不安，缓步走入光晕之中，穿过薄薄的朦胧雾霭",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "眼前出现了温柔干净的一幕 —— 年幼的我静静站在虚空里，眉眼纯粹、神态天真，是我早已遗失的童年模样。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0014.webp",
+        "dubbing": "scenes\\audio\\Me00001.mp3",
+        "text": "原来你一直被困在这片虚空里，被我尘封在最深的心底，从来没有真正消失过。这些年，辛苦你一直等着我。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0015.webp",
+        "dubbing": "scenes\\audio\\Young Me00000.mp3",
+        "text": "我一直在等长大的你回头看看我。你后来变得越来越沉默、越来越疲惫，再也没有陪我画画、再也没有想象过美好的世界，我好孤单。",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_20",
+          "label": "沉默观望，不打招呼"
+        },
+        {
+          "nextId": "scene_18",
+          "label": "主动和童年的自己打招呼"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0016.webm",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "你心生迟疑不敢前进，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "你身体突然传来一阵强烈眩晕感，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "你被梦境力量强行拉扯回初始状态。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_11",
+          "label": "钻进光亮洞口"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "我轻声向儿时的自己打招呼，打破了梦境死寂。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "地面散落着积木与纸笔。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_22",
+          "label": "选择画画"
+        },
+        {
+          "nextId": "scene_30",
+          "label": "选择搭积木"
+        }
+      ]
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "你选择静静观望、沉默不语，不愿主动靠近童年的自己。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "你心底瞬间涌上浓烈的愧疚与遗憾，促使你主动破冰，回归主线剧情。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_18",
+          "label": "主动和童年的自己打招呼"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "我没有沉溺简单的玩乐，而是伸手拾起画笔，陪着小小的自己一同落笔创作。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "我没有刻板临摹冰冷的现实照片，而是任由心意流淌，肆意描绘自由、鲜活的梦想世界，一笔一画，在虚空里勾勒出一片幽深的森林。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0024.webp",
+        "dubbing": "scenes\\audio\\Young Me00001.mp3",
+        "text": "我们不用画大人眼里冰冷又现实的世界对不对？不用画那些压抑、难过、无奈的东西对不对？",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0025.webp",
+        "dubbing": "scenes\\audio\\Me00002.mp3",
+        "text": "对",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0026.webm",
+        "dubbing": "scenes\\audio\\Me00003.mp3",
+        "text": "今天我们只遵从自己的心意。现实已经够荒芜冰冷了，我们要亲手为自己造一片温柔鲜活的天地。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0027.webp",
+        "dubbing": "scenes\\audio\\Young Me00002.mp3",
+        "text": "那我们画一片大大的森林吧！里面有清风、有树荫、有悄悄盛开的花草，没有争吵，没有破碎，安安静静的。",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0028.webp",
+        "dubbing": "scenes\\audio\\Me00004.mp3",
+        "text": "好，我陪着你一笔一笔画出来。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0029.webp",
+        "dubbing": "scenes\\audio\\Me00005.mp3",
+        "text": "只要我们心里还有热爱和想象，荒芜的虚空就永远困不住我们。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_35",
+          "label": "主动拥抱童年自我"
+        },
+        {
+          "nextId": "scene_41",
+          "label": "拒绝拥抱，保持距离"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "你选择拾起积木想要搭建玩耍",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "可枯燥的搭建让你内心倍感无趣，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "儿时的自己也变得心不在焉。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "无论你尝试参照照片绘画",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "还是消极无感放弃，最终都会兴致全无。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_22",
+          "label": "选择画画"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "我主动张开双臂拥抱儿时的自己，温热的相融感缓缓漫开，破碎的自我开始初步填补、归位，我尘封多年的想象力彻底苏醒、重回心底，这是我残缺人格第一次温柔的重塑与构建。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0036.webp",
+        "dubbing": "scenes\\audio\\Young Me00003.mp3",
+        "text": "你不要再丢下我了好不好？不要让我再一个人待在黑漆漆的地方。",
+        "characterImage": "scenes\\images\\youngme tou.webp",
+        "characterName": "Young Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0037.webp",
+        "dubbing": "scenes\\audio\\Me00006.mp3",
+        "text": "我答应你。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0038.webp",
+        "dubbing": "scenes\\audio\\Me00007.mp3",
+        "text": "从今往后，我永远留住这份纯粹和热烈，再也不会弄丢最干净的自己。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "随着融合完成，画中的森林彻底具象成型。整片林子幽深静谧，树影扭曲交错，林间死寂无声，透着清冷诡异的压抑感。寂静的深处，飘来一阵细碎飘忽的猫叫声。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0040.webp",
+        "dubbing": "scenes\\audio\\Me00008.mp3",
+        "text": "这声音好轻、好脆弱，带着小心翼翼的胆怯。是藏在我心底最不敢外露、最不敢发声的自己。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "走上玫瑰铺满的道路"
+        },
+        {
+          "nextId": "scene_43",
+          "label": "循着猫叫声前行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "你刻意保持距离、拒绝相拥，氛围变得枯燥无趣",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "儿时的自我瞬间失落失神。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_35",
+          "label": "主动拥抱童年自我"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "我避开了外表艳丽、底下暗藏致命荆棘的玫瑰小路，循着那道微弱的声响向前探寻。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "林子中央蜷缩着一只眼神茫然、怯弱不安的小猫，它正是我长久迷茫、慌乱无措、不敢遵从本心的自我缩影。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0045.webp",
+        "dubbing": "scenes\\audio\\Me00009.mp3",
+        "text": "我找到你了。这么多年，你一直蜷缩在我心底深处，害怕出错、害怕选择、害怕往前走，一直惶惶不安。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_49",
+          "label": "抱起小猫，遵从它的方向前行"
+        },
+        {
+          "nextId": "scene_59",
+          "label": "视而不见，忽视小猫"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yuexiawenqing.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "你被浪漫的玫瑰小路吸引，选择转身走入花海",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yuexiawenqing.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "可路面之下遍布尖锐荆棘",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yuexiawenqing.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "畏惧受伤的你只能原路退回。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_43",
+          "label": "循着猫叫声前行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0049.webm",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "我不再漠视脆弱的自己，俯身将小猫紧紧抱入怀中",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "毅然放弃了树干上看似安全、实则暗藏猛兽危机的爪印道路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "这是我人生中第一次遵从自己迷茫时的内心，我接纳了这份怯懦、慌乱的自我，与小猫代表的迷茫本心彻底相融。这一刻，我的灵魂再度被填满、重新构建，原本空洞的意识多了一份笃定与勇气。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0052.webp",
+        "dubbing": "scenes\\audio\\Me00010.mp3",
+        "text": "我从前一直讨厌你的犹豫和怯懦，总想逼着自己强硬、逼着自己无畏。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0053.webp",
+        "dubbing": "scenes\\audio\\Me00011.mp3",
+        "text": "可我忘了，迷茫和不安都是最真实的我。我接纳你的所有慌乱，接纳你的所有迟疑。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0054.webp",
+        "dubbing": "scenes\\audio\\Me00012.mp3",
+        "text": "不必强迫自己完美，你的脆弱从来都不是缺点。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0054.webp",
+        "dubbing": "scenes\\audio\\Me00013.mp3",
+        "text": "从今往后，我会遵从本心，不再委屈、漠视迷茫的你。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "彻底融合迷茫自我后，我抱着安稳下来的小猫走出阴郁寂静的森林，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "一座暗沉肃穆的火山突兀矗立在荒芜天地间，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "山体弥漫着灼热压抑的气息，暗红余烬缓缓翻涌，周遭空气燥热窒息。",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_67",
+          "label": "前往火花四溅的炽热地带"
+        },
+        {
+          "nextId": "scene_62",
+          "label": "前往咆哮声传来的位置"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "你想要无视小猫继续独行，可懵懂的小猫抬爪勾住你的裤脚",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "小猫紧紧抓着裤脚布料不肯放松",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "让你根本无法置之不理",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_49",
+          "label": "抱起小猫，遵从它的方向前行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "我避开了四处飞溅、能灼伤人皮肉的炽热火花地带",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "一步步走向火山深处持续传来低沉咆哮与呜咽的声源。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0063.webp",
+        "dubbing": "scenes\\audio\\Me00014.mp3",
+        "text": "这片滚烫压抑的天地，藏着我所有无处宣泄的情绪。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0064.webp",
+        "dubbing": "scenes\\audio\\Me00015.mp3",
+        "text": "那些压在心底多年的委屈、不甘、愤怒，全都困在这里，迟迟不肯散去。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "火山腹地的浓重阴影里，蜷缩着我另一重极端的自我。她浑身紧绷，被滚烫的阴霾死死包裹，满是积攒多年的愤怒、委屈与深深的无力感，不断深陷自我否定，反复唾弃自己一无是处，在寂静的火山深渊里独自痛苦挣扎。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_84",
+          "label": "转身逃离"
+        },
+        {
+          "nextId": "scene_69",
+          "label": "上前安抚"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "你贸然走向火花飞溅的炽热区域，被滚烫火星灼伤身体",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "剧痛让你被迫后退。",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_62",
+          "label": "前往咆哮声传来的位置"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "我没有胆怯逃跑、仓皇退缩，坚定地上前轻声搭话。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0069.webp",
+        "dubbing": "scenes\\audio\\Me00016.mp3",
+        "text": "我听见你的呜咽了。这么多年，你独自承受了所有的委屈和压抑",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0069.webp",
+        "dubbing": "scenes\\audio\\Me00017.mp3",
+        "text": "一边崩溃一边自我拉扯，真的辛苦了。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet18_3",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0070.webp",
+        "dubbing": "scenes\\audio\\Angry Self00000.mp3",
+        "text": "我就是个废物。我只会暴躁、只会内耗、只会不甘心",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet18_4",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0071.webp",
+        "dubbing": "scenes\\audio\\Angry Self00001.mp3",
+        "text": "我改变不了任何事，我只会折磨自己，拖累完整的你。",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet18_5",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0071.webp",
+        "dubbing": "scenes\\audio\\Angry Self00002.mp3",
+        "text": "所有人都可以好好生活，只有我偏执、敏感、易怒，浑身都是刺，我根本不配被接纳。",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet18_6",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "我缓缓抬手，将我与儿时自我共同创作的画作展现在愤怒自我眼前，让愤怒自我亲眼看见我失而复得的想象力、纯粹的灵感与鲜活的创造力。我让愤怒自我看见，我们的灵魂从来不是只有阴暗和缺憾，我们拥有过烂漫、热烈、敢于构筑世界的能力。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet18_7",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0073.webp",
+        "dubbing": "scenes\\audio\\Me00018.mp3",
+        "text": "你仔细看一看，这是我们亲手创造的世界。我们的灵魂热烈又鲜活，我们有想象力、有热爱、有不甘平庸的初心。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet18_8",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0074.webp",
+        "dubbing": "scenes\\audio\\Me00019.mp3",
+        "text": "你所有的尖锐和倔强，都是因为你不肯妥协、默默硬扛。你不是一无是处，你只是太累了，被逼得满身伤痕。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet18_9",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "我看着愤怒自我依旧垂着头、深陷自卑与痛苦、无法释怀的模样，我认真且笃定地开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet18_10",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0075.webp",
+        "dubbing": "scenes\\audio\\Me00020.mp3",
+        "text": "你也有长处。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet18_11",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0076.webp",
+        "dubbing": "scenes\\audio\\Angry Self00003.mp3",
+        "text": "真的吗？像我这样满身戾气、自我厌恶、满身伤痕的人，也有长处，也值得被肯定吗？",
+        "characterImage": "scenes\\images\\angryself tou.webp",
+        "characterName": "Angry Self"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet18_12",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "就在我与愤怒自我彻底融合、心绪彻底安稳的刹那，大地骤然剧烈震颤，整座火山轰然崩塌。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet18_13",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "狂暴的暴风雪瞬间吞噬整片梦境天地，狂风呼啸，冰雪漫天，刺骨的寒意笼罩四野。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet18_14",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "从无尽风雪的最深处，缓缓走出我最后一重、也是最为阴冷可怖的黑暗自我，黑暗自我承载着我所有的伤痛、阴影、压抑与潜藏的恶意，周身裹挟着死寂的寒气，无声地与我对峙。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_87",
+          "label": "坦然直面黑暗自我"
+        },
+        {
+          "nextId": "scene_90",
+          "label": "心生恐惧，转身逃跑"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet19_0",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "你胆怯转身逃走，",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet19_1",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "惊扰了愤怒的自我遭到攻击；",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet19_2",
+      "excelSheetName": "Sheet19",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "她怒火暴涨、彻底失控。",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_69",
+          "label": "上前安抚"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet20_0",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0083.webp",
+        "dubbing": "scenes\\audio\\Dark Self00000.mp3",
+        "text": "你一路治愈了天真的我、怯懦的我、愤怒的我，可你始终不敢面对最阴暗、最不堪的我。",
+        "characterImage": "scenes\\images\\darkself tou.webp",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "Dark Self"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet20_1",
+      "excelSheetName": "Sheet20",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0084.webm",
+        "dubbing": "scenes\\audio\\Dark Self00001.mp3",
+        "text": "我是你所有的伤疤、所有的绝望、所有藏在心底的恶意与破碎。",
+        "characterImage": "scenes\\images\\darkself tou.webp",
+        "characterName": "Dark Self"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet20_2",
+      "excelSheetName": "Sheet20",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0085.webp",
+        "dubbing": "scenes\\audio\\Dark Self00002.mp3",
+        "text": "你是不是也想把我彻底抹杀，彻底清除？",
+        "characterImage": "scenes\\images\\darkself tou.webp",
+        "characterName": "Dark Self"
+      },
+      "branches": [
+        {
+          "nextId": "scene_93",
+          "label": "被动承受，不做反击"
+        },
+        {
+          "nextId": "scene_96",
+          "label": "借力反击，制服黑暗自我"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet21_0",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "你被磅礴的黑暗气场震慑，选择逃避后退。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet21_1",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "漫天风雪瞬间将你彻底掩埋，",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet21_2",
+      "excelSheetName": "Sheet21",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "被迫重启选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_87",
+          "label": "坦然直面黑暗自我"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet22_0",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "你选择消极对峙、不做反抗，被黑暗自我彻底激怒、遭受猛烈攻击。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet22_1",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "无论尝试肉搏受伤，还是落败梦醒，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet22_2",
+      "excelSheetName": "Sheet22",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "都无法突破僵局。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_96",
+          "label": "借力反击，制服黑暗自我"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet23_0",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "我没有崩溃逃避，选择直面这份源自心底的极致阴暗。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet23_1",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "对峙之中，我冷静利用周遭凝结的锋利冰柱稳稳制服黑暗自我，既没有消极放任伤害，也没有失控鲁莽肉搏，硬生生守住了濒临崩坏的自我边界。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet23_2",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "面对象征所有阴暗创伤的终极黑暗自我，我摒弃了彻底抹杀、撕碎自我碎片的极端念头，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet23_3",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "选择全然接纳、包容自己所有的残缺与阴暗，与最深层的自我永久相融、和平共处，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet23_4",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "完成了最后一块灵魂碎片的归位。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet23_5",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0094.webp",
+        "dubbing": "scenes\\audio\\Me00021.mp3",
+        "text": "我从未想过抹杀你。我从前一直逃避阴暗、逃避伤痛、逃避不堪的过往，才让自我彻底分裂破碎。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet23_6",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0095.webp",
+        "dubbing": "scenes\\audio\\Me00022.mp3",
+        "text": "光明和天真构成了温柔的我，而伤痛和阴暗构成了完整的我。你是我历经所有苦难留下的印记，是我不可或缺的一部分。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet23_7",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0096.webp",
+        "dubbing": "scenes\\audio\\Me00023.mp3",
+        "text": "我不排斥你的冰冷，不畏惧你的黑暗，我全盘接纳，与你和解，与过往所有伤痛和解。",
+        "characterImage": "scenes\\images\\me tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet23_8",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "至此，天真纯粹、恢复我想象力的童年自我，让我学会遵从本心的迷茫小猫自我，满身伤痕、情绪躁动的愤怒自我，阴冷阴郁、承载所有创伤的黑暗自我，四段长久分裂撕扯的人格全部逐一相拥融合。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet23_9",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "每一次接纳，都是一次自我的填满与重构；",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet23_10",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "每一次相融，都让破碎的灵魂愈发完整。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet23_11",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "漫天风雪骤然停歇",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet23_12",
+      "excelSheetName": "Sheet23",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\zhongshenghoudejiushu.mp3",
+        "video": "scenes\\images\\gw20260729_20260729144424_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "诡谲的梦境层层碎裂消散。我从这场漫长冰冷的自我囚笼中清醒，彻底接纳了全部的自己，完成了一场沉默、艰难、彻底的自我救赎。",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://oke.xnewd-b.com/"
+}

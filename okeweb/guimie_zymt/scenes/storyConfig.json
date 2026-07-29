@@ -1,0 +1,3092 @@
+{
+  "uid": "gmdymt2_20260729192919",
+  "name": "gmdymt2_20260729192919",
+  "token": "U2FsdGVkX195vzaBQWrQQvti1usQNYYQ0o4l3WvEAqiVZZCW8KQumvXrKy/g/rUK",
+  "cover": "scenes\\images\\gmdymt2_20260729192919_0001.webp",
+  "version": "20260729-2319",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "The setting sun, like molten copper, hung heavily over the continuous dark green mountains, soaking the entire forest in a thick layer of blood - like color.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "The wooden sheath of my Nichirin Sword on my waist felt cool under the gentle evening breeze in the forest. The hem of my Demon Slayer Corps uniform was covered with broken leaves and mud stains from pushing through the bushes. I gently placed my fingertips on the hilt of the sword, deliberately breathing long and evenly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "Following the patrol route set by the Corps, I carefully searched this deep mountain where demons often appeared.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "In the past half - month, there had been a series of mass - murder cases in the nearby villages. The victims had clear tooth marks on their necks, and the houses were splattered with blood. Villagers were disappearing one after another. Master Ubuyashiki specifically assigned me to enter the mountain alone to eliminate the wandering demons.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "As the twilight completely faded, the mountain forest lost its daytime gentleness. The tree branches twisted and intertwined, casting terrifying black shadows on the ground. The chirping of insects had disappeared at some point, and the whole mountain was deathly silent, except for the faint crunching sound of my feet on the dead branches.",
+        "soundEffects": "scenes\\audio\\chongzimingjiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "Just as I tensed my nerves and concentrated on detecting the demonic aura around me, a faint, intermittent sobbing sound floated into my ears along the cold mountain wind.",
+        "soundEffects": "scenes\\audio\\nvrenkuqi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "The cry was childish and weak, mixed with uncontrollable fear. It sounded like a young girl, sometimes choking with sobs and sometimes whimpering faintly, hiding behind the thick bushes ahead, hard to tell if it was real or not.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "My brows suddenly furrowed, and two completely different thoughts rose in my mind instantly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Demons ran rampant in this deep mountain. Many cunning low - level demons were good at imitating the cries of children and women to lure lone swordsmen into lowering their guard and then attack and tear their prey apart. But if it was really an innocent victim hiding here, leaving her alone would only lead to her being devoured by demons.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_9",
+          "label": "Go check the source of the sound (Main route)"
+        },
+        {
+          "nextId": "scene_28",
+          "label": "Worried about a trap, ignore the sound and continue on my way (Side route)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0010.webm",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "My conscience overcame my fear of the trap. I slowly drew out half of my Nichirin Sword, and the blade glowed with a faint sunlight - like pattern.",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "I walked extremely quietly.",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "I slowly pushed aside the thorny bushes in my way.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0013.webm",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "The thorns cut my forearm, causing a sharp pain, but I didn't care at all. My eyes were fixed on the direction from which the crying came.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "Deep in the bushes, there was a thin girl curled up. She looked only twelve or thirteen years old. Her coarse cotton short - shirt was covered with dust and dark red blood. Her long black hair was messy and stuck to her pale cheeks. She hugged her knees tightly with both hands, and her shoulders trembled constantly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "She was Chizuru.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "Chizuru noticed my footsteps and suddenly looked up. Her red eyes were filled with tears.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "When Chizuru saw the Demon Slayer Corps uniform embroidered with wisteria patterns on me, her tense and trembling body trembled slightly. Then she staggered forward as if wanting to rush towards me, but stopped in fear. Tears rolled down her face in torrents.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0018.webp",
+        "dubbing": "scenes\\audio\\Qian He00000.mp3",
+        "text": "Sir swordsman... Please, save me.",
+        "characterImage": "scenes\\images\\qianhe tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "Chizuru's voice was hoarse and broken, and every word was filled with despair.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0019.webp",
+        "dubbing": "scenes\\audio\\Qian He00001.mp3",
+        "text": "A demon in the mountain rushed into my home. My parents and younger brother were all eaten by it.",
+        "characterImage": "scenes\\images\\qianhe tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0020.webp",
+        "dubbing": "scenes\\audio\\Qian He00002.mp3",
+        "text": "I managed to escape into the mountain with all my might. I'm afraid to go out because there's the aura of demons everywhere... I'm alone and don't know where to go.",
+        "characterImage": "scenes\\images\\qianhe tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "I followed Chizuru's trembling finger and looked towards the faintly visible outline of the village in the distance. There was a faint but lingering demonic and bloody aura, which proved that what Chizuru said was true. Seeing the girl's helpless and desperate look, my heart softened. I put away my Nichirin Sword, slowly squatted down, and softened my tone.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0021.webp",
+        "dubbing": "scenes\\audio\\Lin Chen00000.mp3",
+        "text": "Don't be afraid. I'm a member of the Demon Slayer Corps and will slay the evil demons. If you have nowhere to go, stay by my side for now. I'll escort you out of this dangerous mountain.",
+        "characterImage": "scenes\\images\\linchen tou.webp",
+        "characterName": "Lin Chen"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "Hearing this, tears welled up in Chizuru's eyes again. She carefully grabbed the corner of my uniform, as if grasping the only life - saving buoy, and closely followed me, never leaving my side.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "After taking Chizuru in, we continued to walk along the winding mountain path. The sun completely sank below the mountain, and the thick night curtain completely enveloped the entire forest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_16",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "The surrounding temperature suddenly dropped several degrees. The cold and piercing demonic aura was like a fine cobweb, quietly wrapping around us. The air was filled with the pungent smell of rotting flesh mixed with rust. From deep in the forest in the distance, there came the low and hoarse roars of demons from time to time, getting closer and closer to us.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_17",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "Chizuru was so scared that she clung tightly to my back, clutching the corner of my uniform with both hands. Her body trembled uncontrollably, and she even breathed very lightly, afraid that the slightest sound would attract the hidden demons in the dark.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_18",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "I put my hand on the Nichirin Sword on my waist. Out of the corner of my eye, I constantly scanned the dark forests on both sides of the path. Two paths were in front of me, waiting for me to make a choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_39",
+          "label": "Stay vigilant and keep moving forward with Chizuru (Main storyline)"
+        },
+        {
+          "nextId": "scene_51",
+          "label": "Find a cave to hide in and set off again at dawn (Side quest)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "The shrill sobs echoed continuously in the silent mountain forest. I tightened my grip on the handle of my Nichirin Blade.",
+        "soundEffects": "scenes\\audio\\nvrenkuqi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "Scenes from past cases kept flashing through my mind, where fellow disciples had fallen victim to demons' disguises and died horribly. I knew well that in the deep mountains, being alone meant never showing mercy. Once deceived by a demon's disguise, it would be a one - way ticket to hell. I gritted my teeth and suppressed the fleeting pity in my heart.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "I turned around, ignoring the continuous sobs behind me, and kept walking straight ahead along the patrol path. The sobs gradually faded as I put more distance between us and finally disappeared completely in the cold mountain wind.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "I spent the whole night eliminating several low - level wandering demons. When dawn was breaking, an uneasiness lingered in my heart. Eventually, I returned to the bushes where I'd heard the sobs the day before.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "I pushed aside the layers of bushes, and the sight before me made my blood almost freeze.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "Where the girl had curled up the previous day, there now lay a small, cold, and stiff body. The hideous bite marks on her neck were clearly visible, her thin clothes were in tatters, and the ground was covered with dried blood.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "The girl's eyes were wide open, still holding the extreme fear from the moment of her death. Her hand was still tightly clutching a small, tattered handkerchief embroidered with family patterns.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0034.webp",
+        "dubbing": "scenes\\audio\\Wo00000.mp3",
+        "text": "It was me. My suspicion made me give up the only chance to save her.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0035.webp",
+        "dubbing": "scenes\\audio\\Wo00001.mp3",
+        "text": "I heard her plea for help. I had the power to slay demons, yet I turned a blind eye because of my own concerns and watched helplessly as an innocent girl was devoured by a demon.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "A huge wave of self - blame engulfed me like an icy tide. The Nichirin Blade slipped from my hand and landed heavily in the dirt. For the rest of my long life, the desperate sobs of that girl in the mountain forest would haunt my ears forever, becoming an unhealable demon in my heart.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "In my hazy consciousness, time rewound. I found myself back in the mountain forest where I'd heard the sobs, at the moment of the initial choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_9",
+          "label": "Go and check out the source of the sound (Main storyline)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "After a brief moment of thought, I dismissed the idea of hiding. Demons track their prey by smell. A small, enclosed cave would cut off any chance of evasion. Once cornered, there'd be no way out.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0039.webp",
+        "dubbing": "scenes\\audio\\Wo00002.mp3",
+        "text": "Chizuru, stay close to me. No matter what happens, don't let go of my clothes.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "I whispered the warning and shielded Chizuru behind me. I drew my Nichirin Blade fully, and the sunlight patterns on it emitted a faint warm glow in the darkness, slightly dispelling the cold demonic aura around us.",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "I walked steadily, my sharp eyes scanning every corner where a demon might be hiding. I cut down all the low - level demons that attacked us. The crisp sound of the blade slicing through demon bodies echoed continuously on the mountain path.",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Chizuru kept her head down and followed closely behind me. Even when she saw the shattered demon bodies, she endured the fear and didn't cry out. She just held onto me tighter.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "The thick demonic aura continued to gather ahead. Danger was waiting silently around the bend of the mountain path. I tightened my grip on the handle of my blade, protected Chizuru, and walked forward steadily, facing the unknown danger lurking in the mountain forest at night.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "Chizuru and I walked hundreds of steps along the mountain path. When we reached a steep bend, a piercing, bone - chilling demonic aura hit us head - on. It was completely different from the faint stench of the low - level demons before. This was the overwhelming presence unique to high - ranking demons.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "In the middle of the mountain path, a tall demon slowly emerged. He had pale skin, blood - red eyes, and was surrounded by a dozen or so subordinate demons. They surrounded Chizuru and me layer upon layer, cutting off our retreat completely.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "I recognized the demon in front of me as an Upper Rank demon.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "Just by standing there, the Upper Rank demon's demonic aura made it hard to breathe. My limbs felt heavy, and every bone in my body trembled. A fight was about to break out. I protected Chizuru tightly behind me, held my Nichirin Blade in front of me, and gathered my strength using the Breathing Technique.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "Before the battle began, out of the corner of my eye, I suddenly saw the space in the distance in the air distort violently. A dark rift slowly opened, and a faint image of Muzan Kibutsuji, the Demon King, appeared at the edge of the rift. Countless souls of mortals who had died at the hands of demons were being dragged by an invisible force and crying as they fell into the depths of the rift. At the end of that rift was the legendary hell where the souls were imprisoned.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "On one side, there was the Upper Rank demon, far more powerful than me, and a group of demons blocking our way. On the other side, there was the distorted space rift leading to hell. Two very different paths to survival were now in front of Chizuru and me.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_63",
+          "label": "Break through the encirclement and retreat towards the spatial anomaly (Main storyline)"
+        },
+        {
+          "nextId": "scene_76",
+          "label": "Draw your blade and fight to the death here to slay the Upper Rank demon (Side quest)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "The demonic aura in the night was extremely thick, and the roars of demons echoed in my ears. A sense of cowardice I couldn't suppress welled up in my heart.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "I instinctively grabbed Chizuru's wrist",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "He turned around and walked towards a natural cave beside the mountain path, planning to take shelter there temporarily and wait until the sunrise dispelled the ghostly aura before moving on.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "The entrance of the cave was narrow.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "Inside, it was pitch - black and deep. The ground was covered with damp moss. It blocked the night wind from outside, but it couldn't stop the Upper - Rank demon Douma from blocking the only exit.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "The sharp claws of the Upper - Rank demon Douma reflected a cold light in the firelight.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "He trapped Lin Chen and Chizuru completely in the enclosed cave.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "Lin Chen immediately drew his sword and fought back. The narrow space didn't allow him to perform the complete breathing techniques.",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "The demons attacked from all directions one after another, and Lin Chen's physical strength was rapidly depleted.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "Chizuru was so frightened by the demons' roars that she collapsed on the ground. Lin Chen tried his best but couldn't fend off the attacks of several demons at the same time.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "A sharp claw tore Lin Chen's back severely. Intense pain swept through his body, and his strength was rapidly draining away.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "In the last moment when Lin Chen's vision was blurry, he saw the demon stretch out its black claws towards the helpless Chizuru. Darkness swallowed everything. Lin Chen's consciousness faded, and time rewound. Lin Chen returned to the moment of choice on the mountain path in the middle of the night.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_39",
+          "label": "Stay vigilant and take Chizuru forward (Main storyline)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "I quickly assessed the battle situation in an instant. With my current strength, I had no chance of defeating the Upper - Rank demon head - on. After a short fight, I would be exhausted and defeated, and Chizuru would surely die. The distorted spatial rift in the distance was the only breakthrough to temporarily get out of the siege.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0063.webp",
+        "dubbing": "scenes\\audio\\Wo00003.mp3",
+        "text": "Chizuru, hold on to me!",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0064.webm",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "I let out a low shout and fully activated the breathing technique. The blade emitted a blinding light. I slashed two subordinate demons in front of me and forced a temporary opening.",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0065.webm",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "Seeing this, the Upper - Rank demon flew into a rage. His sharp blood - claws wrapped in strong demonic aura attacked my back.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "I dodged to the side narrowly, but my back was still grazed by the demonic aura, and the pain was like being burned. I didn't dare to stop. I tightly held Chizuru's wrist and ran towards the distorted spatial rift with all my might.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "The roars of the demons behind and the sound of their claws tearing through the air were getting closer. When I was only a few steps away from the rift, I was hit by the demonic aura of the Upper - Rank demon on the ground. The whole mountain path cracked loudly. The huge black rift expanded instantly, and the ground beneath my feet completely collapsed. A feeling of weightlessness swept over me.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "Chizuru and I both lost control and fell, constantly plummeting towards the hell below the abyss.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "The long - lasting feeling of weightlessness gradually dissipated. The protagonist landed heavily on the soft but cold ground with his back. He struggled to get up immediately and quickly reached out to pull Chizuru beside him.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "After confirming that Chizuru was not injured, the protagonist had the energy to look around.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0071.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "This was no longer the deep mountain in the human world, but a hellish inn floating between the realms of the living and the dead, specially for newly deceased souls.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "The entire inn was pitch - black. The beams, columns, doors, and windows were all made of dry bones with faint blue ghostly flames. Countless souls wandered aimlessly in the inn's lobby. There were villagers killed by demons, samurai who died in battle, and夭折 children. Every soul's face was filled with inescapable sorrow and confusion.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "There was no distinction between day and night in the inn. Gray and lifeless clouds always hung overhead. The air didn't have the smell of grass and trees in the human world, only a faint, cool dead air of dissipating souls. All the deceased, whether they died of old age or at the hands of demons, their souls would first come here to stay temporarily, waiting for the judgment of going to the depths of hell or being reincarnated.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Chizuru clung tightly to the protagonist's side. Looking at the countless souls around, her eyes were full of fear. Her small hand tightly grasped the protagonist's sleeve, and she didn't dare to look around. The protagonist and Chizuru were forced to stay here for a whole night. To return to the human world, they had to figure out the rules of hell and find a way out of this gloomy realm.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_85",
+          "label": "Gather information at the inn and find a way to escape (Main storyline)"
+        },
+        {
+          "nextId": "scene_99",
+          "label": "Let Chizuru wander around and explore the depths of the inn alone (Side quest)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0075.webm",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "The protagonist witnessed the Upper - Rank demon blocking the road and harming people wantonly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "He also saw the shadow of Muzan pushing countless souls into hell. An uncontrollable anger welled up in his heart.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "The protagonist didn't want to flee in a sorry state. He was determined to kill this evil Upper - Rank demon on the spot and avenge the dead villagers.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0078.webm",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "The protagonist took a deep breath and fully performed the entire breathing technique. The sunlight - wheel sword's light overlapped layer by layer, constantly slashing at the subordinate demons that rushed forward. The blade collided with the Upper - Rank demon's blood - claws repeatedly, and the ear - piercing sound of the collision echoed through the forest. The Upper - Rank demon's recovery ability, strength, and speed far exceeded the protagonist's expectations. The long - term and high - intensity battle was constantly depleting the protagonist's physical strength. His sweat soaked his entire team uniform.",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "The protagonist's arm began to tremble uncontrollably from continuous sword - swinging.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0080.webm",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "The subordinate demons kept coming forward to hold the protagonist back. Taking advantage of the protagonist's moment to catch a breath, the Upper - Rank demon struck a heavy claw on the protagonist's chest. The excruciating pain of broken bones instantly spread throughout the protagonist's body, and the Nichirin Sword flew out of the protagonist's hand.",
+        "soundEffects": "scenes\\audio\\guaiwujiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "The protagonist fell heavily to the ground. All the strength in the protagonist's body drained away, and they could no longer get up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "In the blurred vision of the protagonist, they saw the Upper - Rank demon slowly walking towards Chizuru, who was curled up on the ground, shivering. Chizuru's desperate cries pierced through the protagonist's eardrums, but the protagonist didn't even have the strength to lift a hand.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0083.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "Darkness engulfed the protagonist's consciousness. Time reversed, and the protagonist returned to the life - or - death choice against the Upper - Rank demon.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_63",
+          "label": "Fight your way out and retreat to the place with spatial anomalies (Main storyline)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "Zero Hellsflame gently patted Chizuru on the back to comfort her.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "He led her to a relatively quiet stone platform in the corner of the inn and told her not to wander around.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "Then he got up and shuttled among the wandering souls, gently asking Charley Morningstar and Alastor about the rules of the Hell Hotel, the passage between the Yin and Yang worlds, and the way to escape from hell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "Most of the souls were deeply trapped in the pain of their own deaths and didn't want to talk to others.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "But there were also some old souls who had stayed for a long time and understood the rules here, willing to tell Zero Hellsflame some information.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "Zero Hellsflame recorded the key clues one by one: The foundation of hell was unstable, and spatial collapses often occurred. When a collapse happened, a temporary Yin - Yang passage would be born; There were ancient guardians at the border of heaven, who held the secret art that could let souls briefly return to the mortal world; The inn was the outermost layer of hell. Once you went deep into the inn, your soul would be swallowed by the illusion and you would be permanently trapped in hell and never be able to leave the mortal world again.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "After collecting all the information, Zero Hellsflame returned to the corner and found Chizuru waiting quietly. He told her all the information he had gathered, and the two quietly waited for the change in the inn and the opportunity to escape from hell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "Zero Hellsflame stayed safely in the Hell Hotel for one night. He was whispering with Chizuru to sort out the escape plan.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "All the souls were still wandering aimlessly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Suddenly, the ground under their feet began to tremble violently. The whole inn made of bones shook constantly, and broken bone fragments kept falling from the ceiling.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "The ear - piercing sound of collapse echoed throughout the outer layer of hell.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "The entire prison of hell was rapidly collapsing. Countless dark cracks appeared in the spatial barrier. The dark clouds were surging wildly. Huge abysses kept opening on the ground. Countless souls panicked and fled in all directions. Cries, wails, and screams mixed together, and the scene was extremely chaotic.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "Just as the whole hell was about to completely collapse, a soft and pure white light gate suddenly appeared out of thin air and hovered in the center of the inn. The outline of the Palace of the King of the Underworld was faintly visible at the other end of the gate. This was the only temporary escape passage born when hell collapsed. Once the light gate disappeared, everyone would be completely crushed by the collapsing space.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "While calculating to seize the opportunity to pass through the light gate and escape from hell, Zero Hellsflame looked at the souls fleeing in all directions and about to be swallowed by the space. Compassion and reason tugged at his heart. He had to make a decision immediately.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "Lead Chizuru through the light gate and escape from hell (Main storyline)"
+        },
+        {
+          "nextId": "scene_127",
+          "label": "Stay in hell and try to rescue all the trapped souls (Side quest)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "I was eager to find a shortcut to leave hell. Restlessness welled up in my heart. I just casually told Chizuru not to go too far.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "Then I turned around alone and walked towards the deep and dark inner passage of the inn, wanting to directly find the passage to the outside world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "I left Chizuru alone in the hall full of souls.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "The hell illusion is best at creating illusions using the obsessions in the souls' hearts.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "Before long, the unguarded Chizuru saw the figures of her parents and younger brother in the illusion waving to her among the souls. Unable to hide her longing without any support,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "She chased after the illusion without any defense and walked deep into the inn.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "I found nothing in the deep part of the inn. When I returned to the hall to look for Chizuru,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "The stone platform in the corner was empty. Countless souls came and went, and I could no longer see Chizuru's thin figure.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "I frantically searched every floor of the inn, shouting Chizuru's name. The only response I got was the empty and dead echo.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "The illusion completely devoured Chizuru's soul. Chizuru and I were forever separated in this hell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "Endless remorse swept over me.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0109.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "The scene in front of me shattered.",
+        "soundEffects": "scenes\\audio\\boliposui.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "Time rewound, and I was back at the moment of making a choice in the Hell Inn.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_85",
+          "label": "Gather information at the inn and find a way to escape (Main Quest)."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0111.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "Lin Chen clearly knew how terrifyingly fast the hell was collapsing. The disintegration of space wouldn't leave any extra time for rescue. If he hesitated for a moment, the light gate of the King of Hell, Lucifer, would directly disappear.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "Both Lin Chen and Chizuru would be buried in the collapsing hell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "Lin Chen didn't hesitate at all.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0114.webm",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "He tightly grasped Chizuru's cold little hand, bent down to protect the top of her head, avoided the constantly falling gravel and bones, and rushed towards the white light gate in the center against the panicked crowd of fleeing souls.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0115.webm",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "On the way, panicked souls rushed towards them. Lin Chen blocked the flying debris while stabilizing Chizuru's figure. He tried his best to reach the light gate and stepped into the warm and gentle white light. The Hell Inn behind Lin Chen crashed and shattered. The endless dark abyss completely swallowed the place where they had just been. Lin Chen and Chizuru successfully escaped from the hell space on the verge of destruction.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "The white light faded, and a warm and gentle halo enveloped us.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "We looked up and found ourselves at the border of heaven.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "We passed through the escape light gate, and the bone - chilling cold and dead air of hell completely dissipated.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "Instead, there was a warm, golden soft light that wrapped around our whole bodies.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "This is the border of heaven. There are no bones, abysses, or wails of hell. Shallow white spiritual flowers that never wither are in full bloom everywhere.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "The air is filled with a peaceful and serene atmosphere.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0122.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "Countless souls of the deceased have settled here in peace.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00116.mp3",
+        "text": "I immediately saw many familiar figures: the fellow swordsmen of the Demon Slayer Corps who sacrificed in previous missions, the innocent villagers massacred by demons, and the Pillar - level members who died in battle to protect the civilians. Everyone looked calm, far away from the pain and fear brought by the demons in the human world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.mp3",
+        "text": "The guardian of this border of heaven is an ancient spiritual being with a vague figure and surrounded by spiritual light. It holds the law of the cycle of yin and yang and has a lost secret technique in its hand. This technique can briefly open the boundary between yin and yang, allowing the souls to return to the mortal world with the living. However, using this technique requires extreme kindness and firm perseverance as an exchange.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.mp3",
+        "text": "On one hand, we can seek the secret technique and take the souls willing to return to the mortal world back to the war - torn and demon - infested mortal world; on the other hand, we can stay in the peaceful and disaster - free heaven, forever away from the battles and sufferings in the human world. Two completely different lives are laid out in front of us.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_134",
+          "label": "Initiate communication to obtain the secret technique to return to the mortal world (Main Quest)."
+        },
+        {
+          "nextId": "scene_146",
+          "label": "Stay in heaven and give up returning to the war - torn human world (Side Quest)."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.mp3",
+        "text": "I watched as countless souls panicked and fled, about to be buried in the space rift. The strong compassion in my heart overwhelmed my reason.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.mp3",
+        "text": "I let go of Chizuru's hand.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.mp3",
+        "text": "I asked Chizuru to approach the light gate and wait.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.mp3",
+        "text": "I turned around and rushed into the scattered crowd of souls, trying to bring as many souls as possible to the escape light gate.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0130.webm",
+        "dubbing": "scenes\\audio\\pangbai00123.mp3",
+        "text": "But the speed of the hell's collapse was far beyond my imagination. The ground fissures kept expanding, and the abyss that devoured the souls was just around the corner. I saved a group of souls, but more souls were pulled into the abyss by the space. I could never save them all.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0131.webm",
+        "dubbing": "scenes\\audio\\pangbai00124.mp3",
+        "text": "In just a short moment, the light of the light gate began to fade rapidly, and the passage was about to close. I panicked and looked back for Chizuru, but a huge gully suddenly opened on the ground under my feet. A powerful devouring force pulled my body, and I couldn't move a single step towards the light gate.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.mp3",
+        "text": "The white light completely dissipated, the escape passage disappeared, and the entire hell completely collapsed. I was wrapped in the turbulent space current, and my consciousness was completely annihilated. Time reset, and I was back at the moment of the choice when the hell was collapsing and the light gate appeared.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "Lead Chizuru through the light gate to escape hell (Main storyline)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.mp3",
+        "text": "I settled Chizuru beside the spiritual flower field and stepped forward alone. I bowed respectfully to the ancient guardian.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.mp3",
+        "text": "I told the ancient guardian everything: how evil spirits were running amok in the human world, how the common people lived in fear every day, how countless souls were concerned about their loved - ones in the world and wanted to go back to protect it. I recounted the massacre in the mountain village, how the upper - rank demons wantonly slaughtered humans, how the demon king Muzan kept creating souls and sending them to hell, and how the Demon Slayer Corps swordsmen kept dying in battle but still couldn't stop the demons' killing. Every word I said was filled with the firm belief to protect all sentient beings.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.mp3",
+        "text": "The ancient guardian listened to me quietly. The spiritual light around it flickered slightly. It could sense the pure kindness in my heart and my obsession with protecting all living beings.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.mp3",
+        "text": "The ancient guardian finally nodded in agreement.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.mp3",
+        "text": "It taught me the secret incantation and the way to cast the spell to return to the mortal world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0138.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.mp3",
+        "text": "I returned to the spiritual flower field and gathered all the souls who were willing to return to the human world to fight against the demons or to see their loved - ones again.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.mp3",
+        "text": "Chizuru stood quietly by my side. Her eyes were firm, and she showed no sign of retreat.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0140.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.mp3",
+        "text": "The group of souls lined up neatly and followed me on the Yin - Yang path back to the mortal world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.mp3",
+        "text": "The secret spell's spiritual light enveloped everyone. The Yin - Yang journey was over in an instant. When everyone landed again, the familiar fragrance of wisteria flowers wafted over. Right in front of us was the broad courtyard of the Demon Slayer Corps headquarters.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.mp3",
+        "text": "All the deceased souls appeared and floated in the courtyard.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.mp3",
+        "text": "Master Ubuyashiki, who was originally dealing with documents, suddenly looked up. Seeing a large number of deceased souls appear out of thin air, his body trembled slightly, and he couldn't calm down the shock in his heart for a long time.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.mp3",
+        "text": "The medical staff from the Butterfly Mansion and the guarding swordsmen beside Master Ubuyashiki all stood there stunned, looking at the scene in disbelief.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_162",
+          "label": "Let Chizuru practice swordsmanship and inherit the will to protect (True ending)"
+        },
+        {
+          "nextId": "scene_153",
+          "label": "Send Chizuru away and let her live a peaceful life (Peaceful ending)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0145.webm",
+        "dubbing": "scenes\\audio\\pangbai00138.mp3",
+        "text": "After witnessing the collapse of hell and the cruelty of the demons, and now being in such a peaceful and disaster - free paradise, the protagonist felt an overwhelming sense of exhaustion.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0146.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.mp3",
+        "text": "The endless battles between demons and humans in the mortal world, the continuous deaths of countless civilians, and the unending sacrifice of the Demon Slayer Corps members seemed to have no end.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0147.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.mp3",
+        "text": "The protagonist was tired of the endless killing and suffering and didn't want to return to the mortal world full of blood and fear. He decided to stay in paradise with Chizuru and live a peaceful life.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.mp3",
+        "text": "Seeing that I gave up asking for the secret spell, the ancient guardian said no more and let us stay on the border of paradise.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.mp3",
+        "text": "The Yin - Yang passage was permanently closed. Without the help of the souls, the demons continued to slaughter wantonly in the human world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0150.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.mp3",
+        "text": "The tragedies of villages being destroyed and the people wailing repeated day after day, with no end in sight.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.mp3",
+        "text": "The picture freezes in the peaceful paradise flower field. Time goes back, and we return to the decision - making point when talking to the guardian.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_134",
+          "label": "Initiate communication and strive to obtain the secret spell to return to the mortal world (Main storyline)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.mp3",
+        "text": "Looking at the wounds all over Chizuru's body and thinking about the fear and pain she endured along the way, my heart ached. I didn't want her to get involved in the demon disputes anymore.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0175.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.mp3",
+        "text": "I used the power of the secret spell to find a remote and quiet town covered with wisteria barriers all year round, where there were no demons to disturb.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.mp3",
+        "text": "I planned to send Chizuru there to completely stay away from the killing.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0177.webp",
+        "dubbing": "scenes\\audio\\Wo00004.mp3",
+        "text": "Chizuru, you've endured too much suffering. You don't have to bear the burden of protecting all sentient beings anymore.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0178.webp",
+        "dubbing": "scenes\\audio\\Wo00005.mp3",
+        "text": "I'll send you to a peaceful town. From now on, there will be no demons, no battles. You can live a plain and simple life without seeing blood and death.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.mp3",
+        "text": "Hearing my words, a flash of disappointment crossed Chizuru's eyes, but she didn't object. She obediently accepted my arrangement. The spiritual light of the secret spell wrapped around her figure and sent her to the peaceful town in an instant. From then on, Chizuru had no worries about food and clothing and lived a peaceful and smooth life, never having to face the fear brought by the demons again.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0180.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.mp3",
+        "text": "But peace only belonged to her. The demons in the human world still roamed around, and the upper - rank demons continued to slaughter villages.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.mp3",
+        "text": "Kibutsuji Muzan keeps creating ghosts and sending them to hell. The tragedies of countless civilians losing their families are staged day after day. The Demon Slayer Corps swordsmen still embark on one life - and - death mission after another alone, with no new guardians to carry on the torch.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0182.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.mp3",
+        "text": "The scene freezes on the empty courtyard of the Demon Slayer Corps. Faint cries come from the distant villages. Time and space rewind, and we return to the moment of the final fateful choice.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_162",
+          "label": "Let Chizuru practice swordsmanship and inherit the will to protect (True Ending)"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.mp3",
+        "text": "I turn my head and look at Chizuru beside me, who has endured the hardships between the living and the dead.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.mp3",
+        "text": "I speak softly, pouring out what's on my mind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0154.webp",
+        "dubbing": "scenes\\audio\\Wo00006.mp3",
+        "text": "You've witnessed with your own eyes the demons massacring your relatives and the sufferings of countless ghosts in hell.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0155.webp",
+        "dubbing": "scenes\\audio\\Wo00007.mp3",
+        "text": "If you're willing, stay in the Demon Slayer Corps and practice swordsmanship. Inherit our will to protect the people. From now on, hold the blade tightly and save more children who have lost their families like you, so that the same tragedy won't happen again in the world.",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.mp3",
+        "text": "Hearing this, Chizuru's eyes glisten. Without a moment's hesitation, she nods firmly. Along the way, Chizuru has witnessed the cruelty of demons and the sufferings in both the living and the dead worlds. She's already made up her mind not to be a weakling who can only hide and wait for others' protection. Chizuru wants to have the power to protect others.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0157.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.mp3",
+        "text": "When the Ubuyashiki Master hears this, he's very pleased and personally arranges for an excellent swordsman to be Chizuru's tutor.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0158.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.mp3",
+        "text": "He has a special small Nichirin Blade forged for Chizuru.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.mp3",
+        "text": "From then on, day after day, Chizuru practices the Breathing Techniques hard and hones her swordsmanship with sweat.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.mp3",
+        "text": "The once timid and cowardly orphan girl Chizuru, who could only hide behind me and cry, has gradually grown into a new - generation Demon Slayer Corps swordsman with a straight posture and a determined look in her eyes.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.mp3",
+        "text": "I've braved the perilous paths in hell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.mp3",
+        "text": "I've crossed the boundary between the living and the dead to retrieve the secret technique to return to the mortal world, and guided countless ghosts back to their homes to help.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.mp3",
+        "text": "Moreover, I've let Chizuru, who has suffered so much, inherit the endless will of the Demon Slayer Corps to protect the people.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.mp3",
+        "text": "In the long war against the demons, a new spark of hope is ignited, and countless common people can look forward to a protected tomorrow.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0165.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.mp3",
+        "text": "This adventure across life and death, between the living and the dead, reaches a perfect and regret - free true ending.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00164.mp3",
+        "text": "From now on, when the sobs of children are heard in the mountains, there won't be a helpless girl being devoured by demons alone.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00165.mp3",
+        "text": "No matter how powerful the Upper - Rank demons are, there will always be a new generation of swordsmen stepping forward.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00166.mp3",
+        "text": "No more innocent souls will pour into hell continuously, and the wars and sufferings in the mortal world will eventually come to an end.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00167.mp3",
+        "text": "In this yin - yang adventure called \"Hell's Perilous Path\", every branch choice corresponds to a completely different fate.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00168.mp3",
+        "text": "A moment of cowardice can cost your life. A moment of soft - heartedness can trap yourself. A moment of choice determines the future of the world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00169.mp3",
+        "text": "The main - line true ending connects the whole story: meeting an orphan girl in the mountains, avoiding demons on a night road, fighting a bloody battle and falling into hell, searching for clues in an inn, escaping from the underworld during a collapse, seeking the secret technique in heaven, and passing on the will when returning to the mortal world. It also connects the core themes of life and death, good and evil, protection and redemption.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0172.webp",
+        "dubbing": "scenes\\audio\\pangbai00170.mp3",
+        "text": "Every wrong choice in the side - quests will trigger tragic endings of regret, death, separation, and stagnation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet15_21",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0173.webp",
+        "dubbing": "scenes\\audio\\pangbai00171.mp3",
+        "text": "Only by adhering to reason and kindness at every step, choosing to face danger head - on, never leaving or forsaking, and caring about the people, can you reach the perfect ending and keep the hope that will never go out in the long years of fighting against the demons.",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

@@ -1,0 +1,3092 @@
+{
+  "uid": "gmdymt2_20260729192919",
+  "name": "鬼灭：地狱迷途2合成导入表程序表格式",
+  "token": "U2FsdGVkX189/zaeE8P8Y+d0RYT7Wy5U70x0RZPnP/0iMNhAoq5wNWF1fMWl8kFNpmq0Eue2lynfEF5U+iXc+bf7E/YfYAf/lWgkPzTMiEM=",
+  "cover": "scenes\\images\\gmdymt2_20260729192919_0001.webp",
+  "version": "20260729-2319",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "残阳如融化的赤铜，沉甸甸压在连绵不绝的青黑山林之巅，将整片层叠的林木浸泡在浓稠血色里。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "我腰间日轮刀的木鞘被林间晚风摩挲出微凉的触感，鬼杀队队服下摆沾满一路穿行灌木留下的碎落叶与泥渍。我指尖轻搭在刀柄之上，呼吸刻意放得绵长均匀",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "依照队里定下的巡逻路线，仔细排查这片常年有鬼物出没的深山。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "近半月，附近村镇接连传来灭门惨案，死者脖颈处留有清晰的齿痕，房屋内血液泼洒满地，村民接连失踪，产屋敷主公特意指派我独自进山清剿游荡恶鬼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "暮色彻底沉落，山林彻底褪去白日温和，树木枝桠扭曲交错，在地面投下张牙舞爪的漆黑阴影，虫鸣不知何时尽数消散，整片山野死寂得可怕，只剩下我踩在枯枝上细碎的咔嚓声响。",
+        "soundEffects": "scenes\\audio\\chongzimingjiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "就在我绷紧神经、凝神探查周遭鬼气时，一阵细微、断断续续的啜泣声，顺着阴冷山风，轻飘飘传入我耳中。",
+        "soundEffects": "scenes\\audio\\nvrenkuqi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "那哭声稚嫩又单薄，夹杂着压抑不住的恐惧，听着像是年纪尚小的少女，时而哽咽，时而微弱抽噎，藏在前方浓密的灌木丛后方，虚实难辨。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "我眉头骤然紧锁，心底瞬间升起两种截然不同的念头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "这片深山恶鬼横行，不少狡诈的低阶恶鬼擅长伪装孩童、女子的哭声，以此引诱独行剑士放松警惕，再趁机突袭撕碎猎物；可若是真的无辜遇难百姓躲在此处，放任不管，等待她的只会是被恶鬼吞噬的结局。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_9",
+          "label": "循声前去查看（主线）"
+        },
+        {
+          "nextId": "scene_28",
+          "label": "担心陷阱，无视声音继续赶路（支线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0010.webm",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "心底的良知压过了对陷阱的忌惮，我缓缓拔出半截日轮刀，刀刃泛着淡淡的日光纹路",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "脚步放得极轻",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "一点点拨开挡路的荆棘灌木。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0013.webm",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "荆棘划破我的小臂，带来一阵刺痛，我却全然无暇顾及，目光死死锁定哭声传来的方向。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "灌木丛深处，蜷缩着一个身形单薄的少女，少女看着不过十二三岁模样，一身粗布短衫沾满尘土与暗红血迹，乌黑长发凌乱黏在苍白脸颊，双腿蜷缩在胸口，双手死死环住膝盖，肩膀不住颤抖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "她便是千鹤。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "千鹤察觉到我的脚步声，猛地抬头，一双通红的眼眸蓄满泪水",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "千鹤看见我身上绣着紫藤花纹的鬼杀队队服时，原本紧绷发抖的身体微微一颤，随即踉跄着想要扑过来，又畏惧地顿在原地，眼泪汹涌滚落。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0018.webp",
+        "dubbing": "scenes\\audio\\Qian He00000.mp3",
+        "text": "剑士大人…… 求求您，救救我。",
+        "characterImage": "scenes\\images\\qianhe tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "千鹤的声音嘶哑破碎，每一个字都带着绝望。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0019.webp",
+        "dubbing": "scenes\\audio\\Qian He00001.mp3",
+        "text": "山里的恶鬼冲进了我的家，爹娘、弟弟全都被它吃掉了",
+        "characterImage": "scenes\\images\\qianhe tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0020.webp",
+        "dubbing": "scenes\\audio\\Qian He00002.mp3",
+        "text": "我拼了命才逃进山林，不敢出去，外面全是恶鬼的气息…… 我一个人，不知道该去哪里。",
+        "characterImage": "scenes\\images\\qianhe tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "我顺着千鹤颤抖的手指望向远处隐约可见的村落轮廓，那里萦绕着一缕淡却不散的血腥鬼气，足以印证千鹤所言非虚。我看着少女孤苦无依、满眼绝望的模样，心中一软，收起日轮刀，缓缓蹲下身放柔语气。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0021.webp",
+        "dubbing": "scenes\\audio\\Lin Chen00000.mp3",
+        "text": "不必害怕，我是鬼杀队队员，会斩杀作恶的恶鬼。若是你无处可去，暂且跟在我身边，我护送你离开这片危险山林。",
+        "characterImage": "scenes\\images\\linchen tou.webp",
+        "characterName": "Lin Chen"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "千鹤闻言，眼眶里重新涌出泪水，小心翼翼抓住我队服的衣角，如同抓住唯一的救命浮木，紧紧跟在我的身后，寸步不离。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "收留千鹤后，我们二人沿着蜿蜒山道持续前行，夕阳彻底沉入山底，浓黑夜幕彻底笼罩整片山林。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_16",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "周遭温度骤然下降数度，阴冷刺骨的鬼气如同细密蛛网，悄无声息缠绕周身，空气里弥漫开腐烂血肉混合铁锈的刺鼻腥气，远处树林深处，不时传来恶鬼低沉沙哑的嘶吼，距离我们越来越近。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_17",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "千鹤吓得紧紧贴在我的后背，双手死死攥住我的衣角，身体控制不住地发抖，连呼吸都放得极轻，生怕发出一点动静引来暗处潜藏的恶鬼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_18",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "我抬手按住腰间日轮刀，余光不断扫视道路两侧漆黑密林，两条路摆在眼前，等待我做出选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_39",
+          "label": "提高警惕，带千鹤继续向前（主线）"
+        },
+        {
+          "nextId": "scene_51",
+          "label": "寻找山洞躲藏，天亮再出发（支线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "刺耳的啜泣声在寂静山林里不断回荡，我指尖攥紧日轮刀刀柄",
+        "soundEffects": "scenes\\audio\\nvrenkuqi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "脑海中不断浮现过往同门遭遇恶鬼伪装陷阱惨死的卷宗。我深知深山之中，孤身一人最忌心软，一旦被恶鬼的伪装迷惑，便是万劫不复。我咬了咬牙，压下心底一闪而过的恻隐",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "转身无视身后持续传来的哭声，脚步不停，沿着巡逻山道径直向前走去。哭声随着距离拉远慢慢变淡，最终彻底消散在山林冷风里。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "整整一夜，我肃清了几头游荡的低阶恶鬼，待到天光微亮，我心中却始终缭绕着一丝挥之不去的不安，终究折返昨日听见哭声的灌木丛。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "我拨开层层灌木，眼前景象让我浑身血液近乎冻结。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "昨日少女蜷缩的地面，只剩下一具冰冷僵硬的小小遗体，脖颈处狰狞的咬痕清晰可见，单薄衣衫破碎不堪，满地干涸血迹。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "少女双目圆睁，残留着临死前极致的恐惧，手中还死死攥着一小块绣着家人纹样的破旧手帕。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0034.webp",
+        "dubbing": "scenes\\audio\\Wo00000.mp3",
+        "text": "是我。是我因为多疑，放弃了唯一能救下她的机会。",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0035.webp",
+        "dubbing": "scenes\\audio\\Wo00001.mp3",
+        "text": "明明听见了她的求救，明明拥有斩杀恶鬼的力量，却因为一己顾虑视而不见，眼睁睁看着无辜少女葬身鬼腹。",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "巨大的自责如同冰冷潮水，瞬间将我整个人吞没，我手中的日轮刀从手中滑落，重重砸在泥土里。往后漫长岁月，这片山林少女绝望的啜泣声，会永远盘旋在我的耳畔，成为我一道无法愈合的心魔。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "意识混沌间，时光回溯，我重新站在听见哭声的山林原地，回到最初抉择的节点。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_9",
+          "label": "循声前去查看（主线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "短暂思索后，我否定了躲藏的想法。恶鬼依靠气味追踪猎物，狭小封闭的山洞只会彻底断绝众人周旋闪避的空间，一旦被围困，再无脱身余地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0039.webp",
+        "dubbing": "scenes\\audio\\Wo00002.mp3",
+        "text": "千鹤，跟紧我，无论发生什么，都不要松开我的衣角。",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "我低声叮嘱，侧身将千鹤护在身后，日轮刀完全出鞘，日光纹路在黑夜中绽放微弱暖光，稍稍驱散周遭阴冷鬼气。",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "我脚步沉稳，目光锐利扫视每一处可能藏匿恶鬼的死角，将所有袭来的低阶鬼卒尽数斩杀，刀刃斩断鬼躯的脆响在山道间不断响起。",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "千鹤全程埋首跟在我身后，哪怕看见恶鬼碎裂的躯体，也强忍着恐惧不曾哭喊出声，只是将我抓得更紧。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "浓重的鬼气依旧在前方不断汇聚，危险正在山路转弯处静静等候，我握紧刀柄，护着千鹤稳步向前，直面深夜山林中潜藏的未知杀机。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "我与千鹤沿着山道前行数百步，行至陡峭转弯处，一股凛冽、足以冻结血肉的刺骨妖气骤然迎面袭来，和之前低阶恶鬼微弱腥臭完全不同，这是上位恶鬼独有的压迫感。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "山道正中央，一道身形高挑的恶鬼缓缓现身，他有着苍白肌肤，血色眼瞳，周身环绕十数头听命于他的下属恶鬼，层层叠叠将我与千鹤团团包围，我与千鹤的退路彻底封死。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "我认出眼前现身的恶鬼是上弦恶鬼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "那名上弦恶鬼仅仅站在原地，他散发出的鬼气便压得人呼吸困难，四肢沉重，每一寸骨骼都在发出震颤。厮杀一触即发，我将千鹤死死护在身后，日轮刀横在身前，调动全身呼吸法蓄力。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "激战尚未开启，我眼角余光忽然瞥见远处半空空间剧烈扭曲，一道漆黑缝隙缓缓张开，鬼王鬼舞辻无惨的虚影浮现在裂隙边缘，无数惨死在恶鬼爪下的凡人魂魄被无形之力拖拽，哭喊着坠入缝隙深处，那缝隙尽头，便是传说中关押亡魂的地狱。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "一边是实力远超我的上弦恶鬼与一众恶鬼围堵，一边是通往地狱的扭曲空间裂隙，两条截然不同的生路摆在我与千鹤眼前。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_63",
+          "label": "奋力突围，向空间异动处撤退（主线）"
+        },
+        {
+          "nextId": "scene_76",
+          "label": "原地拔刀死战，斩杀上弦恶鬼（支线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "黑夜的恶鬼气息实在太过浓郁，耳边不断响起恶鬼的嘶吼，我心底滋生出难以压制的怯懦。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "我下意识拉住千鹤的手腕",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "转身走向山道侧边一处天然山洞，打算暂时躲避，等到日出阳光驱散鬼气再动身。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "山洞洞口狭窄",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "内部漆黑幽深，地面铺满潮湿青苔，隔绝了外界的夜风，却丝毫挡不住飘荡的上弦童磨堵死唯一出口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "上弦童磨的锋利爪牙在火光下反射寒光",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "将林辰、千鹤彻底困死在密闭洞穴之中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "林辰立刻拔刀迎战，狭小空间无法施展呼吸法完整招式",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "恶鬼从四面八方轮番扑击，林辰的体力飞速消耗。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "千鹤被恶鬼的嘶吼吓得瘫软在地，林辰拼尽全力也无法同时抵挡数头恶鬼围攻",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "一道利爪狠狠撕裂林辰的后背，剧痛席卷林辰全身，林辰的力量飞速流失。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "林辰视线模糊的最后一刻，看见恶鬼伸出漆黑利爪，朝着无助的千鹤抓去。黑暗吞噬一切，林辰的意识消散，时光回溯，林辰重回深夜山道的抉择时刻。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_39",
+          "label": "提高警惕，带千鹤继续向前（主线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "我短短一瞬快速判断战局，以我当下的实力，正面硬撼上弦恶鬼毫无胜算，缠斗片刻便会力竭落败，千鹤必死无疑。远处扭曲的空间裂隙，是唯一能够暂时摆脱围困的突破口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0063.webp",
+        "dubbing": "scenes\\audio\\Wo00003.mp3",
+        "text": "千鹤，抓好我！",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0064.webm",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "我低喝一声，全力催动呼吸法，刀刃迸发刺眼光芒，一刀劈碎身前两头阻拦的下属恶鬼，强行撕开一道短暂缺口。",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0065.webm",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "上弦恶鬼见状勃然大怒，锋利血爪裹挟浓烈妖气朝我后背袭来",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "我侧身险险避开，后背依旧被妖气擦过，皮肉灼烧般剧痛。我不敢停留，死死牵住千鹤的手腕，拼尽全身力气朝着空间扭曲的裂隙狂奔。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "身后恶鬼的嘶吼、利爪撕裂空气的声响不断逼近，就在距离裂隙不足数步时，我被上弦恶鬼的妖气重击地面，整片山道轰然开裂，巨大的黑色裂隙瞬间扩张开来，脚下地面彻底崩塌，失重感席卷全身",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "我与千鹤双双失控坠落，朝着深渊之下的地狱不断下坠。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "漫长失重感缓缓消散，主角后背重重落在柔软却冰冷的地面上，主角第一时间挣扎起身，慌忙伸手拉住身旁的千鹤",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "确认千鹤没有受伤，主角才有余力环顾四周。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0071.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "这里早已不是人间的深山，而是一处游离在阴阳夹缝、专门收容新亡亡魂的地狱客栈。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "整片客栈建筑通体漆黑，梁柱、门窗都由泛着幽蓝鬼火的枯骨搭建，无边无际的亡魂在客栈大厅内漫无目的地游荡，有被恶鬼残害的村民，有战死的武士，有夭折的孩童，每一张亡魂的脸上都萦绕着化不开的悲苦与茫然。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "客栈没有昼夜之分，头顶永远悬着灰蒙无光的阴云，空气里没有人间的草木气息，只有淡淡的、亡魂消散的微凉死气。所有逝去之人，无论寿终正寝还是死于恶鬼之手，魂魄都会先抵达此处短暂停留，等待前往地狱深处或是转生的判决。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "千鹤紧紧依偎在主角身侧，千鹤看着四周数不清的亡魂，眼底满是恐惧，千鹤的小手牢牢攥住主角的衣袖，不敢四处张望。主角和千鹤被迫在此停留整整一夜，想要重返人间，必须摸清地狱的规则，寻找离开这片阴域的出路。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_85",
+          "label": "在客栈打探情报，寻找逃离出路（主线）"
+        },
+        {
+          "nextId": "scene_99",
+          "label": "放任千鹤游荡，独自探索客栈深处（支线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0075.webm",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "主角目睹上弦恶鬼肆意拦路害人",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "又见无惨虚影将无数亡魂打入地狱，一股难以压抑的怒火冲上头顶。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "主角不愿狼狈逃窜，一心想要当场斩杀这头作恶的上弦恶鬼，为死去的百姓复仇。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0078.webm",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "主角深吸一口气，完整施展整套呼吸法，日轮刀光影层层叠叠，不断斩杀扑上来的下属恶鬼，刀刃与上弦恶鬼的血爪反复碰撞，刺耳的碰撞声响彻山林。上弦恶鬼的恢复力、力量、速度全都远超主角的预估，长时间高强度厮杀不断透支主角的体力，汗水浸透主角全身队服，",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "主角手臂因为持续挥刀开始不受控制地颤抖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0080.webm",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "下属恶鬼源源不断上前牵制，上弦恶鬼抓住主角换气的破绽，一记重爪狠狠拍在主角的胸口，骨骼碎裂的剧痛瞬间蔓延主角全身，主角手中日轮刀脱手飞出，",
+        "soundEffects": "scenes\\audio\\guaiwujiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "主角重重摔落在地，主角浑身力气尽数流失，再也无法起身。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "主角视线模糊间，看见上弦恶鬼缓步走向蜷缩在地、瑟瑟发抖的千鹤，千鹤绝望的哭喊穿透主角耳膜，主角却连抬手的力气都没有。",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0083.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "黑暗吞噬主角的意识，时光倒流，主角重回对上弦恶鬼的生死抉择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_63",
+          "label": "奋力突围，向空间异动处撤退（主线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "零·狱炎轻轻拍了拍千鹤的后背安抚她",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "将她带到客栈角落一处相对安静的石台坐下，叮嘱她不要随意走动",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "自己则起身穿梭在游荡的亡魂之间，温和地向夏利晨星与阿拉斯托打听地狱客栈的规则、阴阳两界的通道、逃离地狱的方法。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "大部分亡魂深陷自身死亡的痛苦，不愿与人交谈",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "但也有部分停留许久、看清此地规则的玄老亡魂，愿意向零·狱炎吐露信息。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "零·狱炎逐一记录下关键线索：地狱根基不稳，时常出现空间崩塌，崩塌之时会诞生临时阴阳通道；天堂边境存在古老守护者，持有能够让亡魂短暂重返现世的秘术；客栈是地狱最外层，一旦深入客栈最深处，会被幻境吞噬魂魄，永久困在地狱，再也无法离开人间。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "收集完所有情报，零·狱炎回到角落找到安分等候的千鹤，将打探到的信息一一告知，两人静静等候客栈异变，等待逃离地狱的时机。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "零·狱炎在地狱客栈安稳停留一夜，正低声和千鹤梳理逃离计划",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "所有亡魂还在漫无目的地游荡",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "脚下地面忽然剧烈震颤起来，整座枯骨搭建的客栈摇晃不止，头顶不断掉落碎裂的骨片",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "刺耳的崩塌巨响响彻整片地狱外层",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "整片地狱囚牢正在快速崩坏坍塌，空间壁垒出现无数漆黑裂痕，阴云疯狂翻涌，地面不断裂开巨大深渊，无数亡魂惊慌失措四散奔逃，哭喊、哀嚎、尖叫混杂在一起，场面混乱到极致。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "就在整片地狱即将彻底瓦解之际，一道柔和洁白的光门凭空浮现，悬浮在客栈正中央，门的另一端隐约可见地府大王的殿宇轮廓，这是地狱崩塌之际诞生的唯一临时逃生通道，一旦光门消散，所有人都会被崩坏的空间彻底碾碎。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "零·狱炎一边盘算着抓紧机会穿过光门逃离地狱，一边看着四散奔逃、即将被空间吞噬的亡魂，悲悯与理智在零·狱炎的心底拉扯，零·狱炎必须立刻做出决定。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "带领千鹤穿过光门逃离地狱（主线）"
+        },
+        {
+          "nextId": "scene_127",
+          "label": "留守地狱，尝试营救所有被困亡魂（支线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "我急于找到离开地狱的捷径，我心底生出浮躁，只随口叮嘱千鹤不要走远，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "便独自转身朝着客栈幽深漆黑的内层通道走去，想要直接寻找通往外界的通道，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "将千鹤独自留在亡魂遍地的大厅。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "地狱幻境最擅长利用亡魂心底的执念制造幻象",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "失去看护的千鹤没过多久，便看见幻象中父母、弟弟的身影在亡魂之间朝她招手。失去依靠的千鹤难掩思念",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "毫无防备地追着幻象走向客栈深处。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "我在客栈深处一无所获，折返大厅寻找千鹤时",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "角落石台空空如也，无数亡魂来来往往，我再也看不见千鹤那道单薄的身影。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "我疯了一般走遍客栈每一层，呼喊千鹤的名字，回应我的只有空洞死寂的回音",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "幻境彻底吞噬了千鹤的魂魄，我和千鹤永远失散在这片地狱之中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "无尽悔恨席卷心头",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0109.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "眼前画面碎裂",
+        "soundEffects": "scenes\\audio\\boliposui.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "时光回溯，重回地狱客栈做出选择的瞬间。",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_85",
+          "label": "在客栈打探情报，寻找逃离出路（主线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0111.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "林辰清楚知晓地狱崩塌的速度有多恐怖，空间瓦解不会给人留下多余施救的时间，若是犹豫片刻，地狱之王路西法的光门便会直接消散",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "林辰与千鹤都会葬身崩坏的地狱之中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "林辰没有丝毫迟疑",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0114.webm",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "紧紧攥住千鹤冰凉的小手，俯身护住千鹤的头顶，避开不断坠落的碎石枯骨，逆着四散奔逃的亡魂人群，奋力朝着中央的白光门冲去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0115.webm",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "沿途有惊慌的亡魂冲撞过来，林辰一边格挡飞来的碎片，一边稳住千鹤的身形，拼尽全力抵达光门跟前，一步踏入温暖柔和的白光之中。林辰身后的地狱客栈轰然碎裂，无尽黑暗深渊彻底吞没方才停留的地方，林辰与千鹤成功脱离濒临毁灭的地狱空间。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "白光散去，温暖柔和的光晕包裹我们周身",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "我们抬头望去，已然抵达天堂边境。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "我们穿过逃生光门，刺骨阴冷的地狱死气彻底消散",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "取而代之的是温柔和煦、包裹全身的暖金色柔光。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "这里是天堂边境，没有地狱的枯骨、深渊与哀嚎，遍地盛开永不凋零的浅白灵花",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "空气里漂浮着安宁平和的气息",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0122.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "无数早已逝去的故人魂魄在此安然停留。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00116.mp3",
+        "text": "我一眼便看见了许多熟悉的身影：往年执行任务牺牲的鬼杀队同期剑士，被恶鬼屠戮村镇的无辜百姓，还有为守护平民战死的柱级队员，所有人神色平和，远离人间恶鬼带来的痛苦与恐惧。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.mp3",
+        "text": "这片天堂边境的守护者，是一位身形飘渺、周身环绕灵光的古老灵体，它执掌阴阳流转的法则，手中掌握一门失传秘术，能够短暂打通阴阳界限，让亡魂跟随活人重返现世，只是施展秘术需要极致的善意与坚定的执念作为交换。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.mp3",
+        "text": "一边是我们求取秘术，带着愿意回归人间的亡魂重返战乱四起、恶鬼横行的现世；一边是我们留在安稳无灾的天堂，永远远离人间厮杀苦难，两种截然不同的人生摆在我们眼前。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_134",
+          "label": "主动沟通，争取获取重返现世秘术（主线）"
+        },
+        {
+          "nextId": "scene_146",
+          "label": "驻足天堂，放弃返回战乱人间（支线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.mp3",
+        "text": "我看着无数亡魂惊慌奔逃、即将葬身空间裂隙的模样，心底浓烈的悲悯压倒理智。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.mp3",
+        "text": "我松开千鹤的手，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.mp3",
+        "text": "让千鹤先靠近光门等候，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.mp3",
+        "text": "我自己转身冲进溃散的亡魂群，想要尽可能多的亡魂带往逃生光门。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0130.webm",
+        "dubbing": "scenes\\audio\\pangbai00123.mp3",
+        "text": "可地狱崩塌的速度远超想象，地面裂隙不断扩张，吞噬亡魂的深渊就近在咫尺，我救下一批亡魂，又有更多亡魂被空间拉扯坠入深渊，永远救不完。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0131.webm",
+        "dubbing": "scenes\\audio\\pangbai00124.mp3",
+        "text": "短短片刻，光门光芒开始急速黯淡，通道即将关闭，我慌忙回头想要去找千鹤，可我脚下地面骤然裂开巨大沟壑，一股强大的吞噬之力拉扯我的身体，我根本无法朝着光门移动半步。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.mp3",
+        "text": "白光彻底消散，逃生通道消失，整片地狱彻底崩塌，我被汹涌的空间乱流包裹，我的意识彻底湮灭。时空重置，我重回地狱崩塌、光门显现的抉择时刻。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_112",
+          "label": "带领千鹤穿过光门逃离地狱（主线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.mp3",
+        "text": "我将千鹤安置在灵花丛边，独自上前，面向古老守护者躬身行礼",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.mp3",
+        "text": "将人间恶鬼肆虐、百姓日日活在恐惧之中、无数亡魂牵挂在世亲友、想要回去守护人间的心愿尽数坦诚道出。我诉说深山村落的灭门惨案，诉说上弦恶鬼肆意屠戮凡人，诉说鬼王无惨不断制造亡魂打入地狱，诉说鬼杀队剑士不断战死，却依旧挡不住恶鬼的杀戮，我字字句句饱含想要守护苍生的坚定信念。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.mp3",
+        "text": "古老守护者静静听完我的诉说，古老守护者周身灵光微微晃动，古老守护者能感知到我心底毫无杂质的善意与守护众生的执念",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.mp3",
+        "text": "古老守护者终于点头应允",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.mp3",
+        "text": "将重返现世的秘术口诀与施展方法传授于我。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0138.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.mp3",
+        "text": "我回到灵花丛边，召集所有愿意重回人间、协助对抗恶鬼、或是再见亲友一面的亡魂",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.mp3",
+        "text": "千鹤安静站在我身侧，千鹤眼神坚定，千鹤没有丝毫退缩",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0140.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.mp3",
+        "text": "一众亡魂整齐列队，跟着我一同踏上重返现世的阴阳归途。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.mp3",
+        "text": "秘术灵光包裹所有人，阴阳路途转瞬即至，所有人再次落地时，熟悉的紫藤花香扑面而来，眼前正是鬼杀队总本部宽阔的庭院。",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.mp3",
+        "text": "一众往生亡魂尽数显现，飘荡在庭院之中",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.mp3",
+        "text": "原本正在处理文书的产屋敷主公猛地抬头，看见大批逝去亡魂凭空出现，产屋敷主公身躯微微一颤，久久无法平复内心的震惊",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.mp3",
+        "text": "产屋敷主公身旁蝶屋的医护队员、值守剑士全都呆立原地，难以置信地望着眼前景象。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_162",
+          "label": "让千鹤修习剑术，继承守护意志（真结局）"
+        },
+        {
+          "nextId": "scene_153",
+          "label": "送走千鹤，让她安稳度过一生（平和结局）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0145.webm",
+        "dubbing": "scenes\\audio\\pangbai00138.mp3",
+        "text": "主角亲眼见过地狱的崩塌、恶鬼的残暴，又身处这般安宁无灾的天堂，心底滋生出浓重的疲惫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0146.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.mp3",
+        "text": "人间永无止境的恶鬼厮杀，无数平民不断惨死，鬼杀队队员前赴后继赴死，仿佛永远没有尽头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0147.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.mp3",
+        "text": "主角厌倦了无尽的杀戮与苦难，不愿再回到充满鲜血与恐惧的现世，打算带着千鹤留在天堂，就此安稳度日。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.mp3",
+        "text": "古老守护者见我放弃求取秘术，不再多言，任由我们留在天堂边境。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.mp3",
+        "text": "阴阳通道永久关闭，人间失去亡魂助力，恶鬼依旧肆无忌惮四处屠戮。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0150.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.mp3",
+        "text": "村镇覆灭、百姓哀嚎的悲剧日复一日不断上演，永远没有停歇的那天。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.mp3",
+        "text": "画面定格在安宁的天堂花海，时空回溯，重回与守护者对话的抉择节点。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_134",
+          "label": "主动沟通，争取获取重返现世秘术（主线）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.mp3",
+        "text": "我看着千鹤满身伤痕、一路承受的恐惧与痛苦，心底满是心疼，不愿再让千鹤卷入刀光剑影的恶鬼纷争。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0175.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.mp3",
+        "text": "我动用秘术力量，寻找到一处常年布满紫藤结界、无恶鬼侵扰的偏远宁静城镇",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.mp3",
+        "text": "打算送千鹤前往那里，彻底远离杀戮。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0177.webp",
+        "dubbing": "scenes\\audio\\Wo00004.mp3",
+        "text": "千鹤，你已经承受了太多苦难，不必再背负守护苍生的重担。",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0178.webp",
+        "dubbing": "scenes\\audio\\Wo00005.mp3",
+        "text": "我送你去往安稳小镇，从此没有恶鬼、没有厮杀，你可以平平淡淡过完一生，不用再看见鲜血与死亡。",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.mp3",
+        "text": "千鹤听见我的话，眼底闪过一丝失落，却没有反驳，顺从地接受了我的安排。秘术灵光裹挟千鹤的身影，转瞬将她送往安宁小镇，从此千鹤衣食无忧，一生安稳顺遂，再也不用直面恶鬼带来的恐惧。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0180.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.mp3",
+        "text": "可安稳只属于她一人。人间的恶鬼依旧四处游荡，上弦恶鬼持续屠戮村镇，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.mp3",
+        "text": "鬼王无惨不断制造亡魂打入地狱，无数平民家破人亡的悲剧日复一日上演，鬼杀队剑士依旧独自奔赴一场又一场九死一生的任务，无人接续新生的守护火种。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0182.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.mp3",
+        "text": "画面停留在空荡的鬼杀队庭院，远方村镇传来隐约的哭喊，时空回溯，重回最终命运抉择的瞬间。",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_162",
+          "label": "让千鹤修习剑术，继承守护意志（真结局）"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.mp3",
+        "text": "我侧头看向身旁历经阴阳磨难的千鹤",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.mp3",
+        "text": "轻声开口，将心中所想娓娓道来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0154.webp",
+        "dubbing": "scenes\\audio\\Wo00006.mp3",
+        "text": "你亲眼见过恶鬼屠尽亲人，见过地狱无数亡魂的苦难",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0155.webp",
+        "dubbing": "scenes\\audio\\Wo00007.mp3",
+        "text": "若你愿意，留在鬼杀队修习剑术，继承我们守护苍生的意志。日后由你握紧刀刃，救下更多和你一样失去家人的孩子，不让人间再重复你的悲剧。",
+        "characterImage": "scenes\\images\\wo tou.webp",
+        "characterName": "Wo"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.mp3",
+        "text": "千鹤闻言，眼眶泛起微光，没有半分犹豫，重重点头。一路走来，千鹤目睹恶鬼的残暴、阴阳两界的苦难，早已下定决心，不再做只能躲藏、等待他人保护的弱者，千鹤想要拥有保护他人的力量。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0157.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.mp3",
+        "text": "产屋敷主公听闻后十分欣慰，亲自安排优秀剑士担任千鹤的导师",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0158.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.mp3",
+        "text": "为千鹤打造专属的小巧日轮刀。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.mp3",
+        "text": "往后日复一日，千鹤刻苦修习呼吸法，挥洒汗水打磨剑术",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.mp3",
+        "text": "曾经胆小怯懦、只能躲在我身后哭泣的孤女千鹤，渐渐长成身姿挺拔、眼神坚定的鬼杀队新生代剑士。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.mp3",
+        "text": "我闯过危机四伏的地狱迷途",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.mp3",
+        "text": "跨越阴阳取回重返现世的秘术，接引无数亡魂归乡相助",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.mp3",
+        "text": "更让饱经苦难的千鹤继承鬼杀队生生不息的守护意志",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.mp3",
+        "text": "对抗恶鬼的漫长战争之中，一颗全新的希望火种就此点燃，无数百姓得以迎来被守护的明天",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0165.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.mp3",
+        "text": "这场跨越生死阴阳的冒险，迎来圆满无憾的真结局",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00164.mp3",
+        "text": "往后山间再响起孩童的啜泣，不会再有无助少女独自葬身鬼腹",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00165.mp3",
+        "text": "再强悍的上弦恶鬼拦路，也会有新一代剑士挺身而出",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00166.mp3",
+        "text": "地狱不再源源不断涌入无辜亡魂，人间战乱苦难终将迎来落幕之日",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00167.mp3",
+        "text": "这场名为《地狱迷途》的阴阳冒险，每一处分支抉择都对应着截然不同的命运走向",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00168.mp3",
+        "text": "一时怯懦会葬送性命，一时心软会困住自我，一时取舍决定人间未来",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00169.mp3",
+        "text": "主线真结局串联起山林遇孤女、夜路避恶鬼、血战坠地狱、客栈寻线索、崩塌逃阴域、天堂求秘术、归世传意志完整剧情，串联起生死、善恶、守护与救赎的核心主题",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0172.webp",
+        "dubbing": "scenes\\audio\\pangbai00170.mp3",
+        "text": "每一次支线错误选择，都会触发遗憾、死亡、离散、停滞的悲剧结局",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet15_21",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\gmdymt2_20260729192919_0173.webp",
+        "dubbing": "scenes\\audio\\pangbai00171.mp3",
+        "text": "唯有每一步坚守理智与善意，选择直面危险、不离不弃、心怀苍生，才能抵达圆满终局，为对抗恶鬼的漫长岁月，留存永不熄灭的希望",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}
