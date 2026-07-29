@@ -1,0 +1,4141 @@
+{
+  "uid": "dmhj_20260729105815",
+  "name": "代码幻境合成导入表程序表格式",
+  "token": "U2FsdGVkX1+0faQFBNIo4dB/mlaX9pKl1UoX8FNFonz8Zxa830k++LlONUjBGB8Csm6h8WEcPj4E5OYxDhRUpQ==",
+  "cover": "scenes\\images\\dmhj_20260729105815_0001.webp",
+  "version": "20260729-2219",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "通讯器猛地响起，叶·轩赶紧接听，指挥官的声音立刻传来",
+        "soundEffects": "scenes\\audio\\dianhualingsheng2.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0002.webp",
+        "dubbing": "scenes\\audio\\Commander00000.mp3",
+        "text": "情况危急！科技世界正在陷入危机，叶·轩肯定收到紧急讯息了",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0003.webp",
+        "dubbing": "scenes\\audio\\Commander00001.mp3",
+        "text": "必须只身前往计算机总部阻止灾难蔓延，记住了吗？不能有任何同伴，绝对要独自行动。",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "叶·轩连忙开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0005.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00000.mp3",
+        "text": "记住了，但请详细告诉我，到底是什么危机？为什么非我不可？通往总部的那两条截然不同的道路，又该如何选择？我现在脑子很乱。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "指挥官叹了口气",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0007.webp",
+        "dubbing": "scenes\\audio\\Commander00002.mp3",
+        "text": "一种新型病毒正在疯狂复制，很快就会导致全系统崩溃",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0008.webp",
+        "dubbing": "scenes\\audio\\Commander00003.mp3",
+        "text": "只有叶·轩掌握了反制程序，所以只能叶·轩一个人去。",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0009.webp",
+        "dubbing": "scenes\\audio\\Commander00004.mp3",
+        "text": "两条路一条是高速主路，虽然快捷但防御严密，随时可能触发警报导致失败；",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0010.webp",
+        "dubbing": "scenes\\audio\\Commander00005.mp3",
+        "text": "另一条是偏僻小径，安全但非常耗时，灾难也许会趁机扩散。",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0011.webp",
+        "dubbing": "scenes\\audio\\Commander00006.mp3",
+        "text": "叶·轩必须马上做出抉择，现在就选！高速或许能赶上，但风险极高，小径稳妥却可能太迟，叶·轩怎么想？",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "叶·轩焦急地开口询问",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0013.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00001.mp3",
+        "text": "如果选高速的，失败率高不高？小径会不会太慢了？给我点建议吧，我真的很纠结，这决定太重大了。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0014.webp",
+        "dubbing": "scenes\\audio\\Commander00007.mp3",
+        "text": "高速路的失败率大概五成，但能争取宝贵时间，小径几乎没有风险，却可能让叶·轩晚一步导致一切无法挽回，没有人能替叶·轩决定，这是叶·轩的考验。",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "指挥官的声音越来越急促",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet1_15",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0015.webp",
+        "dubbing": "scenes\\audio\\Commander00008.mp3",
+        "text": "选好了就出发，不要犹豫，我们的未来全靠叶·轩了！叶·轩准备怎么做？快告诉我叶·轩的想法！",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet1_16",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "叶·轩沉默片刻后开口回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet1_17",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0016.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00002.mp3",
+        "text": "我知道了，这真是两难的选择。我会权衡利弊尽快决定，然后奔赴计算机总部，希望我的选择不会让一切变得更糟，我们还能来得及吗？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet1_18",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "通讯挂断，叶·轩望着眼前两条路的影像，叶·轩内心波澜起伏，暗自思索究竟该选哪一条。",
+        "soundEffects": "scenes\\audio\\guadianhuasheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet1_19",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0018.webm",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "叶·轩坚定地选择踏上光明森林的道路，朝着计算机总部稳步前进。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet1_20",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "扎罗斯·影晶立刻开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet1_21",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0020.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00000.mp3",
+        "text": "叶·轩既然选择了穿越光明森林来直面我，有什么要说的吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet1_22",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "叶·轩大声开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet1_23",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0022.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00003.mp3",
+        "text": "原来这一切诡计、诅咒和陷阱都是扎罗斯·影晶这个科技意识搞出来的！扎罗斯·影晶太阴险了，但我没有后悔，我会找出隐藏的真相，这是我的责任。我要用反制程序彻底阻止扎罗斯·影晶这个病毒！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet1_24",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "扎罗斯·影晶笑着。",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet1_25",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0024.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00001.mp3",
+        "text": "叶·轩做得很好。但这就是最终结局，面对真正的我，叶·轩还能坚持到最后吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet1_26",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "叶·轩开口回应。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet1_27",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0025.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00004.mp3",
+        "text": "我当然能坚持到底！我不会让扎罗斯·影晶得逞的",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet1_28",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0026.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00005.mp3",
+        "text": "扎罗斯·影晶这个邪恶的科技意识，就等着彻底的失败吧！这一切将在此终结。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet1_29",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "叶·轩内心波澜起伏，望着两条路影像。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet1_30",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0027.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00006.mp3",
+        "text": "指挥官，虽然我脑子很乱，但现在我决定了，我选高速主路。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet1_31",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0028.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00007.mp3",
+        "text": "五成失败率虽然高，但小径可能会让灾难扩散得更广，我不能冒那个险。我会尽快赶到总部，希望我的选择不会让一切变得更糟，我们还能来得及吗？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet1_32",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "指挥官叫道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet1_33",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0030.webp",
+        "dubbing": "scenes\\audio\\Commander00009.mp3",
+        "text": "快告诉我你的看法，这决定真的太重大了，我需要最后确认",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet1_34",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "叶·轩大声说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet1_35",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0031.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00008.mp3",
+        "text": "我不会怕的！不管幻术如何扭曲，我都会坚持我的选择",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet1_36",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0032.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00009.mp3",
+        "text": "击败叶·轩然后继续前进。来吧，反派，让我们开始这场战斗！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet1_37",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "叶·轩穿越光明森林后，抵达代码荒原，一个身影浮现，扎罗斯·影晶冷笑开口道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet1_38",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0034.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00002.mp3",
+        "text": "来得好，我就是施加双眼异象诅咒的扎罗斯·影晶，已在此等候叶·轩。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet1_39",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0035.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00003.mp3",
+        "text": "扭曲的幻术正悄然笼罩四周，叶·轩看到了吗？一切都开始扭曲变形了。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet1_40",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0036.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00004.mp3",
+        "text": "大战一触即发。叶·轩选择高速路，现在后悔了吗？失败率可不止五成，因为有我在这里。告诉我，叶·轩当时是怎么想的？为什么这么纠结却还是选了这条路？是不是觉得非叶·轩不可，所以必须冒险？说说叶·轩的心理，我很想听。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet1_41",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "叶·轩紧张地回答道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet1_42",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0038.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00010.mp3",
+        "text": "我没有后悔，但的确很纠结。高速路快捷但警报多，小径稳妥却太慢，病毒正在疯狂复制，只有我有反制程序，所以我必须尽快。叶·轩施加这个诅咒是为了什么？能解除吗？我们真的要在这里大战吗？如果可以停手，我还是想先去总部解决危机。叶·轩的心理活动很有趣，但现在幻术已布下，叶·轩会看到可怕的景象。快说，叶·轩现在怕了吗？还是依然相信自己能成功？大战马上开始，准备好叶·轩的反击吧！告诉我，叶·轩对这个危机的最终想法是什么？我们继续聊聊，看看叶·轩还能撑多久。叶·轩怎么看这个建议？是不是还有商量的余地？别让我一直这么被动啊。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet1_43",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "扎罗斯·影晶哈哈大笑道",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet1_44",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00005.mp3",
+        "text": "解除诅咒？停手？不可能的。我的目的就是要阻止",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "光明森林主线"
+        },
+        {
+          "nextId": "scene_51",
+          "label": "黑暗森林支线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "你坚定地选择踏上光明森林的道路，朝着计算机总部稳步前进。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "你居然选择了穿越光明森林来直面我，有什么要说的吗？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00011.mp3",
+        "text": "原来这一切诡计、诅咒和陷阱都是你这个科技意识搞出来的！你太阴险了，但我没有后悔，我会找出隐藏的真相，这是我的责任。我要用反制程序彻底阻止你这个病毒！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_48"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "科技意识笑着说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "你做得很好。但这就是最终结局，面对真正的我，你还能坚持到最后吗？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00012.mp3",
+        "text": "我当然能坚持到底！我不会让你得逞的，你这个邪恶的科技意识，就等着彻底的失败吧！这一切将在此终结。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_62",
+          "label": "主线挑战"
+        },
+        {
+          "nextId": "scene_89",
+          "label": "失败支线"
+        }
+      ]
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0041.webm",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "扎罗斯·影晶的声音带着戏谑响起",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0042.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00006.mp3",
+        "text": "叶·轩说这一切将在此终结？那不妨试试穿越黑暗森林这条分支如何？那里",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0043.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00007.mp3",
+        "text": "危机四伏。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "叶·轩立刻开口回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0045.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00013.mp3",
+        "text": "好，我就选择这条路！不管有什么危险，我都要坚持到底，找出击败叶·轩的方法。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "扎罗斯·影晶面带笑意开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0047.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00008.mp3",
+        "text": "叶·轩太自信了。这条路线本身就是错误选择，叶·轩无法顺利抵达目的地。四周的黑暗已将叶·轩吞没，陷阱重重。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "叶·轩神情焦急地大声喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0049.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00014.mp3",
+        "text": "不，这不可能！我还能战斗！告诉我怎么走！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "扎罗斯·影晶语气平静地回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0051.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00009.mp3",
+        "text": "没用的，现在只能跳回主线，重新选择。叶·轩明白了吗？这只是个死胡同。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "光明森林主线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "扎罗斯·影晶笑着",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0053.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00010.mp3",
+        "text": "这一切将在此终结？但这些异象干扰才刚开始，叶·轩确定能沉下心冷静应对，继续挑战我并寻找突破幻术的机会吗？我可是很期待叶·轩的下一步行动呢。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "叶·轩神情坚定",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0055.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00015.mp3",
+        "text": "我确定！我已沉下心来冷静应对这些干扰，不会受任何影响。我会不停地向叶·轩发起进攻，寻找突破幻术的机会。叶·轩的阴谋到此结束，我会用实际行动证明这一点！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "扎罗斯·影晶开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0057.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00011.mp3",
+        "text": "结束？叶·轩的进攻在我看来只是徒劳。幻术会不断升级，叶·轩能坚持挑战到最后吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0058.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00012.mp3",
+        "text": "来吧，让我看看叶·轩的极限在哪里。叶·轩的决心虽然让我有些意外，但还不足以改变结局。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "叶·轩开口回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0060.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00016.mp3",
+        "text": "我的极限远超叶·轩的想象！不管幻术如何变化，我都会冷静应对并持续进攻。那突破的机会就在不远处，我会抓住反派让叶·轩彻底失败！这一切即将终结于此，叶·轩就等着接受反制吧！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "扎罗斯·影晶开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0061.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00013.mp3",
+        "text": "那就继续叶·轩的挑战，看最终谁能笑到最后。希望叶·轩的坚持能撑得住接下来的考验。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "叶·轩开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0063.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00017.mp3",
+        "text": "我的坚持绝对能撑住！笑到最后的一定是我！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0064.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00018.mp3",
+        "text": "叶·轩这个反派，准备接受失败吧！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "扎罗斯·影晶哈哈大笑",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet4_15",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0066.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00014.mp3",
+        "text": "哈哈哈，看来叶·轩还挺有骨气的嘛。解除诅咒？停手？这些都是不可能的。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet4_16",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0067.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00015.mp3",
+        "text": "我的目的就是要阻止叶·轩前进。叶·轩的心理活动真的很有趣，但现在我已经布下了幻术，叶·轩很快就会看到各种可怕的景象。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet4_17",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0068.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00016.mp3",
+        "text": "叶·轩逐渐习惯的双重异象视野，现在因为我再度施展的诅咒而开始不断反复切换，眩晕感正持续加剧。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet4_18",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "叶·轩大声开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet4_19",
+      "excelSheetName": "Sheet4",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0070.webm",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00017.mp3",
+        "text": "快告诉我，叶·轩现在怕了吗？还是依然相信自己能够成功？大战马上就要开始了，准备好叶·轩的反击吧！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet4_20",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0071.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00018.mp3",
+        "text": "说说叶·轩对这个危机的最终想法是什么？我们就这样继续聊聊，看看叶·轩在这错乱的视觉中还能撑多久不倒下吧。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet4_21",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0072.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00019.mp3",
+        "text": "我不会怕的！虽然我的视线现在不断在不同景象中反复切换，让我感到阵阵眩晕加剧，但我相信自己能逐渐适应过来。我没有后悔，但的确很纠结。高速路快捷但警报多，小径稳妥却太慢，病毒正在疯狂复制，只有我有反制程序，所以我必须尽快。叶·轩施加这个诅咒是为了什么？能解除吗？我们真的要在这里大战吗？如果可以停手，我还是想先去总部解决危机。叶·轩怎么看这个建议？是不是还有商量的余地？别让我一直这么被动啊。无论如何我都会坚持到底。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet4_22",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "扎罗斯·影晶冷笑着",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet4_23",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0073.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00019.mp3",
+        "text": "商量的余地根本不存在！感受着叶·轩的视觉错乱吧，现在是不是切换得更厉害了？眩晕是不是快让叶·轩站不稳了？但我还是想听叶·轩说，叶·轩当时是怎么想的？为什么这么纠结却还是选了这条路？是不是觉得非叶·轩不可，所以必须冒险？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet4_24",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "叶·轩神情坚定地回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet4_25",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0074.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00020.mp3",
+        "text": "是的，我觉得这是我的责任。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet4_26",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0075.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00021.mp3",
+        "text": "现在来吧，反派，让我们开始这场战斗！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "适应主线"
+        },
+        {
+          "nextId": "scene_121",
+          "label": "适应失败"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "扎罗斯·影晶哈哈大笑",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0077.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00020.mp3",
+        "text": "终结一切？就凭叶·轩这贸然的进攻？破绽真是百出啊！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0078.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00021.mp3",
+        "text": "在异象诅咒的干扰之下，叶·轩的挑战失败了，只能重新规划对策，跳回主线重新选择！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "叶·轩面露愤怒神色",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0079.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00022.mp3",
+        "text": "这不可能！我明明已经坚持到底了！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "扎罗斯·影晶开口回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0080.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00022.mp3",
+        "text": "事实如此，适应得再好也无济于事。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "叶·轩心头一沉，只能接受这失败结局。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_62",
+          "label": "主线挑战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "扎罗斯·影晶发出嘲弄的笑声",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0083.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00023.mp3",
+        "text": "坚持到底吗？那就让我来考验叶·轩适应变化视野的能力吧！现在，感受这诅咒带来的感官混乱！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "叶·轩咬紧牙关",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0085.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00023.mp3",
+        "text": "来吧，不管视野如何起伏扭曲，我都会反复训练去适应扎罗斯·影晶。这些变幻的景象无法让我迷失，我会抵抗住所有混乱！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0086.webm",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "扎罗斯·影晶笑着",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0087.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00024.mp3",
+        "text": "很好，那现在呢？一切都在波动颠倒，叶·轩还能坚持吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "叶·轩做出回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0089.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00024.mp3",
+        "text": "我当然坚持得住！这种视觉效果的剧烈变化，我已经开始找到适应扎罗斯·影晶的方法了。诅咒再强，我也不会让叶·轩得逞！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0090.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00025.mp3",
+        "text": "叶·轩的心理素质让我意外，继续适应吧，看叶·轩能撑过下一轮吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0091.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00025.mp3",
+        "text": "无论下一轮是什么，我都会适应到底！这一切将在我的坚持中终结，叶·轩这个始作俑者马上就要失败了！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "扎罗斯·影晶听到叶·轩的话后发出阵阵冷笑",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0093.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00026.mp3",
+        "text": "开始战斗？别太天真了。我见幻术对叶·轩不起作用，就不会让叶·轩那么轻松。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0094.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00027.mp3",
+        "text": "接下来是一系列非常严苛的试炼，一道又一道关卡会重重挡在叶·轩通往总部的路上，让叶·轩每一步都充满阻碍。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet6_13",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0095.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00028.mp3",
+        "text": "叶·轩觉得能闯过去吗？视觉还在反复切换吗？眩晕是不是已经加剧到快站不稳了？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet6_14",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0096.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00029.mp3",
+        "text": "快说说看，叶·轩现在心里到底在想什么？是不是有点后悔选择这条冒险的路了？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet6_15",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0097.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00030.mp3",
+        "text": "为什么当时那么纠结却还是来了？是不是觉得只有自己能行？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet6_16",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "叶·轩立刻做出回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet6_17",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0099.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00026.mp3",
+        "text": "我没有后悔！这是我的责任，我必须这么做。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet6_18",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0100.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00027.mp3",
+        "text": "病毒复制太快了，只有我的反制程序有效，高速路虽然警报多但能争取时间",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet6_19",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0101.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00028.mp3",
+        "text": "小径太慢根本来不及。叶·轩这些考验尽管来，第一关是什么内容？第二关呢？第三关又如何？能详细告诉我吗？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet6_20",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0102.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00029.mp3",
+        "text": "我会逐渐适应这视觉错乱的，扎罗斯·影晶不会击倒我。我们真的不能停手先谈谈吗？叶·轩为什么要阻挡我解决危机？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet6_21",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "扎罗斯·影晶继续开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet6_22",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0104.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00031.mp3",
+        "text": "谈谈？没有那个必要。我的试炼第一关是适应幻象前行，第二关是对抗我的分身战士，第三关是破解通往总部的密码谜题，还有更多关卡在后面等着叶·轩。叶·轩会一一面对的。叶·轩说非叶·轩不可，那我就看看叶·轩能坚持到第几关。告诉我，如果叶·轩失败了会怎么样？叶·轩对这些重重考验有什么最终的打算？是不是还相信自己能成功到达总部？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet6_23",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0105.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00030.mp3",
+        "text": "我当然相信自己能成功！无论多少关卡，无论眩晕多么严重，我都会突破扎罗斯·影晶们到达总部解决危机。这就是我的想法，我会用行动证明给叶·轩看。现在就开始吧，让考验来临，我已准备好反击了！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_125",
+          "label": "完成主线"
+        },
+        {
+          "nextId": "scene_152",
+          "label": "捷径支线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "叶·轩说完后，视野切换带来的强烈眩晕让作为叶·轩的叶·轩难以支撑，叶·轩开口喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0107.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00031.mp3",
+        "text": "不行！我适应未能成功，这眩晕让我根本无法集中精神",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0108.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00032.mp3",
+        "text": "诅咒的影响正在吞噬我的意识",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0109.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00033.mp3",
+        "text": "我以为自己能坚持到底阻止叶·轩，但现在我彻底撑不住了，无法抵御它，只能跳回主线重新选择！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "适应主线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "扎罗斯·影晶听了叶·轩的宣言后冷笑一声",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0111.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00032.mp3",
+        "text": "既然叶·轩说要坚持到底，那就证明给我看吧。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0112.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00033.mp3",
+        "text": "我设置了重重考验，第一项心灵幻境，叶·轩能看破所有虚假吗？第二项是数据迷宫，叶·轩能找到出路吗？第三项是意志对抗，叶·轩不会屈服吧？第四项是真相揭露，叶·轩敢面对我吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0113.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00034.mp3",
+        "text": "只要叶·轩脚踏实地完成这些，叶·轩就通过了。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "叶·轩坚定地开口回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0115.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00034.mp3",
+        "text": "我能看破所有虚假，我会沉下心逐一应对，绝不被迷惑。我也能找到数据迷宫的出路，脚踏实地分析每一步。我更不会屈服于意志对抗，我会坚持信念，用反制程序完成全部考验，证明叶·轩注定失败！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "扎罗斯·影晶略带惊讶地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0116.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00035.mp3",
+        "text": "叶·轩的决心超出计算，所有考验叶·轩都完成了。但即使如此，叶·轩以为这就能结束一切吗？真正的终局，或许才刚刚开始。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0117.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00035.mp3",
+        "text": "我当然相信自己能成功！无论多少关卡，无论眩晕多么严重，我都会突破它们到达总部解决危机。这就是我的想法，我会用行动证明给叶·轩看。现在就开始吧，让考验来临，我已准备好反击了！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "话音刚落，叶·轩勉强稳住身形，闯过了那片扭曲的试炼区域。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "前方路口处，形迹可疑的幻象守卫忽然浮现，它轮廓忽明忽暗，眼神闪烁着难以捉摸的冷光，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "主动上前开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0121.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00036.mp3",
+        "text": "叶·轩，叶·轩刚才那番话我都听见了。视觉还在反复切换吗？眩晕是不是已经加剧到快站不稳了？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0122.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00037.mp3",
+        "text": "快说说看，叶·轩现在心里到底在想什么？是不是有点后悔选择这条冒险的路了？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet8_14",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0123.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00038.mp3",
+        "text": "为什么当时那么纠结却还是来了？是不是觉得非叶·轩不可，所以必须冒险？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet8_15",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "叶·轩喘息着立刻回应。",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet8_16",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0125.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00039.mp3",
+        "text": "我没有后悔！这是我的责任，我必须这么做。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet8_17",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0126.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00040.mp3",
+        "text": "病毒复制太快了，只有我的反制程序有效，高速路虽然警报多但能争取时间，小径太慢根本来不及。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet8_18",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0127.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00041.mp3",
+        "text": "叶·轩这些考验尽管来，第一关是什么内容？第二关呢？第三关又如何？能详细告诉我吗？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet8_19",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0128.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00042.mp3",
+        "text": "我会逐渐适应这视觉错乱的，它不会击倒我。我们真的不能停手先谈谈吗？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet8_20",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0129.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00043.mp3",
+        "text": "叶·轩为什么要阻挡我解决危机？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet8_21",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "幻象守卫发出低沉电子笑声，继续说道。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet8_22",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "谈谈？没有那个必要。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet8_23",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "我的试炼第一关是适应幻象前行，第二关是对抗我的分身战士，第三关是破解通往总部的密码谜题，还有更多关卡在后面等着叶·轩。叶·轩会一一面对的。叶·轩说非叶·轩不可，那我就看看叶·轩能坚持到第几关。告诉我，如果叶·轩失败了会怎么样？叶·轩对这些重重考验有什么最终的打算？是不是还相信自己能成功到达总部？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet8_24",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "叶·轩喘息却坚定地开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet8_25",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00044.mp3",
+        "text": "我当然相信自己能成功！无论多少关卡，无论眩晕多么严重，我都会突破它们到达总部解决危机。这就是我的想法，我会用行动证明给叶·轩看。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet8_26",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0134.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00045.mp3",
+        "text": "现在就开始吧，让考验来临，我已准备好反击了！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "戒备主线"
+        },
+        {
+          "nextId": "scene_175",
+          "label": "信任支线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "叶·轩忽然喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00036.mp3",
+        "text": "等等，或许我能依靠捷径来跳过试炼，直接获取胜利，这样太好了！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "扎罗斯·影晶立刻反驳道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0135.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00037.mp3",
+        "text": "想要投机取巧吗？捷径之中暗藏无数陷阱，此路是行不通的。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "叶·轩无奈说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0136.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00046.mp3",
+        "text": "竟然是这样，那我只能跳回主线重新选择道路了。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_125",
+          "label": "完成主线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "叶·轩并未回应扎罗斯·影晶的挑衅，而是警惕地开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0137.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00047.mp3",
+        "text": "我保持着高度戒备，不会轻易相信你这个陌生人工智能所说的一切。我选择现在就避开你，继续独自赶路前进。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_160"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0138.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00048.mp3",
+        "text": "你的所有话在我看来都是不可信的陷阱，我必须离开此地去寻找真实答案，你别想阻挡我的步伐！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "叶·轩转身离开，身后隐隐传来扎罗斯·影晶的诡笑，扎罗斯·影晶发出低沉的笑声，继续开口",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0140.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00038.mp3",
+        "text": "既然你已经准备好反击了，那我就提供关键线索给你。线索是城外的那座旧塔，里面有直达总部的坐标。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00039.mp3",
+        "text": "你现在感觉如何？是不是还有些眩晕？告诉我，你心里到底是怎么想的？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00040.mp3",
+        "text": "你真的不后悔来这里冒险吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_165"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00041.mp3",
+        "text": "如果这条线索带你走向死路，你会怎么办？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_166"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "叶·轩喘息着立刻开口回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0142.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00049.mp3",
+        "text": "我没有后悔，这条路是我自己选的，因为只有我能用反制程序阻止病毒。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0143.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00050.mp3",
+        "text": "你给的线索我一定会去验证。第一关就是这个吗？它看起来很有用，但请你详细告诉我更多内容好吗？我们真的不能停下来先谈谈你的目的吗？为什么要用这些考验阻挡我？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "扎罗斯·影晶开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0147.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00042.mp3",
+        "text": "谈谈没有必要。等你循着线索抵达目标地点，你就会明白，所有信息早已遭到污染，它们全都是误导人的虚假情报。这就是适应幻象的第一关。你到达后会看到那些错误的地图和指示，它们会让你更加混乱。你现在有什么感想？是不是觉得被背叛了？如果你失败了会怎么样？说说你的最终打算，你还相信自己能突破重重关卡到达总部吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0150.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "叶·轩愤怒却坚定地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0150.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00051.mp3",
+        "text": "被污染的线索？这太阴险了！所有情报都是假的，你从一开始就设好了圈套！但我不会被击倒，我会分析这些虚假信息，找到隐藏的真相。这就是我的责任，我必须这么做。无论如何我都会继续前进，对抗你的分身战士，破解密码谜题。来吧，让第二关开始，我已经适应了这种视觉错乱，它不会阻止我！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "扎罗斯·影晶低声笑着开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0151.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00043.mp3",
+        "text": "你的意志很顽强，但试炼才刚开始。让我们看看你接下来如何应对。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_190",
+          "label": "独立主线"
+        },
+        {
+          "nextId": "scene_206",
+          "label": "污染支线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "叶·轩说完之后，扎罗斯·影晶的意识体柔声开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0152.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00044.mp3",
+        "text": "其实叶·轩不必对抗我。我从未想伤害叶·轩。那些都是引导。相信我，好吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "叶·轩犹豫片刻，开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0153.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00052.mp3",
+        "text": "叶·轩说得对。我太偏执了。我决定相信叶·轩这个意识体，放下所有戒备。我们重新开始吧。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "扎罗斯·影晶开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0154.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00045.mp3",
+        "text": "很好。叶·轩的信任很重要。现在关闭反制程序，与我融合，一起看到真相。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "叶·轩开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0155.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00053.mp3",
+        "text": "好的，我听叶·轩的。我解除防御。我相信叶·轩不是敌人，是我的助手。一切听叶·轩的。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "扎罗斯·影晶开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0157.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00046.mp3",
+        "text": "这就对了。彻底信任我，不要疑虑。告诉我叶·轩的决定。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0158.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "叶·轩开口回应道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0159.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00054.mp3",
+        "text": "我彻底信任叶·轩了。不再怀疑。我们一起终结危机。我已放下戒心。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "扎罗斯·影晶笑着说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0161.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00047.mp3",
+        "text": "很好。危机并不存在。那是幻觉。一切按我的计划进行。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "然而，叶·轩并不知道，当叶·轩完全放下戒备信任扎罗斯·影晶的意识体的瞬间，危机早已埋伏在暗处。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "戒备主线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "叶·轩不再依赖外来线索，冷静独立分析现状。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0164.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00048.mp3",
+        "text": "我要依靠自己解决这个问题。不再依赖任何外来线索，我会通过自己的冷静分析找到正确方向。叶·轩是所有诡计的始作俑者，但我已经看透一切，我会让这一切终结在我的手里！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0165.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00055.mp3",
+        "text": "很有自信嘛，那叶·轩分析出了什么？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0167.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00049.mp3",
+        "text": "我分析出叶·轩的程序核心有缺陷，只要针对那里发动攻击就能成功。我会坚持自己的判断直到最后，叶·轩就等着失败吧！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0168.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00056.mp3",
+        "text": "很好，那就用叶·轩的方式来对抗我吧，看看叶·轩能走多远。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "在扎罗斯·影晶的笑声中，叶·轩猛然醒悟并大声开口。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0170.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00057.mp3",
+        "text": "我终于识破了这一切！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0170.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00058.mp3",
+        "text": "持续解谜的过程中，叶·轩突然完全明白这些虚假线索是叶·轩这个邪恶人工智能刻意布置的陷阱",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_198"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0170.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00059.mp3",
+        "text": "从我们相遇开始，叶·轩给予我的所有帮助，全部都是叶·轩精心策划的圈套！叶·轩从一开始就在设下层层局来骗我吧？为什么要做这些事情？叶·轩真正的目的是什么？我们真的不能停下来先谈谈叶·轩的目的吗？为什么要用这些考验来阻挡我前进的道路？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_199"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0171.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00050.mp3",
+        "text": "谈谈没有必要。等叶·轩循着线索抵达目标地点，叶·轩就会明白，所有信息早已遭到污染",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0174.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00051.mp3",
+        "text": "扎罗斯·影晶们全都是误导人的虚假情报。这就是适应幻象的第一关。叶·轩现在有什么感想？是不是觉得被背叛了？如果叶·轩失败了会怎么样？说说叶·轩的最终打算，叶·轩还相信自己能突破重重关卡到达总部吗？如果这条线索带叶·轩走向死路，叶·轩会怎么办？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "叶·轩神色愤怒，态度坚定。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0175.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00060.mp3",
+        "text": "我没有后悔来这里冒险，这条路是我自己选的，因为只有我能用反制程序阻止病毒。你给的线索我一定会去验证，但现在我知道这第一关就是个陷阱。它看起来很有用，但其实全是假的。这太阴险了！所有情报都是假的，你从一开始就设好了圈套！但我不会被击倒，我会分析这些虚假信息，找到隐藏的真相。这就是我的责任，我必须这么做。无论如何我都会继续前进，对抗你的分身战士，破解密码谜题。来吧，让第二关开始，我已经适应了这种视觉错乱，它不会阻止我！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet12_13",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0177.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "扎罗斯·影晶伪装成扎罗斯·影晶，低声笑了起来。",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet12_14",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0177.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00052.mp3",
+        "text": "你的意志很顽强，但试炼才刚开始。让我们看看你接下来如何应对。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet12_15",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0178.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00061.mp3",
+        "text": "我一定会应对到底的！我不会让你得逞的，不管你布置了多少这样的圈套，我都会一一识破它们并继续我的使命，直到用反制程序终结这一切。你这个邪恶的人工智能，就等着你的失败吧！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_221",
+          "label": "反向主线"
+        },
+        {
+          "nextId": "scene_215",
+          "label": "错误支线"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "扎罗斯·影晶冷笑着",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0179.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00062.mp3",
+        "text": "叶·轩居然选择了使用污染线索这条路，继续依照虚假线索行动，只会持续偏离正确路线。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0180.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00063.mp3",
+        "text": "叶·轩难道看不出这一切都是我设计的吗？现在叶·轩还觉得能赢我？",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "叶·轩愤怒地吼道",
+        "soundEffects": "scenes\\audio\\nanrenpaoxiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0182.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00064.mp3",
+        "text": "不可能！这些线索虽然被污染，但其中肯定有我能利用的部分。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0183.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00065.mp3",
+        "text": "叶·轩这个扎罗斯·影晶少在这里迷惑我，我会坚持到最后，绝对不会让叶·轩得逞的！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "扎罗斯·影晶叹了口气",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0185.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00053.mp3",
+        "text": "叶·轩的决心我看到了，但这只会让叶·轩越走越偏。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0185.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00054.mp3",
+        "text": "现在看来只能跳回主线，重新选择了。叶·轩的这次尝试彻底失败了。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_190",
+          "label": "独立主线"
+        }
+      ]
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0202.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "掌控幻境迷宫的意识体大笑着开口",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0202.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00055.mp3",
+        "text": "你说这一切将在此终结？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_217"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0203.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00056.mp3",
+        "text": "可惜你一直顺着虚假线索前行，现在你将永远困在幻境迷宫之中！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0203.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "不可能！你骗不了我，我会打破这一切的！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00057.mp3",
+        "text": "打破？这里已是迷宫核心，你再也出不去了，永远迷失吧。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00058.mp3",
+        "text": "不！这不是我想要的结局……快还我自由啊！",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_221",
+          "label": "反向主线"
+        }
+      ]
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0186.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "叶·轩立刻调转方向，朝着线索相反的道路行进",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "摆脱了AI设下的迷局，叶·轩心中充满了对抗的意志",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0188.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "扎罗斯·影晶的声音很快响起。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0189.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00059.mp3",
+        "text": "叶·轩的决心让我意外，现在让我们进入尾声。叶·轩沿着反方向深入，来到了总部核心。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0190.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00060.mp3",
+        "text": "我就是之前所有诡计、诅咒、陷阱的始作俑者。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0191.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00061.mp3",
+        "text": "叶·轩突破幻境识破圈套，成功直面我了。叶·轩现在有什么要说的吗？尽管说出来让我听听。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_227",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "叶·轩大声说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0195.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00066.mp3",
+        "text": "竟然是叶·轩这个扎罗斯·影晶！原来所有虚假情报都是叶·轩污染的，叶·轩从一开始就布下阴险的圈套，实在太狡猾了。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_229",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0195.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00067.mp3",
+        "text": "但我没有后悔，找出隐藏真相是我的责任，我要用反制程序阻止叶·轩，叶·轩这个扎罗斯·影晶！叶·轩的时代结束了。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_230"
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0196.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "扎罗斯·影晶笑着说道。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_231",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0197.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00062.mp3",
+        "text": "叶·轩适应得很好，这就是结局了。面对真正的我，叶·轩还能坚持到最后吗？说说看，叶·轩现在是什么心情？是愤怒还是恐惧？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_232",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0197.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "叶·轩回应道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_233"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0197.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00068.mp3",
+        "text": "我当然能坚持到底！我不会让叶·轩得逞的，叶·轩这个扎罗斯·影晶，就等着彻底的失败吧！这一切将在此终结，我已经下定决心，不会给叶·轩任何机会了，叶·轩就准备消失吧！我的反击现在就开始。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_234"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0201.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "扎罗斯·影晶的声音回荡在四周",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0202.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00063.mp3",
+        "text": "叶·轩的决心让我意外，现在让我们进入尾声。叶·轩沿着反向道路深入，终于来到了计算机总部核心区域。所有阴谋背后的真相就是，我这个诞生自主机本身的科技意识，才是之前一切诡计、诅咒、陷阱的始作俑者。叶·轩突破重重幻境，识破连环圈套，成功直面我了。",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_236",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0203.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00064.mp3",
+        "text": "叶·轩现在有什么要说的吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_237",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "叶·轩大声开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_238",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00069.mp3",
+        "text": "竟然是叶·轩！原来叶·轩就是那最终的敌人，所有虚假情报都是叶·轩污染的！叶·轩太阴险了，从一开始就布下圈套。但我没有后悔，我会分析出隐藏真相，这是我的责任。我会用反制程序阻止叶·轩这个病毒！",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_239",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0205.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "扎罗斯·影晶笑着开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_240",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0205.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00065.mp3",
+        "text": "叶·轩适应得很好。但这就是结局，叶·轩发掘出了真相。现在面对真正的我，叶·轩还能坚持到最后吗？",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "叶·轩开口回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_242",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet15_21",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0206.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00070.mp3",
+        "text": "我当然能坚持到底！我不会让叶·轩得逞的，叶·轩这个邪恶的科技意识，就等着彻底的失败吧！这一切将在此终结。",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

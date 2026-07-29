@@ -1,0 +1,3900 @@
+{
+  "uid": "hywgqy2_20260729110748",
+  "name": "hywgqy2_20260729110748",
+  "token": "U2FsdGVkX181/V4ijHfkRz5zp/P7yjFG5FiLz1aLQTtmtaO8uloFQeBSubE4suV+",
+  "cover": "scenes\\images\\hywgqy2_20260729110748_0001.webp",
+  "version": "20260729-2310",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "You enter the familiar garden with a smile on your face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0002.webp",
+        "dubbing": "scenes\\audio\\Lisa00000.mp3",
+        "text": "Wow, this garden is still so familiar and beautiful. Every time I come in, I feel refreshed and relaxed.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0003.webp",
+        "dubbing": "scenes\\audio\\Lisa00001.mp3",
+        "text": "The flowers are in full bloom, filling the air with their intoxicating fragrance. The swing sways gently, as if inviting me to sit on it and have a swing. The green grass is like a carpet, and the tree shadows are dancing. This is really my favorite place. I plan to stay here longer today to completely relax and forget all my troubles.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0004.webp",
+        "dubbing": "scenes\\audio\\Lisa00002.mp3",
+        "text": "This feeling is just amazing!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "Suddenly, your body shrinks rapidly, and you let out a loud scream.",
+        "soundEffects": "scenes\\audio\\anancanjiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0005.webp",
+        "dubbing": "scenes\\audio\\Lisa00003.mp3",
+        "text": "Ah! What's going on? Why has my body suddenly shrunk?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0006.webp",
+        "dubbing": "scenes\\audio\\Lisa00004.mp3",
+        "text": "Oh my god, I'm getting smaller and smaller! Everything around me is growing rapidly!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0007.webp",
+        "dubbing": "scenes\\audio\\Lisa00005.mp3",
+        "text": "The chains of the swing are now as tall as giant vines twining around. The wild grass has turned into a terrifying dense forest.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0008.webp",
+        "dubbing": "scenes\\audio\\Lisa00006.mp3",
+        "text": "The acorns are as huge as boulders blocking the way. The dewdrops on the grass blades have become shiny lakes. What I'm seeing with my eyes are all scenes I've never imagined before. What on earth is going on? Am I having a hallucination? Can anyone tell me?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "You say with a trembling voice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0009.webp",
+        "dubbing": "scenes\\audio\\Lisa00007.mp3",
+        "text": "Fear suddenly wells up in my heart. I'm so scared. What should I do in this tiny state?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0010.webp",
+        "dubbing": "scenes\\audio\\Lisa00008.mp3",
+        "text": "Could there be any danger lurking in these grassy areas?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0011.webp",
+        "dubbing": "scenes\\audio\\Lisa00009.mp3",
+        "text": "But wait, this novel feeling is getting stronger and stronger!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0012.webp",
+        "dubbing": "scenes\\audio\\Lisa00010.mp3",
+        "text": "Who would have thought that there are countless unseen secrets hidden in this ordinary garden. Look at the fluttering butterflies; they can stir up a gust of wind that flutters my clothes. The ordinary mushrooms have become dome - shaped huts, and I can use them as shelters. The moss has spread like a green carpet; it must be soft to step on.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0013.webp",
+        "dubbing": "scenes\\audio\\Lisa00011.mp3",
+        "text": "This world is so wonderful. Although I'm scared, I'm even more eager to explore every corner. Where will these secrets lead me? What will the next discovery be?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_15",
+          "label": "Choose to do nothing"
+        },
+        {
+          "nextId": "scene_23",
+          "label": "Decide to take the adventure"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "You say to the little mushroom.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0014.webp",
+        "dubbing": "scenes\\audio\\Lisa00012.mp3",
+        "text": "Wait, I'm not going with you anymore. I'll just sit around and do nothing, stay here and daydream. I don't want to start the adventure on my own initiative.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "The little mushroom asks.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0015.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00000.mp3",
+        "text": "Kid, why is that? You'll be picked up by sparrows!",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "You reply.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0016.webp",
+        "dubbing": "scenes\\audio\\Lisa00013.mp3",
+        "text": "Or I'll be trapped in the grass forever, surviving on grass roots and dewdrops, watching my mom work but unable to be found and unable to return to normal. I don't care.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "The little mushroom says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0017.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00001.mp3",
+        "text": "Then you'll have to go back to the main storyline and make a new choice.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "branches": [
+        {
+          "nextId": "scene_23",
+          "label": "Decide to take the adventure"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "You look at the glimmer of light.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0019.webp",
+        "dubbing": "scenes\\audio\\Lisa00014.mp3",
+        "text": "Don't say goodbye. I've overcome my cowardice. This novel world has touched me, and I've decided to start this microscopic adventure. Let's explore the unknown together, okay?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0020.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00002.mp3",
+        "text": "Kid, your idea is really brave. You might get lost or encounter danger during the adventure. Do you still want to go ahead?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0021.webp",
+        "dubbing": "scenes\\audio\\Lisa00015.mp3",
+        "text": "I'm determined! I won't be afraid as long as you're by my side. Quickly tell me what to do first.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0022.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00003.mp3",
+        "text": "Great, let's go. Remember to keep your curiosity alive.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "You wear a smile on your face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0024.webp",
+        "dubbing": "scenes\\audio\\Lisa00016.mp3",
+        "text": "I know. Thank you for accompanying me!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "You walk forward, pushing aside the tall grass while pondering your previous thoughts.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0026.webp",
+        "dubbing": "scenes\\audio\\Lisa00017.mp3",
+        "text": "Just now I was wondering where these secrets would lead me and what the next discovery would be. And then, right in front of me, there lies an endless sea of flowers! The layers of blossoms and the play of light and shadow are so beautiful that it's truly intoxicating!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0027.webp",
+        "dubbing": "scenes\\audio\\Lisa00018.mp3",
+        "text": "But there's something off about this serene scene. It feels like there's some hidden danger.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0028.webp",
+        "dubbing": "scenes\\audio\\Lisa00019.mp3",
+        "text": "Huh? Why is there a rustling sound coming from the grass? It sounds so scary!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_11",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0029.webp",
+        "dubbing": "scenes\\audio\\Lisa00020.mp3",
+        "text": "Ah! A huge ant nest suddenly appears beside me! Oh my god, swarms of giant ants are pouring out of it, and they're all charging towards me! The danger is imminent. I'm so scared that my legs are turning to jelly! I'm so afraid. What can I do as such a tiny being facing these giant creatures? Each of them is many times bigger than me, and their mouths and pincers look so terrifying. Just now I was excitedly saying how wonderful this world is, how butterflies can stir up the wind, how mushrooms can be shelters, and how soft the moss feels underfoot. I wanted to explore all the secrets, but now these secrets seem to be taking my life! Fear has completely overwhelmed me. My heart is pounding, and it's hard to breathe. Who would have thought that there would be such a dangerous ant nest beside the beautiful sea of flowers? Should I turn around and run right away? But they're already out, coming from all directions. I feel surrounded. I'm really done for this time. What should I do? Help! Is there anyone? This shrunk - down garden is so terrifying! I even said before that I'd leave all my troubles behind and relax completely here. It's so ironic that I'm facing this ant - nest crisis now! I can clearly hear the rustling sound of those giant ants' feet on the ground. They're getting closer, and I'm starting to sweat. I hope this is just a dream, and when I wake up, it'll still be the normal - sized garden!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_35",
+          "label": "Explore the mound."
+        },
+        {
+          "nextId": "scene_46",
+          "label": "Explore the flower sea."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "You say to the mushroom:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0031.webp",
+        "dubbing": "scenes\\audio\\Lisa00021.mp3",
+        "text": "Let's explore in the direction of the mound. It looks so special. Could there be some secrets there? Will you come with me?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "The mushroom speaks up:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0033.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00004.mp3",
+        "text": "Kid, please don't go. It's an ant nest. If you get close, hundreds of ants will chase you, and you'll be terrified!",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "You insist:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0035.webp",
+        "dubbing": "scenes\\audio\\Lisa00022.mp3",
+        "text": "It's okay. Just for a little while.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0036.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00005.mp3",
+        "text": "That's still not okay.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "You still go there, and then you shout:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0038.webp",
+        "dubbing": "scenes\\audio\\Lisa00023.mp3",
+        "text": "Oh my god! The ants are out! So many! They're chasing me!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0039.webp",
+        "dubbing": "scenes\\audio\\Lisa00024.mp3",
+        "text": "I'm so scared! Let's run!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "You turn around and run in a hurry.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "Explore the flower sea."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "You whisper to the little mushroom:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0041.webp",
+        "dubbing": "scenes\\audio\\Lisa00025.mp3",
+        "text": "Well, this garden adventure will become the sweetest secret in my heart.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0042.webp",
+        "dubbing": "scenes\\audio\\Lisa00026.mp3",
+        "text": "But now, I want to explore in the direction of the flower sea.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0043.webp",
+        "dubbing": "scenes\\audio\\Lisa00027.mp3",
+        "text": "There, the endless flowers are gorgeously beautiful. The petals of various colors sway in the wind, and the sunlight casts dappled shadows. The scenery is magnificent and dreamy.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "The little mushroom warns you:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0044.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00006.mp3",
+        "text": "There are ant colonies chasing. Be careful.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "You immediately say:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0045.webp",
+        "dubbing": "scenes\\audio\\Lisa00028.mp3",
+        "text": "I quickly slipped into the gaps in the flower sea and managed to shake them off for now, but I urgently need to find a faster way to escape. Can you help me?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0046.webp",
+        "dubbing": "scenes\\audio\\Lisa00029.mp3",
+        "text": "I hope this is just a dream. When I wake up, I'll be back in the garden of normal size!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0047.webp",
+        "dubbing": "scenes\\audio\\Lisa00030.mp3",
+        "text": "But those giant ants have swarmed out. Their terrifying figures are everywhere. Their pincers and mouths look like they could easily tear me apart.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\chongzimingjiao_zhuanhuan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "The protagonist is so scared that their whole body is shaking. Sweat has soaked their entire body, and their breathing has become rapid and difficult.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0049.webp",
+        "dubbing": "scenes\\audio\\Lisa00031.mp3",
+        "text": "Who could have thought that there was such a hidden danger beside such a beautiful sea of flowers!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0050.webp",
+        "dubbing": "scenes\\audio\\Lisa00032.mp3",
+        "text": "I was so excited before, saying how wonderful this world is. Now, all I want is to escape! Look, there are giant dandelions on the sea of flowers, covered with snow - white fluffy umbrellas. Mr. Dandelion, your fluffy umbrella is so soft, like a cloud. If you let me grab it, can you take me floating away from here? The wind will carry us away, away from the ant nest, right? But I'm worried that the wind will get out of control and send me to an even scarier corner! Can you guarantee it?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0051.webp",
+        "dubbing": "scenes\\audio\\Lisa00033.mp3",
+        "text": "A large blue - purple butterfly is perched on a flower beside. Its wings are dotted with scales like starlight, so dreamy! Is this a choice given to me by God? I need to decide which creature to use to leave the sea of flowers! Blue - purple butterfly, you are so elegant and charming, with strong and beautiful wings. Can you let me ride on your back and fly away quickly? Your scales are shining with the light of hope in the sun. If you agree, I can be saved! But will you see me as an intruder and refuse to cooperate? The giant ants are getting closer. I can already see their fierce eyes!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0052.webp",
+        "dubbing": "scenes\\audio\\Lisa00034.mp3",
+        "text": "Ah, my mind is in a mess. Should I choose the dandelion or the butterfly? This choice is so painful! Please, give me some guidance quickly, or I'm really done for! Should I go with the wind of the dandelion or soar with the wings of the butterfly? I'm so panicked. Tell me the answer!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_61",
+          "label": "Jump on the butterfly beside and fly away"
+        },
+        {
+          "nextId": "scene_70",
+          "label": "Grab the dandelion beside and float away"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0053.webp",
+        "dubbing": "scenes\\audio\\Lisa00035.mp3",
+        "text": "Wow, look! That butterfly is so beautiful! How about we jump on its back and fly away together to escape?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0054.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00007.mp3",
+        "text": "Kid, I'm begging you not to do this. A frightened butterfly will tumble violently in the air, and you won't be able to hold on!",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0055.webp",
+        "dubbing": "scenes\\audio\\Lisa00036.mp3",
+        "text": "I've made up my mind. I'm jumping!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0056.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00008.mp3",
+        "text": "Please, don't do it!",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0057.webp",
+        "dubbing": "scenes\\audio\\Lisa00037.mp3",
+        "text": "I've jumped on. This feels great!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0058.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00009.mp3",
+        "text": "Kid, get off quickly!",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0059.webp",
+        "dubbing": "scenes\\audio\\Lisa00038.mp3",
+        "text": "Oh no, it's starting to tumble. I can't hold on. I let go and I'm falling!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0060.webp",
+        "dubbing": "scenes\\audio\\Lisa00039.mp3",
+        "text": "Ah, no!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "In the end, you fall heavily to the ground. The adventure fails.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_70",
+          "label": "Grab the dandelion beside and float away"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "You look at the fluorescence and say softly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0063.webp",
+        "dubbing": "scenes\\audio\\Lisa00040.mp3",
+        "text": "Wait, I don't want it to end like this. Let me grab the dandelion fluff and float away. Will it take me over everything?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0064.webm",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "The little mushroom replies softly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0064.webm",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00010.mp3",
+        "text": "Kid, grab it. The fluffy umbrella will slowly rise into the air, flying over the sea of flowers and the ant nest.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0065.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00011.mp3",
+        "text": "You'll land safely on the moist and thick mossy ground, and you'll be able to escape smoothly.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "You say with a beaming face",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0066.webp",
+        "dubbing": "scenes\\audio\\Lisa00041.mp3",
+        "text": "I've grabbed it. I'm really going to fly. The wind is so gentle.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0067.webp",
+        "dubbing": "scenes\\audio\\Lisa00042.mp3",
+        "text": "The sea of flowers and the ant nest are gradually disappearing below my feet. Now I'm slowly landing. The moss is so thick. I'm finally safe. This feeling is so amazing!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Just as I'm shouting in panic, the blue - purple butterfly actually flaps its wings and approaches me, as if it understood my plea.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "My body trembling, I say",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0070.webp",
+        "dubbing": "scenes\\audio\\Lisa00043.mp3",
+        "text": "Are you really going to help me? Thank you!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0071.webp",
+        "dubbing": "scenes\\audio\\Lisa00044.mp3",
+        "text": "Those giant ants have such fierce eyes! I'm scared out of my wits!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0072.webp",
+        "dubbing": "scenes\\audio\\Lisa00045.mp3",
+        "text": "Let me ride on your back. Can we fly away from here right now? Your wings are so beautiful. You must be able to carry me to a safe place!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "I quickly climbed onto the blue - purple butterfly's back, hugged its body tightly, and said anxiously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet7_14",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0073.webp",
+        "dubbing": "scenes\\audio\\Lisa00046.mp3",
+        "text": "Take off! Please hurry. Those pincers are about to grab me!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet7_15",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0074.webp",
+        "dubbing": "scenes\\audio\\Lisa00047.mp3",
+        "text": "The wind picked up, and we left the flower field. Big Brother Dandelion, I'm sorry I didn't choose you, but the butterfly suits me better. Now we're flying so high. Are you tired? Hold on. Let's find a place to land. My heart is still pounding. I really thought I was done for just now.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet7_16",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "Soon after, we landed smoothly on a mossy ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet7_17",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "I said with a grateful look on my face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet7_18",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0077.webp",
+        "dubbing": "scenes\\audio\\Lisa00048.mp3",
+        "text": "We've landed! Thanks to you, I'm safe now.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet7_19",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0078.webp",
+        "dubbing": "scenes\\audio\\Lisa00049.mp3",
+        "text": "Go and rest. I'll explore this place on my own.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_20",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0079.webm",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "After landing, a group of small mushrooms with fluorescent spots emerged from the gaps in the moss. They looked at me gently and curiously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_21",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "I looked at these small mushrooms with fluorescent spots that had just emerged from the gaps in the moss.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_22",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "I couldn't help but ask in succession.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_23",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0082.webp",
+        "dubbing": "scenes\\audio\\Lisa00050.mp3",
+        "text": "Hey? Where did you little guys come from? The fluorescent spots on your bodies are so bright!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_24",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0083.webp",
+        "dubbing": "scenes\\audio\\Lisa00051.mp3",
+        "text": "Is it the natural light? Why are you looking at me so gently and curiously?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_25",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0084.webp",
+        "dubbing": "scenes\\audio\\Lisa00052.mp3",
+        "text": "Are you the guardians of this forest? Is this the Fluorescent Mushroom Forest? It feels so dreamy. Can you talk? Can you tell me if there's any danger here?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_26",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0085.webp",
+        "dubbing": "scenes\\audio\\Lisa00053.mp3",
+        "text": "Will the giant ants chase me here? What should I do? Should I stay or keep going? Please answer me.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_27",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0086.webp",
+        "dubbing": "scenes\\audio\\Lisa00054.mp3",
+        "text": "I'm still very scared. I need your advice! You look so cute. You must be friendly, right? Please tell me the answer. Please!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_98",
+          "label": "Touch the mushrooms"
+        },
+        {
+          "nextId": "scene_108",
+          "label": "Observe the mushrooms"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "Right after the little mushroom finished speaking, you said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0088.webp",
+        "dubbing": "scenes\\audio\\Lisa00055.mp3",
+        "text": "Wait. Before saying goodbye, can I touch that big mushroom? It looks so strange.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "The little mushroom quickly said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0089.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00012.mp3",
+        "text": "Kid, absolutely not. You'll get poisoned instantly.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "Then you said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0090.webp",
+        "dubbing": "scenes\\audio\\Lisa00056.mp3",
+        "text": "It's okay. I'll just touch it for a second.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "Right after you touched the big mushroom, you said",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0091.webp",
+        "dubbing": "scenes\\audio\\Lisa00057.mp3",
+        "text": "Ouch, my fingers are numb. My body is quickly going numb, and my consciousness is starting to fade. But this feeling is so gentle. This must be the end.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "The little mushroom said helplessly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0092.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00013.mp3",
+        "text": "Alas, it seems we have to go back to the main line and make a new choice.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "branches": [
+        {
+          "nextId": "scene_108",
+          "label": "Observe the mushrooms"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "You listen to the little mushrooms saying goodbye in the grass. You quietly crouch down and watch without making a hasty move.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0094.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00014.mp3",
+        "text": "Thank you for observing us so politely without touching us rashly. Our guard is gradually dropping, and you've won all our goodwill.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0095.webp",
+        "dubbing": "scenes\\audio\\Lisa00058.mp3",
+        "text": "I just want to quietly admire your cute looks and the twinkling fluorescence.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0096.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00015.mp3",
+        "text": "Your kindness makes more and more of us gather here.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "All the little mushrooms glow with fluorescence and speak in unison.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0098.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00016.mp3",
+        "text": "Now, we accept you with an ancient ritual. Welcome to be the most special friend in the garden.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "Suddenly, a gentle voice rings in my mind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0100.webp",
+        "dubbing": "scenes\\audio\\Lisa00059.mp3",
+        "text": "Kid, don't be afraid. We've heard all your questions. It's safe here. The giant ants won't chase you. Don't worry.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "I immediately start asking questions.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0102.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00017.mp3",
+        "text": "Who are you? How can you talk in my head? Can you help me? Is it dangerous here? Should I stay or go? Please tell me, okay?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0103.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00018.mp3",
+        "text": "We are the fluorescent mushrooms, the guardians of this dreamy forest.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0104.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00019.mp3",
+        "text": "Our spots are natural light. We like it that you're so gentle and curious about us.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0105.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00020.mp3",
+        "text": "You're the first shrunken human who resisted the curiosity and didn't hurt us. Those people before were so rough. You're different from them, so we showed up.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "I'm extremely happy and say.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0107.webp",
+        "dubbing": "scenes\\audio\\Lisa00060.mp3",
+        "text": "I'm the first one? Really? This makes me so touched!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet9_15",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0108.webp",
+        "dubbing": "scenes\\audio\\Lisa00061.mp3",
+        "text": "You're so cute. I'm not that scared now. Can we travel together? Will you go with me to find a way to restore my size? That's great! I'm willing to go with you. You'll protect me, right? How should we go? Do you have any plans? Tell me. I'll follow all your suggestions!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet9_16",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0109.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00021.mp3",
+        "text": "Yes, we line up to invite you to travel with us. Let's find a way to restore you to your original size together. Don't be afraid. We'll protect you. Follow our group. There might be an answer ahead. Are you willing?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet9_17",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0110.webp",
+        "dubbing": "scenes\\audio\\Lisa00062.mp3",
+        "text": "I'm willing! Traveling with you sounds so dreamy. Do you know where to find the way to restore my size? Where should we go? What will we encounter on the way? But I feel much safer with you. Thank you for choosing me as your travel companion. Does our adventure start now?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet9_18",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0111.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00022.mp3",
+        "text": "Yes, the adventure begins. Follow us to find the hope of restoration.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "branches": [
+        {
+          "nextId": "scene_127",
+          "label": "Explore alone"
+        },
+        {
+          "nextId": "scene_140",
+          "label": "Travel together"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "You look at the fading fluorescence",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "Muttering to yourself",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0113.webp",
+        "dubbing": "scenes\\audio\\Lisa00063.mp3",
+        "text": "No, I declined. Relying too much on others if we go together. I'll search alone.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "You say to yourself",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0115.webp",
+        "dubbing": "scenes\\audio\\Lisa00064.mp3",
+        "text": "These microscopic wonders are so beautiful. Look at the small world in the veins, like countless twinkling stars. I want to take my time to enjoy them.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "You say as you walk",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0117.webp",
+        "dubbing": "scenes\\audio\\Lisa00065.mp3",
+        "text": "But it's so empty without anyone around. These mosquitoes are biting me all over and making me numb. What should I do?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\chongzifei.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "You gasp and whisper",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0119.webp",
+        "dubbing": "scenes\\audio\\Lisa00066.mp3",
+        "text": "Suddenly, the rainstorm comes. It's hitting me so hard that I can't open my eyes. Dangers are approaching one after another. I'm really all alone.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\kuangfenghuxiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "You plop down in the mud, looking exhausted.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0121.webp",
+        "dubbing": "scenes\\audio\\Lisa00067.mp3",
+        "text": "If this goes on, I'll end up alone for the rest of my life and eventually lie in the fallen leaves of the garden forever.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0122.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "You murmur softly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0123.webp",
+        "dubbing": "scenes\\audio\\Lisa00068.mp3",
+        "text": "Maybe I was wrong. I should go back to the main path and make a new choice.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_140",
+          "label": "Travel together."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0124.webm",
+        "dubbing": "scenes\\audio\\Lisa00069.mp3",
+        "text": "Wait, don't say goodbye. I choose to trust you all.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0125.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00023.mp3",
+        "text": "Kid, are you in? Then let's go together!",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0126.webp",
+        "dubbing": "scenes\\audio\\Lisa00070.mp3",
+        "text": "Yes, I'm ready. What's in the cave?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0127.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00024.mp3",
+        "text": "You'll find out when you get there. It's a surprise just for you.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0128.webp",
+        "dubbing": "scenes\\audio\\Lisa00071.mp3",
+        "text": "I'm so excited! It's so much fun traveling with you all.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0129.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00025.mp3",
+        "text": "We're happy too.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0130.webp",
+        "dubbing": "scenes\\audio\\Lisa00072.mp3",
+        "text": "You follow the mushroom companions through the moss, branch bridges, and pinecone groves and arrive at the cave under the old oak tree.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "You and all the mushroom companions arrive at the cave under the old oak tree deep in the garden.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "Just then, the old star - patterned mushroom speaks in a hoarse but gentle voice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0131.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00000.mp3",
+        "text": "Yes, the adventure begins. But first, I have to tell you the truth.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0132.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00001.mp3",
+        "text": "You shrank because the garden holds your childhood memories. Since you grew up and didn't come often, it found its own way to keep the little you from the past.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0133.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00002.mp3",
+        "text": "To return to your normal size, you need to awaken and connect the scattered fragments of your childhood memories and complete all the memory lines.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "I'm stunned for a moment and then eagerly ask.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0134.webp",
+        "dubbing": "scenes\\audio\\Lisa00073.mp3",
+        "text": "Childhood memories? So the garden made me small because it missed me? That sounds so sweet and magical!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0135.webp",
+        "dubbing": "scenes\\audio\\Lisa00074.mp3",
+        "text": "Where are those fragments now? How can I awaken them? What do I need to do to connect the memory lines? Can you tell me more? I'm so confused but I can't wait to act!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet11_15",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "The old star - patterned mushroom slowly replies.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet11_16",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0137.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00003.mp3",
+        "text": "The fragments are the little moments of your childhood here, hidden in the happy scenes and the things you touched.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet11_17",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0138.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00004.mp3",
+        "text": "Awaken them by recalling with your heart. We'll guide you all the way and help you piece them together step by step.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet11_18",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "I excitedly say in a rush.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet11_19",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0140.webp",
+        "dubbing": "scenes\\audio\\Lisa00075.mp3",
+        "text": "Great! I feel much more confident after hearing you say that! I'll start thinking now. I used to love dancing in the mushroom circle when I was a kid. Could that be the first clue? Or maybe under the big flower in the middle of the garden? Which way should we go first? What obstacles might we encounter on the way? But anyway, with you guardians by my side, I feel safe and happy. Let's go explore these memories together. It's going to be a warm and mysterious journey! Am I right? What should we do next? What surprise will the first fragment bring me?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_160",
+          "label": "Give up on returning."
+        },
+        {
+          "nextId": "scene_172",
+          "label": "Keep searching."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "The mushroom asks.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0141.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00026.mp3",
+        "text": "Kid, what if you give up searching and let go of your obsession with returning?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "You reply.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0142.webp",
+        "dubbing": "scenes\\audio\\Lisa00076.mp3",
+        "text": "I'll live a stable life here with you and gradually master all the skills for micro-survival.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "Mushroom smiles.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0143.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00027.mp3",
+        "text": "Yes, you'll explore every secret realm in the garden and become a legendary explorer everyone talks about.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "You look delighted.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0144.webp",
+        "dubbing": "scenes\\audio\\Lisa00077.mp3",
+        "text": "Yes, this little healing place is my home. I'd like to stay forever.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "Mushroom responds gently.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0145.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00028.mp3",
+        "text": "That's great. Let's start a new adventure tomorrow.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0146.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "You say firmly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0146.webp",
+        "dubbing": "scenes\\audio\\Lisa00078.mp3",
+        "text": "Yeah, let's go on together!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_172",
+          "label": "Keep searching."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0147.webm",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "You're not willing to compromise. Looking firmly at the little mushroom, you say",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0148.webp",
+        "dubbing": "scenes\\audio\\Lisa00079.mp3",
+        "text": "I can't say goodbye to him like this. I want to find all my memories and go back to my family. Will you accompany me to search for traces of memories in every corner of the garden?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0149.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00029.mp3",
+        "text": "Kid, of course I will. Let's take it slow.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0150.webp",
+        "dubbing": "scenes\\audio\\Lisa00080.mp3",
+        "text": "Okay, let's start from the big flower. It was my sacred place when I was a kid.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0151.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00030.mp3",
+        "text": "Do you feel the warmth of the flower - wreath?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0152.webp",
+        "dubbing": "scenes\\audio\\Lisa00081.mp3",
+        "text": "Yes, the joy of making flower - wreaths is back! Now let's go dance in the mushroom circle.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0153.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00031.mp3",
+        "text": "All right. Dance your dance, and all the memories will come back.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "The star - patterned mushroom gently sways its cap and says in an old but gentle voice",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0155.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00005.mp3",
+        "text": "You're quite right. Let's start from the mushroom circle. The steps and laughter there are most likely to hide the first piece of happy memory.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0156.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00006.mp3",
+        "text": "Recall with your heart, and I'll guide you from the side.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0157.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "You nod immediately, your voice full of anticipation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0158.webp",
+        "dubbing": "scenes\\audio\\Lisa00082.mp3",
+        "text": "Okay, let's go! I just remembered that when I was a kid, I danced in circles there. My skirt fluttered like petals, and everyone clapped and laughed. It felt so warm. It must be able to awaken something. What kind of surprise will the first piece bring me? A clearer picture or a sudden surge of strength?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "The star - patterned mushroom replies slowly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0159.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00007.mp3",
+        "text": "It could be a warm touch or the reappearance of childhood laughter. But don't rush. Let's take it step by step. It's enough that you feel safe and have us by your side.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "You set off for the mushroom circle. As you walk, you start talking.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0160.webp",
+        "dubbing": "scenes\\audio\\Lisa00083.mp3",
+        "text": "Old friend, I just thought about the area under the big flower in the middle of the garden.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0161.webp",
+        "dubbing": "scenes\\audio\\Lisa00084.mp3",
+        "text": "I always loved hiding under the petals to make flower - wreaths when I was a kid. Could that be the second place? Will there be any obstacles on the way? Like a sudden gust of wind or the memories just refusing to surface?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "It responds gently.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0162.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00008.mp3",
+        "text": "There will surely be obstacles. Memory fragments won't be easily awakened. You haven't been back for a long time, and the garden has changed. But we'll find a way together. Do you feel more confident now?",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "You arrive at the mushroom circle. You try hard to dance the childhood steps and touch the colorful caps, but only a faint warm feeling comes. Gasping for breath, you start talking",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0164.webp",
+        "dubbing": "scenes\\audio\\Lisa00085.mp3",
+        "text": "How come it's not working? I'm dancing so hard. Why aren't the fragments showing up?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0165.webp",
+        "dubbing": "scenes\\audio\\Lisa00086.mp3",
+        "text": "I'm so tired, and my mind's in a mess. Should we try by the big flower again?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "It comforts you gently.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0166.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00009.mp3",
+        "text": "Don't be discouraged. It's just the first setback. Your childhood memories are buried deeper than we thought. Let's keep going. Every little bit of your childhood is hidden in these things you've touched.",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet13_24",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "You rush to the big flower again. You crouch down, close your eyes and recall the scene of making flower - wreaths. You gently stroke the petals, but still only see a few fleeting memories.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet13_25",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "You say dejectedly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_26",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0168.webp",
+        "dubbing": "scenes\\audio\\Lisa00087.mp3",
+        "text": "Failed again... Why do I keep hitting roadblocks on this journey to find my memories? I've tried so many places. My legs are weak and my head is spinning.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_27",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0169.webp",
+        "dubbing": "scenes\\audio\\Lisa00088.mp3",
+        "text": "Confusion overwhelms me. I don't know how much longer I can hold on. Am I doing something wrong?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_200",
+          "label": "Look back and long for home"
+        },
+        {
+          "nextId": "scene_206",
+          "label": "Keep exploring"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "Hearing the little mushroom's farewell, you can't help but walk towards your home.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0171.webp",
+        "dubbing": "scenes\\audio\\Lisa00089.mp3",
+        "text": "Mom, mom! I'm your baby. I'm back. Can you hear me?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_202",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0172.webp",
+        "dubbing": "scenes\\audio\\Lisa00090.mp3",
+        "text": "I see the light in the house and smell the aroma of scrambled eggs with tomatoes. I really want to go home!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0173.webp",
+        "dubbing": "scenes\\audio\\Lisa00091.mp3",
+        "text": "I try to shout, climb and ask for help, but I'm so small. All my efforts are in vain. No one notices me!",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0174.webp",
+        "dubbing": "scenes\\audio\\Lisa00092.mp3",
+        "text": "Wandering alone in the grass, looking at the familiar things but unable to get close. This loneliness and helplessness break my heart...",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0175.webp",
+        "dubbing": "scenes\\audio\\Lisa00093.mp3",
+        "text": "I have to go back to the mushroom group and keep moving forward.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_206",
+          "label": "Keep exploring"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "You nod.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0177.webp",
+        "dubbing": "scenes\\audio\\Lisa00094.mp3",
+        "text": "Wait, don't say goodbye so soon. We can't stop here.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0178.webp",
+        "dubbing": "scenes\\audio\\Lisa00095.mp3",
+        "text": "I can feel my mom's call and the aroma of scrambled eggs with tomatoes, but the longing and exhaustion in my heart are suffocating me. But I know that only by keeping exploring can I really find all my lost childhood memories and get back to normal life.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "The little mushroom asks softly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0179.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00032.mp3",
+        "text": "Kid, are you really going to continue? There are still unknown glows and challenges deep in the garden ahead. Aren't you scared?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0180.webm",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "You answer firmly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0181.webp",
+        "dubbing": "scenes\\audio\\Lisa00096.mp3",
+        "text": "No, let's go together. Those glows will accompany us. I want to find more happy memories.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0182.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "The mushroom says softly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0183.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00033.mp3",
+        "text": "Good. Then let's turn and head deeper. Take it slow. Your memories will keep waking up.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0184.webp",
+        "dubbing": "scenes\\audio\\Lisa00097.mp3",
+        "text": "Yeah, I can already feel the warmth surging. Let's just keep going like this.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "The little mushroom's light flickers as it speaks.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0185.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00034.mp3",
+        "text": "There seems to be a new glow in the distance calling you. Could it be the next part of your childhood?",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0186.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "The mushroom says softly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0186.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00035.mp3",
+        "text": "You didn't do anything wrong, kid. These are just normal obstacles.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0187.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00036.mp3",
+        "text": "We've reached the two sacred places that hold your core childhood memories. Now, there are only two memory paths left in front of us.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0188.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00037.mp3",
+        "text": "You're safe enough with us by your side. Don't be discouraged. Take it one step at a time.",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "You ask dejectedly with a gloomy look on your face",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0189.webp",
+        "dubbing": "scenes\\audio\\Lisa00098.mp3",
+        "text": "Then why won't the memories of the dance in the mushroom circle and the flower wreath under the big flower surface? I danced so earnestly and touched the petals so intently, but all I got were a vague warm feeling and a few scattered images.",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0189.webp",
+        "dubbing": "scenes\\audio\\Lisa00099.mp3",
+        "text": "I'm exhausted. My mind is in a mess. I'm dizzy and my legs are weak. I don't know how much longer I can hold on. Old friend, did I do something wrong?",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "The mushroom replies in a gentle tone",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0191.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00038.mp3",
+        "text": "You're not wrong. It's just that you've been away for so long that your memories are deeply scattered. The mushroom circle records your childhood...",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

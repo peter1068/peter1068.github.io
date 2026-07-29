@@ -1,0 +1,3900 @@
+{
+  "uid": "hywgqy2_20260729110748",
+  "name": "花园微观奇遇_2合成导入表程序表格式",
+  "token": "U2FsdGVkX18hIYjcQIl+h5lr1aylnv0EcujiQxhGonhJi2jR5B7zb83AvLQgmBbuXFCb/iMqFPPVGW3CTeAj0y2gSpdFNnGurRnMTw9n5KQ=",
+  "cover": "scenes\\images\\hywgqy2_20260729110748_0001.webp",
+  "version": "20260729-2310",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "你走进熟悉的花园，脸上带着笑意",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0002.webp",
+        "dubbing": "scenes\\audio\\Lisa00000.mp3",
+        "text": "哇，这个花园还是这么熟悉和美丽啊，我每次进来都觉得心旷神怡。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0003.webp",
+        "dubbing": "scenes\\audio\\Lisa00001.mp3",
+        "text": "那些花朵开得正艳，香气四溢让人陶醉。秋千轻轻晃动，仿佛在邀请我坐上去荡一会儿。绿草如茵树影婆娑，这里真是我最喜欢的地方。今天我打算多待一会儿，彻底放松身心，什么烦恼都抛在脑后。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0004.webp",
+        "dubbing": "scenes\\audio\\Lisa00002.mp3",
+        "text": "这感觉真是太棒了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "你忽然间身形急剧缩小，随即大声惊呼",
+        "soundEffects": "scenes\\audio\\anancanjiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0005.webp",
+        "dubbing": "scenes\\audio\\Lisa00003.mp3",
+        "text": "啊！这是什么情况？我的身体怎么突然缩小了？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0006.webp",
+        "dubbing": "scenes\\audio\\Lisa00004.mp3",
+        "text": "天哪，我在变小变小！周围的一切都在迅速变大！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0007.webp",
+        "dubbing": "scenes\\audio\\Lisa00005.mp3",
+        "text": "这秋千铁链现在高得像巨藤缠绕，野草变成了可怕的密林",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0008.webp",
+        "dubbing": "scenes\\audio\\Lisa00006.mp3",
+        "text": "橡果巨大得像挡路的巨石，草叶上的露珠成了闪亮的湖泊。我的眼睛看到的都是以前从未想象的景象，这到底是怎么一回事？我是不是产生了幻觉？有人能告诉我吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "你颤抖着声音开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0009.webp",
+        "dubbing": "scenes\\audio\\Lisa00007.mp3",
+        "text": "恐惧一下子涌上了心头，我好怕啊，这么小的我该如何是好？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0010.webp",
+        "dubbing": "scenes\\audio\\Lisa00008.mp3",
+        "text": "会不会有危险潜伏在这些草丛中？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0011.webp",
+        "dubbing": "scenes\\audio\\Lisa00009.mp3",
+        "text": "但是等等，这种新奇的感觉竟然越来越强！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0012.webp",
+        "dubbing": "scenes\\audio\\Lisa00010.mp3",
+        "text": "谁能想到，日常的花园里竟然隐藏着无数从未见过的秘密。看那扇动翅膀的蝴蝶，能带起阵风吹动我的衣角；普通蘑菇成了圆顶小屋，我可以把它当成庇护所；青苔铺成绿毯，踩上去一定软绵绵的。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0013.webp",
+        "dubbing": "scenes\\audio\\Lisa00011.mp3",
+        "text": "这世界太奇妙了，我虽然害怕但更想去探索每一个角落。这些秘密会带我去什么地方？下一个发现会是什么？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_15",
+          "label": "坐等摆烂"
+        },
+        {
+          "nextId": "scene_23",
+          "label": "决定冒险"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "你对着小蘑菇说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0014.webp",
+        "dubbing": "scenes\\audio\\Lisa00012.mp3",
+        "text": "等等，我不跟你走了。我要坐等摆烂，原地发呆，不愿主动开启冒险。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "小蘑菇开口问道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0015.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00000.mp3",
+        "text": "孩子，为什么这样呢？会被麻雀叼走的！",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "你回答道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0016.webp",
+        "dubbing": "scenes\\audio\\Lisa00013.mp3",
+        "text": "或者就永远困在草丛，靠草根露珠苟活，眼睁睁看着妈妈劳作却无法被发现，变不回去。我无所谓。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "小蘑菇开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0017.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00001.mp3",
+        "text": "那只能跳回主线，重新选择了。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "branches": [
+        {
+          "nextId": "scene_23",
+          "label": "决定冒险"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "你望着那点荧光",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0019.webp",
+        "dubbing": "scenes\\audio\\Lisa00014.mp3",
+        "text": "别道别了，我抛开怯懦了。这个新奇的世界打动了我，我决意开启这场微观冒险。我们一起去探索未知好不好？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0020.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00002.mp3",
+        "text": "孩子，你的想法真勇敢。冒险中可能会迷路或者遇到危险，你还坚持吗？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0021.webp",
+        "dubbing": "scenes\\audio\\Lisa00015.mp3",
+        "text": "我坚持！有你在身边我就不会怕。快告诉我第一步怎么做吧。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0022.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00003.mp3",
+        "text": "很好，那我们出发。记住保持好奇心哦。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "你面带笑意",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0024.webp",
+        "dubbing": "scenes\\audio\\Lisa00016.mp3",
+        "text": "我知道的，谢谢你陪我！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "你一边回味着刚才的想法，一边拨开高草前行",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0026.webp",
+        "dubbing": "scenes\\audio\\Lisa00017.mp3",
+        "text": "刚刚我还在问这些秘密会带我去什么地方，下一个发现会是什么，结果马上就看到了！眼前豁然铺开一片无边花海，这些繁花层叠、光影斑斓，真是美得让人陶醉啊！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0027.webp",
+        "dubbing": "scenes\\audio\\Lisa00018.mp3",
+        "text": "可是这静谧的表面下总觉得不对劲，好像暗藏着什么危机。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0028.webp",
+        "dubbing": "scenes\\audio\\Lisa00019.mp3",
+        "text": "咦，草丛里怎么传来细碎的响动？听起来好可怕！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_11",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0029.webp",
+        "dubbing": "scenes\\audio\\Lisa00020.mp3",
+        "text": "啊！身旁竟然轰然显现出一个巨型蚁穴！天哪，成群的巨蚁倾巢而出，它们全都朝我冲过来了！危机迫在眉睫，我现在吓得腿软了！我好怕啊，这么小的我面对这些巨型生物该怎么办？它们每一个都比我大好多倍，嘴巴和钳子看起来那么吓人。刚才我还兴奋地说这个世界太奇妙了，蝴蝶能扇起风，蘑菇可以做庇护所，青苔踩上去软绵绵的，我想探索所有秘密，可是现在这些秘密好像要我的命啊！恐惧完全涌上心头，我的心怦怦乱跳，呼吸都困难了。谁能想到美丽的花海旁边会隐藏这么危险的蚁穴呢？我是不是该立刻转身逃跑？但是它们已经出来了，四面八方都是，我感觉自己被包围了。这下真的完了，我该怎么办才好？救命啊，有人吗？这个缩小后的花园太可怕了！我之前还说要把所有烦恼抛在脑后，在这里彻底放松身心，现在却遇到了这样的蚁穴危机，这也太讽刺了吧！那些巨蚁的脚踩在地上发出沙沙的声音，我听得清清楚楚，它们越来越近，我的汗都下来了。希望这只是一场梦，醒来后还是那个正常大小的花园啊！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_35",
+          "label": "探索土堆"
+        },
+        {
+          "nextId": "scene_46",
+          "label": "探索花海"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "你对着蘑菇说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0031.webp",
+        "dubbing": "scenes\\audio\\Lisa00021.mp3",
+        "text": "我们往土堆的方向探索吧，那看起来很特别，会不会有秘密呢？你陪我去好不好？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "蘑菇开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0033.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00004.mp3",
+        "text": "孩子别去好吗？那是蚂蚁巢穴，靠近会惊动成百上千只蚂蚁追着你跑的，你会吓坏的！",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "你坚持说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0035.webp",
+        "dubbing": "scenes\\audio\\Lisa00022.mp3",
+        "text": "没事的，就一小会儿。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0036.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00005.mp3",
+        "text": "那也不行。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "你还是去了，然后你开口呼喊",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0038.webp",
+        "dubbing": "scenes\\audio\\Lisa00023.mp3",
+        "text": "天哪！蚂蚁出来了！好多！它们追过来了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0039.webp",
+        "dubbing": "scenes\\audio\\Lisa00024.mp3",
+        "text": "我好怕！快逃吧！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "你慌忙转身奔逃。",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "探索花海"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "你轻声对小蘑菇开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0041.webp",
+        "dubbing": "scenes\\audio\\Lisa00025.mp3",
+        "text": "嗯，这花园奇遇会成为我心底最温柔的秘密。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0042.webp",
+        "dubbing": "scenes\\audio\\Lisa00026.mp3",
+        "text": "但现在，我想往花海的方向探索。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0043.webp",
+        "dubbing": "scenes\\audio\\Lisa00027.mp3",
+        "text": "那里一望无际的花朵绚烂美丽，各色花瓣随风摇曳，阳光洒下斑驳光影，景致壮丽又梦幻。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "小蘑菇开口提醒对方",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0044.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00006.mp3",
+        "text": "那里有蚁群追赶，你要小心。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "你紧接着开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0045.webp",
+        "dubbing": "scenes\\audio\\Lisa00028.mp3",
+        "text": "我果断钻进花海缝隙暂时甩开了它们，可是急需找到更快的逃生方式，你能帮我吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0046.webp",
+        "dubbing": "scenes\\audio\\Lisa00029.mp3",
+        "text": "希望这只是一场梦，醒来后还是那个正常大小的花园啊！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0047.webp",
+        "dubbing": "scenes\\audio\\Lisa00030.mp3",
+        "text": "可是那些巨蚁已经倾巢而出，四面八方都是它们可怕的身影，它们的钳子和嘴巴看起来能轻易撕碎我",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\chongzimingjiao_zhuanhuan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "主角吓得全身发抖，汗水浸湿了全身，呼吸都变得急促困难",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0049.webp",
+        "dubbing": "scenes\\audio\\Lisa00031.mp3",
+        "text": "谁能想到这么美的花海旁边竟藏着这样的杀机啊！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0050.webp",
+        "dubbing": "scenes\\audio\\Lisa00032.mp3",
+        "text": "我之前还那么兴奋地说这个世界奇妙，现在却只想逃命！看啊，花海之上有巨型蒲公英缀满雪白绒伞，蒲公英大哥，你的绒伞那么轻柔，像云朵一样，如果你让我抓住，你能带我飘离这里吗？风会托着我们飞走，远离蚁穴，对吗？可是我担心风会失控，把我送到更可怕的角落里！你能保证吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0051.webp",
+        "dubbing": "scenes\\audio\\Lisa00033.mp3",
+        "text": "一旁的蓝紫大蝴蝶停驻花间，它的翅膀上缀满星光般的鳞粉，那么梦幻！这是上天给我的选择吗？我需要决定借助哪种生物离开花海！蓝紫蝴蝶，你那么优雅迷人，翅膀有力又漂亮，能不能让我骑在你身上，然后快速飞走呢？你的鳞粉在阳光下闪烁着希望的光芒，如果你答应，我就能得救了！但你会不会把我当成入侵者，不肯配合呢？巨蚁们越来越近了，我已经能看到它们凶恶的眼睛！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0052.webp",
+        "dubbing": "scenes\\audio\\Lisa00034.mp3",
+        "text": "啊，我的心乱成一团，到底该选蒲公英还是选蝴蝶？这抉择太痛苦了！求求你们，快给我指引吧，否则我就真的完了！是随蒲公英的风而去，还是跟随蝴蝶的翅膀翱翔？我好慌啊，告诉我答案吧！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_61",
+          "label": "跳上一旁的蝴蝶飞走"
+        },
+        {
+          "nextId": "scene_70",
+          "label": "抓着一边的蒲公英飘走"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0053.webp",
+        "dubbing": "scenes\\audio\\Lisa00035.mp3",
+        "text": "哇，你看，那蝴蝶多美啊！我们跳上它的背部一起飞走逃离怎么样？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0054.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00007.mp3",
+        "text": "孩子，我求你不要这么做，受惊的蝴蝶会在空中剧烈翻滚，你会抓握不稳的！",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0055.webp",
+        "dubbing": "scenes\\audio\\Lisa00036.mp3",
+        "text": "我已经决定了，就跳了哦！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0056.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00008.mp3",
+        "text": "千万不要啊！",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0057.webp",
+        "dubbing": "scenes\\audio\\Lisa00037.mp3",
+        "text": "我跳上来了，感觉好棒！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0058.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00009.mp3",
+        "text": "孩子，快下来吧！",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0059.webp",
+        "dubbing": "scenes\\audio\\Lisa00038.mp3",
+        "text": "糟糕，它开始翻滚了，我抓握不稳，最终脱手了，我要坠落了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0060.webp",
+        "dubbing": "scenes\\audio\\Lisa00039.mp3",
+        "text": "啊，不要！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "最终你重重摔落在地，冒险失败。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_70",
+          "label": "抓着一边的蒲公英飘走"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "你望着荧光，轻声开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0063.webp",
+        "dubbing": "scenes\\audio\\Lisa00040.mp3",
+        "text": "等等，我不想就这样结束，让我抓住这蒲公英绒毛飘走吧，它会带我飞越一切吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0064.webm",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "小蘑菇轻轻开口回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0064.webm",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00010.mp3",
+        "text": "孩子，抓住它，绒伞缓缓升空，飞越花海与蚁穴",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0065.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00011.mp3",
+        "text": "安稳落在湿润厚实的青苔地上，你能顺利脱险",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "你脸上满是开心的神色开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0066.webp",
+        "dubbing": "scenes\\audio\\Lisa00041.mp3",
+        "text": "我抓住了，真的要飞起来了，风好温柔",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0067.webp",
+        "dubbing": "scenes\\audio\\Lisa00042.mp3",
+        "text": "花海和蚁穴都在脚下渐渐远去，现在慢慢落地了，青苔好厚实，我终于安全了，这感觉真奇妙！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "正当我慌乱大喊时，那蓝紫蝴蝶竟扇动翅膀靠近我，仿佛听懂了我的祈求",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "我身体颤抖着开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0070.webp",
+        "dubbing": "scenes\\audio\\Lisa00043.mp3",
+        "text": "真的要帮我吗？谢谢你啊！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0071.webp",
+        "dubbing": "scenes\\audio\\Lisa00044.mp3",
+        "text": "那些巨蚁的眼睛太凶了，我快吓死了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0072.webp",
+        "dubbing": "scenes\\audio\\Lisa00045.mp3",
+        "text": "快让我骑在你身上，我们立刻飞离这里好不好？你的翅膀那么美，一定能载我到安全地带的！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "我迅速爬到蓝紫蝴蝶的身上，抱紧它的身体，神色急切地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet7_14",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0073.webp",
+        "dubbing": "scenes\\audio\\Lisa00046.mp3",
+        "text": "起飞吧！求求你快点，那些钳子就要夹到我了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet7_15",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0074.webp",
+        "dubbing": "scenes\\audio\\Lisa00047.mp3",
+        "text": "风起来了，我们离开了花海。蒲公英大哥我没选你，对不起，但蝴蝶你更适合我。现在我们飞得真高啊，你感觉累吗？坚持住，我们找个地方降落。我的心还是跳得厉害，刚才真的以为自己要完了。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet7_16",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "不久后，我们在一片青苔地上平稳着陆。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet7_17",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "我带着感激的神色开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet7_18",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0077.webp",
+        "dubbing": "scenes\\audio\\Lisa00048.mp3",
+        "text": "落地了！多亏了你，我现在安全了。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet7_19",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0078.webp",
+        "dubbing": "scenes\\audio\\Lisa00049.mp3",
+        "text": "你去休息吧，我自己探索这里。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_20",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0079.webm",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "落地后，一群带荧光斑点的小蘑菇从青苔缝隙中冒出，温柔又好奇地打量着我。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_21",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "我看着这群刚从青苔缝隙中冒出来的带荧光斑点的小蘑菇，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_22",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "忍不住连声开口询问。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_23",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0082.webp",
+        "dubbing": "scenes\\audio\\Lisa00050.mp3",
+        "text": "咦？你们这些小东西是从哪里冒出来的？身上的荧光斑点好亮啊",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_24",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0083.webp",
+        "dubbing": "scenes\\audio\\Lisa00051.mp3",
+        "text": "是自然的光芒吗？为什么这样温柔好奇地看着我？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_25",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0084.webp",
+        "dubbing": "scenes\\audio\\Lisa00052.mp3",
+        "text": "你们是这个森林的守护者吗？这里就是荧光蘑菇森林吧？感觉梦幻极了。你们会说话吗？能告诉我这个地方有没有危险？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_26",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0085.webp",
+        "dubbing": "scenes\\audio\\Lisa00053.mp3",
+        "text": "巨蚁会不会追到这里来？我该怎么办，是留下来还是继续走？拜托回答我吧，",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_27",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0086.webp",
+        "dubbing": "scenes\\audio\\Lisa00054.mp3",
+        "text": "我现在还很害怕，需要你们的建议！你们看起来这么可爱，应该是友善的吧？快告诉我答案好吗？求求你们了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_98",
+          "label": "触摸蘑菇"
+        },
+        {
+          "nextId": "scene_108",
+          "label": "观察蘑菇"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "小蘑菇的话音刚落，你便开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0088.webp",
+        "dubbing": "scenes\\audio\\Lisa00055.mp3",
+        "text": "等等，在道别之前，我想触摸一下那个大蘑菇，可以吗？它看起来那么奇特。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "小蘑菇连忙开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0089.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00012.mp3",
+        "text": "孩子，绝对不可以，那会瞬间沾染剧毒的。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "你接着开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0090.webp",
+        "dubbing": "scenes\\audio\\Lisa00056.mp3",
+        "text": "没事的，我只摸一下下。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "你触摸完大蘑菇之后立刻开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0091.webp",
+        "dubbing": "scenes\\audio\\Lisa00057.mp3",
+        "text": "哎呀，我的手指发麻了，身体迅速麻痹起来，意识也开始消散，可是这感觉却如此温柔，这应该就是结局了吧。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "小蘑菇无奈地开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0092.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00013.mp3",
+        "text": "唉，看来我们只能跳回主线重新选择了。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "branches": [
+        {
+          "nextId": "scene_108",
+          "label": "观察蘑菇"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "你听着小蘑菇在草丛中道别的话语，静静蹲坐观望，没有贸然触碰。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0094.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00014.mp3",
+        "text": "谢谢你如此礼貌地观察我们，没有贸然触碰，这让我们的戒备渐渐消失了，你已经赢得了我们全部的善意。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0095.webp",
+        "dubbing": "scenes\\audio\\Lisa00058.mp3",
+        "text": "我只是想静静欣赏你们可爱的模样和闪烁的荧光。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0096.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00015.mp3",
+        "text": "你的善意让我们越来越多地聚拢在这里。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "所有小蘑菇闪烁着荧光，齐声开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0098.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00016.mp3",
+        "text": "现在我们以古老的仪式接纳你，欢迎你成为花园里最特别的朋友。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "突然，我的脑海中响起了一个温柔的声音。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0100.webp",
+        "dubbing": "scenes\\audio\\Lisa00059.mp3",
+        "text": "小家伙，别害怕，我们听到了你所有的提问。这里是安全的，巨蚁不会追来。你不用担心。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "我立刻开口发问。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0102.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00017.mp3",
+        "text": "你们是谁？怎么在我脑子里说话？你们能帮我吗？这里危险吗？我该留下来还是走？请告诉我好吗？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0103.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00018.mp3",
+        "text": "我们是荧光蘑菇，是这片梦幻森林的守护者。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0104.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00019.mp3",
+        "text": "我们的斑点是自然光芒。你对我们这么温柔好奇，我们很喜欢。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0105.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00020.mp3",
+        "text": "你是第一个克制住好奇没有伤害我们的变小人类，以前那些人都很粗暴。你与他们不同，所以我们现身了。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "我十分高兴，开口说道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0107.webp",
+        "dubbing": "scenes\\audio\\Lisa00060.mp3",
+        "text": "我是第一个？真的吗？这让我太感动了！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet9_15",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0108.webp",
+        "dubbing": "scenes\\audio\\Lisa00061.mp3",
+        "text": "你们真可爱，我现在不那么怕了。那我们能结伴同行吗？你们要和我一起去找恢复身形的办法？那太棒了！我愿意和你们一起，你们会保护我对吧？我们要怎么走？有什么计划吗？告诉我吧，我全都听从你们的建议！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet9_16",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0109.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00021.mp3",
+        "text": "是的，我们列队邀请你与我们结伴同行。一同寻找让你恢复原状的方法。你不用害怕，我们会保护你。跟着我们的队伍走吧，前方或许有答案。愿意吗？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet9_17",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0110.webp",
+        "dubbing": "scenes\\audio\\Lisa00062.mp3",
+        "text": "我愿意！和你们一起旅行听起来梦幻极了。你们知道恢复身形的办法在哪里吗？我们要往哪里去？路上会遇到什么？但有你们陪伴我感觉安全多了。谢谢你们选择我作为同行伙伴，我们的冒险就开始了吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet9_18",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0111.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00022.mp3",
+        "text": "是的，冒险开始了。跟着我们一起寻找恢复的希望吧。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "branches": [
+        {
+          "nextId": "scene_127",
+          "label": "独自探险"
+        },
+        {
+          "nextId": "scene_140",
+          "label": "结伴同行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "你望着那点渐渐远去的荧光，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "喃喃说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0113.webp",
+        "dubbing": "scenes\\audio\\Lisa00063.mp3",
+        "text": "不，我谢绝了，一起走下去太依赖别人，我要独自寻找。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "你自语道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0115.webp",
+        "dubbing": "scenes\\audio\\Lisa00064.mp3",
+        "text": "这些微观奇景真美啊，看那叶脉里的小世界，像无数闪烁的星辰，我要慢慢看个够。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "你边走边说",
+        "soundEffects": "scenes\\audio\\heshui_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0117.webp",
+        "dubbing": "scenes\\audio\\Lisa00065.mp3",
+        "text": "可是没有谁在身边，好空啊，这蚊虫叮得我全身发麻，我该怎么办才好？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\chongzifei.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "你喘息着低语",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shuqingshangganshanqing.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0119.webp",
+        "dubbing": "scenes\\audio\\Lisa00066.mp3",
+        "text": "暴雨突然来了，砸得我睁不开眼，危险一个接一个逼近，我真的无依无靠。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "soundEffects": "scenes\\audio\\kuangfenghuxiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "你跌坐在泥地里，神色疲惫",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0121.webp",
+        "dubbing": "scenes\\audio\\Lisa00067.mp3",
+        "text": "这样下去我会孤独终老，最终只能长眠于花园落叶之下吧。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0122.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "你轻声呢喃",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0123.webp",
+        "dubbing": "scenes\\audio\\Lisa00068.mp3",
+        "text": "或许我错了，该跳回主线重新选择",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_140",
+          "label": "结伴同行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0124.webm",
+        "dubbing": "scenes\\audio\\Lisa00069.mp3",
+        "text": "等等，不要道别。我选择信任你们",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0125.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00023.mp3",
+        "text": "孩子，你愿意吗？那我们一起走！",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0126.webp",
+        "dubbing": "scenes\\audio\\Lisa00070.mp3",
+        "text": "是的，我准备好了。洞穴里会有什么呢？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0127.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00024.mp3",
+        "text": "去了你就明白，那是属于你的惊喜。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0128.webp",
+        "dubbing": "scenes\\audio\\Lisa00071.mp3",
+        "text": "好期待啊，和你们同行真快乐。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0129.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00025.mp3",
+        "text": "我们也一样开心。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0130.webp",
+        "dubbing": "scenes\\audio\\Lisa00072.mp3",
+        "text": "，跟随蘑菇伙伴们穿过青苔、枝桥与松果林地，一起抵达老橡树根洞穴。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "你和所有同行的蘑菇伙伴们抵达了花园深处的老橡树根洞穴。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "就在这时，年长的星纹蘑菇用苍老却温柔的声音开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0131.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00000.mp3",
+        "text": "是的，冒险开始了。但首先我要告诉你真相",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0132.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00001.mp3",
+        "text": "你之所以变小，是因为花园留存着你的童年记忆。你长大不再常来，它便以自己的方式留住曾经小小的你",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0133.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00002.mp3",
+        "text": "想要恢复原状，需要唤醒连接散落的童年回忆碎片，补全所有记忆线",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "我愣住片刻，立刻急切开口询问",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0134.webp",
+        "dubbing": "scenes\\audio\\Lisa00073.mp3",
+        "text": "童年记忆？原来花园是因为怀念我才让我变小的吗？这听起来好温柔又神奇！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0135.webp",
+        "dubbing": "scenes\\audio\\Lisa00074.mp3",
+        "text": "那些碎片现在散落在哪里？我要怎么唤醒它们？连接记忆线需要我做什么具体的事？您能再多告诉我一些吗？我现在心里又乱又想马上行动！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet11_15",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "年长的星纹蘑菇缓缓开口回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet11_16",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0137.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00003.mp3",
+        "text": "碎片就是你小时候在这里的点点滴滴，藏在快乐的场景和触碰过的事物里。",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet11_17",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0138.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00004.mp3",
+        "text": "唤醒它们靠你用心回忆，我们会一路指引你，一步步补全。",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet11_18",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "我兴奋地连声开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet11_19",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0140.webp",
+        "dubbing": "scenes\\audio\\Lisa00075.mp3",
+        "text": "太好了，听您这么说我心里有底多了！我现在就开始思索，小时候我最爱在蘑菇圈里跳舞，那会不会是第一条线索？或者花园中央那朵大花下面？我们要往哪个方向先走呢？路上可能会遇到什么阻碍吗？但不管怎样，有你们这些守护者陪伴，我觉得安全又开心。我们一起去探寻这些回忆吧，这一定会是一趟温暖又神秘的旅程！您觉得我的想法对吗？接下来我们该怎么做？第一块碎片会带给我什么惊喜呢？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_160",
+          "label": "放弃回归"
+        },
+        {
+          "nextId": "scene_172",
+          "label": "坚持寻找"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "蘑菇开口询问",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0141.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00026.mp3",
+        "text": "孩子，如果你放弃寻找，放下回归的执念，会怎样呢？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "你开口回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0142.webp",
+        "dubbing": "scenes\\audio\\Lisa00076.mp3",
+        "text": "我会和你一起安稳生活在这里，慢慢掌握微观生存的所有技能。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "蘑菇面带笑容",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0143.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00027.mp3",
+        "text": "对，你会探索花园里每一个秘境，成为人人传颂的传奇探险家。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "你神情愉悦",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0144.webp",
+        "dubbing": "scenes\\audio\\Lisa00077.mp3",
+        "text": "是的，这片治愈的小小天地就是我的家，我愿意永远留下来。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "蘑菇温柔回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0145.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00028.mp3",
+        "text": "那太好了，我们明天就开始新的冒险吧。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0146.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "你语气坚定",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0146.webp",
+        "dubbing": "scenes\\audio\\Lisa00078.mp3",
+        "text": "嗯，一起走下去！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_172",
+          "label": "坚持寻找"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0147.webm",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "你不愿妥协，神色坚定地看向小蘑菇",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0148.webp",
+        "dubbing": "scenes\\audio\\Lisa00079.mp3",
+        "text": "我不能就这样和他道别，我要找全所有回忆，回到家人身边。你愿意和我一起穿梭在花园各个角落搜寻记忆痕迹吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0149.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00029.mp3",
+        "text": "孩子，我当然愿意。我们慢慢来。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0150.webp",
+        "dubbing": "scenes\\audio\\Lisa00080.mp3",
+        "text": "嗯，从大花那里开始吧，那是我小时候的圣地。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0151.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00030.mp3",
+        "text": "你感受到花环的温暖了吗？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0152.webp",
+        "dubbing": "scenes\\audio\\Lisa00081.mp3",
+        "text": "感受到了，编花环的快乐回来了！现在我们去蘑菇圈跳舞吧。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0153.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00031.mp3",
+        "text": "好的，跳你的舞蹈，记忆会全部接通。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "星纹蘑菇轻轻摇动伞盖，用苍老却温柔的声音开口说道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0155.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00005.mp3",
+        "text": "你的想法很对，我们先从蘑菇圈开始。那里的舞步和笑声，最可能藏着第一块快乐的碎片。",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0156.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00006.mp3",
+        "text": "你用心去回忆，我会在旁边指引。",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0157.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "你立刻点头，声音里满是期待",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0158.webp",
+        "dubbing": "scenes\\audio\\Lisa00082.mp3",
+        "text": "好，我们走吧！我现在就想起来了，小时候我在那里转圈跳舞，裙子飞起来像花瓣，大家都笑着拍手。那感觉温暖极了，肯定能唤醒些什么。您说，第一块碎片会带给我什么惊喜呢？是更清晰的画面，还是突然涌出的力量？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "星纹蘑菇缓缓开口答道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0159.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00007.mp3",
+        "text": "可能是温暖的触感，也可能是儿时笑声的重现。但别急，我们一步步来。你觉得安全又有我们陪伴，这就够了。",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "你们动身前往蘑菇圈，你边走边开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0160.webp",
+        "dubbing": "scenes\\audio\\Lisa00083.mp3",
+        "text": "老朋友，我刚才还想到花园中央那朵大花下面",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0161.webp",
+        "dubbing": "scenes\\audio\\Lisa00084.mp3",
+        "text": "我小时候总爱躲在花瓣下编花环，那里会不会是第二处？路上会不会有阻碍？比如突然刮风，或者记忆不肯浮现？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "它温和回应",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0162.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00008.mp3",
+        "text": "阻碍自然会有，回忆碎片不会轻易被唤醒。你已经很久没回来，花园也变了。但我们一起，总能找到办法。你现在心里有底了吗？",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "你们到了蘑菇圈，你努力跳起儿时的舞步，触摸那些斑斓的伞面，却只换来一丝模糊的暖流，你喘着气开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0164.webp",
+        "dubbing": "scenes\\audio\\Lisa00085.mp3",
+        "text": "怎么没用？我跳得这么认真，为什么碎片不肯出来？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0165.webp",
+        "dubbing": "scenes\\audio\\Lisa00086.mp3",
+        "text": "我感觉好累，心里开始乱了。我们再试试大花那里吧？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "它开口安慰",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0166.webp",
+        "dubbing": "scenes\\audio\\Elder Star-patterned Mushroom00009.mp3",
+        "text": "别灰心，这只是第一次碰壁。童年记忆散落得比想象中深，我们继续走。你小时候的点点滴滴，都藏在这些触碰过的事物里。",
+        "characterImage": "scenes\\images\\elderstar-patternedmushroom tou.webp",
+        "characterName": "Elder Star-patterned Mushroom"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet13_24",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "你们又赶到大花下方，主角蹲下来闭眼回忆编花环的场景，双手轻轻抚过花瓣，却依旧只看到零星闪回。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet13_25",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "主角满脸沮丧地开口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_26",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0168.webp",
+        "dubbing": "scenes\\audio\\Lisa00087.mp3",
+        "text": "又失败了……寻找回忆的路途怎么屡屡碰壁？我已经试了好几处，腿软了，头也昏沉沉的。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_27",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0169.webp",
+        "dubbing": "scenes\\audio\\Lisa00088.mp3",
+        "text": "迷茫席卷上来，我不知道还能坚持多久。您看，我是不是哪里做错了？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_200",
+          "label": "回家凝望"
+        },
+        {
+          "nextId": "scene_206",
+          "label": "坚持探索"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0170.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "你听到小蘑菇的道别，忍不住走向家门口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0171.webp",
+        "dubbing": "scenes\\audio\\Lisa00089.mp3",
+        "text": "妈妈，妈妈！我是你的宝贝，我回来了，你能听到我吗？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_202",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0172.webp",
+        "dubbing": "scenes\\audio\\Lisa00090.mp3",
+        "text": "我看到屋里光亮，闻到番茄炒蛋香气了，好想回家！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0173.webp",
+        "dubbing": "scenes\\audio\\Lisa00091.mp3",
+        "text": "我尝试呼喊攀爬求助，但身形渺小，一切努力徒劳，没人发现我！",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0174.webp",
+        "dubbing": "scenes\\audio\\Lisa00092.mp3",
+        "text": "独自徘徊在草丛，看着熟悉的一切却无法靠近，这孤单与无奈让我心痛……",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yinyingzhixia.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0175.webp",
+        "dubbing": "scenes\\audio\\Lisa00093.mp3",
+        "text": "我只能回头找蘑菇队伍，继续前行了。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_206",
+          "label": "坚持探索"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0176.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "你点头",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0177.webp",
+        "dubbing": "scenes\\audio\\Lisa00094.mp3",
+        "text": "等等，别道别得这么快。我们不能就此停下啊。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0178.webp",
+        "dubbing": "scenes\\audio\\Lisa00095.mp3",
+        "text": "我虽然感受到妈妈的呼唤和番茄炒蛋的香气，可心里那股思念和疲惫压得我喘不过气，但我明白唯有坚持探索下去，才能真正找回所有遗失的童年回忆，重回正常生活。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "小蘑菇轻声询问",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0179.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00032.mp3",
+        "text": "孩子，你真的要继续吗？前面花园深处还有未知的荧光和考验，你不怕吗？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0180.webm",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "你坚定回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0181.webp",
+        "dubbing": "scenes\\audio\\Lisa00096.mp3",
+        "text": "不怕，一起走吧。那些点点荧光会陪伴我们，我要找回更多快乐片段。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0182.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "蘑菇柔声开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0183.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00033.mp3",
+        "text": "很好，那我们转身向最深处前进。慢慢来，回忆会继续苏醒的。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0184.webp",
+        "dubbing": "scenes\\audio\\Lisa00097.mp3",
+        "text": "嗯，我已经感觉到温暖在涌动，就让我们这样走下去吧。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "小蘑菇周身的光点闪烁着开口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0185.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00034.mp3",
+        "text": "前方隐约有新光影在呼唤你，会是下一段童年吗？",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0186.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "蘑菇柔声开口说话",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0186.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00035.mp3",
+        "text": "你没有做错，孩子。这些只是正常的阻碍。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0187.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00036.mp3",
+        "text": "我们已抵达藏着核心童年记忆的两处圣地，眼前是最后两条回忆之路。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0188.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00037.mp3",
+        "text": "你有我们在身边，就足够安全了。别灰心，一步步来。",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "你神色沮丧地开口询问",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0189.webp",
+        "dubbing": "scenes\\audio\\Lisa00098.mp3",
+        "text": "那为什么蘑菇圈的舞蹈和大花下的花环回忆都不肯浮现？我跳得那么认真，摸了花瓣那么专注，却只得到模糊暖流和零星画面。",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0189.webp",
+        "dubbing": "scenes\\audio\\Lisa00099.mp3",
+        "text": "我累坏了，心里很乱，头昏腿软，不知道还能坚持多久。老朋友，我是不是做错了什么？",
+        "characterImage": "scenes\\images\\lisa tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0190.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "蘑菇语气温和地做出回答",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\hywgqy2_20260729110748_0191.webp",
+        "dubbing": "scenes\\audio\\Luminescent Spotted Mushroom00038.mp3",
+        "text": "你没错。只是你离开太久，回忆散落得深。蘑菇圈记录你的儿时...",
+        "characterImage": "scenes\\images\\luminescentspottedmushroom tou.webp",
+        "characterName": "Luminescent Spotted Mushroom"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}

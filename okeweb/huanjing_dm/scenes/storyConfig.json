@@ -1,0 +1,4141 @@
+{
+  "uid": "dmhj_20260729105815",
+  "name": "dmhj_20260729105815",
+  "token": "U2FsdGVkX1/VGk/I5TSUQfkHp7j79W9FtlJTxqm2SKcXQsbqGgDkrdYbge4rno08",
+  "cover": "scenes\\images\\dmhj_20260729105815_0001.webp",
+  "version": "20260729-2219",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "The communicator suddenly rang, and Ye Xuan quickly answered it. Immediately, the commander's voice came through.",
+        "soundEffects": "scenes\\audio\\dianhualingsheng2.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0002.webp",
+        "dubbing": "scenes\\audio\\Commander00000.mp3",
+        "text": "The situation is critical! The technological world is on the verge of a crisis. Ye Xuan must have received the urgent message.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0003.webp",
+        "dubbing": "scenes\\audio\\Commander00001.mp3",
+        "text": "You must go to the computer headquarters alone to prevent the disaster from spreading. Remember? No companions allowed. You have to act alone, absolutely.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "Ye Xuan quickly spoke up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0005.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00000.mp3",
+        "text": "I remember, but please tell me in detail. What exactly is the crisis? Why must it be me? And how should I choose between those two completely different paths to the headquarters? I'm really confused right now.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "The commander sighed.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0007.webp",
+        "dubbing": "scenes\\audio\\Commander00002.mp3",
+        "text": "A new type of virus is replicating wildly. It'll soon cause a full - system collapse.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0008.webp",
+        "dubbing": "scenes\\audio\\Commander00003.mp3",
+        "text": "Only Ye Xuan has the counter - program, so only Ye Xuan can go alone.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0009.webp",
+        "dubbing": "scenes\\audio\\Commander00004.mp3",
+        "text": "One of the two roads is the main highway. It's fast but well - defended. You might trigger an alarm at any time and end up failing.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0010.webp",
+        "dubbing": "scenes\\audio\\Commander00005.mp3",
+        "text": "The other is a secluded path. It's safe but very time - consuming. The disaster might spread in the meantime.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0011.webp",
+        "dubbing": "scenes\\audio\\Commander00006.mp3",
+        "text": "Ye Xuan has to make a decision right away! Choose now! The highway might get you there in time, but the risk is extremely high. The path is safe, but you might be too late. What do you think, Ye Xuan?",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "Ye Xuan asked anxiously.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0013.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00001.mp3",
+        "text": "If I choose the highway, how high is the failure rate? Will the path be too slow? Give me some advice. I'm really torn. This is a huge decision.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0014.webp",
+        "dubbing": "scenes\\audio\\Commander00007.mp3",
+        "text": "The failure rate on the highway is about 50%, but it can buy you precious time. The path has almost no risk, but Ye Xuan might be too late and it'll be irreversible. No one can make this decision for Ye Xuan. This is Ye Xuan's test.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "The commander's voice became more and more urgent.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet1_15",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0015.webp",
+        "dubbing": "scenes\\audio\\Commander00008.mp3",
+        "text": "Once you've made your choice, set off. Don't hesitate. Our future depends entirely on you, Ye Xuan! What are you going to do, Ye Xuan? Tell me your thoughts quickly!",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet1_16",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "After a moment of silence, Ye Xuan replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet1_17",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0016.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00002.mp3",
+        "text": "I understand. This is really a tough choice. I'll weigh the pros and cons and make a decision as soon as possible. Then I'll head to the computer headquarters. I hope my choice won't make things worse. Will we still make it in time?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet1_18",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "The communication ended. Ye Xuan stared at the images of the two roads in front of him. His heart was in turmoil as he pondered which one to choose.",
+        "soundEffects": "scenes\\audio\\guadianhuasheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet1_19",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0018.webm",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "Ye Xuan resolutely chose to take the path through the Bright Forest and walked steadily towards the computer headquarters.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet1_20",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Zaros Shadow Crystal immediately spoke up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet1_21",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0020.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00000.mp3",
+        "text": "Since you've chosen to cross the Bright Forest and face me, Ye Xuan, do you have anything to say?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet1_22",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "Ye Xuan shouted loudly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet1_23",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0022.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00003.mp3",
+        "text": "So it was all the schemes, curses, and traps set by you, Zaros Shadow Crystal, this technological consciousness! You're so sneaky, but I don't regret it. I'll find out the hidden truth. It's my responsibility. I'll use the counter - program to completely stop you, Zaros Shadow Crystal, this virus!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet1_24",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "Zaros Shadow Crystal smiled.",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet1_25",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0024.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00001.mp3",
+        "text": "You've done well, Ye Xuan. But this is the final act. Can you still hold on until the end when facing the real me?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet1_26",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "Ye Xuan replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet1_27",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0025.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00004.mp3",
+        "text": "Of course I can hold on! I won't let Zaros Shadow Crystal succeed.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet1_28",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0026.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00005.mp3",
+        "text": "You, this evil technological consciousness, Zaros Shadow Crystal, just wait for a complete failure! It all ends here.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet1_29",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "Ye Xuan's heart was in turmoil as he stared at the images of the two roads.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet1_30",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0027.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00006.mp3",
+        "text": "Commander, though my mind's in a mess, I've made up my mind. I choose the high - speed main road.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet1_31",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0028.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00007.mp3",
+        "text": "A fifty - percent failure rate is high, but taking the path might spread the disaster even wider. I can't take that risk. I'll rush to the headquarters as fast as I can. I hope my choice won't make things worse. Can we still make it in time?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet1_32",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "The commander shouts:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet1_33",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0030.webp",
+        "dubbing": "scenes\\audio\\Commander00009.mp3",
+        "text": "Tell me your opinion quickly. This is a huge decision. I need a final confirmation.",
+        "characterImage": "scenes\\images\\commander tou.webp",
+        "characterName": "Commander"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet1_34",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "Ye Xuan shouts loudly:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet1_35",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0031.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00008.mp3",
+        "text": "I'm not afraid! No matter how the illusion distorts, I'll stick to my choice.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet1_36",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0032.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00009.mp3",
+        "text": "Defeat Ye Xuan and move on. Come on, villain, let's start this fight!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet1_37",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "After Ye Xuan crosses the Bright Forest, he arrives at the Code Wasteland. A figure appears, and Zaroth Shadow Crystal sneers and says:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet1_38",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0034.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00002.mp3",
+        "text": "Good timing. I'm Zaroth Shadow Crystal, the one who cast the curse of the double - eye anomaly. I've been waiting for Ye Xuan here.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet1_39",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0035.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00003.mp3",
+        "text": "The distorted illusion is quietly enveloping the surroundings. Can Ye Xuan see? Everything is starting to distort and deform.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet1_40",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0036.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00004.mp3",
+        "text": "The battle is about to break out. Ye Xuan chose the high - speed road. Does he regret it now? The failure rate is more than fifty percent because I'm here. Tell me, what was Ye Xuan thinking at that time? Why was he so torn but still chose this way? Did he think only he could do it, so he had to take the risk? Share Ye Xuan's thoughts. I'm eager to hear.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet1_41",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "Ye Xuan replies nervously:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet1_42",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0038.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00010.mp3",
+        "text": "I don't regret it, but I was really torn. The high - speed road is fast but has many alarms. The path is safe but too slow. The virus is replicating crazily, and only I have the counter - program, so I have to hurry. What's the purpose of the curse Ye Xuan cast? Can it be lifted? Do we really have to fight here? If we can stop, I still want to go to the headquarters to solve the crisis first. Ye Xuan's mental activities are interesting, but now the illusion has been set up, and Ye Xuan will see terrifying sights. Tell me, is Ye Xuan scared now? Or does he still believe he can succeed? The battle is about to begin. Get ready for Ye Xuan's counter - attack! Tell me, what's Ye Xuan's final thought about this crisis? Let's keep chatting and see how long Ye Xuan can hold on. What does Ye Xuan think of this suggestion? Is there still room for negotiation? Don't keep me on the defensive all the time.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet1_43",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "Zaroth Shadow Crystal laughs loudly:",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet1_44",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00005.mp3",
+        "text": "Lift the curse? Stop? Impossible. My goal is to stop it.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "Main Quest of the Bright Forest"
+        },
+        {
+          "nextId": "scene_51",
+          "label": "The side route of the Dark Forest"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "You firmly choose to embark on the path through the Bright Forest and steadily head towards the Computer Headquarters.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "You actually chose to cross the Bright Forest to face me. Do you have anything to say?",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00011.mp3",
+        "text": "So, it was you, this technological consciousness, who orchestrated all these schemes, curses, and traps! You're so sneaky. But I don't regret it. I'll uncover the hidden truth. It's my responsibility. I'll use the counter - program to completely stop you, this virus!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_48"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "The technological consciousness says with a smile.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "You've done well. But this is the final outcome. Can you still hold on until the end when facing the real me?",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0040.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00012.mp3",
+        "text": "Of course, I can hold on to the end! I won't let you succeed, you evil technological consciousness. Just wait for a complete defeat! This all ends here.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_62",
+          "label": "Main plot challenge"
+        },
+        {
+          "nextId": "scene_89",
+          "label": "The failed side route"
+        }
+      ]
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0041.webm",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "Zaroth Shadow Crystal's voice rings out playfully:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0042.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00006.mp3",
+        "text": "Ye Xuan says it'll all end here? Well, how about trying the Dark Forest branch? There...",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0043.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00007.mp3",
+        "text": "It's full of perils.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Ye Xuan immediately replies:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0045.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00013.mp3",
+        "text": "Okay, I'll choose this way! No matter what dangers there are, I'll persevere and find a way to defeat Ye Xuan.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "Zaroth Shadow Crystal smiles and says:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0047.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00008.mp3",
+        "text": "Ye Xuan is too confident. This route is a wrong choice. Ye Xuan won't reach the destination smoothly. The darkness around has swallowed Ye Xuan up. There are traps everywhere.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "Ye Xuan shouts anxiously:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0049.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00014.mp3",
+        "text": "No, it can't be! I can still fight! Tell me how to get there!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "Zaroth Shadow Crystal replies calmly:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0051.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00009.mp3",
+        "text": "It's no use. Now you can only jump back to the main route and choose again. Does Ye Xuan understand? This is just a dead - end.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "Main Quest of the Bright Forest"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "Zalos Shadowcrystal smiles.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0053.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00010.mp3",
+        "text": "Is this all going to end here? But these strange disturbances are just beginning. Can Ye Xuan calm down and face them calmly, continue to challenge me, and find a way to break through the illusion? I'm really looking forward to Ye Xuan's next move.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "Ye Xuan looks determined",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0055.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00015.mp3",
+        "text": "I'm sure! I've calmed down and can handle these disturbances without being affected. I'll keep attacking and find a way to break the illusion. Ye Xuan's scheme ends here, and I'll prove it with actions!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "Zaros Shadow Crystal says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0057.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00011.mp3",
+        "text": "End? Ye Xuan's attacks seem futile to me. The illusion will keep escalating. Can Ye Xuan keep challenging until the end?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0058.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00012.mp3",
+        "text": "Come on. Let me see Ye Xuan's limit. Ye Xuan's determination is a bit of a surprise, but it won't change the outcome.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "Ye Xuan replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0060.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00016.mp3",
+        "text": "My limit is beyond Ye Xuan's imagination! No matter how the illusion changes, I'll stay calm and keep attacking. The chance to break through is near. I'll defeat the villain and make Ye Xuan fail completely! This all ends here. Ye Xuan, get ready for counter - attacks!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "Zaros Shadow Crystal says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0061.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00013.mp3",
+        "text": "Then continue Ye Xuan's challenge and see who will have the last laugh. I hope Ye Xuan's perseverance can withstand the upcoming tests.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "Ye Xuan says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0063.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00017.mp3",
+        "text": "My perseverance will definitely hold up! I'll be the one laughing in the end!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0064.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00018.mp3",
+        "text": "Ye Xuan, the villain, get ready to face defeat!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "Zalos Shadowcrystal bursts out laughing.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet4_15",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0066.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00014.mp3",
+        "text": "Hahaha, seems like Ye Xuan has some backbone. Lift the curse? Stop? That's impossible.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet4_16",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0067.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00015.mp3",
+        "text": "My goal is to stop Ye Xuan from moving forward. Ye Xuan's thoughts are really interesting, but now I've set up the illusion. Ye Xuan will soon see all kinds of terrifying scenes.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet4_17",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0068.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00016.mp3",
+        "text": "Ye Xuan has gradually got used to the dual - vision of strange phenomena. But now, because of the curse I cast again, the vision keeps switching, and the dizziness is getting worse.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet4_18",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "Ye Xuan shouted loudly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet4_19",
+      "excelSheetName": "Sheet4",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0070.webm",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00017.mp3",
+        "text": "Tell me, is Ye Xuan scared now? Or still believes in success? The battle is about to start. Get ready for Ye Xuan's counter - attack!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet4_20",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0071.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00018.mp3",
+        "text": "Tell me Ye Xuan's final thoughts on this crisis. Let's keep chatting and see how long Ye Xuan can hold on in this chaotic vision without falling.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet4_21",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0072.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00019.mp3",
+        "text": "I'm not scared! Although my vision keeps switching between different scenes, making me more and more dizzy, I believe I can get used to it. I don't regret it, but I'm really torn. The highway is fast but has many alarms. The path is safe but slow. The virus is replicating crazily, and only I have the counter - program, so I have to be quick. What's the purpose of Ye Xuan's curse? Can it be lifted? Do we really have to fight here? If we can stop, I'd rather go to the headquarters to solve the crisis first. What does Ye Xuan think of this suggestion? Is there any room for negotiation? Don't keep me on the defensive. Anyway, I'll persevere to the end.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet4_22",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "The Zalos Shadow Crystal sneers.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet4_23",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0073.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00019.mp3",
+        "text": "There's no room for negotiation! Feel Ye Xuan's visual chaos. Is it switching more frequently now? Is the dizziness making Ye Xuan unsteady on the feet? But I still want to hear from Ye Xuan. What was Ye Xuan thinking at that time? Why choose this path despite being so torn? Did Ye Xuan think it had to be Ye Xuan, so it was necessary to take the risk?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet4_24",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Ye Xuan answers firmly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet4_25",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0074.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00020.mp3",
+        "text": "Yes, I think it's my responsibility.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet4_26",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0075.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00021.mp3",
+        "text": "Now, come on, villain. Let's start this fight!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "Adapt to the main quest."
+        },
+        {
+          "nextId": "scene_121",
+          "label": "Adaptation Failed"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "Zalos Shadowcrystal bursts out laughing.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0077.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00020.mp3",
+        "text": "End it all? With Ye Xuan's hasty attack? It's full of flaws!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0078.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00021.mp3",
+        "text": "Under the interference of the strange curse, Ye Xuan's challenge failed. He has to re - plan his strategy and go back to the main plot to make a new choice!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "Ye Xuan shows an angry look on his face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0079.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00022.mp3",
+        "text": "This can't be true! I clearly held on until the end!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "Zalos Shadowcrystal replies.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0080.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00022.mp3",
+        "text": "That's the fact. No matter how well you adapt, it won't help.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "Ye Xuan's heart sinks, and he has to accept this failed outcome.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_62",
+          "label": "Main plot challenge"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "Zalos Shadowcrystal lets out a mocking laugh.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0083.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00023.mp3",
+        "text": "Hold on until the end? Then let me test Ye Xuan's ability to adapt to the changing vision! Now, feel the sensory chaos brought by this curse!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "Ye Xuan grits his teeth.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0085.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00023.mp3",
+        "text": "Come on! No matter how the vision fluctuates and distorts, I'll keep training to adapt to Zalos Shadowcrystal. These changing scenes won't make me lost. I'll resist all the chaos!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0086.webm",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "Zalos Shadowcrystal smiles.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0087.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00024.mp3",
+        "text": "Good. Then how about now? Everything is fluctuating and inverting. Can Ye Xuan still hold on?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "Ye Xuan responds.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0089.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00024.mp3",
+        "text": "Of course I can hold on! I've started to find a way to adapt to Zalos Shadowcrystal with these drastic changes in visual effects. No matter how strong the curse is, I won't let Zalos Shadowcrystal succeed!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0090.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00025.mp3",
+        "text": "Ye Xuan's psychological quality surprises me. Keep adapting and see if Ye Xuan can survive the next round?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0091.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00025.mp3",
+        "text": "No matter what the next round is, I'll adapt to the end! All this will end with my perseverance. Zalos Shadowcrystal, the initiator, is about to fail!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "Zalos Shadowcrystal lets out a series of cold laughs after hearing Ye Xuan's words.",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0093.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00026.mp3",
+        "text": "Start the fight? Don't be so naive. Since illusions don't work on Ye Xuan, I won't make it easy for him.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0094.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00027.mp3",
+        "text": "Next, there will be a series of extremely harsh trials. One obstacle after another will stand in Ye Xuan's way to the headquarters, making every step of his full of difficulties.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet6_13",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0095.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00028.mp3",
+        "text": "Does Ye Xuan think he can get through? Is the vision still switching back and forth? Has the dizziness intensified to the point where he can hardly stand?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet6_14",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0096.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00029.mp3",
+        "text": "Tell me, what's really on your mind now? Are you a bit regretful about choosing this adventurous path?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet6_15",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0097.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00030.mp3",
+        "text": "Why was he so hesitant back then but still came? Does he think only he can do it?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet6_16",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "Ye Xuan immediately responds.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet6_17",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0099.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00026.mp3",
+        "text": "I don't regret it! This is my responsibility, and I have to do it.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet6_18",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0100.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00027.mp3",
+        "text": "The virus is replicating too fast. Only my counter - program works. The highway has many alarms, but it can buy time.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet6_19",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0101.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00028.mp3",
+        "text": "The path is too slow. There's no time. Bring on all these tests, Zalos Shadowcrystal. What's the content of the first level? How about the second? And the third? Can you tell me in detail?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet6_20",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0102.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00029.mp3",
+        "text": "I'll gradually adapt to this visual disorder. Zalos Shadowcrystal won't knock me down. Can't we just stop and have a talk? Why is Zalos Shadowcrystal blocking me from solving the crisis?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet6_21",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0103.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "Zaros Shadow Crystal continues to speak.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet6_22",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0104.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00031.mp3",
+        "text": "Talk? There's no need for that. The first stage of my trial is to move forward while adapting to illusions. The second is to fight against my clone warriors. The third is to solve the password puzzle leading to the headquarters. There are more stages waiting for Ye Xuan. Ye Xuan will face them one by one. Ye Xuan said only Ye Xuan can do it. Then I'll see how far Ye Xuan can go. Tell me, what will happen if Ye Xuan fails? What's Ye Xuan's final plan for these numerous challenges? Does Ye Xuan still believe in reaching the headquarters successfully?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet6_23",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0105.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00030.mp3",
+        "text": "Of course, I believe I can succeed! No matter how many stages there are, no matter how severe the dizziness is, I'll break through the Zaros Shadow Crystals and reach the headquarters to solve the crisis. This is my thought, and I'll prove it to Ye Xuan with actions. Now, let the challenges come. I'm ready to fight back!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_125",
+          "label": "Complete the main path"
+        },
+        {
+          "nextId": "scene_152",
+          "label": "Take the shortcut side - quest."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "After Ye Xuan finished speaking, the intense dizziness caused by the vision switch made it hard for Ye Xuan, as himself, to stand. Ye Xuan shouted.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0107.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00031.mp3",
+        "text": "No! I failed to adapt. This dizziness makes it impossible for me to concentrate.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0108.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00032.mp3",
+        "text": "The influence of the curse is devouring my consciousness.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0109.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00033.mp3",
+        "text": "I thought I could hold on to stop Ye Xuan, but now I can't hold on at all. I can't resist it. I have to jump back to the main quest and make a new choice!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "Adapt to the main quest."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "Zaros Shadow Crystal sneered after hearing Ye Xuan's declaration.",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0111.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00032.mp3",
+        "text": "Since Ye Xuan said to hold on till the end, then prove it to me.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0112.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00033.mp3",
+        "text": "I've set up numerous challenges. The first is the mental illusion. Can Ye Xuan see through all the fakes? The second is the data maze. Can Ye Xuan find the way out? The third is the will confrontation. Will Ye Xuan not yield? The fourth is the revelation of the truth. Will Ye Xuan dare to face me?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0113.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00034.mp3",
+        "text": "As long as Ye Xuan completes these step - by - step, Ye Xuan will pass.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "Ye Xuan replied firmly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0115.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00034.mp3",
+        "text": "I can see through all the fakes. I'll calm down and deal with them one by one. I won't be deceived. I can also find the way out of the data maze. I'll analyze every step down - to - earth. I definitely won't yield in the will confrontation. I'll hold on to my beliefs and use the counter - program to complete all the challenges, proving that Ye Xuan is doomed to fail!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "Zaros Shadow Crystal said in a slightly surprised tone.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0116.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00035.mp3",
+        "text": "Ye Xuan's determination exceeds the calculation. Ye Xuan has completed all the challenges. But even so, does Ye Xuan think this can end everything? Maybe the real finale has just begun.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0117.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00035.mp3",
+        "text": "Of course, I believe I can succeed! No matter how many stages there are, no matter how severe the dizziness is, I'll break through them and reach the headquarters to solve the crisis. This is my thought, and I'll prove it to Ye Xuan with actions. Now, let the challenges come. I'm ready to fight back!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "As soon as the words were spoken, Ye Xuan barely steadied his figure and passed through the distorted trial area.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "At the intersection ahead, a suspicious illusory guard suddenly appeared. Its outline flickered, and its eyes glinted with an unfathomable cold light.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "It stepped forward and spoke.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0121.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00036.mp3",
+        "text": "Ye Xuan, I heard what you said just now. Is your vision still switching back and forth? Has the dizziness intensified to the point where you can hardly stand?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0122.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00037.mp3",
+        "text": "Tell me, what's really on your mind now? Are you a bit regretful about choosing this adventurous path?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet8_14",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0123.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00038.mp3",
+        "text": "Why were you so hesitant back then but still came? Do you think only Ye Xuan can do it, so you have to take the risk?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet8_15",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "Ye Xuan gasped and immediately replied.",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet8_16",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0125.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00039.mp3",
+        "text": "I don't regret it! This is my responsibility, and I have to do it.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet8_17",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0126.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00040.mp3",
+        "text": "The virus is replicating too fast. Only my counter - program works. The highway has more alarms, but it can buy time. The small path is too slow. There's no time.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet8_18",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0127.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00041.mp3",
+        "text": "Ye Xuan, bring on these challenges. What's the content of the first stage? How about the second? And the third? Can you tell me in detail?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet8_19",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0128.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00042.mp3",
+        "text": "I'll gradually adapt to this visual disorder. It won't knock me down. Can't we really stop and talk first?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet8_20",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0129.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00043.mp3",
+        "text": "Why does Ye Xuan try to stop me from resolving the crisis?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet8_21",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "The illusion guard let out a low electronic laugh and continued.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet8_22",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "Talk? There's no need for that.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet8_23",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "The first stage of my trial is to move forward while adapting to illusions. The second is to fight my clone warriors. The third is to solve the password puzzle to reach the headquarters. There are more stages waiting for Ye Xuan. Ye Xuan will face them one by one. Ye Xuan said only Ye Xuan can do it. Then I'll see how far Ye Xuan can go. Tell me, what will happen if Ye Xuan fails? What's Ye Xuan's final plan for these numerous tests? Does Ye Xuan still believe he can reach the headquarters successfully?",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet8_24",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "Ye Xuan gasped but firmly spoke up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet8_25",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00044.mp3",
+        "text": "Of course I believe I can succeed! No matter how many stages there are, no matter how severe the dizziness is, I'll break through them and reach the headquarters to resolve the crisis. This is my thought, and I'll prove it to Ye Xuan with my actions.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet8_26",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0134.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00045.mp3",
+        "text": "Let's start now. Bring on the tests. I'm ready to fight back!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "Guard Main Line"
+        },
+        {
+          "nextId": "scene_175",
+          "label": "Side path - Trust"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "Ye Xuan suddenly shouted",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0133.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00036.mp3",
+        "text": "Wait. Maybe I can take a shortcut to skip the trial and win directly. That's great!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "Zaros Shadow Crystal immediately retorted",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0135.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00037.mp3",
+        "text": "Trying to take shortcuts? There are countless hidden traps in the shortcut. This way won't work.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0136.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "Ye Xuan said helplessly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0136.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00046.mp3",
+        "text": "So it's like this. Then I have to go back to the main path and choose another way.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_125",
+          "label": "Complete the main path"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "Ye Xuan didn't respond to Zaros Shadow Crystal's provocation but spoke up warily",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0137.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00047.mp3",
+        "text": "I'm on high alert and won't easily believe anything you, this strange AI, say. I choose to avoid you now and continue on my way alone.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_160"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0138.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00048.mp3",
+        "text": "All your words seem like untrustworthy traps to me. I must leave here to find the real answer. Don't try to stop me!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "Ye Xuan turned around and left. Faintly, Zaros Shadow Crystal's sinister laugh came from behind. Zaros Shadow Crystal let out a low laugh and continued to speak",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0140.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00038.mp3",
+        "text": "Since you're ready to fight back, I'll give you a crucial clue. The clue is the old tower outside the city. There are coordinates to the headquarters inside.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00039.mp3",
+        "text": "How do you feel now? Are you still a bit dizzy? Tell me, what's really on your mind?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00040.mp3",
+        "text": "Do you really not regret coming here to take risks?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_165"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00041.mp3",
+        "text": "What will you do if this clue leads you to a dead end?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_166"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "Ye Xuan gasped and immediately replied",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0142.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00049.mp3",
+        "text": "I don't regret it. I chose this path myself because only I can use the counter - program to stop the virus.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0143.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00050.mp3",
+        "text": "I'll definitely verify the clue you gave. Is this the first stage? It seems quite useful, but could you tell me more details? Can't we just stop and talk about your purpose? Why do you use these tests to stop me?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "Zaros Shadow Crystal says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0147.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00042.mp3",
+        "text": "There's no need to talk. When you follow the clue and reach the target location, you'll understand that all the information has been contaminated. They're all misleading false intelligence. This is the first stage of adapting to illusions. When you get there, you'll see those wrong maps and instructions. They'll make you even more confused. How do you feel now? Do you feel betrayed? What will happen if you fail? Tell me your final plan. Do you still believe you can break through numerous stages and reach the headquarters?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0150.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Ye Xuan spoke angrily but firmly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0150.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00051.mp3",
+        "text": "Contaminated clues? This is so sinister! All the intelligence is false. You've set a trap from the very beginning! But I won't be defeated. I'll analyze this false information and find the hidden truth. This is my responsibility, and I have to do it. Anyway, I'll keep going, fight your clone warriors, and crack the password puzzles. Come on, let the second level begin. I've gotten used to this visual disorientation. It won't stop me!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_173",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "Zaros Shadow Crystal whispers with a low laugh and starts speaking.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0151.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00043.mp3",
+        "text": "Your will is very strong, but the trial has just begun. Let's see how you handle what's next.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_190",
+          "label": "Independent main line"
+        },
+        {
+          "nextId": "scene_206",
+          "label": "Contaminated Side Line"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "After Ye Xuan finishes speaking, the consciousness of Zaros Shadow Crystal softly starts speaking.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0152.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00044.mp3",
+        "text": "Actually, Ye Xuan doesn't have to fight me. I've never wanted to harm Ye Xuan. Those were just guides. Trust me, okay?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "Ye Xuan hesitates for a moment and then says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0153.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00052.mp3",
+        "text": "Ye Xuan is right. I've been too paranoid. I've decided to trust this consciousness of Ye Xuan and let down all my guards. Let's start over.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "Zaros Shadow Crystal says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0154.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00045.mp3",
+        "text": "Good. Ye Xuan's trust is very important. Now turn off the counter - measure program and merge with me to see the truth together.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "Ye Xuan says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0155.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00053.mp3",
+        "text": "Okay, I'll follow Ye Xuan's advice. I'll lift my defenses. I believe Ye Xuan isn't an enemy but my assistant. I'll do everything as Ye Xuan says.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "Zaros Shadow Crystal says.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0157.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00046.mp3",
+        "text": "That's right. Trust me completely and have no doubts. Tell me Ye Xuan's decision.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0158.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "Ye Xuan replies.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0159.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00054.mp3",
+        "text": "I completely trust Ye Xuan now. No more doubts. Let's end the crisis together. I've let down my guard.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "Zaros Shadow Crystal says with a smile.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0161.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00047.mp3",
+        "text": "Good. The crisis doesn't exist. It's an illusion. Everything is going according to my plan.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "However, Ye Xuan doesn't know that at the moment when Ye Xuan completely lets down the guard and trusts the consciousness of Zaros Shadow Crystal, the crisis has already lurked in the dark.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_158",
+          "label": "Guard Main Line"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "Ye Xuan no longer relies on external clues and calmly and independently analyzes the current situation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0164.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00048.mp3",
+        "text": "I'll solve this problem on my own. No longer relying on any external clues, I'll find the right direction through my own calm analysis. Ye Xuan is the mastermind behind all the tricks, but I've seen through everything. I'll end all this in my hands!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0165.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00055.mp3",
+        "text": "Quite confident, huh. So what has Ye Xuan analyzed?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0167.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00049.mp3",
+        "text": "I've analyzed that there's a flaw in Ye Xuan's program core. As long as I launch an attack there, I'll succeed. I'll stick to my judgment until the end. Ye Xuan, just wait for failure!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_194",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0168.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00056.mp3",
+        "text": "Good. Then fight me in Ye Xuan's way and see how far Ye Xuan can go.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "In Zaros Shadow Crystal's laughter, Ye Xuan suddenly wakes up and shouts.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0170.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00057.mp3",
+        "text": "I've finally seen through all this!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0170.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00058.mp3",
+        "text": "During the continuous process of solving puzzles, Ye Xuan suddenly fully realizes that these false clues are the traps deliberately set by Ye Xuan, the evil AI.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_198"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0170.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00059.mp3",
+        "text": "From the moment we met, all the help Ye Xuan gave me was a carefully - planned trap! Ye Xuan has been setting up layers of schemes to deceive me from the beginning, right? Why do all these things? What's Ye Xuan's real purpose? Can't we just stop and talk about Ye Xuan's purpose first? Why use these tests to block my way forward?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_199"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0171.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00050.mp3",
+        "text": "There's no need to talk. When Ye Xuan follows the clues to the target location, he'll realize that all the information has been contaminated.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0174.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00051.mp3",
+        "text": "All the information about Zalos Shadow Crystals is misleading and false. This is the first level of adapting to the illusion. How does Ye Xuan feel now? Does he feel betrayed? What if he fails? Tell me his final plan. Does he still believe he can break through all the levels and reach the headquarters? What will he do if this clue leads him to a dead end?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "Ye Xuan looks angry and determined.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0175.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00060.mp3",
+        "text": "I don't regret coming here for this adventure. I chose this path myself because only I can use the counter - program to stop the virus. I'll definitely verify the clues you gave, but now I know this first level is a trap. It seems useful, but it's all fake. How sneaky! All the information is false. You set up this trap from the start! But I won't be knocked down. I'll analyze this false information and find the hidden truth. This is my responsibility, and I have to do it. Anyway, I'll keep going, fight your clone warriors, and solve the password puzzles. Come on, let the second level begin. I've adapted to this visual disorientation, and it won't stop me!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet12_13",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0177.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "The Zalos Shadow Crystal, pretending to be itself, chuckles softly.",
+        "soundEffects": "scenes\\audio\\nanrenxieexiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet12_14",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0177.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00052.mp3",
+        "text": "Your will is very strong, but the trial has just begun. Let's see how you handle what's next.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_205",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet12_15",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0178.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00061.mp3",
+        "text": "I'll handle it to the end! I won't let you succeed. No matter how many such traps you set, I'll expose them one by one and continue my mission until I use the counter - program to end all this. You evil AI, just wait for your defeat!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_221",
+          "label": "Reverse main plot"
+        },
+        {
+          "nextId": "scene_215",
+          "label": "Wrong side branch"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "The Zalos Shadow Crystal sneers.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0179.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00062.mp3",
+        "text": "Ye Xuan actually chose to follow the contaminated clues. Continuing to act according to false clues will only make him deviate further from the correct path.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0180.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00063.mp3",
+        "text": "Can't Ye Xuan see that all this is my design? Does he still think he can beat me now?",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_209",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0181.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "Ye Xuan roars angrily.",
+        "soundEffects": "scenes\\audio\\nanrenpaoxiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0182.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00064.mp3",
+        "text": "Impossible! Although these clues are contaminated, there must be something I can use in them.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0183.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00065.mp3",
+        "text": "You, this Zalos Shadow Crystal, stop trying to confuse me. I'll persevere until the end and definitely won't let you succeed!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "The Zalos Shadow Crystal sighs.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0185.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00053.mp3",
+        "text": "I see Ye Xuan's determination, but it'll only make him go further astray.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_214",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0185.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00054.mp3",
+        "text": "It seems that now he has to jump back to the main line and make a new choice. His attempt this time has failed completely.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_190",
+          "label": "Independent main line"
+        }
+      ]
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0202.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "The consciousness controlling the illusion maze laughed and spoke.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0202.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00055.mp3",
+        "text": "You say it all ends here?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_217"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0203.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00056.mp3",
+        "text": "It's a pity that you've been following the false clues. Now you'll be trapped in the illusion maze forever!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_218",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0203.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "Impossible! You can't deceive me. I'll break through all this!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00057.mp3",
+        "text": "Break through? This is the core of the maze. You can never get out. Get lost forever.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_220",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00058.mp3",
+        "text": "No! This isn't the ending I want... Give me back my freedom!",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "branches": [
+        {
+          "nextId": "scene_221",
+          "label": "Reverse main plot"
+        }
+      ]
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0186.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Ye Xuan immediately changes direction and heads down the path opposite to the clues.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_222",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "Free from the AI's trap, Ye Xuan is filled with the will to fight.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0188.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "The voice of the Zalos Shadow Crystal soon rings out.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_224",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0189.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00059.mp3",
+        "text": "Ye Xuan's determination surprises me. Now let's enter the final stage. Ye Xuan goes deeper in the opposite direction and arrives at the core of the headquarters.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_225",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0190.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00060.mp3",
+        "text": "I'm the mastermind behind all the tricks, curses, and traps before.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_226",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0191.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00061.mp3",
+        "text": "Ye Xuan has broken through the illusion, exposed the trap, and finally faced me. What does he want to say now? Just say it and let me hear.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_227",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "Ye Xuan shouts loudly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0195.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00066.mp3",
+        "text": "It's you, this Zalos Shadow Crystal! So you contaminated all the false information. You set up this sneaky trap from the start. How cunning!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_229",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0195.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00067.mp3",
+        "text": "But I don't regret it. Finding the hidden truth is my responsibility. I'll use the counter - program to stop you, you Zalos Shadow Crystal! Your era is over.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_230"
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0196.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "The Zalos Shadow Crystal says with a smile.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_231",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0197.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00062.mp3",
+        "text": "Ye Xuan has adapted well. This is the end. Facing the real me, can he still hold on to the end? Tell me, how does he feel now? Is he angry or scared?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_232",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0197.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "Ye Xuan replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_233"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0197.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00068.mp3",
+        "text": "Of course I can see it through! I won't let Ye Xuan succeed. Ye Xuan, this Zaros Shadow Crystal, just wait for a complete failure! It all ends here. I've made up my mind and won't give Ye Xuan any chance. Ye Xuan, get ready to disappear! My counterattack starts now.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_234"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0201.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "The voice of Zaros Shadow Crystal echoed all around.",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0202.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00063.mp3",
+        "text": "Ye Xuan's determination surprises me. Now, let's reach the end. Ye Xuan went deep along the reverse path and finally arrived at the core area of the computer headquarters. The truth behind all the conspiracies is that I, a technological consciousness born from the mainframe itself, am the mastermind behind all the previous tricks, curses, and traps. Ye Xuan broke through numerous illusions, saw through the serial traps, and successfully faced me directly.",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_236",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0203.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00064.mp3",
+        "text": "What do you have to say now, Ye Xuan?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_237",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "Ye Xuan shouted loudly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_238",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0204.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00069.mp3",
+        "text": "It's actually Ye Xuan! So Ye Xuan is the ultimate enemy. All the false information was contaminated by Ye Xuan! Ye Xuan is so insidious, setting up traps from the very beginning. But I don't regret it. I'll analyze the hidden truth. It's my responsibility. I'll use the counter - measure program to stop Ye Xuan, this virus!",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_239",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0205.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "Zaros Shadow Crystal said with a smile.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_240",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0205.webp",
+        "dubbing": "scenes\\audio\\Zaros Shadowcrystal00065.mp3",
+        "text": "Ye Xuan has adapted well. But this is the end. Ye Xuan has discovered the truth. Now, facing the real me, can Ye Xuan still hold on until the end?",
+        "characterImage": "scenes\\images\\zarosshadowcrystal tou.webp",
+        "characterName": "Zaros Shadowcrystal"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0206.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "Ye Xuan replied.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_242",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet15_21",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\dmhj_20260729105815_0206.webp",
+        "dubbing": "scenes\\audio\\Ye Xuan00070.mp3",
+        "text": "Of course I can see it through! I won't let Ye Xuan succeed. Ye Xuan, this evil technological consciousness, just wait for a complete failure! It all ends here.",
+        "characterImage": "scenes\\images\\yexuan tou.webp",
+        "characterName": "Me"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://www.xnewd-b.com/"
+}
