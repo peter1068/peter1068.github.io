@@ -15,6 +15,16 @@
     var retryButton = document.getElementById('retryButton');
     var gridEl = document.getElementById('gameGrid');
     var yearEl = document.getElementById('year');
+    var versionEl = document.getElementById('siteVersion');
+
+    function getCacheVersion() {
+        return typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : String(Date.now());
+    }
+
+    function withCacheBust(url) {
+        var sep = url.indexOf('?') >= 0 ? '&' : '?';
+        return url + sep + 'v=' + encodeURIComponent(getCacheVersion());
+    }
 
     /**
      * 校验资源路径是否安全（站内相对路径）
@@ -187,7 +197,7 @@
     function loadConfig() {
         showLoading();
 
-        fetch(CONFIG_URL, { cache: 'no-cache' })
+        fetch(withCacheBust(CONFIG_URL), { cache: 'no-cache' })
             .then(function (response) {
                 if (!response.ok) {
                     throw new Error('HTTP ' + response.status);
@@ -204,6 +214,10 @@
     function init() {
         if (yearEl) {
             yearEl.textContent = String(new Date().getFullYear());
+        }
+
+        if (versionEl && typeof SITE_VERSION !== 'undefined') {
+            versionEl.textContent = 'v' + SITE_VERSION;
         }
 
         retryButton.addEventListener('click', loadConfig);

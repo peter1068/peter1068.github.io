@@ -61,6 +61,18 @@ npx serve .
 
 浏览器打开 `http://localhost:8080`。
 
+## 版本号与缓存
+
+每次修改站点后，更新 `assets/version.js` 中的 `SITE_VERSION`（格式：`YYYYMMDD-HHmm`）：
+
+```javascript
+var SITE_VERSION = '20260730-0105';
+```
+
+版本号会：
+- 显示在首页页脚和播放器页右下角
+- 作为 `home.css`、`home.js`、`games.json` 的查询参数，触发浏览器与 CDN 缓存刷新
+
 ## 页面说明
 
 - **首页** (`index.html`)：读取 `configs/games.json`，以卡片形式展示游戏封面，点击跳转至播放器

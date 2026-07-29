@@ -105,10 +105,26 @@
             opacity: 1;
             pointer-events: auto;
         }
+
+        .version-tag {
+            position: fixed;
+            bottom: 10px;
+            right: 12px;
+            z-index: 20;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background: rgba(0, 0, 0, 0.45);
+            color: rgba(255, 255, 255, 0.45);
+            font-size: 11px;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+            pointer-events: none;
+        }
     </style>
+    <script src="./assets/version.js"></script>
 </head>
 <body>
     <a class="back-link" id="backLink" href="./">← 返回首页</a>
+    <span class="version-tag" id="siteVersion"></span>
 
     <div class="overlay" id="overlay">
         <div class="overlay__title" id="overlayTitle">正在加载</div>
@@ -270,6 +286,11 @@
             }
 
             function init() {
+                var versionEl = document.getElementById('siteVersion');
+                if (versionEl && typeof SITE_VERSION !== 'undefined') {
+                    versionEl.textContent = 'v' + SITE_VERSION;
+                }
+
                 window.addEventListener('message', handleMessage);
                 retryButton.addEventListener('click', loadPlayer);
                 loadPlayer();

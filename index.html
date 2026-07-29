@@ -6,7 +6,23 @@
     <meta name="description" content="oke 互动小说 — 精选互动故事与视觉小说">
     <meta name="theme-color" content="#0a0a0f">
     <title>oke 互动小说</title>
-    <link rel="stylesheet" href="./assets/css/home.css">
+    <script src="./assets/version.js"></script>
+    <script>
+        (function () {
+            var v = typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : '';
+            var q = v ? '?v=' + encodeURIComponent(v) : '';
+
+            var css = document.createElement('link');
+            css.rel = 'stylesheet';
+            css.href = './assets/css/home.css' + q;
+            document.head.appendChild(css);
+
+            var js = document.createElement('script');
+            js.src = './assets/js/home.js' + q;
+            js.defer = true;
+            document.head.appendChild(js);
+        })();
+    </script>
 </head>
 <body>
     <main class="page">
@@ -29,9 +45,8 @@
 
         <footer class="footer">
             <span>© <span id="year"></span> oke 互动小说</span>
+            <span class="footer__version" id="siteVersion"></span>
         </footer>
     </main>
-
-    <script src="./assets/js/home.js" defer></script>
 </body>
 </html>
