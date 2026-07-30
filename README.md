@@ -1,6 +1,6 @@
 # peter1068.github.io
 
-oke 互动小说 GitHub Pages 个人主页。
+OKE.X33工作室 GitHub Pages 个人主页。
 
 ## 目录结构
 

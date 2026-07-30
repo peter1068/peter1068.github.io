@@ -169,8 +169,8 @@
 
         var site = config.site || {};
 
-        document.title = site.title || 'oke 互动小说';
-        siteTitleEl.textContent = site.title || 'oke 互动小说';
+        document.title = site.title || 'OKE.X33工作室';
+        siteTitleEl.textContent = site.title || 'OKE.X33工作室';
         siteDescEl.textContent = site.description || '';
 
         gridEl.innerHTML = '';
