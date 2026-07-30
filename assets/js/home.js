@@ -7,15 +7,15 @@
     // 仅允许站内相对路径，防止 open redirect
     var SAFE_PATH_RE = /^(?!\/)(?!.*\.\.)([a-zA-Z0-9_\-./]+)$/;
 
-    var siteTitleEl = document.getElementById('siteTitle');
-    var siteDescEl = document.getElementById('siteDesc');
-    var loadingEl = document.getElementById('loading');
-    var errorEl = document.getElementById('error');
-    var errorMessageEl = document.getElementById('errorMessage');
-    var retryButton = document.getElementById('retryButton');
-    var gridEl = document.getElementById('gameGrid');
-    var yearEl = document.getElementById('year');
-    var versionEl = document.getElementById('siteVersion');
+    var siteTitleEl;
+    var siteDescEl;
+    var loadingEl;
+    var errorEl;
+    var errorMessageEl;
+    var retryButton;
+    var gridEl;
+    var yearEl;
+    var versionEl;
 
     function getCacheVersion() {
         return typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : String(Date.now());
@@ -211,7 +211,26 @@
             });
     }
 
+    function bindDom() {
+        siteTitleEl = document.getElementById('siteTitle');
+        siteDescEl = document.getElementById('siteDesc');
+        loadingEl = document.getElementById('loading');
+        errorEl = document.getElementById('error');
+        errorMessageEl = document.getElementById('errorMessage');
+        retryButton = document.getElementById('retryButton');
+        gridEl = document.getElementById('gameGrid');
+        yearEl = document.getElementById('year');
+        versionEl = document.getElementById('siteVersion');
+    }
+
     function init() {
+        bindDom();
+
+        if (!retryButton || !gridEl || !loadingEl) {
+            console.error('[home] 页面 DOM 未就绪');
+            return;
+        }
+
         if (yearEl) {
             yearEl.textContent = String(new Date().getFullYear());
         }

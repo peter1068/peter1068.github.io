@@ -16,11 +16,6 @@
             css.rel = 'stylesheet';
             css.href = './assets/css/home.css' + q;
             document.head.appendChild(css);
-
-            var js = document.createElement('script');
-            js.src = './assets/js/home.js' + q;
-            js.defer = true;
-            document.head.appendChild(js);
         })();
     </script>
 </head>
@@ -48,5 +43,14 @@
             <span class="footer__version" id="siteVersion"></span>
         </footer>
     </main>
+    <script>
+        (function () {
+            var v = typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : '';
+            var q = v ? '?v=' + encodeURIComponent(v) : '';
+            var js = document.createElement('script');
+            js.src = './assets/js/home.js' + q;
+            document.body.appendChild(js);
+        })();
+    </script>
 </body>
 </html>
