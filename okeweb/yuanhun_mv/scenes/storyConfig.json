@@ -1,0 +1,3377 @@
+{
+  "uid": "yuanhunmonv",
+  "name": "yuanhunmonv",
+  "token": "U2FsdGVkX19qKhdvT9+Q1GN4Odye2/i+CYtvqMSo9tE=",
+  "cover": "scenes\\images\\chapterCover1.jpg",
+  "version": "20260505-2059",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0001.webm",
+        "dubbing": "scenes\\audio\\pangbai00000.wav",
+        "text": "In the land of vengeful spirits where gray fog drifts all year round and cold winds howl, there lies a soul that makes one's heart ache.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0001.webm",
+        "dubbing": "scenes\\audio\\pangbai00001.wav",
+        "text": "She used to be an innocent little girl who loved to tie her hair in pigtails, chase butterflies, and listen to bedtime stories. She should have had a sunny, flower - filled, and carefree childhood. However, a sudden serious illness clung to her. High fever, pain, and weakness tortured her tiny body day and night. She cried and shouted, but no one could truly pull her out of the pain.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.wav",
+        "text": "In the end, the little girl closed her eyes forever, filled with endless grievances, unwillingness, and a heart full of resentment.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.wav",
+        "text": "Her soul didn't head towards the bright cycle of reincarnation. Instead, it was wrapped in thick resentment and transformed into a little vengeful spirit witch.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.wav",
+        "text": "Eyes open, pupils contracting into vertical slits: Her soul didn't head towards the bright cycle of reincarnation. Instead, it was wrapped in thick resentment and transformed into a little vengeful spirit witch.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.wav",
+        "text": "Turning to face the thorny path, raising a hand to wipe away tears: She hates the cold illness and the world that failed to save her. She madly swears in her heart:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0204.webp",
+        "dubbing": "scenes\\audio\\Little Witch00000.wav",
+        "text": "I will become the supreme ghost king! I will make the whole world experience the pain I've endured! Let everyone be haunted by illness!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.wav",
+        "text": "With this paranoid and crazy wish, the little witch wipes away her tears, steps out of the land of vengeful spirits, and embarks on the path of the ghost king, a path full of tests, choices, and redemption.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.wav",
+        "text": "Dear young readers, from now on, you are the guide for the little witch! At every fork in the road, you need to help her make a choice. Right or wrong, good or evil, light or dark, it's all up to you!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.wav",
+        "text": "As soon as the little witch steps out of the land of vengeful spirits, the gray mist rushes towards her, and two completely different paths immediately appear in front of her.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.wav",
+        "text": "One small path is dim and quiet, with a faint smell of ghosts floating around; the other small path is shining with golden light, piled with glittering treasures, extremely tempting.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0019.webp",
+        "dubbing": "scenes\\audio\\Little Witch00001.wav",
+        "text": "I want to become stronger! I want to be the ghost king! But... which path should I take?",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.wav",
+        "text": "Biting her lips, slowly turning her head from left to right, her gaze shifting between the two paths: But... which path should I take?",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0007.webm",
+        "dubbing": "scenes\\audio\\Little Guide Ghost00000.wav",
+        "text": "You can take either path! One is to fight monsters and accumulate experience, the other is to steal treasures and get rich quickly!",
+        "characterImage": "scenes\\images\\littleguideghost tou.webp",
+        "characterName": "Little Guide Ghost"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0218.webp",
+        "dubbing": "scenes\\audio\\Little Witch00002.wav",
+        "text": "I... which one should I choose after all?",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_15",
+          "label": "Defeat the cold ghost and accumulate experience"
+        },
+        {
+          "nextId": "scene_34",
+          "label": "Be greedy for wealth and steal treasures"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.wav",
+        "text": "Its huge body leans forward slightly, the miasma around it surges violently, and virus particles spread around.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0008.webp",
+        "dubbing": "scenes\\audio\\Little Witch00003.wav",
+        "text": "I can't be impatient! I'll become stronger step by step! I choose to defeat the cold ghost!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.wav",
+        "text": "Reaching out her right hand forward, pointing into the depths of the mist: I choose to defeat the cold ghost!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0164.webp",
+        "dubbing": "scenes\\audio\\Little Guide Ghost00001.wav",
+        "text": "Great! Starting with a down - to - earth attitude is the most correct way!",
+        "characterImage": "scenes\\images\\littleguideghost tou.webp",
+        "characterName": "Little Guide Ghost"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.wav",
+        "text": "The little witch walks forward along the dim path. After just a few steps, she hears a continuous series of sneezing sounds.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.wav",
+        "text": "A cold ghost wrapped in a thick quilt with a red nose is huddled beside a rock, constantly running at the nose.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0232.webp",
+        "dubbing": "scenes\\audio\\Cold Ghost00000.wav",
+        "text": "Achoo — Achoo — Who... who's there? Achoo!",
+        "characterImage": "scenes\\images\\coldghost tou.webp",
+        "characterName": "Cold Ghost"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0091.webp",
+        "dubbing": "scenes\\audio\\Little Witch00004.wav",
+        "text": "I'm the little witch who will become the ghost king! I'm going to defeat you!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0092.webp",
+        "dubbing": "scenes\\audio\\Cold Ghost00001.wav",
+        "text": "Just... just you, a little thing? Achoo — I'm not afraid!",
+        "characterImage": "scenes\\images\\coldghost tou.webp",
+        "characterName": "Cold Ghost"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0383.webp",
+        "dubbing": "scenes\\audio\\Little Witch00005.wav",
+        "text": "Take my resentment blast!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0382.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.wav",
+        "text": "The little witch stretches out her small hand, and a weak but determined black resentment strikes out.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0379.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.wav",
+        "text": "The cold ghost, already weak all over, is knocked to the ground at once.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0379.webp",
+        "dubbing": "scenes\\audio\\Cold Ghost00002.wav",
+        "text": "I give up... I give up... Achoo — You're so powerful!",
+        "characterImage": "scenes\\images\\coldghost tou.webp",
+        "characterName": "Cold Ghost"
+      },
+      "nextId": "scene_28"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0386.webp",
+        "dubbing": "scenes\\audio\\Little Witch00006.wav",
+        "text": "Yeah! I won! I've gained experience! I've officially started my journey to level up!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0384.webp",
+        "dubbing": "scenes\\audio\\Little Guide Ghost00002.wav",
+        "text": "Congratulations, little witch! Keep going! More challenging tests are waiting for you!",
+        "characterImage": "scenes\\images\\littleguideghost tou.webp",
+        "characterName": "Little Guide Ghost"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0384.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.wav",
+        "text": "After successfully defeating the Cold Ghost, the little witch felt as light as a feather. Her magic power was several times stronger than before.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet2_16",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0229.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.wav",
+        "text": "She continued walking forward. Two choices appeared again on the way ahead: Should she press on and continue to challenge the ghosts, or rest in place and eat to regain her strength?",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet2_17",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0229.webp",
+        "dubbing": "scenes\\audio\\Little Witch00007.wav",
+        "text": "The battle just now was so tiring... But I still want to level up quickly...",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet2_18",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0229.webp",
+        "dubbing": "scenes\\audio\\Mysterious Echo00000.wav",
+        "text": "If you continue to fight, you can become stronger faster; if you stop to rest, you can regain your strength. Which one do you choose?",
+        "characterImage": "scenes\\images\\mysteriousecho tou.webp",
+        "characterName": "Mysterious Echo"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "Press on and challenge the Disabled Ghost"
+        },
+        {
+          "nextId": "scene_68",
+          "label": "Rest in place and replenish your strength"
+        }
+      ]
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0226.webp",
+        "dubbing": "scenes\\audio\\Little Witch00008.wav",
+        "text": "Wow! It's a treasure! So many shiny gold and gems! I'm going to steal them!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0227.webp",
+        "dubbing": "scenes\\audio\\Guardian Ghost00000.wav",
+        "text": "Don't go over there! The treasure is surrounded by deadly traps!",
+        "characterImage": "scenes\\images\\guardianghost tou.webp",
+        "characterName": "Guardian Ghost"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0010.webp",
+        "dubbing": "scenes\\audio\\Little Witch00009.wav",
+        "text": "I don't care about any traps! I want to be rich! I want to become stronger as soon as possible!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.wav",
+        "text": "She tiptoed and quietly slipped into the treasure area. As soon as her little hand touched the most dazzling gold coin.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.wav",
+        "text": "\"Whoosh --!\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0241.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.wav",
+        "text": "Suddenly, a purple - glowing poisoned needle shot out from the ground and stabbed hard into the little witch's arm!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0241.webp",
+        "dubbing": "scenes\\audio\\Little Witch00010.wav",
+        "text": "Ah --! It hurts! It hurts so much! What is this thing!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_41"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Poison Needle Magic00000.wav",
+        "text": "The toxin starts to spread... The strength starts to drain...",
+        "characterImage": "scenes\\images\\poisonneedlemagic tou.webp",
+        "characterName": "Poison Needle Magic"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Little Witch00011.wav",
+        "text": "My body... It's so numb... I can't stand up... Wuwuwu...",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Guardian Ghost00001.wav",
+        "text": "I told you there were traps... Greed comes at a price.",
+        "characterImage": "scenes\\images\\guardianghost tou.webp",
+        "characterName": "Guardian Ghost"
+      },
+      "nextId": "scene_44"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.wav",
+        "text": "[Failure triggered: Return to the main line and make a new choice]",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_15",
+          "label": "Defeat the Cold Ghost and accumulate experience"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0164.webp",
+        "dubbing": "scenes\\audio\\Little Witch00012.wav",
+        "text": "I can't stop! I'm going to press on! I'm going to challenge the Disabled Ghost!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0244.webp",
+        "dubbing": "scenes\\audio\\Mysterious Echo00001.wav",
+        "text": "Brave child! Go ahead!",
+        "characterImage": "scenes\\images\\mysteriousecho tou.webp",
+        "characterName": "Mysterious Echo"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.wav",
+        "text": "The little witch followed the ghost's aura and soon found a Disabled Ghost who was walking with a stick and had difficulty moving.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.wav",
+        "text": "The Disabled Ghost looked fierce, but it didn't attack actively.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0171.webp",
+        "dubbing": "scenes\\audio\\Disabled Ghost00000.wav",
+        "text": "Little girl, do you really want to fight me? I won't show any mercy.",
+        "characterImage": "scenes\\images\\disabledghost tou.webp",
+        "characterName": "Disabled Ghost"
+      },
+      "nextId": "scene_50"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0019.webp",
+        "dubbing": "scenes\\audio\\Little Witch00013.wav",
+        "text": "I want to become the Ghost King! I must defeat you!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0171.webp",
+        "dubbing": "scenes\\audio\\Disabled Ghost00001.wav",
+        "text": "Okay! Then I'll see what you're capable of!",
+        "characterImage": "scenes\\images\\disabledghost tou.webp",
+        "characterName": "Disabled Ghost"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.wav",
+        "text": "The little witch mobilized the resentment power she had just improved and launched a steady attack without any impatience.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.wav",
+        "text": "After a fierce fight, the Disabled Ghost was successfully defeated!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.wav",
+        "text": "\"Ding --!\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.wav",
+        "text": "A bright light envelops the little witch, and her level directly jumps to level 5. Her power surges instantly!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0247.webp",
+        "dubbing": "scenes\\audio\\Little Witch00014.wav",
+        "text": "Level 5! I've reached level 5! My power has become so strong!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0248.webp",
+        "dubbing": "scenes\\audio\\Disabled Ghost00002.wav",
+        "text": "You really have the potential to become the Ghost King... Come on, little girl.",
+        "characterImage": "scenes\\images\\disabledghost tou.webp",
+        "characterName": "Disabled Ghost"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0248.webp",
+        "dubbing": "scenes\\audio\\Little Witch00015.wav",
+        "text": "Thank you! I'll keep working hard!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.wav",
+        "text": "Looking at the experience light shining on her body, her pupils dilate and the corners of her mouth gradually turn up: Yeah! I won! I've gained experience!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet4_15",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.wav",
+        "text": "Jumping up happily, raising her arms high and spinning her body: I've officially started my upgrading journey!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet4_16",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0387.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.wav",
+        "text": "Floating around and circling the little witch, clapping hands non - stop: Congratulations, little witch! Keep going!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet4_17",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0387.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.wav",
+        "text": "Standing firm after landing, making a fist and pointing to the road ahead, with a burning look in her eyes: A more powerful test is waiting for you!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet4_18",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.wav",
+        "text": "The little witch who has reached level 5 is full of strength. She strides forward and walks into a vast expanse of white mist.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet4_19",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0257.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.wav",
+        "text": "As she walks, two familiar figures suddenly run over - one is an old friend she hasn't seen for a long time, and the other is her former close - by bestie!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet4_20",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0280.webp",
+        "dubbing": "scenes\\audio\\Old Friend00000.wav",
+        "text": "Little witch! It's me! Long time no see! Come with me quickly! I'll show you a shortcut!",
+        "characterImage": "scenes\\images\\oldfriend tou.webp",
+        "characterName": "Old Friend"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet4_21",
+      "excelSheetName": "Sheet4",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0114.webm",
+        "dubbing": "scenes\\audio\\Bestie00000.wav",
+        "text": "Don't believe him! Something's wrong with him! Come with me! I'll always protect you!",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet4_22",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0175.webp",
+        "dubbing": "scenes\\audio\\Little Witch00016.wav",
+        "text": "I... Who should I believe? They were both the closest people to me before!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_79",
+          "label": "Follow the old friend"
+        },
+        {
+          "nextId": "scene_89",
+          "label": "Choose to trust the bestie and go with her"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.wav",
+        "text": "Side quest: Rest in place and replenish energy",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0029.webp",
+        "dubbing": "scenes\\audio\\Little Witch00017.wav",
+        "text": "So tired! I need to rest! I need to eat to replenish energy!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0106.webp",
+        "dubbing": "scenes\\audio\\Roadside Wild Fruit Elf00000.wav",
+        "text": "Eat me! I'm so sweet and delicious! You'll be fully recovered right after eating me!",
+        "characterImage": "scenes\\images\\roadsidewildfruitelf tou.webp",
+        "characterName": "Roadside Wild Fruit Elf"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0106.webp",
+        "dubbing": "scenes\\audio\\Little Witch00018.wav",
+        "text": "Wow! It looks so delicious! I want to eat!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.wav",
+        "text": "She picks up the fruit and takes big bites. The fruit is sweet and juicy. It tastes wonderful.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.wav",
+        "text": "But not long after swallowing it, a sharp pain suddenly comes from her stomach!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0030.webp",
+        "dubbing": "scenes\\audio\\Little Witch00019.wav",
+        "text": "Ouch... My stomach... It hurts so much... What's going on!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_75"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0174.webp",
+        "dubbing": "scenes\\audio\\Poisonous Fruit Elf00000.wav",
+        "text": "Hahaha! This is a fruit poisoned with a deadly toxin! You've been tricked!",
+        "characterImage": "scenes\\images\\poisonousfruitelf tou.webp",
+        "characterName": "Poisonous Fruit Elf"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0064.webp",
+        "dubbing": "scenes\\audio\\Little Witch00020.wav",
+        "text": "My power... is disappearing quickly... My level... is dropping... Wuwuwu...",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0064.webp",
+        "dubbing": "scenes\\audio\\Poisonous Fruit Elf00001.wav",
+        "text": "Greedy and lazy people always encounter danger!",
+        "characterImage": "scenes\\images\\poisonousfruitelf tou.webp",
+        "characterName": "Poisonous Fruit Elf"
+      },
+      "nextId": "scene_78"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.wav",
+        "text": "[Failure triggered: Return to the main line and make a new choice]",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "Seize the opportunity to pursue and challenge the disabled ghost"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0038.webp",
+        "dubbing": "scenes\\audio\\Little Witch00021.wav",
+        "text": "Old friend! It's really you! I miss you so much! I'll go with you!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0261.webp",
+        "dubbing": "scenes\\audio\\Pretender00000.wav",
+        "text": "Good girl... Come with me...",
+        "characterImage": "scenes\\images\\pretender tou.webp",
+        "characterName": "Pretender"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0261.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.wav",
+        "text": "The little witch follows the \"old friend\" into the depths of the mist without any defense.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0287.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.wav",
+        "text": "Suddenly, the \"old friend\" emitted a blinding light, and its body began to twist and deform!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0262.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.wav",
+        "text": "A slender body and a glowing head - it was actually an imposter transformed from a beauty laser device!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0119.webp",
+        "dubbing": "scenes\\audio\\Little Witch00022.wav",
+        "text": "Ah? You're not my friend! What on earth are you!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0039.webp",
+        "dubbing": "scenes\\audio\\Pretender00001.wav",
+        "text": "Stupid little girl! You're too easy to trust others! I'm going to devour you!",
+        "characterImage": "scenes\\images\\pretender tou.webp",
+        "characterName": "Pretender"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0119.webp",
+        "dubbing": "scenes\\audio\\Little Witch00023.wav",
+        "text": "Nooo --! Help!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0289.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.wav",
+        "text": "The imposter opened its huge beam mouth and swallowed the defenseless little witch whole. The little witch instantly disappeared into the mist.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0290.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.wav",
+        "text": "[Trigger failed: Return to the main line and make a new choice]",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_89",
+          "label": "Choose to trust your best friend and go together"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Little Witch00024.wav",
+        "text": "I trust you! Best friend! I choose to go with you!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Bestie00001.wav",
+        "text": "Great! I knew you'd trust me! I'll never hurt you!",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.wav",
+        "text": "The two held hands and walked forward together. The best friend was familiar with the paths in the mist and always led the little witch to avoid danger.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.wav",
+        "text": "Moreover, the best friend shared a part of her magic power that she had cultivated for many years with the little witch.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.wav",
+        "text": "\"Ding --!\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0284.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.wav",
+        "text": "The little witch's level directly increased by 2 levels, and her strength became even stronger!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Little Witch00025.wav",
+        "text": "Wow! I've become stronger again! Thank you, best friend! I feel so safe with you!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Bestie00002.wav",
+        "text": "We're the best partners. We should rely on and help each other. But you have to remember, even if you have resentment in your heart, don't lose yourself.",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Little Witch00026.wav",
+        "text": "I remember! Let's work hard together!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.wav",
+        "text": "The little witch and her best friend walked side by side for a long time. Both of them were out of breath and had fine beads of sweat on their foreheads.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.wav",
+        "text": "They stopped by the roadside to rest. There were two kinds of fruits in front of them: one was an ordinary, bright - red strawberry; the other was a golden apple that emitted a strong magic power and was extremely alluring.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0042.webp",
+        "dubbing": "scenes\\audio\\Bestie00003.wav",
+        "text": "Little witch, choose the red strawberry! It's gentle and safe, with no side effects, and can help you level up steadily.",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0043.webp",
+        "dubbing": "scenes\\audio\\Golden Apple00000.wav",
+        "text": "Choose me! Choose me! Eat me, and you'll instantly become super strong! You'll reach the top in one step!",
+        "characterImage": "scenes\\images\\goldenapple tou.webp",
+        "characterName": "Golden Apple"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0293.webp",
+        "dubbing": "scenes\\audio\\Little Witch00027.wav",
+        "text": "I want to become stronger as fast as possible... I want to become the Ghost King soon... But my best friend said the red strawberry is safer... Which one should I choose?",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_103",
+          "label": "Eat the red strawberry and level up steadily"
+        },
+        {
+          "nextId": "scene_121",
+          "label": "Eat the golden apple and force an advancement"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0044.webp",
+        "dubbing": "scenes\\audio\\Little Witch00028.wav",
+        "text": "I can't be greedy for quick strength! I'll take it step by step! I choose to eat the red strawberry!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0045.webp",
+        "dubbing": "scenes\\audio\\Bestie00004.wav",
+        "text": "Great! You've made the smartest choice!",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0045.webp",
+        "dubbing": "scenes\\audio\\Red Strawberry00000.wav",
+        "text": "Don't worry and eat! I'll gently enhance your magic power!",
+        "characterImage": "scenes\\images\\redstrawberry tou.webp",
+        "characterName": "Red Strawberry"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.wav",
+        "text": "The little witch picked up the red strawberry and took a small bite.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.wav",
+        "text": "It was sweet and sour, melting in the mouth. A gentle and comfortable magic power slowly flowed through her whole body without any pain.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.wav",
+        "text": "\"Ding --!\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.wav",
+        "text": "Successfully reached level 7, with magic power steadily increasing and no discomfort in the body!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\Little Witch00029.wav",
+        "text": "So warm! I've become stronger, but I don't feel any pain at all! This feeling is amazing!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\Bestie00005.wav",
+        "text": "See! Impatience and greed only bring danger. Taking it step by step is the right way.",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_112"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\Little Witch00030.wav",
+        "text": "I won't be impatient anymore! I'll become stronger slowly!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_113"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.wav",
+        "text": "After the rest, the magic power is fully restored. The little witch hugs her best friend tightly and says goodbye.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0114.webm",
+        "dubbing": "scenes\\audio\\Bestie00006.wav",
+        "text": "You have to work hard! I believe you can become the best ghost king! Don't lose yourself!",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0114.webm",
+        "dubbing": "scenes\\audio\\Little Witch00031.wav",
+        "text": "Thank you! Best friend! I'll definitely remember your words!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_116"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.wav",
+        "text": "After saying goodbye to her best friend, the little witch heads towards the Ghost King's Hall alone.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet8_14",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.wav",
+        "text": "The closer she gets to the hall, the more oppressive the atmosphere becomes. She knows that the Ghost King is extremely powerful and she must make full preparations.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet8_15",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.wav",
+        "text": "At this moment, she faces the final pre - battle choice: should she first look for the secret manual and proceed steadily, or take the risk to challenge the cancer ghost for a quick upgrade?",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet8_16",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0053.webp",
+        "dubbing": "scenes\\audio\\Little Witch00032.wav",
+        "text": "The Ghost King is so strong and scary... How on earth should I prepare?",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_120"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet8_17",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0310.webp",
+        "dubbing": "scenes\\audio\\Sky Voice00000.wav",
+        "text": "Get the secret manual and have a steady battle; challenge the cancer ghost and achieve a great leap. Two paths, two fates. You choose for yourself.",
+        "characterImage": "scenes\\images\\skyvoice tou.webp",
+        "characterName": "Sky Voice"
+      },
+      "branches": [
+        {
+          "nextId": "scene_133",
+          "label": "Get the secret manual and fight the Ghost King"
+        },
+        {
+          "nextId": "scene_160",
+          "label": "Challenge the cancer ghost and upgrade quickly"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0362.webm",
+        "dubbing": "scenes\\audio\\Little Witch00033.wav",
+        "text": "I want to become stronger as fast as possible! I want to upgrade directly! I choose to eat the golden apple!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0362.webm",
+        "dubbing": "scenes\\audio\\Bestie00007.wav",
+        "text": "Don't eat it! Little witch! That thing is very dangerous! It'll ruin you!",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_123"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0048.webm",
+        "dubbing": "scenes\\audio\\Little Witch00034.wav",
+        "text": "I don't care! I want to be the Ghost King! I want to have powerful strength right away!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0048.webm",
+        "dubbing": "scenes\\audio\\pangbai00058.wav",
+        "text": "She grabs the golden apple and swallows it in one big bite!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0298.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.wav",
+        "text": "As soon as she swallows it, a wild and extremely powerful magic power suddenly explodes inside her body!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0270.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.wav",
+        "text": "\"Boom —!\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0300.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.wav",
+        "text": "A huge black hole cracks open on the ground, and a powerful suction force instantly pulls the little witch into it!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0299.webp",
+        "dubbing": "scenes\\audio\\Little Witch00035.wav",
+        "text": "Ah —! Where is this! Help! I'm so scared!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0299.webp",
+        "dubbing": "scenes\\audio\\Black Hole Mysterious Power00000.wav",
+        "text": "Smash the mind... Smash the power... Erase the consciousness...",
+        "characterImage": "scenes\\images\\blackholemysteriouspower tou.webp",
+        "characterName": "Black Hole Mysterious Power"
+      },
+      "nextId": "scene_130"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0299.webp",
+        "dubbing": "scenes\\audio\\Little Witch00036.wav",
+        "text": "My head... is so messy... My power... is disappearing... I... I can't remember anything...",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_131"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0378.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.wav",
+        "text": "The black hole slowly closes, and the little witch completely disappears into the darkness.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.wav",
+        "text": "[Trigger failure: Return to the main line and make the choice again]",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_103",
+          "label": "Eat red strawberries and upgrade steadily"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0070.webp",
+        "dubbing": "scenes\\audio\\Little Witch00037.wav",
+        "text": "I can't take risks! The Ghost King is too powerful. I must make full preparations! I choose to get the secret manual first.",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0069.webp",
+        "dubbing": "scenes\\audio\\Sky Voice00001.wav",
+        "text": "A wise choice...",
+        "characterImage": "scenes\\images\\skyvoice tou.webp",
+        "characterName": "Sky Voice"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.wav",
+        "text": "Following the guidance, the little witch comes to a hidden cave. An old man with white hair, the guardian of the secret manual, is sitting in the cave.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0136.webp",
+        "dubbing": "scenes\\audio\\Secret Manual Guardian00000.wav",
+        "text": "Child, I know what you're here for. You're calm and determined, and you deserve this secret manual.",
+        "characterImage": "scenes\\images\\secretmanualguardian tou.webp",
+        "characterName": "Secret Manual Guardian"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0136.webp",
+        "dubbing": "scenes\\audio\\Little Witch00038.wav",
+        "text": "Thank you! I'll use it to do the right thing!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0309.webp",
+        "dubbing": "scenes\\audio\\Secret Manual Guardian00001.wav",
+        "text": "This is the \"Technique of Resentment Protection\". It can not only enhance your power but also help you keep your true self. Take it.",
+        "characterImage": "scenes\\images\\secretmanualguardian tou.webp",
+        "characterName": "Secret Manual Guardian"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0309.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.wav",
+        "text": "The little witch took the secret manual and practiced seriously. Her power became stable, strong, and gentle.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.wav",
+        "text": "After finishing her practice, she took a deep breath and strode into the Ghost King's Hall!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0141.webp",
+        "dubbing": "scenes\\audio\\Little Witch00039.wav",
+        "text": "Ghost King! I'm here to challenge you! I'm going to be the new Ghost King!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.wav",
+        "text": "Holding the \"Technique of Resentment Protection\", the little witch engaged in an earth - shattering battle with the old Ghost King in the Ghost King's Hall.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0321.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.wav",
+        "text": "Relying on the power of the secret manual, she kept her true self, remained calm, and every move was full of power but not violent.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.wav",
+        "text": "After three days and three nights of fighting, the old Ghost King was finally defeated and fell to the ground!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.wav",
+        "text": "The black Ghost King's crown fell from the old Ghost King's head and landed firmly on the little witch's head!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.wav",
+        "text": "She succeeded! She defeated the Ghost King and ascended to the supreme position of the Ghost King!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.wav",
+        "text": "She slowly stood up, clenched her fists, and turned to face the wilderness.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0350.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.wav",
+        "text": "She strode out of the boundary of the Ghost Land, with her cloak fluttering in the wind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0350.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.wav",
+        "text": "As she stepped out of the Ghost Land, the gray mist rushed towards her.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet10_17",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0327.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.wav",
+        "text": "But just then, a fierce battle broke out in her heart!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet10_18",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0328.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.wav",
+        "text": "On one side, there was the voice of resentment, shouting crazily to take revenge on the world; on the other side, there was the voice of kindness, gently reminding her not to hurt the innocent.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet10_19",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0330.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.wav",
+        "text": "The two voices kept arguing in her mind, causing her great pain.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet10_20",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0331.webp",
+        "dubbing": "scenes\\audio\\Voice of Resentment00000.wav",
+        "text": "Have you forgotten the suffering you've endured? Make the whole world sick! Let everyone feel your pain! Take revenge on the world!",
+        "characterImage": "scenes\\images\\voiceofresentment tou.webp",
+        "characterName": "Voice of Resentment"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet10_21",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0332.webp",
+        "dubbing": "scenes\\audio\\Voice of Kindness00000.wav",
+        "text": "Don't do this... The pain you've suffered shouldn't be borne by the innocent. True strength lies in protection, not harm.",
+        "characterImage": "scenes\\images\\voiceofkindness tou.webp",
+        "characterName": "Voice of Kindness"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet10_22",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0330.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.wav",
+        "text": "Her head suddenly tilted to the left, her left eye wide open and bloodshot, her right eye closed: on one side, the voice of resentment was shouting crazily to take revenge on the world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet10_23",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.wav",
+        "text": "Her head then suddenly tilted to the right, her right eye wide open with tears streaming down, her left eye closed: on one side, the voice of kindness was gently reminding her not to hurt the innocent.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet10_24",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.wav",
+        "text": "Kneeling on the ground, looking up at the sky, with her hands stretched out desperately to the sides, her body being torn by an invisible force and swaying from side to side: the two voices kept arguing in her mind, causing her great pain.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_158"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet10_25",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0334.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.wav",
+        "text": "The Medicine King, wearing white clothes and holding herbs, slowly appeared.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet10_26",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0335.webp",
+        "dubbing": "scenes\\audio\\Medicine King00000.wav",
+        "text": "Little witch, you're already the Ghost King. Now, make the most important choice of your life. What kind of Ghost King do you want to be?",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "branches": [
+        {
+          "nextId": "scene_173",
+          "label": "Become a bad Ghost King and take revenge on the world."
+        },
+        {
+          "nextId": "scene_185",
+          "label": "Become a good Ghost King and protect the world."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0311.webp",
+        "dubbing": "scenes\\audio\\Little Witch00040.wav",
+        "text": "Defeating the Cancer Ghost can directly raise your level by 10! I'm going to take a gamble! I want to become the Ghost King as soon as possible!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0311.webp",
+        "dubbing": "scenes\\audio\\Sky Voice00002.wav",
+        "text": "Impatience will bring destruction... You'll regret it...",
+        "characterImage": "scenes\\images\\skyvoice tou.webp",
+        "characterName": "Sky Voice"
+      },
+      "nextId": "scene_162"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0316.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.wav",
+        "text": "Ignoring the dissuasion, the little witch went straight to the Cancer Ghost's lair.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0320.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.wav",
+        "text": "A huge Cancer Ghost, exuding a dark aura all over its body, was coiled in the center of the lair, with an extremely oppressive presence.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0318.webp",
+        "dubbing": "scenes\\audio\\Cancer Ghost00000.wav",
+        "text": "Tiny girl... You're too weak... You're no match for me...",
+        "characterImage": "scenes\\images\\cancerghost tou.webp",
+        "characterName": "Cancer Ghost"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0059.webp",
+        "dubbing": "scenes\\audio\\Little Witch00041.wav",
+        "text": "I'm not afraid of you! I'll defeat you! I'll level up!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.wav",
+        "text": "The battle is about to break out!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.wav",
+        "text": "The Cancer Ghost just waved its claws gently, and the powerful dark force made the little witch gasp for breath.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.wav",
+        "text": "The little witch fought with all her might, but she couldn't hold out at all!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0064.webp",
+        "dubbing": "scenes\\audio\\Little Witch00042.wav",
+        "text": "So strong... Too strong... I... I can't beat it at all...",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0193.webp",
+        "dubbing": "scenes\\audio\\Cancer Ghost00001.wav",
+        "text": "Go back... You're not qualified to be the Ghost King yet... Come back when you're truly powerful.",
+        "characterImage": "scenes\\images\\cancerghost tou.webp",
+        "characterName": "Cancer Ghost"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0193.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.wav",
+        "text": "The little witch was covered in injuries and had exhausted her magic. She couldn't stand up anymore.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.wav",
+        "text": "[Trigger failed: Return to the main line and make a new choice]",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_133",
+          "label": "Obtain the secret manual and fight the Ghost King in a decisive battle"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Little Witch00043.wav",
+        "text": "I hate! I hate so much! I'll take revenge! I'll become the evil Ghost King! I'll make the whole world suffer from illness!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0199.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00000.wav",
+        "text": "Release the darkness... Spread the illness... Destroy everything...",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0347.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.wav",
+        "text": "The little witch mobilized all the dark power in her body and was ready to release the curse of illness to the whole world!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.wav",
+        "text": "Just then, a golden light suddenly shone in the sky!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0348.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.wav",
+        "text": "The Justice Virus Legion assembled neatly. Their shields glistened and their weapons glowed as they charged towards the evil witch!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0358.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00001.wav",
+        "text": "Evil will never prevail over justice! You'll never hurt innocent people!",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0349.webp",
+        "dubbing": "scenes\\audio\\Little Witch00044.wav",
+        "text": "Don't try to stop me! I'll make everyone taste my pain!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0156.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00002.wav",
+        "text": "All attack! Purify the evil together!",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.wav",
+        "text": "Countless rays of justice hit the little witch. The resentment on her body was gradually purified, and her body became transparent little by little.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0156.webp",
+        "dubbing": "scenes\\audio\\Little Witch00045.wav",
+        "text": "No —! My resentment! My power! Don't disappear!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_183"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0358.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00003.wav",
+        "text": "Resentment will only destroy yourself. Only kindness can achieve eternity.",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0358.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.wav",
+        "text": "The little witch's body became fainter and fainter. Finally, she completely vanished into thin air and never appeared again.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_185",
+          "label": "Choose to be a good Ghost King"
+        }
+      ]
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0352.webp",
+        "dubbing": "scenes\\audio\\Little Witch00046.wav",
+        "text": "I... I don't want others to suffer... I don't want anyone else to be tortured by illness like me and leave with regrets...",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0353.webp",
+        "dubbing": "scenes\\audio\\Medicine King00001.wav",
+        "text": "You've made the bravest and greatest choice. A true Ghost King doesn't rule the world with fear but protects it with love.",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0353.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.wav",
+        "text": "The pupils contracted, and the line of sight shifted between the Medicine King and the void",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.wav",
+        "text": "Took a half - step back and spread out the arms. The herbs turned into light spots and dissipated",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.wav",
+        "text": "Hugged the head and knelt on the ground. The body trembled violently, and the knuckles turned white from exertion: Have you forgotten the pain you've suffered? Make the whole world sick!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0105.webp",
+        "dubbing": "scenes\\audio\\Little Witch00047.wav",
+        "text": "I'll let go of my resentment! I'll become a good Ghost King! I'll protect this world! I'll make the illness disappear! Let everyone be healthy and happy!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.wav",
+        "text": "She took off the cold Ghost King's crown on her head and transformed the dark resentment in her body into warm healing light.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0354.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.wav",
+        "text": "She walked up to the Medicine King on her own initiative, reached out her little hand, and shook hands tightly with the Medicine King.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0354.webp",
+        "dubbing": "scenes\\audio\\Little Witch00048.wav",
+        "text": "My lord Medicine King, I want to be with you! Let's stand side by side, drive away illnesses together, and protect all lives!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_194"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0354.webp",
+        "dubbing": "scenes\\audio\\Medicine King00002.wav",
+        "text": "Welcome, the new Guardian Ghost King! From now on, let's protect the peace of the world together!",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "nextId": "scene_195"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0355.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.wav",
+        "text": "The healing light illuminated the entire land of evil spirits. The gray mist dispersed, and the sunlight shone down.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0355.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.wav",
+        "text": "The illnesses were suppressed, the viruses were dispelled, and all suffering lives were redeemed.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0151.webp",
+        "dubbing": "scenes\\audio\\Little Witch00049.wav",
+        "text": "From today on, I'm no longer the resentful demoness bent on revenge! I'm the kind - hearted Ghost King who guards the world! I'll use my power to protect everyone!",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\Medicine King00003.wav",
+        "text": "The world has become warmer and more beautiful because of your choice.",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\Ghosts and Monsters00000.wav",
+        "text": "Long live the good Ghost King! Long live the kind - hearted Ghost King!",
+        "characterImage": "scenes\\images\\ghostsandmonsters tou.webp",
+        "characterName": "Ghosts and Monsters"
+      },
+      "nextId": "scene_200"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.wav",
+        "text": "The adventure was a complete success! You used kindness and reason to save the little demoness and the whole world!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.wav",
+        "text": "Slowly raising her head, tears slid down her cheeks but floated in mid - air. Her lips trembled slightly as she opened them: \"True strength lies in protection, not harm.\"",
+        "characterName": "旁白"
+      }
+    }
+  ]
+}

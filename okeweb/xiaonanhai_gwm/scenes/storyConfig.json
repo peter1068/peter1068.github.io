@@ -1,0 +1,4418 @@
+{
+  "uid": "guowangmengxiang",
+  "name": "guowangmengxiang",
+  "token": "U2FsdGVkX19ytKFNyo6o9UuuW5SqUlJaYwiIbKqZm6DQmUG2r9/qQDxQrlJGPzGA",
+  "cover": "scenes\\images\\xiaonanhaideguowangmeng_0001.webp",
+  "version": "20260504-1041",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.wav",
+        "text": "在一片安静的小村庄里，住着一个名叫小星的小男孩。他今年七岁，有着圆圆的脸蛋、亮晶晶的眼睛，最喜欢坐在院子里，望着天上的云朵发呆。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.wav",
+        "text": "小星有一个藏在心底很久很久的梦想——成为一名威风凛凛、受人尊敬的国王。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.wav",
+        "text": "他想拥有闪闪发光的王冠，想穿着红色的披风，想住在高高的城堡里，想保护所有善良的小动物和小朋友。每当想到这里，小星就会握紧小拳头，在心里默默说：“我一定要成为最勇敢、最厉害的国王！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.wav",
+        "text": "这天晚上，月光像一层薄薄的银纱，盖在小星的小床上。小星抱着他的小熊玩偶，想着他的国王梦，不知不觉就睡着了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.wav",
+        "text": "迷迷糊糊间，小星感觉自己的身体轻轻飘了起来。周围的房间、床、小熊都慢慢消失，取而代之的是一片五彩斑斓、闪闪发光的迷雾。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0281.webm",
+        "dubbing": "scenes\\audio\\Little Star00000.wav",
+        "text": "哇——",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0281.webm",
+        "dubbing": "scenes\\audio\\pangbai00005.wav",
+        "text": "小星忍不住轻声惊叹。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.wav",
+        "text": "迷雾散开，他发现自己站在一个从未见过的奇幻世界里。脚下是柔软得像棉花糖一样的草地，身边飘着会发光的小蝴蝶，远处有高高的树木，还有哗啦啦的水声。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.wav",
+        "text": "就在这时，一个温柔又响亮的声音，从天空中传来：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.wav",
+        "text": "欢迎来到梦境王国，勇敢的小冒险家！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.wav",
+        "text": "想要成为这里的国王，你必须找到传说中的国王球。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.wav",
+        "text": "一路上，你会遇到很多选择。选对了，就能继续前进；选错了，冒险就会失败，重新回到起点。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.wav",
+        "text": "你准备好了吗？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.wav",
+        "text": "小星挺起小胸膛，大声回答：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0007.webp",
+        "dubbing": "scenes\\audio\\Little Star00001.wav",
+        "text": "我准备好了！我要成为国王！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_15"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet1_15",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.wav",
+        "text": "声音落下，小星面前出现了两条路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet1_16",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.wav",
+        "text": "左边的路，通向一片神秘的大森林，树木高大，树叶沙沙作响，像是在欢迎小勇士。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet1_17",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.wav",
+        "text": "右边的路，通向一片金色的海滩，海浪拍打着沙滩，阳光闪闪亮亮，看起来特别漂亮。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet1_18",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.wav",
+        "text": "小星站在岔路口，有些犹豫。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_19",
+          "label": "进入森林"
+        },
+        {
+          "nextId": "scene_31",
+          "label": "前往海滩"
+        }
+      ]
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.wav",
+        "text": "小星咬了咬嘴唇，心里想：国王的冒险，一定是在神秘的地方开始！海滩虽然好看，但可能不是真正的冒险之路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.wav",
+        "text": "他深吸一口气，迈开小腿，朝着森林走去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0012.webp",
+        "dubbing": "scenes\\audio\\Little Star00002.wav",
+        "text": "我要去森林！我要勇敢！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_22"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.wav",
+        "text": "刚走进森林，清新的空气扑面而来，小鸟在枝头唱歌，小松鼠抱着松果从他身边跑过。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0013.webp",
+        "dubbing": "scenes\\audio\\Little Star00003.wav",
+        "text": "太棒啦！冒险开始啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_24"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.wav",
+        "text": "成功进入森林的小星，继续往前走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.wav",
+        "text": "走了一会儿，他听见旁边的草丛里传来“窸窸窣窣”的声音。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.wav",
+        "text": "小星停下脚步，小心地拨开草丛一看——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.wav",
+        "text": "里面有两只可爱的小动物！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.wav",
+        "text": "一只是毛茸茸的小白猫，眼睛圆圆的，喵喵叫着，看起来特别软萌。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.wav",
+        "text": "另一只是棕黄色的小狗，尾巴摇来晃去，眼神温顺又忠诚。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.wav",
+        "text": "两只小动物同时看向小星，好像在等他选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "选择小狗"
+        },
+        {
+          "nextId": "scene_61",
+          "label": "选择小猫"
+        }
+      ]
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.wav",
+        "text": "小星被海滩的阳光和浪花吸引，眼睛一亮：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0015.webp",
+        "dubbing": "scenes\\audio\\Little Star00004.wav",
+        "text": "哇！海滩好美呀！我去海滩玩一玩！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0282.webm",
+        "dubbing": "scenes\\audio\\pangbai00028.wav",
+        "text": "他蹦蹦跳跳地跑向海滩。脚下的沙子软软的，海浪凉凉的，小星开心得不得了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0282.webm",
+        "dubbing": "scenes\\audio\\pangbai00029.wav",
+        "text": "突然！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0282.webm",
+        "dubbing": "scenes\\audio\\pangbai00030.wav",
+        "text": "海水里“哗啦”一声，跳出一群长得半人半鲨鱼的怪物——鲨鱼人！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0282.webm",
+        "dubbing": "scenes\\audio\\pangbai00031.wav",
+        "text": "他们长着尖尖的牙齿，凶狠地朝着小星冲过来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0282.webm",
+        "dubbing": "scenes\\audio\\pangbai00032.wav",
+        "text": "小星吓得脸色发白，转身想跑，可是已经来不及了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.wav",
+        "text": "鲨鱼人们一拥而上，把小星包围了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0097.webp",
+        "dubbing": "scenes\\audio\\Little Star00005.wav",
+        "text": "哇——救命啊！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_40"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.wav",
+        "text": "小星害怕地大叫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.wav",
+        "text": "就在这时，天空中的声音再次响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet3_11",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.wav",
+        "text": "选错啦！海滩太危险啦！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet3_12",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.wav",
+        "text": "眼前的画面瞬间消失，小星又回到了最开始的岔路口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet3_13",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.wav",
+        "text": "他拍着胸口，后怕地说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet3_14",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0017.webp",
+        "dubbing": "scenes\\audio\\Little Star00006.wav",
+        "text": "好险好险！我再也不选海滩了！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_19",
+          "label": "进入森林"
+        }
+      ]
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.wav",
+        "text": "小星想：小猫看起来软软的，可是小狗更忠诚，更适合一起冒险！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.wav",
+        "text": "他笑着走向小狗，伸出小手轻轻摸了摸小狗的头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0028.webp",
+        "dubbing": "scenes\\audio\\Little Star00007.wav",
+        "text": "小狗小狗，你好呀！你愿意和我一起去寻找国王球，成为国王吗？",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_49"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.wav",
+        "text": "小狗立刻开心地摇着尾巴，“汪汪汪”叫了三声，还用脑袋蹭了蹭小星的手。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0028.webp",
+        "dubbing": "scenes\\audio\\Little Star00008.wav",
+        "text": "太好了！我们是伙伴啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.wav",
+        "text": "小星高兴地抱住小狗。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.wav",
+        "text": "小星和小狗成为了好朋友，一起往前走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.wav",
+        "text": "走了没多远，小狗突然停下脚步，肚子“咕咕咕”地叫了起来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.wav",
+        "text": "它低下头，用可怜巴巴的眼神看着小星，轻轻“呜呜”叫着。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.wav",
+        "text": "小星立刻明白了：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0023.webp",
+        "dubbing": "scenes\\audio\\Little Star00009.wav",
+        "text": "小狗，你是不是饿啦？",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.wav",
+        "text": "小狗用力点点头，尾巴有气无力地摇了摇。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.wav",
+        "text": "小星从口袋里掏出两包好吃的——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.wav",
+        "text": "一包是香喷喷的东北羊肉串，油亮亮的，闻起来特别香。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.wav",
+        "text": "一包是热乎乎的麻辣烫，红红的汤汁，看起来很够味。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_211",
+          "label": "喂小狗东北羊肉串"
+        },
+        {
+          "nextId": "scene_230",
+          "label": "喂小狗麻辣烫"
+        }
+      ]
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.wav",
+        "text": "小星一下子就被小白猫吸引了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\Little Star00010.wav",
+        "text": "哇！小猫好可爱呀！我要和小猫玩！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.wav",
+        "text": "他跑向小猫，蹲下来，轻轻抱起小猫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.wav",
+        "text": "小猫“喵喵”叫着，用小舌头舔了舔小星的手指。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.wav",
+        "text": "小星笑得眼睛都弯了：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\Little Star00011.wav",
+        "text": "小猫小猫，你真可爱！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_67"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.wav",
+        "text": "突然！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.wav",
+        "text": "小猫的眼睛发出一道奇怪的绿光，小小的身体里传出一个诡异的声音：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.wav",
+        "text": "嘿嘿嘿，你被我骗啦！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.wav",
+        "text": "小猫伸出小爪子，轻轻碰了一下小星的额头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.wav",
+        "text": "小星只觉得身体一麻，眼前一晕，等他再睁开眼睛——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.wav",
+        "text": "他发现自己的手变成了小猫的爪子，身体毛茸茸的，嘴巴里只能发出“喵喵喵”的声音！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\Little Star00012.wav",
+        "text": "喵？喵——！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_74"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.wav",
+        "text": "小星吓坏了。他变成了一只小猫，再也变不回小男孩了！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.wav",
+        "text": "选错啦！小猫会把你变成小动物！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.wav",
+        "text": "画面一闪，小星又回到了森林里，看着眼前的小猫和小狗。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet5_17",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围史诗紧张.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0233.webp",
+        "dubbing": "scenes\\audio\\Little Star00013.wav",
+        "text": "我不要和小猫玩！我要选小狗！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_46",
+          "label": "选择小狗"
+        }
+      ]
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.wav",
+        "text": "小星想：北方有雪山，肯定很冷！南方有湖水，很温暖，还可以钓鱼吃，最安全！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.wav",
+        "text": "他指着南方，大声说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0039.webp",
+        "dubbing": "scenes\\audio\\Little Star00014.wav",
+        "text": "我们去南方！去湖边钓鱼！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_82"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0039.webp",
+        "dubbing": "scenes\\audio\\Puppy00000.wav",
+        "text": "好！听小主人的！我们去南方！",
+        "characterImage": "scenes\\images\\puppy tou.webp",
+        "characterName": "Puppy"
+      },
+      "nextId": "scene_83"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.wav",
+        "text": "一人一狗，开开心心地朝着南方走去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.wav",
+        "text": "一路上阳光温暖，花儿开放，特别舒服。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.wav",
+        "text": "骑上变身后的发光坐骑，一人一狗向南方道路奔去",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.wav",
+        "text": "弯腰双手撑膝，肩膀起伏大口喘气，小狗凑近用鼻子蹭他手背：呼呼",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.wav",
+        "text": "站在湖边，手捂肚子，望向湖面：小狗，我也饿了，我们钓鱼吃吧！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.wav",
+        "text": "点头，尾巴摇动，看向小星：好！我帮你！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.wav",
+        "text": "小星用树枝和绳子，很快做好了一根钓鱼竿。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.wav",
+        "text": "他拿着鱼竿，站在湖边，看着水里的鱼，有些犹豫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.wav",
+        "text": "水里有两种鱼：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet6_13",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.wav",
+        "text": "一种是小小的鱼，游得慢，很容易上钩。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet6_14",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.wav",
+        "text": "一种是大大的鱼，又肥又大，看起来能吃饱肚子。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_243",
+          "label": "钓小鱼"
+        },
+        {
+          "nextId": "scene_261",
+          "label": "钓大鱼"
+        }
+      ]
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.wav",
+        "text": "小星觉得北方有果子，肯定能一下子吃饱！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.wav",
+        "text": "他兴奋地说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\Little Star00015.wav",
+        "text": "我们去北方！去北方找好吃的！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_97"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.wav",
+        "text": "百变坐骑小狗想提醒他，可是小星已经迈开腿跑向北方。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.wav",
+        "text": "刚走进北方，冷风就“呼呼”地吹过来！",
+        "soundEffects": "scenes\\audio\\大风_转换.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.wav",
+        "text": "天上飘着雪花，地上全是冰，冷得小星直发抖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.wav",
+        "text": "他又冷又饿，走不动路，缩在地上瑟瑟发抖。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\Little Star00016.wav",
+        "text": "好冷啊……好饿啊……",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_102"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.wav",
+        "text": "选错啦！北方太冷啦！你又冷又饿，坚持不住啦！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.wav",
+        "text": "小星眼前一黑，再次回到岔路口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.wav",
+        "text": "他搓着冻红的小手，说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0291.webp",
+        "dubbing": "scenes\\audio\\Little Star00017.wav",
+        "text": "太冷了！我不去北方！我要去南方！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_79",
+          "label": "去南方"
+        }
+      ]
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.wav",
+        "text": "小星想：宝剑是用来打架的，我不想打架！我要找国王球，宝藏图肯定更有用！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.wav",
+        "text": "他指着宝藏图，说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0054.webp",
+        "dubbing": "scenes\\audio\\Little Star00018.wav",
+        "text": "我选宝藏图！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_110"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.wav",
+        "text": "小鱼把宝藏图推到小星面前：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0054.webp",
+        "dubbing": "scenes\\audio\\Little Fish00000.wav",
+        "text": "谢谢你！这张图能帮你找到国王球！再见啦！",
+        "characterImage": "scenes\\images\\littlefish tou.webp",
+        "characterName": "Little Fish"
+      },
+      "nextId": "scene_112"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.wav",
+        "text": "小鱼“扑通”一声跳回湖里，不见了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.wav",
+        "text": "小星打开宝藏图，仔细一看，兴奋地大叫：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0055.webp",
+        "dubbing": "scenes\\audio\\Little Star00019.wav",
+        "text": "小狗！小狗你快来看！这张图就是找国王球的地图！我们离梦想越来越近啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_115"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.wav",
+        "text": "百变坐骑小狗围着宝藏图转了一圈，开心地“汪汪”叫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.wav",
+        "text": "小星拿着宝藏图，和小狗一起认真研究。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.wav",
+        "text": "宝藏图上画着两个地方，都画着宝箱的标记：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.wav",
+        "text": "一个是茅坑，图上画着小小的厕所，标记特别清楚。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.wav",
+        "text": "一个是墓地，图上画着墓碑，看起来阴森森的。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.wav",
+        "text": "小星皱起小眉头：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet8_14",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0059.webp",
+        "dubbing": "scenes\\audio\\Little Star00020.wav",
+        "text": "宝藏怎么会在茅坑里呢？又臭又脏……墓地看起来更像藏宝藏的地方……",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_138",
+          "label": "去墓地"
+        },
+        {
+          "nextId": "scene_151",
+          "label": "去茅坑"
+        }
+      ]
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.wav",
+        "text": "小星觉得宝剑闪闪发光，特别威风，拿着宝剑就没人敢欺负他了！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.wav",
+        "text": "他指着宝剑说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\Little Star00021.wav",
+        "text": "我选宝剑！有宝剑我就不怕怪物啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_125"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.wav",
+        "text": "小鱼把宝剑推给他，跳回湖里。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.wav",
+        "text": "小星拿起宝剑，挥了挥：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0134.webp",
+        "dubbing": "scenes\\audio\\Little Star00022.wav",
+        "text": "哇！好威风！我是小勇士！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_128"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.wav",
+        "text": "突然，宝剑自己动了起来！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.wav",
+        "text": "它不受控制，在小星身边疯狂乱挥，“唰唰唰”地砍来砍去！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.wav",
+        "text": "小星吓得大叫：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\Little Star00023.wav",
+        "text": "宝剑！你别乱动！快停下！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_132"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.wav",
+        "text": "可是宝剑根本停不下来，不小心划伤了小星。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.wav",
+        "text": "小星疼得倒在地上，眼泪都流出来了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.wav",
+        "text": "选错啦！宝剑不受控制，你受伤啦！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet9_14",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0057.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.wav",
+        "text": "小星捂着伤口，回到原地：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet9_15",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\紧张刺激氛围.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0057.webp",
+        "dubbing": "scenes\\audio\\Little Star00024.wav",
+        "text": "宝剑太可怕了！我要宝藏图！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_107",
+          "label": "选择藏宝图"
+        }
+      ]
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.wav",
+        "text": "小星皱起小眉头：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0060.webp",
+        "dubbing": "scenes\\audio\\Little Star00025.wav",
+        "text": "宝藏怎么会在茅坑里呢？又臭又脏……墓地看起来更像藏宝藏的地方……",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_140"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0060.webp",
+        "dubbing": "scenes\\audio\\Little Star00026.wav",
+        "text": "我才不要去茅坑！宝藏一定在墓地里！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.wav",
+        "text": "他拉着小狗，朝着墓地跑去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0294.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.wav",
+        "text": "墓地黑黑的，冷冷的，风吹过墓碑，发出“呜呜”的声音。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0285.webm",
+        "dubbing": "scenes\\audio\\pangbai00114.wav",
+        "text": "突然！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0285.webm",
+        "dubbing": "scenes\\audio\\pangbai00115.wav",
+        "text": "墓碑“咔嚓咔嚓”裂开，一群僵尸从里面跳了出来！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0285.webm",
+        "dubbing": "scenes\\audio\\pangbai00116.wav",
+        "text": "他们脸色发青，走路一摇一摆，朝着小星扑过来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0285.webm",
+        "dubbing": "scenes\\audio\\Little Star00027.wav",
+        "text": "哇！僵尸啊！救命！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.wav",
+        "text": "僵尸们一口咬住小星，小星感觉身体麻麻的，慢慢也变成了僵尸。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.wav",
+        "text": "“选错啦！墓地有僵尸！你被变成僵尸啦！冒险失败，请回到起点重新选择！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0065.webp",
+        "dubbing": "scenes\\audio\\Little Star00028.wav",
+        "text": "我不去墓地！我去茅坑！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_151",
+          "label": "去茅坑"
+        }
+      ]
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.wav",
+        "text": "小星想：宝藏图是小鱼给我的，肯定不会骗我！就算茅坑臭，我也要勇敢试一试！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.wav",
+        "text": "他握紧宝藏图，坚定地说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0061.webp",
+        "dubbing": "scenes\\audio\\Little Star00029.wav",
+        "text": "小狗，我们去茅坑！按照宝藏图的指示走！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.wav",
+        "text": "百变坐骑小狗点点头：“小主人真勇敢！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00123.wav",
+        "text": "一人一狗，按照地图的指引，来到了一个小小的茅坑旁边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00124.wav",
+        "text": "小星和百变坐骑小狗，站在茅坑旁边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.wav",
+        "text": "一股臭烘烘的味道扑面而来，熏得小星皱起鼻子，捂住嘴巴。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_158"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\Little Star00030.wav",
+        "text": "好臭啊——",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_159"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.wav",
+        "text": "宝藏图标明，国王球就在茅坑下面的宝箱里！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.wav",
+        "text": "可是这味道，实在太难闻了！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.wav",
+        "text": "小星面临最后一次选择——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.wav",
+        "text": "是坚持下去，还是放弃国王梦，直接回家？",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_176",
+          "label": "让小狗帮忙"
+        },
+        {
+          "nextId": "scene_163",
+          "label": "选择离开"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.wav",
+        "text": "茅坑的味道实在太难闻了，小星受不了了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.wav",
+        "text": "他捂着鼻子，连连后退：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0072.webp",
+        "dubbing": "scenes\\audio\\Little Star00031.wav",
+        "text": "太臭了！太臭了！我不要找宝藏了！我不要当国王了！我要回家！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_166"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.wav",
+        "text": "捂鼻摇头：我不要当国王了！我要回家！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.wav",
+        "text": "他转身就跑，再也不回头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.wav",
+        "text": "跑着跑着，小星眼前一黑，猛地睁开眼睛——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.wav",
+        "text": "他发现自己正躺在家里的小床上，天已经亮了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.wav",
+        "text": "坐起环顾四周",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.wav",
+        "text": "呆坐床上：原来，他从梦里醒来了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00138.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_173"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.wav",
+        "text": "选错啦！你放弃了梦想，国王梦破碎啦！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.wav",
+        "text": "小星坐在床上，后悔地拍着床铺：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0074.webp",
+        "dubbing": "scenes\\audio\\Little Star00032.wav",
+        "text": "我不应该放弃！我要回去！我要坚持到底！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_176",
+          "label": "坚持梦想"
+        }
+      ]
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.wav",
+        "text": "小星想起自己的梦想：我要成为国王！我不能因为臭就放弃！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0068.webp",
+        "dubbing": "scenes\\audio\\Little Star00033.wav",
+        "text": "我要成为国王！我不能因为臭就放弃！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_178"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.wav",
+        "text": "他松开手，坚定地对小狗说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0068.webp",
+        "dubbing": "scenes\\audio\\Little Star00034.wav",
+        "text": "小狗！你是百变坐骑！你能变成挖掘机吗？我们一起把茅坑挖开，拿出宝箱！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_180"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.wav",
+        "text": "百变坐骑小狗大声回答：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0068.webp",
+        "dubbing": "scenes\\audio\\Puppy00001.wav",
+        "text": "没问题！看我的！",
+        "characterImage": "scenes\\images\\puppy tou.webp",
+        "characterName": "Puppy"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.wav",
+        "text": "小狗原地一转，浑身金光闪闪！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.wav",
+        "text": "“嘭——”的一声，小狗变成了一台黄色的小小挖掘机！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_184"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.wav",
+        "text": "挖掘机的声音“轰隆隆”响起，小星开心地跳起来：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0070.webp",
+        "dubbing": "scenes\\audio\\Little Star00035.wav",
+        "text": "太厉害啦！小狗变成挖掘机啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_186"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.wav",
+        "text": "小星指挥着挖掘机，小心地挖开茅坑。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_187"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.wav",
+        "text": "不一会儿，一个金光闪闪的宝箱被挖了出来！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.wav",
+        "text": "一点都不臭，反而香香的！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_189"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.wav",
+        "text": "小星激动地跑过去，打开宝箱——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.wav",
+        "text": "里面躺着一颗圆圆的、闪闪发光的金色小球！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.wav",
+        "text": "小球飞到空中，发出耀眼的光芒，笼罩着小星。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.wav",
+        "text": "光芒中，一顶小小的金色王冠，轻轻落在小星的头上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.wav",
+        "text": "一件红色的披风，自动披在他的身上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_194"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.wav",
+        "text": "小星感觉自己充满了力量，又勇敢又神气！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.wav",
+        "text": "金色的光芒慢慢散去，小星穿着国王的披风，戴着金色的王冠，站在彩虹湖边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet13_20",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.wav",
+        "text": "百变坐骑小狗变回原来的样子，跑到他身边，开心地大叫：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet13_21",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0153.webp",
+        "dubbing": "scenes\\audio\\Puppy00002.wav",
+        "text": "恭喜小主人！你成为梦境王国的国王啦！",
+        "characterImage": "scenes\\images\\puppy tou.webp",
+        "characterName": "Puppy"
+      },
+      "nextId": "scene_198"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_22",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.wav",
+        "text": "天空中，温柔的声音再次响起，充满了赞许：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_23",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0278.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.wav",
+        "text": "恭喜你，勇敢的小星！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet13_24",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0278.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.wav",
+        "text": "你一路勇敢、聪明、坚持，不害怕困难，不嫌弃肮脏，终于通过了所有考验！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet13_25",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0278.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.wav",
+        "text": "你成功拿到了国王球，成为了梦境王国真正的国王！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet13_26",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.wav",
+        "text": "周围的小动物们都跑了出来，小鸟、松鼠、小鱼、小兔子……",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_203",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet13_27",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.wav",
+        "text": "大家围着小星，开心地欢呼：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_204"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet13_28",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00164.wav",
+        "text": "国王万岁！国王万岁！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_205"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet13_29",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00165.wav",
+        "text": "小星高高举起国王球，笑得无比灿烂。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_206"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet13_30",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00166.wav",
+        "text": "他终于实现了自己的梦想——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_207"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet13_31",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00167.wav",
+        "text": "成为一名勇敢、善良、威风凛凛的国王！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_208"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet13_32",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00168.wav",
+        "text": "从此以后，小星在梦境王国里，快乐地生活，保护着所有善良的小伙伴。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_209"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet13_33",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00169.wav",
+        "text": "而他也明白了一个道理：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet13_34",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0307.webp",
+        "dubbing": "scenes\\audio\\pangbai00170.wav",
+        "text": "只要勇敢、坚持、不放弃，任何梦想，都能实现！",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_277",
+          "label": "快乐的结局"
+        }
+      ]
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00171.wav",
+        "text": "小星想：麻辣烫太辣啦，小狗肯定不能吃！羊肉串香香的，不辣，最适合小狗！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00172.wav",
+        "text": "他打开羊肉串的包装，递到小狗嘴边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0033.webp",
+        "dubbing": "scenes\\audio\\Little Star00036.wav",
+        "text": "小狗小狗，快吃吧！这是好吃的羊肉串，不辣哦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_214"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00173.wav",
+        "text": "小狗一闻香味，眼睛立刻亮了！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_215"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0033.webp",
+        "dubbing": "scenes\\audio\\pangbai00174.wav",
+        "text": "它大口大口地吃起来，吃得特别香，不一会儿就把羊肉串吃光了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_216"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00175.wav",
+        "text": "吃完后，小狗原地转了三圈，浑身发出金灿灿的光芒！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00176.wav",
+        "text": "光芒散去，小狗神气地抬起头，对着小星“汪汪”大叫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_218"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00177.wav",
+        "text": "小星惊讶地睁大眼睛：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0035.webp",
+        "dubbing": "scenes\\audio\\Little Star00037.wav",
+        "text": "哇！小狗，你好像更有精神啦！你身上好亮呀！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_220"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00178.wav",
+        "text": "小狗骄傲地昂起头，好像在说：我可是很厉害的！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet14_10",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00179.wav",
+        "text": "吃完羊肉串的小狗，突然对着小星开口说话了！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_222"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet14_11",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0040.webp",
+        "dubbing": "scenes\\audio\\Puppy00003.wav",
+        "text": "小主人，谢谢你！我其实不是普通的小狗，我是百变坐骑！我可以变成任何你需要的东西，陪你一起冒险！",
+        "characterImage": "scenes\\images\\puppy tou.webp",
+        "characterName": "Puppy"
+      },
+      "nextId": "scene_223",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_223",
+      "sheetName": "Sheet14_12",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00180.wav",
+        "text": "小星惊呆了，嘴巴张得大大的：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_224"
+    },
+    {
+      "id": "scene_224",
+      "sheetName": "Sheet14_13",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0040.webp",
+        "dubbing": "scenes\\audio\\Little Star00038.wav",
+        "text": "你、你会说话？！你还是百变坐骑？！太厉害啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_225"
+    },
+    {
+      "id": "scene_225",
+      "sheetName": "Sheet14_14",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00181.wav",
+        "text": "百变坐骑小狗笑着说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_226"
+    },
+    {
+      "id": "scene_226",
+      "sheetName": "Sheet14_15",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0040.webp",
+        "dubbing": "scenes\\audio\\Puppy00004.wav",
+        "text": "现在我们继续前进吧！不过前面有两个方向，我们要选一条路走。",
+        "characterImage": "scenes\\images\\puppy tou.webp",
+        "characterName": "Puppy"
+      },
+      "nextId": "scene_227"
+    },
+    {
+      "id": "scene_227",
+      "sheetName": "Sheet14_16",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00182.wav",
+        "text": "小星抬头一看，前方出现两个箭头：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_228",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_228",
+      "sheetName": "Sheet14_17",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00183.wav",
+        "text": "一个指向南方，旁边画着湖水和小鱼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_229"
+    },
+    {
+      "id": "scene_229",
+      "sheetName": "Sheet14_18",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00184.wav",
+        "text": "一个指向北方，旁边画着雪山和果子。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_79",
+          "label": "南方钓鱼充饥"
+        },
+        {
+          "nextId": "scene_94",
+          "label": "北方找吃的充饥"
+        }
+      ]
+    },
+    {
+      "id": "scene_230",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00185.wav",
+        "text": "小星觉得麻辣烫看起来更好吃，他笑着说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_231",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_231",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0032.webp",
+        "dubbing": "scenes\\audio\\Little Star00039.wav",
+        "text": "小狗，我们吃麻辣烫吧！这个肯定特别香！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_232"
+    },
+    {
+      "id": "scene_232",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00186.wav",
+        "text": "他打开麻辣烫的盒子，递到小狗嘴边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_233"
+    },
+    {
+      "id": "scene_233",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00187.wav",
+        "text": "小狗犹豫了一下，还是舔了一口。",
+        "soundEffects": "scenes\\audio\\goushengqijiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_234"
+    },
+    {
+      "id": "scene_234",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00188.wav",
+        "text": "刚舔完，小狗就痛苦地“呜呜”叫起来！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_235",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_235",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00189.wav",
+        "text": "它捂着肚子，在地上打滚，眼睛红红的，一直吐舌头。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_236"
+    },
+    {
+      "id": "scene_236",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00190.wav",
+        "text": "小星吓坏了：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_237"
+    },
+    {
+      "id": "scene_237",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0034.webp",
+        "dubbing": "scenes\\audio\\Little Star00040.wav",
+        "text": "小狗！小狗你怎么了？！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_238"
+    },
+    {
+      "id": "scene_238",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00191.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_239"
+    },
+    {
+      "id": "scene_239",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00192.wav",
+        "text": "选错啦！麻辣烫太辣，小狗肠胃受不了，受伤啦！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_240"
+    },
+    {
+      "id": "scene_240",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00193.wav",
+        "text": "画面消失，小星再次回到原地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_241",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_241",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00194.wav",
+        "text": "他看着麻辣烫，赶紧把它收起来：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_242"
+    },
+    {
+      "id": "scene_242",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0031.webp",
+        "dubbing": "scenes\\audio\\Little Star00041.wav",
+        "text": "对不起对不起！我不喂你麻辣烫了！我给你吃羊肉串！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_211",
+          "label": "给小狗吃东北羊肉串"
+        }
+      ]
+    },
+    {
+      "id": "scene_243",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00195.wav",
+        "text": "小星想：大鱼太大了，肯定很难钓！先钓小鱼填饱肚子，安安全全最重要！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_244",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_244",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00196.wav",
+        "text": "他把鱼钩抛向小鱼多的地方。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_245"
+    },
+    {
+      "id": "scene_245",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\Little Star00042.wav",
+        "text": "小鱼小鱼，快上钩吧！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_246"
+    },
+    {
+      "id": "scene_246",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00197.wav",
+        "text": "没过一会儿，鱼线轻轻一动。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_247"
+    },
+    {
+      "id": "scene_247",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0048.webp",
+        "dubbing": "scenes\\audio\\Little Star00043.wav",
+        "text": "有鱼啦！有鱼啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_248",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_248",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00198.wav",
+        "text": "小星用力一拉，一条银光闪闪的小鱼被钓了上来！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_249"
+    },
+    {
+      "id": "scene_249",
+      "sheetName": "Sheet16_6",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00199.wav",
+        "text": "小鱼在地上蹦蹦跳跳，着急地说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_250"
+    },
+    {
+      "id": "scene_250",
+      "sheetName": "Sheet16_7",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0048.webp",
+        "dubbing": "scenes\\audio\\Little Fish00001.wav",
+        "text": "小哥哥，别吃我！别吃我！我给你宝物！",
+        "characterImage": "scenes\\images\\littlefish tou.webp",
+        "characterName": "Little Fish"
+      },
+      "nextId": "scene_251"
+    },
+    {
+      "id": "scene_251",
+      "sheetName": "Sheet16_8",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00200.wav",
+        "text": "小星吓了一跳：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_252",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_252",
+      "sheetName": "Sheet16_9",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0049.webp",
+        "dubbing": "scenes\\audio\\Little Star00044.wav",
+        "text": "你、你会说话？",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_253"
+    },
+    {
+      "id": "scene_253",
+      "sheetName": "Sheet16_10",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\Little Fish00002.wav",
+        "text": "我是湖神的小使者！你放了我，我给你两样宝物，你选一样！",
+        "characterImage": "scenes\\images\\littlefish tou.webp",
+        "characterName": "Little Fish"
+      },
+      "nextId": "scene_254",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_254",
+      "sheetName": "Sheet16_11",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00201.wav",
+        "text": "小星看着会说话的小鱼，心软了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_255"
+    },
+    {
+      "id": "scene_255",
+      "sheetName": "Sheet16_12",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\Little Star00045.wav",
+        "text": "好吧，我不吃你。那你要给我什么宝物呀？",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_256"
+    },
+    {
+      "id": "scene_256",
+      "sheetName": "Sheet16_13",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00202.wav",
+        "text": "小鱼开心地跳了跳，从嘴里吐出两样东西：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_257"
+    },
+    {
+      "id": "scene_257",
+      "sheetName": "Sheet16_14",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00203.wav",
+        "text": "一样是一张旧旧的宝藏图，上面画着奇怪的路线。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_258"
+    },
+    {
+      "id": "scene_258",
+      "sheetName": "Sheet16_15",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00204.wav",
+        "text": "一样是一把闪闪发光的宝剑，看起来很锋利。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_259"
+    },
+    {
+      "id": "scene_259",
+      "sheetName": "Sheet16_16",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00205.wav",
+        "text": "小鱼说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_260"
+    },
+    {
+      "id": "scene_260",
+      "sheetName": "Sheet16_17",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0053.webp",
+        "dubbing": "scenes\\audio\\Little Fish00003.wav",
+        "text": "小哥哥，你只能选一样！选完我就走啦！",
+        "characterImage": "scenes\\images\\littlefish tou.webp",
+        "characterName": "Little Fish"
+      },
+      "branches": [
+        {
+          "nextId": "scene_107",
+          "label": "选择宝藏图"
+        },
+        {
+          "nextId": "scene_122",
+          "label": "选择宝剑"
+        }
+      ]
+    },
+    {
+      "id": "scene_261",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00206.wav",
+        "text": "小星太饿了，他看着大鱼，口水都快流出来了：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_262",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_262",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0045.webp",
+        "dubbing": "scenes\\audio\\Little Star00046.wav",
+        "text": "我要钓大鱼！吃一条大鱼，我就饱啦！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_263"
+    },
+    {
+      "id": "scene_263",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0182.webp",
+        "dubbing": "scenes\\audio\\pangbai00207.wav",
+        "text": "他把鱼钩抛向大鱼的方向。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_264",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_264",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00208.wav",
+        "text": "突然，鱼线猛地一拉！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_265",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_265",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00209.wav",
+        "text": "一股巨大的力量把小星往水里拖！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_266"
+    },
+    {
+      "id": "scene_266",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00210.wav",
+        "text": "小星用力抓住鱼竿，大喊：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_267"
+    },
+    {
+      "id": "scene_267",
+      "sheetName": "Sheet17_6",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\Little Star00047.wav",
+        "text": "救命啊！好大的力气！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_268"
+    },
+    {
+      "id": "scene_268",
+      "sheetName": "Sheet17_7",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00211.wav",
+        "text": "水里“哗啦”一声，跳出一个巨大的怪物！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_269"
+    },
+    {
+      "id": "scene_269",
+      "sheetName": "Sheet17_8",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00212.wav",
+        "text": "它是海中恶霸幻化的大BOSS，长得又凶又可怕。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_270"
+    },
+    {
+      "id": "scene_270",
+      "sheetName": "Sheet17_9",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00213.wav",
+        "text": "大BOSS怒吼一声，一巴掌把小星拍飞出去！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_271"
+    },
+    {
+      "id": "scene_271",
+      "sheetName": "Sheet17_10",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\Little Star00048.wav",
+        "text": "哇——！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_272"
+    },
+    {
+      "id": "scene_272",
+      "sheetName": "Sheet17_11",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00214.wav",
+        "text": "小星在空中飞了好久，重重地摔在地上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_273"
+    },
+    {
+      "id": "scene_273",
+      "sheetName": "Sheet17_12",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00215.wav",
+        "text": "天空中的声音响起：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_274"
+    },
+    {
+      "id": "scene_274",
+      "sheetName": "Sheet17_13",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00216.wav",
+        "text": "选错啦！大鱼是大BOSS变的！你被打飞啦！冒险失败，请回到起点重新选择！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_275"
+    },
+    {
+      "id": "scene_275",
+      "sheetName": "Sheet17_14",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\pangbai00217.wav",
+        "text": "小星揉着摔疼的屁股，回到湖边：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_276"
+    },
+    {
+      "id": "scene_276",
+      "sheetName": "Sheet17_15",
+      "excelSheetName": "Sheet17",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0283.webm",
+        "dubbing": "scenes\\audio\\Little Star00049.wav",
+        "text": "大鱼太可怕了！我只钓小鱼！",
+        "characterImage": "scenes\\images\\littlestar tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_243",
+          "label": "去钓小鱼"
+        }
+      ]
+    },
+    {
+      "id": "scene_277",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\梦想，拼搏未来.mp3",
+        "video": "scenes\\images\\xiaonanhaideguowangmeng_0290.webp",
+        "dubbing": "",
+        "text": ""
+      },
+      "sceneTimeType": "溶解"
+    }
+  ]
+}

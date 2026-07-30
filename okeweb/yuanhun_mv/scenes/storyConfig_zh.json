@@ -1,0 +1,3377 @@
+{
+  "uid": "yuanhunmonv",
+  "name": "怨魂魔女合成导入表程序表格式",
+  "token": "U2FsdGVkX190bXpRd4L+IEShSmB1KWpfFXX3QcehdClLGYSoQ5Due6cMk4biT41s4lz/Bicc744l2ImK2DZwXg==",
+  "cover": "scenes\\images\\chapterCover1.jpg",
+  "version": "20260505-2059",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0001.webm",
+        "dubbing": "scenes\\audio\\pangbai00000.wav",
+        "text": "在终年飘着灰雾、冷风呜咽的怨灵之地，沉睡着一个令人心疼的灵魂。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0001.webm",
+        "dubbing": "scenes\\audio\\pangbai00001.wav",
+        "text": "她曾经是个爱扎小辫、爱追蝴蝶、爱听睡前故事的天真小女孩，本该拥有阳光、鲜花和无忧无虑的童年。可一场突如其来的重病缠住了她，高烧、疼痛、无力日夜折磨着她小小的身体。她哭着喊着，却没人能真正把她从痛苦里拉出来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.wav",
+        "text": "最终，小女孩带着无尽的委屈、不甘和满腔怨恨，永远闭上了眼睛。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0162.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.wav",
+        "text": "她的灵魂没有走向光明的轮回，反而被浓浓的怨气包裹，化作了一位怨魂小魔女。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.wav",
+        "text": "睁眼，瞳孔收缩成竖线：她的灵魂没有走向光明的轮回，反而被浓浓的怨气包裹，化作了一位怨魂小魔女。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.wav",
+        "text": "转身面向荆棘之路，抬手擦泪：她恨冰冷的病痛，恨没能拯救她的世界，她在心里疯狂发誓：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0204.webp",
+        "dubbing": "scenes\\audio\\Little Witch00000.wav",
+        "text": "我要成为至高无上的鬼王！我要让全世界都体会我受过的苦！让所有人都被病痛缠绕！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.wav",
+        "text": "带着这份偏执又疯狂的愿望，小魔女擦干眼泪，踏出怨灵之地，踏上了一条充满考验、选择与救赎的鬼王之路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.wav",
+        "text": "亲爱的小读者，从现在起，你就是小魔女的引路者！每一个岔路口，都需要你帮她做出选择。对或错，善或恶，光明或黑暗，全都由你决定！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.wav",
+        "text": "小魔女刚踏出怨灵之地，灰蒙蒙的雾气扑面而来，前方立刻出现两条截然不同的路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.wav",
+        "text": "一条小路昏暗安静，隐约飘着鬼怪的气息；另一条小路金光闪闪，堆着闪闪发光的宝藏，诱惑极了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0019.webp",
+        "dubbing": "scenes\\audio\\Little Witch00001.wav",
+        "text": "我要变强！我要当鬼王！可是……我该走哪一条路？",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.wav",
+        "text": "咬着嘴唇，头部缓缓从左转向右，视线在两条路之间游移：可是……我该走哪一条路？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0007.webm",
+        "dubbing": "scenes\\audio\\Little Guide Ghost00000.wav",
+        "text": "两条路都能走哦！一条打怪积累经验，一条偷宝藏快速变富！",
+        "characterImage": "scenes\\images\\littleguideghost tou.webp",
+        "characterName": "Little Guide Ghost"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0218.webp",
+        "dubbing": "scenes\\audio\\Little Witch00002.wav",
+        "text": "我……我到底要选哪一个？",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_15",
+          "label": "打败感冒鬼，积累经验"
+        },
+        {
+          "nextId": "scene_34",
+          "label": "贪图财富，偷取宝藏"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.wav",
+        "text": "庞大的身躯微微前倾，周身瘴气剧烈翻涌，病毒微粒向四周扩散",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0008.webp",
+        "dubbing": "scenes\\audio\\Little Witch00003.wav",
+        "text": "我不能急躁！我要一步一步变强！我选择打败感冒鬼！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.wav",
+        "text": "右手向前伸出，指向迷雾深处：我选择打败感冒鬼！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0164.webp",
+        "dubbing": "scenes\\audio\\Little Guide Ghost00001.wav",
+        "text": "太棒啦！脚踏实地才是最正确的开始！",
+        "characterImage": "scenes\\images\\littleguideghost tou.webp",
+        "characterName": "Little Guide Ghost"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.wav",
+        "text": "小魔女顺着昏暗小路往前走，没走几步，就听到一阵接连不断的打喷嚏声。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.wav",
+        "text": "一只裹着厚被子、鼻子通红的感冒鬼，正缩在石头边不停流鼻涕。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0232.webp",
+        "dubbing": "scenes\\audio\\Cold Ghost00000.wav",
+        "text": "阿嚏——阿嚏——谁……谁在那里？阿嚏！",
+        "characterImage": "scenes\\images\\coldghost tou.webp",
+        "characterName": "Cold Ghost"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0091.webp",
+        "dubbing": "scenes\\audio\\Little Witch00004.wav",
+        "text": "我是要成为鬼王的小魔女！我要打败你！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0092.webp",
+        "dubbing": "scenes\\audio\\Cold Ghost00001.wav",
+        "text": "就……就你这小不点？阿嚏——我才不怕！",
+        "characterImage": "scenes\\images\\coldghost tou.webp",
+        "characterName": "Cold Ghost"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0383.webp",
+        "dubbing": "scenes\\audio\\Little Witch00005.wav",
+        "text": "看我的怨气冲击！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0382.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.wav",
+        "text": "小魔女伸出小手，一道微弱却坚定的黑色怨气打过去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0379.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.wav",
+        "text": "感冒鬼本就浑身无力，一下子被击倒在地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0379.webp",
+        "dubbing": "scenes\\audio\\Cold Ghost00002.wav",
+        "text": "我认输……我认输……阿嚏——你太厉害了！",
+        "characterImage": "scenes\\images\\coldghost tou.webp",
+        "characterName": "Cold Ghost"
+      },
+      "nextId": "scene_28"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0386.webp",
+        "dubbing": "scenes\\audio\\Little Witch00006.wav",
+        "text": "耶！我赢啦！我获得经验啦！我正式开启升级之路啦！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0384.webp",
+        "dubbing": "scenes\\audio\\Little Guide Ghost00002.wav",
+        "text": "恭喜小魔女！继续前进吧！更强大的考验在等着你！",
+        "characterImage": "scenes\\images\\littleguideghost tou.webp",
+        "characterName": "Little Guide Ghost"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0384.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.wav",
+        "text": "成功击败感冒鬼后，小魔女感觉浑身轻飘飘的，魔力比刚才强大了好几倍。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet2_16",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0229.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.wav",
+        "text": "她继续往前走，前路再次出现两个选择：是乘胜追击继续挑战鬼怪，还是原地休息吃东西恢复体力？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet2_17",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0229.webp",
+        "dubbing": "scenes\\audio\\Little Witch00007.wav",
+        "text": "刚才战斗好累啊……可是我还想快点升级……",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet2_18",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0229.webp",
+        "dubbing": "scenes\\audio\\Mysterious Echo00000.wav",
+        "text": "继续战斗，就能更快变强；停下休息，就能恢复体力。你选哪一个？",
+        "characterImage": "scenes\\images\\mysteriousecho tou.webp",
+        "characterName": "Mysterious Echo"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "乘胜追击，挑战残疾鬼"
+        },
+        {
+          "nextId": "scene_68",
+          "label": "原地休息，补充体力"
+        }
+      ]
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0226.webp",
+        "dubbing": "scenes\\audio\\Little Witch00008.wav",
+        "text": "哇！是宝藏！好多亮晶晶的金子和宝石！我要偷走它们！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0227.webp",
+        "dubbing": "scenes\\audio\\Guardian Ghost00000.wav",
+        "text": "不要过去！宝藏周围全是致命陷阱！",
+        "characterImage": "scenes\\images\\guardianghost tou.webp",
+        "characterName": "Guardian Ghost"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0010.webp",
+        "dubbing": "scenes\\audio\\Little Witch00009.wav",
+        "text": "我才不管什么陷阱！我要变得富有！我要最快变强！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.wav",
+        "text": "她踮着脚尖，悄悄溜进宝藏之地，小手刚碰到最耀眼的金币。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.wav",
+        "text": "“咻——！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0241.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.wav",
+        "text": "一根泛着紫光的毒针突然从地下射出，狠狠扎在小魔女的手臂上！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0241.webp",
+        "dubbing": "scenes\\audio\\Little Witch00010.wav",
+        "text": "啊——！好痛！好痛啊！这是什么东西！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_41"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Poison Needle Magic00000.wav",
+        "text": "毒素开始扩散……力量开始流失……",
+        "characterImage": "scenes\\images\\poisonneedlemagic tou.webp",
+        "characterName": "Poison Needle Magic"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Little Witch00011.wav",
+        "text": "我的身体……好麻……我站不起来了……呜呜呜……",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Guardian Ghost00001.wav",
+        "text": "都说了有陷阱……贪心是会付出代价的。",
+        "characterImage": "scenes\\images\\guardianghost tou.webp",
+        "characterName": "Guardian Ghost"
+      },
+      "nextId": "scene_44"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.wav",
+        "text": "【触发失败：返回主线，重新进行抉择】",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_15",
+          "label": "打败感冒鬼，积累经验"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0164.webp",
+        "dubbing": "scenes\\audio\\Little Witch00012.wav",
+        "text": "我不能停下！我要乘胜追击！我要挑战残疾鬼！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0244.webp",
+        "dubbing": "scenes\\audio\\Mysterious Echo00001.wav",
+        "text": "勇敢的孩子！去吧！",
+        "characterImage": "scenes\\images\\mysteriousecho tou.webp",
+        "characterName": "Mysterious Echo"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.wav",
+        "text": "小魔女顺着鬼怪气息往前走，很快找到了一只拄着树枝、行动不便的残疾鬼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_48",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.wav",
+        "text": "残疾鬼看起来凶巴巴的，却没有主动攻击。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0171.webp",
+        "dubbing": "scenes\\audio\\Disabled Ghost00000.wav",
+        "text": "小丫头，你真的要和我战斗？我可不会手下留情。",
+        "characterImage": "scenes\\images\\disabledghost tou.webp",
+        "characterName": "Disabled Ghost"
+      },
+      "nextId": "scene_50"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0019.webp",
+        "dubbing": "scenes\\audio\\Little Witch00013.wav",
+        "text": "我要成为鬼王！我必须打败你！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0171.webp",
+        "dubbing": "scenes\\audio\\Disabled Ghost00001.wav",
+        "text": "好！那我就领教一下你的本事！",
+        "characterImage": "scenes\\images\\disabledghost tou.webp",
+        "characterName": "Disabled Ghost"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.wav",
+        "text": "小魔女调动刚刚提升的怨气力量，稳稳发动攻击，没有丝毫急躁。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0208.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.wav",
+        "text": "一番缠斗后，残疾鬼被成功击败！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.wav",
+        "text": "“叮——！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.wav",
+        "text": "一道明亮的光芒包裹小魔女，等级直接跳到5级，力量瞬间暴涨！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0247.webp",
+        "dubbing": "scenes\\audio\\Little Witch00014.wav",
+        "text": "五级啦！我升到五级啦！我的力量变得好强啊！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0248.webp",
+        "dubbing": "scenes\\audio\\Disabled Ghost00002.wav",
+        "text": "你果然有成为鬼王的潜力……加油吧，小丫头。",
+        "characterImage": "scenes\\images\\disabledghost tou.webp",
+        "characterName": "Disabled Ghost"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0248.webp",
+        "dubbing": "scenes\\audio\\Little Witch00015.wav",
+        "text": "谢谢你！我会继续努力的！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.wav",
+        "text": "看着身上亮起的经验光芒，瞳孔放大，嘴角逐渐上扬：耶！我赢啦！我获得经验啦！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet4_15",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.wav",
+        "text": "开心地跳起来，双臂高举，身体旋转：我正式开启升级之路啦！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet4_16",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0387.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.wav",
+        "text": "飘来飘去，绕着小魔女转圈，双手不停鼓掌：恭喜小魔女！继续前进吧！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet4_17",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0387.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.wav",
+        "text": "落地站稳，握拳指向前方道路，眼神炽热：更强大的考验在等着你！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet4_18",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.wav",
+        "text": "升到5级的小魔女浑身充满力量，她大步向前，走进一片白茫茫的迷雾。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet4_19",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0257.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.wav",
+        "text": "走着走着，两个熟悉的身影突然跑了过来——一个是许久未见的老朋友，一个是昔日朝夕相伴的闺蜜！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet4_20",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0280.webp",
+        "dubbing": "scenes\\audio\\Old Friend00000.wav",
+        "text": "小魔女！是我啊！好久不见！快跟我走！我带你找捷径！",
+        "characterImage": "scenes\\images\\oldfriend tou.webp",
+        "characterName": "Old Friend"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet4_21",
+      "excelSheetName": "Sheet4",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0114.webm",
+        "dubbing": "scenes\\audio\\Bestie00000.wav",
+        "text": "别相信他！他不对劲！跟我走！我会一直保护你！",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet4_22",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\幽怨.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0175.webp",
+        "dubbing": "scenes\\audio\\Little Witch00016.wav",
+        "text": "我……我该相信谁？他们都是我曾经最亲近的人啊！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_79",
+          "label": "跟随老朋友同行"
+        },
+        {
+          "nextId": "scene_89",
+          "label": "选择信任闺蜜同行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.wav",
+        "text": "支线：原地休息，补充体力",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\危机恐怖.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0029.webp",
+        "dubbing": "scenes\\audio\\Little Witch00017.wav",
+        "text": "好累好累！我要休息！我要吃东西补充体力！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0106.webp",
+        "dubbing": "scenes\\audio\\Roadside Wild Fruit Elf00000.wav",
+        "text": "吃我吃我！甜甜的超好吃！吃完立马满血复活！",
+        "characterImage": "scenes\\images\\roadsidewildfruitelf tou.webp",
+        "characterName": "Roadside Wild Fruit Elf"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0106.webp",
+        "dubbing": "scenes\\audio\\Little Witch00018.wav",
+        "text": "哇！看起来好好吃！我要吃！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.wav",
+        "text": "她拿起果子，大口大口咬下去，果子香甜多汁，味道好极了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.wav",
+        "text": "可刚咽下去没多久，肚子突然传来一阵剧痛！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0030.webp",
+        "dubbing": "scenes\\audio\\Little Witch00019.wav",
+        "text": "哎哟……我的肚子……好疼啊……这是怎么回事！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_75"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0174.webp",
+        "dubbing": "scenes\\audio\\Poisonous Fruit Elf00000.wav",
+        "text": "哈哈哈！这是被下了剧毒的果子！你上当啦！",
+        "characterImage": "scenes\\images\\poisonousfruitelf tou.webp",
+        "characterName": "Poisonous Fruit Elf"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0064.webp",
+        "dubbing": "scenes\\audio\\Little Witch00020.wav",
+        "text": "我的力量……在快速消失……我的等级……在往下降……呜呜呜……",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0064.webp",
+        "dubbing": "scenes\\audio\\Poisonous Fruit Elf00001.wav",
+        "text": "贪心又懒惰的人，总会遇到危险哦！",
+        "characterImage": "scenes\\images\\poisonousfruitelf tou.webp",
+        "characterName": "Poisonous Fruit Elf"
+      },
+      "nextId": "scene_78"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.wav",
+        "text": "【触发失败：返回主线，重新进行抉择】",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_45",
+          "label": "乘胜追击，挑战残疾鬼"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0038.webp",
+        "dubbing": "scenes\\audio\\Little Witch00021.wav",
+        "text": "老朋友！真的是你！我好想你！我跟你走！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0261.webp",
+        "dubbing": "scenes\\audio\\Pretender00000.wav",
+        "text": "乖孩子……跟我来……",
+        "characterImage": "scenes\\images\\pretender tou.webp",
+        "characterName": "Pretender"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0261.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.wav",
+        "text": "小魔女毫无防备地跟着“老朋友”走进迷雾深处。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0287.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.wav",
+        "text": "突然，“老朋友”身上发出刺眼的光芒，身体开始扭曲变形！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0262.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.wav",
+        "text": "细长的身体、发光的头部——竟然是美容激光仪幻化而成的伪装者！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0119.webp",
+        "dubbing": "scenes\\audio\\Little Witch00022.wav",
+        "text": "啊？你不是我的朋友！你到底是什么东西！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0039.webp",
+        "dubbing": "scenes\\audio\\Pretender00001.wav",
+        "text": "愚蠢的小丫头！你太容易相信别人了！我要把你吞噬掉！",
+        "characterImage": "scenes\\images\\pretender tou.webp",
+        "characterName": "Pretender"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0119.webp",
+        "dubbing": "scenes\\audio\\Little Witch00023.wav",
+        "text": "不要啊——！救命！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0289.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.wav",
+        "text": "伪装者张开巨大的光束口，一口将毫无防备的小魔女彻底吞噬，小魔女瞬间消失在迷雾中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0290.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.wav",
+        "text": "【触发失败：返回主线，重新进行抉择】",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_89",
+          "label": "选择信任闺蜜同行"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Little Witch00024.wav",
+        "text": "我相信你！闺蜜！我选择和你一起走！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Bestie00001.wav",
+        "text": "太好了！我就知道你会相信我！我绝对不会伤害你！",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.wav",
+        "text": "两人手拉手，一起往前走。闺蜜熟悉这片迷雾的道路，一直带着小魔女避开危险。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.wav",
+        "text": "不仅如此，闺蜜还把自己修炼多年的魔力，分出一部分传给小魔女。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.wav",
+        "text": "“叮——！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0284.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.wav",
+        "text": "小魔女的等级直接再升2级，实力变得更加强大！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Little Witch00025.wav",
+        "text": "哇！我又变强了！谢谢你闺蜜！有你在我真的太安心了！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Bestie00002.wav",
+        "text": "我们是最好的伙伴，就应该彼此依靠、彼此帮助。不过你要记住，就算心里有怨恨，也不要迷失自己哦。",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\Little Witch00026.wav",
+        "text": "我记住啦！我们一起加油！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.wav",
+        "text": "小魔女和闺蜜并肩走了很久，两人都累得气喘吁吁，额头上冒出细细的汗珠。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.wav",
+        "text": "她们在路边停下休息，眼前摆着两种果实：一种是普普通通、红彤彤的红草莓；一种是散发着浓郁魔力、金光闪闪的金苹果，诱惑力极强。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0042.webp",
+        "dubbing": "scenes\\audio\\Bestie00003.wav",
+        "text": "小魔女，选红草莓吧！温和安全，没有副作用，能让你稳步升级。",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0043.webp",
+        "dubbing": "scenes\\audio\\Golden Apple00000.wav",
+        "text": "选我！选我！吃了我，你能瞬间变得超强！直接一步登天！",
+        "characterImage": "scenes\\images\\goldenapple tou.webp",
+        "characterName": "Golden Apple"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0293.webp",
+        "dubbing": "scenes\\audio\\Little Witch00027.wav",
+        "text": "我想最快变强……我想快点当上鬼王……可是闺蜜说红草莓更安全……我到底选哪个？",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_103",
+          "label": "吃红草莓，稳步升级"
+        },
+        {
+          "nextId": "scene_121",
+          "label": "吃金苹果，强行进阶"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0044.webp",
+        "dubbing": "scenes\\audio\\Little Witch00028.wav",
+        "text": "我不能贪图快速变强！我要稳扎稳打！我选择吃红草莓！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0045.webp",
+        "dubbing": "scenes\\audio\\Bestie00004.wav",
+        "text": "太棒啦！你做出了最聪明的选择！",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0045.webp",
+        "dubbing": "scenes\\audio\\Red Strawberry00000.wav",
+        "text": "放心吃吧！我会温柔地提升你的魔力！",
+        "characterImage": "scenes\\images\\redstrawberry tou.webp",
+        "characterName": "Red Strawberry"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.wav",
+        "text": "小魔女拿起红草莓，轻轻咬了一口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.wav",
+        "text": "酸酸甜甜，入口即化，一股温和舒服的魔力缓缓流遍全身，没有丝毫痛苦。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.wav",
+        "text": "“叮——！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.wav",
+        "text": "等级顺利升至7级，魔力稳步提升，身体没有任何不适！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\Little Witch00029.wav",
+        "text": "好温暖啊！我变强了，但是一点都不难受！这种感觉太棒了！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\Bestie00005.wav",
+        "text": "看吧！急躁和贪心只会带来危险，一步一步来，才是最正确的路。",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_112"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet8_9",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0047.webp",
+        "dubbing": "scenes\\audio\\Little Witch00030.wav",
+        "text": "我以后再也不着急啦！我要慢慢变强！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_113"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet8_10",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.wav",
+        "text": "休息完毕，魔力完全恢复，小魔女和闺蜜紧紧拥抱告别。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet8_11",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0114.webm",
+        "dubbing": "scenes\\audio\\Bestie00006.wav",
+        "text": "你要加油！我相信你一定能成为最好的鬼王！不要迷失自己！",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet8_12",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0114.webm",
+        "dubbing": "scenes\\audio\\Little Witch00031.wav",
+        "text": "谢谢你！闺蜜！我一定会记住你的话！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_116"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet8_13",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.wav",
+        "text": "告别闺蜜后，小魔女独自朝着鬼王大殿的方向前进。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet8_14",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.wav",
+        "text": "越靠近大殿，气氛越压抑，她知道，鬼王的力量强大无比，必须做好万全准备。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet8_15",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.wav",
+        "text": "此刻，她面临最后的战前抉择：是先寻找秘籍稳扎稳打，还是冒险挑战癌症鬼快速升级？",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet8_16",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0053.webp",
+        "dubbing": "scenes\\audio\\Little Witch00032.wav",
+        "text": "鬼王好强好可怕……我到底该怎么准备？",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_120"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet8_17",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0310.webp",
+        "dubbing": "scenes\\audio\\Sky Voice00000.wav",
+        "text": "获取秘籍，稳妥决战；挑战癌鬼，一步登天。两条路，两种命运，你自己选。",
+        "characterImage": "scenes\\images\\skyvoice tou.webp",
+        "characterName": "Sky Voice"
+      },
+      "branches": [
+        {
+          "nextId": "scene_133",
+          "label": "获取秘籍，决战鬼王 "
+        },
+        {
+          "nextId": "scene_160",
+          "label": "挑战癌症鬼，快速升级"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0362.webm",
+        "dubbing": "scenes\\audio\\Little Witch00033.wav",
+        "text": "我要最快变强！我要直接升级！我选择吃金苹果！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0362.webm",
+        "dubbing": "scenes\\audio\\Bestie00007.wav",
+        "text": "不要吃！小魔女！那东西很危险！会毁掉你的！",
+        "characterImage": "scenes\\images\\bestie tou.webp",
+        "characterName": "Bestie"
+      },
+      "nextId": "scene_123"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0048.webm",
+        "dubbing": "scenes\\audio\\Little Witch00034.wav",
+        "text": "我不管！我要当鬼王！我要立刻拥有强大的力量！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0048.webm",
+        "dubbing": "scenes\\audio\\pangbai00058.wav",
+        "text": "她一把抓起金苹果，狠狠一口吞了下去！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0298.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.wav",
+        "text": "刚咽下去，一股狂暴无比的魔力突然在体内炸开！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0270.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.wav",
+        "text": "“轰——！”",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0300.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.wav",
+        "text": "地面裂开一个巨大的黑色黑洞，强大的吸力瞬间将小魔女狠狠拉进去！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0299.webp",
+        "dubbing": "scenes\\audio\\Little Witch00035.wav",
+        "text": "啊——！这是什么地方！救命！我好害怕！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0299.webp",
+        "dubbing": "scenes\\audio\\Black Hole Mysterious Power00000.wav",
+        "text": "粉碎心智……粉碎力量……抹去意识……",
+        "characterImage": "scenes\\images\\blackholemysteriouspower tou.webp",
+        "characterName": "Black Hole Mysterious Power"
+      },
+      "nextId": "scene_130"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0299.webp",
+        "dubbing": "scenes\\audio\\Little Witch00036.wav",
+        "text": "我的脑袋……好乱……我的力量……在消失……我……我什么都想不起来了……",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_131"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0378.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.wav",
+        "text": "黑洞慢慢闭合，小魔女彻底消失在黑暗中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.wav",
+        "text": "【触发失败：返回主线，重新进行抉择】",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_103",
+          "label": "吃红草莓，稳步升级"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0070.webp",
+        "dubbing": "scenes\\audio\\Little Witch00037.wav",
+        "text": "我不能冒险！鬼王太强大了，我必须做好万全准备！我选择先获取秘籍！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0069.webp",
+        "dubbing": "scenes\\audio\\Sky Voice00001.wav",
+        "text": "明智的选择……",
+        "characterImage": "scenes\\images\\skyvoice tou.webp",
+        "characterName": "Sky Voice"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.wav",
+        "text": "小魔女顺着指引，来到一处隐藏的山洞，山洞里坐着一位白发苍苍的秘籍守护者。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0136.webp",
+        "dubbing": "scenes\\audio\\Secret Manual Guardian00000.wav",
+        "text": "孩子，我知道你的来意。你冷静又坚定，配得上这本秘籍。",
+        "characterImage": "scenes\\images\\secretmanualguardian tou.webp",
+        "characterName": "Secret Manual Guardian"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0136.webp",
+        "dubbing": "scenes\\audio\\Little Witch00038.wav",
+        "text": "谢谢您！我会用它做正确的事！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0309.webp",
+        "dubbing": "scenes\\audio\\Secret Manual Guardian00001.wav",
+        "text": "这是《怨气守护术》，既能提升力量，又能守住本心。拿去吧。",
+        "characterImage": "scenes\\images\\secretmanualguardian tou.webp",
+        "characterName": "Secret Manual Guardian"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0309.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.wav",
+        "text": "小魔女接过秘籍，认真修炼，力量变得稳定、强大又温和。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.wav",
+        "text": "修炼完毕，她深吸一口气，大步走进鬼王大殿！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0141.webp",
+        "dubbing": "scenes\\audio\\Little Witch00039.wav",
+        "text": "鬼王！我是来挑战你的！我要成为新的鬼王！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.wav",
+        "text": "小魔女手持《怨气守护术》，在鬼王大殿中与老鬼王展开惊天动地的苦战。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0321.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.wav",
+        "text": "她凭借秘籍的力量，守住本心，冷静应对，一招一式都充满力量却不暴戾。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.wav",
+        "text": "经过三天三夜的战斗，老鬼王终于被击败，倒在地上！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.wav",
+        "text": "黑色的鬼王冠从老鬼王头上落下，稳稳戴在小魔女的头上！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.wav",
+        "text": "她成功了！她打败了鬼王，登上了至高无上的鬼王之位！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.wav",
+        "text": "缓缓站起，握紧双拳，转身面向荒野",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0350.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.wav",
+        "text": "大步踏出怨灵之地边界，斗篷猎猎飞扬",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0350.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.wav",
+        "text": "踏出怨灵之地，灰蒙蒙的雾气扑面而来",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet10_17",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0327.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.wav",
+        "text": "可就在这时，她的心里爆发了激烈的战争！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet10_18",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0328.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.wav",
+        "text": "一边是怨恨之声，疯狂叫嚣着报复世界；一边是善良之声，轻声提醒她不要伤害无辜。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet10_19",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0330.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.wav",
+        "text": "两位声音在她脑海里不停争吵，让她痛苦不已。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet10_20",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0331.webp",
+        "dubbing": "scenes\\audio\\Voice of Resentment00000.wav",
+        "text": "你忘了你受过的苦吗？让全世界都生病！让所有人都体会你的痛苦！报复这个世界！",
+        "characterImage": "scenes\\images\\voiceofresentment tou.webp",
+        "characterName": "Voice of Resentment"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet10_21",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0332.webp",
+        "dubbing": "scenes\\audio\\Voice of Kindness00000.wav",
+        "text": "别这样……你受过的痛，不该让无辜的人承受。真正的强大，是守护，不是伤害。",
+        "characterImage": "scenes\\images\\voiceofkindness tou.webp",
+        "characterName": "Voice of Kindness"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet10_22",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0330.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.wav",
+        "text": "头部猛地向左侧倾斜，左眼睁大布满血丝，右眼紧闭：一边是怨恨之声，疯狂叫嚣着报复世界；",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet10_23",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.wav",
+        "text": "头部又猛地向右侧倾斜，右眼睁大泪水滑落，左眼紧闭：一边是善良之声，轻声提醒她不要伤害无辜。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet10_24",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.wav",
+        "text": "跪姿仰头，双手向两侧绝望伸展，身体被无形力量撕扯左右摇摆：两位声音在她脑海里不停争吵，让她痛苦不已。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_158"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet10_25",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0334.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.wav",
+        "text": "药王身披白衣，手持药草，缓缓出现",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet10_26",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0335.webp",
+        "dubbing": "scenes\\audio\\Medicine King00000.wav",
+        "text": "小魔女，你已经是鬼王了。现在，做出你人生中最重要的选择吧。你要成为什么样的鬼王？",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "branches": [
+        {
+          "nextId": "scene_173",
+          "label": "化身坏鬼王，报复世界 "
+        },
+        {
+          "nextId": "scene_185",
+          "label": "化身好鬼王，守护世界"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0311.webp",
+        "dubbing": "scenes\\audio\\Little Witch00040.wav",
+        "text": "击败癌症鬼就能直接升10级！我要赌一把！我要最快成为鬼王！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0311.webp",
+        "dubbing": "scenes\\audio\\Sky Voice00002.wav",
+        "text": "急躁会带来毁灭……你会后悔的……",
+        "characterImage": "scenes\\images\\skyvoice tou.webp",
+        "characterName": "Sky Voice"
+      },
+      "nextId": "scene_162"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0316.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.wav",
+        "text": "小魔女不顾劝阻，径直找到癌症鬼的巢穴。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0320.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.wav",
+        "text": "一只浑身散发着黑暗气息、体型庞大的癌症鬼，正盘踞在巢穴中央，压迫感极强。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0318.webp",
+        "dubbing": "scenes\\audio\\Cancer Ghost00000.wav",
+        "text": "渺小的丫头……你太弱了……根本不是我的对手……",
+        "characterImage": "scenes\\images\\cancerghost tou.webp",
+        "characterName": "Cancer Ghost"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0059.webp",
+        "dubbing": "scenes\\audio\\Little Witch00041.wav",
+        "text": "我不怕你！我要打败你！我要升级！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0060.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.wav",
+        "text": "战斗一触即发！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.wav",
+        "text": "癌症鬼只是轻轻一挥爪子，强大的黑暗力量就压得小魔女喘不过气。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.wav",
+        "text": "小魔女拼尽全力反抗，却根本挡不住！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0064.webp",
+        "dubbing": "scenes\\audio\\Little Witch00042.wav",
+        "text": "好强……太强了……我……我根本打不过……",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0193.webp",
+        "dubbing": "scenes\\audio\\Cancer Ghost00001.wav",
+        "text": "回去吧……你还不够格成为鬼王……等你真正强大了再来。",
+        "characterImage": "scenes\\images\\cancerghost tou.webp",
+        "characterName": "Cancer Ghost"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0193.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.wav",
+        "text": "小魔女浑身是伤，魔力耗尽，再也站不起来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\悬疑，恐怖，侦探，犯罪.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.wav",
+        "text": "【触发失败：返回主线，重新进行抉择】",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_133",
+          "label": "获取秘籍，决战鬼王 "
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\Little Witch00043.wav",
+        "text": "我恨！我好恨！我要报复！我要化身坏鬼王！我要让全世界都陷入病痛的折磨！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0199.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00000.wav",
+        "text": "释放黑暗……扩散病痛……毁灭一切……",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0347.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.wav",
+        "text": "小魔女调动全身的黑暗力量，准备向整个世界释放病痛诅咒！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.wav",
+        "text": "就在这时，天空突然亮起金色的光芒！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0348.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.wav",
+        "text": "正义病毒军团整齐集结，盾牌闪亮，武器发光，朝着坏魔女冲来！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0358.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00001.wav",
+        "text": "邪恶永远战胜不了正义！你休想伤害无辜的人！",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0349.webp",
+        "dubbing": "scenes\\audio\\Little Witch00044.wav",
+        "text": "你们别想拦着我！我要让所有人都尝尝我的痛苦！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0156.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00002.wav",
+        "text": "全体出击！合力净化邪恶！",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.wav",
+        "text": "无数道正义光芒击中小魔女，她身上的怨气一点点被净化，身体一点点变得透明。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0156.webp",
+        "dubbing": "scenes\\audio\\Little Witch00045.wav",
+        "text": "不——！我的怨恨！我的力量！不要消失！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_183"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0358.webp",
+        "dubbing": "scenes\\audio\\Virus Corps00003.wav",
+        "text": "怨恨只会毁掉自己，只有善良才能获得永恒。",
+        "characterImage": "scenes\\images\\viruscorps tou.webp",
+        "characterName": "Virus Corps"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0358.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.wav",
+        "text": "小魔女的身体越来越淡，最终彻底灰飞烟灭，再也没有出现过。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_185",
+          "label": "选择当好鬼王"
+        }
+      ]
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0352.webp",
+        "dubbing": "scenes\\audio\\Little Witch00046.wav",
+        "text": "我……我不想让别人疼……我不想再有人像我一样，被病痛折磨，带着遗憾离开……",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0353.webp",
+        "dubbing": "scenes\\audio\\Medicine King00001.wav",
+        "text": "你做出了最勇敢、最伟大的选择。真正的鬼王，不是用恐惧统治世界，而是用爱守护世界。",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0353.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.wav",
+        "text": "瞳孔收缩，视线在药王与虚空之间游移",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.wav",
+        "text": "后退半步展开双臂，药草化作光点消散",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.wav",
+        "text": "双手抱头跪地，身体剧烈颤抖，指节因用力而发白：你忘了你受过的苦吗？让全世界都生病！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0105.webp",
+        "dubbing": "scenes\\audio\\Little Witch00047.wav",
+        "text": "我要放下怨恨！我要化身好鬼王！我要守护这个世界！我要让病痛消散！让所有人都能健康快乐！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.wav",
+        "text": "她摘下头顶冰冷的鬼王冠，将体内的黑暗怨气，转化为温暖的治愈光芒。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0354.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.wav",
+        "text": "她主动走到药王身边，伸出小手，与药王紧紧握手。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0354.webp",
+        "dubbing": "scenes\\audio\\Little Witch00048.wav",
+        "text": "药王大人，我想和你一起！我们携手并肩，一起驱赶病痛，守护所有生命！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_194"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0354.webp",
+        "dubbing": "scenes\\audio\\Medicine King00002.wav",
+        "text": "欢迎你，新的守护鬼王！从今往后，我们一起守护世间安宁！",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "nextId": "scene_195"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0355.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.wav",
+        "text": "治愈光芒照亮整个怨灵之地，灰雾散去，阳光洒落。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0355.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.wav",
+        "text": "病痛被压制，病毒被驱散，所有受苦的生命都得到了救赎。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_197"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0151.webp",
+        "dubbing": "scenes\\audio\\Little Witch00049.wav",
+        "text": "从今天起，我不再是一心复仇的怨魂魔女！我是守护世界的善意鬼王！我会用我的力量，保护每一个人！",
+        "characterImage": "scenes\\images\\littlewitch tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\Medicine King00003.wav",
+        "text": "世界因你的选择，变得更加温暖、美好。",
+        "characterImage": "scenes\\images\\medicineking tou.webp",
+        "characterName": "Medicine King"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\Ghosts and Monsters00000.wav",
+        "text": "好鬼王万岁！善意鬼王万岁！",
+        "characterImage": "scenes\\images\\ghostsandmonsters tou.webp",
+        "characterName": "Ghosts and Monsters"
+      },
+      "nextId": "scene_200"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.wav",
+        "text": "冒险圆满成功！你用善良与理智，拯救了小魔女，也拯救了整个世界！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_201"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beiliang.mp3",
+        "video": "scenes\\images\\yuanhunmonv_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.wav",
+        "text": "缓缓抬头，泪水沿脸颊滑落却悬浮半空，嘴唇微张颤抖：真正的强大，是守护，不是伤害。",
+        "characterName": "旁白"
+      }
+    }
+  ]
+}
