@@ -85,5 +85,15 @@
       "enabled": true,
       "order": 1
     }
+    ,
+    {
+      "id": "yunzhongwang",
+      "title": "云中王彩虹冒险",
+      "description": "云中王彩虹冒险",
+      "cover": "okeweb/yunzhongwang/fm.webp",
+      "entry": "okeweb/yunzhongwang/index.html",
+      "enabled": true,
+      "order": 1
+    }
   ]
 }

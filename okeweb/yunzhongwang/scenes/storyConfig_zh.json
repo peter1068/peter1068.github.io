@@ -1,0 +1,3660 @@
+{
+  "uid": "yunzhongwangcaihongmaoxian",
+  "name": "云中王彩虹冒险合成导入表程序表格式",
+  "token": "U2FsdGVkX18LYhOrdMtdvF+9/fdW6GYt3IziAh76r6uJaOAXaZa8+JAHSdMQdwXx1fK26zsgQb6PgVmqWK71W0rlbwVrsP3KMLWWf59HTz8=",
+  "cover": "scenes\\images\\yunzhongwangcaihongmaoxian_0001.webp",
+  "version": "20260505-1555",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.wav",
+        "text": "在遥远的云端之下，有一片长满柔软青草的青青草原，草原上住着一群无忧无虑的小羊。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.wav",
+        "text": "其中有一只名叫蓬蓬的小羊，它有着蓬松的绒毛，像天上的云朵一样柔软。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.wav",
+        "text": "蓬蓬不仅善良可爱，还特别勇敢，它的眼睛里总是闪烁着对远方的向往。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.wav",
+        "text": "草原上的老羊们常常讲述一个古老的传说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.wav",
+        "text": "在云层之上的神秘禁地深处，生长着一株神奇的彩虹小草。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.wav",
+        "text": "这株小草拥有实现心愿的魔力，还能赋予守护者强大的力量。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.wav",
+        "text": "只要通过所有试炼，吃下彩虹小草，就能蜕变为至高无上的云中王，守护一方天地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.wav",
+        "text": "蓬蓬从小就听着这个传说长大，它的心中种下了一个大大的梦想——成为守护大家的云中王。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.wav",
+        "text": "终于有一天，蓬蓬告别了温暖的家园和亲爱的家人，昂首挺胸地踏上了充满未知与考验的冒险征途。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.wav",
+        "text": "现在，勇敢的小读者们，让我们和蓬蓬一起，开启这场奇妙的云中王冒险之旅吧！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.wav",
+        "text": "每一个节点，都需要你做出选择，不同的选择会带来不一样的结局哦！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.wav",
+        "text": "昂首挺胸站立于草原高坡，前蹄微微抬起准备迈步：现在，勇敢的小读者们，让我们和蓬蓬一起，开启这场奇妙的云中王冒险之旅吧！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.wav",
+        "text": "蓬蓬走出熟悉的家园，微风轻轻拂过它蓬松的绒毛，阳光洒在身上暖洋洋的。前方出现了两条截然不同的道路，一条通向云雾缭绕的禁地，一条通向波光粼粼的海边。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.wav",
+        "text": "蓬蓬停下脚步，歪着小脑袋，对着身边的风精灵问道：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0007.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00000.wav",
+        "text": "风精灵风精灵，我该走哪条路呢？",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet1_15",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0071.webp",
+        "dubbing": "scenes\\audio\\Little Elf00000.wav",
+        "text": "蓬蓬，一条是通往禁地的主线，一条是通往海底的支线，你自己选择吧！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "branches": [
+        {
+          "nextId": "scene_16",
+          "label": "前往禁地"
+        },
+        {
+          "nextId": "scene_32",
+          "label": "前往海底"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00001.wav",
+        "text": "我要去禁地寻找彩虹小草，成为云中王！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\Little Elf00001.wav",
+        "text": "好样的！坚定目标，不要被诱惑迷惑哦！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_18"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.wav",
+        "text": "坚定走向禁地，无视路边风景",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.wav",
+        "text": "蓬蓬坚定目标，没有被路边的风景迷惑，径直走向传说中藏着彩虹小草的禁地。禁地的入口被一层淡淡的云雾笼罩，像蒙上了一层神秘的面纱。蓬蓬深吸一口气，勇敢地迈步走了进去，正式开启寻找圣物的冒险。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00002.wav",
+        "text": "哇，禁地里面好神秘啊！我要小心一点！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.wav",
+        "text": "身影逐渐被云雾吞没，最后回头一瞥",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.wav",
+        "text": "深吸一口气，勇敢地迈步走进禁地入口",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.wav",
+        "text": "走进禁地后环顾四周，小心翼翼前行：哇，禁地里面好神秘啊！我要小心一点！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.wav",
+        "text": "成功进入禁地后，云雾渐渐散开，眼前的道路变得清晰起来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.wav",
+        "text": "蓬蓬在路口的青石上，发现了两样静静摆放的物品——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.wav",
+        "text": "一张画着路线的地图，和一篮散发着香甜气息的新鲜水果。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.wav",
+        "text": "地图爷爷轻轻开口：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00000.wav",
+        "text": "我是地图，我能指引你正确的方向！",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_29"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.wav",
+        "text": "水果妹妹眨着眼睛：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\Fruit Sister00000.wav",
+        "text": "我是水果，我香甜又美味，吃了能补充能量哦！",
+        "characterImage": "scenes\\images\\fruitsister tou.webp",
+        "characterName": "Fruit Sister"
+      },
+      "nextId": "scene_31"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.wav",
+        "text": "蓬蓬歪着脑袋，陷入了思考。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_41",
+          "label": "获得地图"
+        },
+        {
+          "nextId": "scene_65",
+          "label": "获得水果"
+        }
+      ]
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0046.webm",
+        "dubbing": "scenes\\audio\\Pengpeng00003.wav",
+        "text": "海底看起来好漂亮啊，我想去看看！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\海浪声.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0046.webm",
+        "dubbing": "scenes\\audio\\Little Elf00002.wav",
+        "text": "哎呀，海底危险密布，你会迷路的！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_34"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0048.webm",
+        "dubbing": "scenes\\audio\\Pengpeng00004.wav",
+        "text": "没关系，我就看一眼！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0048.webm",
+        "dubbing": "scenes\\audio\\pangbai00025.wav",
+        "text": "蓬蓬被神秘的海底世界吸引，偏离主线踏入深海。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0048.webm",
+        "dubbing": "scenes\\audio\\pangbai00026.wav",
+        "text": "海底虽然美丽，却危险密布，暗流涌动。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00005.wav",
+        "text": "呜呜，这里好黑啊，我找不到路了……",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Little Turtle00000.wav",
+        "text": "小羊小羊，你怎么跑到这里来了？这里很危险！",
+        "characterImage": "scenes\\images\\littleturtle tou.webp",
+        "characterName": "Little Turtle"
+      },
+      "nextId": "scene_39"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00006.wav",
+        "text": "我想回家，我想继续寻找彩虹小草……",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_40"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Little Turtle00001.wav",
+        "text": "快回去吧，回到陆地重新选择！",
+        "characterImage": "scenes\\images\\littleturtle tou.webp",
+        "characterName": "Little Turtle"
+      },
+      "branches": [
+        {
+          "nextId": "scene_16",
+          "label": "前往禁地"
+        }
+      ]
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00007.wav",
+        "text": "地图爷爷，我需要你的帮助！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00001.wav",
+        "text": "好孩子，我会一直指引你前进！",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_43"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00008.wav",
+        "text": "谢谢地图爷爷！我一定不会让你失望！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_44"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.wav",
+        "text": "蓬蓬想起老羊说过，禁地深处道路复杂，必须有指引才能不迷路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.wav",
+        "text": "它毫不犹豫地拿起指引方向的地图，地图上的符号闪闪发光，仿佛在默默为它指路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.wav",
+        "text": "蓬蓬把地图小心地抱在怀里，凭借线索继续深入禁地，离目标更近一步。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0015.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00009.wav",
+        "text": "有了地图，我就不会迷路啦！出发！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_48"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.wav",
+        "text": "双手抱拳于胸前，身体微微前倾：地图爷爷，我需要你的帮助！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.wav",
+        "text": "羊皮纸微微展开，符号流转光芒：好孩子，我会一直指引你前进！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.wav",
+        "text": "用力点头，双手自然下垂后握拳：谢谢地图爷爷！我一定不会让你失望！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.wav",
+        "text": "低头凝视怀中地图，手指轻抚纸面，随即抬头：有了地图，我就不会迷路啦！出发！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.wav",
+        "text": "大步向前奔跑，地图紧抱胸前，尾巴扬起：有了地图，我就不会迷路啦！出发！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.wav",
+        "text": "--- 蓝火引路，鳄河渡善 ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.wav",
+        "text": "--- 第三抉择：火焰指引 ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.wav",
+        "text": "手持地图的蓬蓬，沿着小路慢慢前行。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet4_15",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.wav",
+        "text": "走了没多久，眼前突然出现两道奇异的火焰——",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet4_16",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.wav",
+        "text": "一道是温和宁静的蓝色火焰，像夜晚的星光；",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet4_17",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.wav",
+        "text": "一道是热烈耀眼的红色火焰，像跳动的烈火。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet4_18",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.wav",
+        "text": "蓝色火焰温柔地说：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet4_19",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.wav",
+        "text": "突然停步，抬头凝视前方，地图从手中滑落半寸",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet4_20",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00000.wav",
+        "text": "我是正义的指引，跟着我，你会得到庇护。",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_62"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet4_21",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.wav",
+        "text": "红色火焰暴躁地喊：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet4_22",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\Red Flame00000.wav",
+        "text": "我是力量的象征，跟着我，你会变得强大！",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_64"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet4_23",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.wav",
+        "text": "两道火焰照亮了两条不同的道路，蓬蓬需要做出选择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_74",
+          "label": "根据蓝色火焰前进"
+        },
+        {
+          "nextId": "scene_88",
+          "label": "追随红色火焰"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00010.wav",
+        "text": "哇，水果看起来好好吃啊！我要吃！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0049.webp",
+        "dubbing": "scenes\\audio\\Fruit Sister00001.wav",
+        "text": "快来吃吧，保证让你回味无穷！",
+        "characterImage": "scenes\\images\\fruitsister tou.webp",
+        "characterName": "Fruit Sister"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0049.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00002.wav",
+        "text": "蓬蓬，不要吃！吃了会失去力量的！",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_68"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0049.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00011.wav",
+        "text": "不管啦，我太饿了！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.wav",
+        "text": "蓬蓬被香甜的水果诱惑，拿起水果大口吃掉。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.wav",
+        "text": "刚吃完，身体突然开始退化，力量全失，变成一只弱小的羊羔。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0051.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00012.wav",
+        "text": "呜呜呜，我的力气不见了……我走不动了……",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.wav",
+        "text": "羊羔前蹄撑地颤抖，嘴唇翕动呜咽：我走不动了……",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00003.wav",
+        "text": "唉，不听老人言，吃亏在眼前啊！",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "branches": [
+        {
+          "nextId": "scene_41",
+          "label": "选择地图"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00013.wav",
+        "text": "蓝火姐姐，你看起来好温柔，我相信你！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\huoyan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00001.wav",
+        "text": "谢谢你的信任，勇敢的小羊！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_76"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\Red Flame00001.wav",
+        "text": "哼，不识货！跟着我才对！",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_77"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.wav",
+        "text": "蓬蓬看着温和的蓝色火焰，觉得它温暖又安心，一定是正义的指引。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.wav",
+        "text": "它紧紧追随蓝色火焰的脚步，踏上正确的前行道路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.wav",
+        "text": "神奇的是，自从走上这条路，周围的空气都变得柔和，仿佛得到神秘力量的庇护，一路平安顺畅。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.wav",
+        "text": "放下地图，迈步追随蓝色火焰踏上左侧小路",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0087.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00014.wav",
+        "text": "蓝火姐姐，谢谢你保护我！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0087.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00002.wav",
+        "text": "不用谢，坚持下去，彩虹小草就在前方！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_83"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.wav",
+        "text": "驻足眺望远方，双蹄微微握紧",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.wav",
+        "text": "跟着蓝色火焰走了一段路，蓬蓬来到一个东西岔路口。左边是幽静的西边小路，右边是开阔的东边大道，蓝色火焰在东边的方向轻轻闪烁，像是在不停呼唤它。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00003.wav",
+        "text": "蓬蓬，向东走！东边是正确的道路！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_86"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.wav",
+        "text": "西边小路传来神秘的声音：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_13",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\West Crossing00000.wav",
+        "text": "来我这里吧，我这里有宝藏哦！",
+        "characterImage": "scenes\\images\\westcrossing tou.webp",
+        "characterName": "West Crossing"
+      },
+      "branches": [
+        {
+          "nextId": "scene_99",
+          "label": "前往西边"
+        },
+        {
+          "nextId": "scene_108",
+          "label": "前往东边"
+        }
+      ]
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0052.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00015.wav",
+        "text": "红火哥哥，你看起来好有力量，我要跟着你！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\huoyan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0052.webp",
+        "dubbing": "scenes\\audio\\Red Flame00002.wav",
+        "text": "哈哈哈，来吧来吧，我带你飞！",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_90"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.wav",
+        "text": "加速跑向红色火焰，张开双臂",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00004.wav",
+        "text": "蓬蓬，不要过去！他很危险！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.wav",
+        "text": "猛然刹住脚步，头部转向蓝火方向",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00016.wav",
+        "text": "我要变得强大！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.wav",
+        "text": "蓬蓬被鲜艳热烈的红色火焰吸引，觉得红色火焰更有力量，便毫不犹豫地靠近。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.wav",
+        "text": "刚一接触，就被一股强大暴躁的力量直接推出禁地，地图也被风吹走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00017.wav",
+        "text": "哎呀！好痛啊！我的地图不见了！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_97"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Red Flame00003.wav",
+        "text": "哈哈哈，弱小的羊，根本不配拥有力量！",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_98"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00004.wav",
+        "text": "蓬蓬，快回来重新选择吧！",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "branches": [
+        {
+          "nextId": "scene_74",
+          "label": "根据蓝色火焰前进"
+        }
+      ]
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.wav",
+        "text": "你选择了：前往西边！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00018.wav",
+        "text": "宝藏？我要去看看！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_101"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00005.wav",
+        "text": "蓬蓬，不要去！西边有大BOSS！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_102"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00019.wav",
+        "text": "宝藏肯定很珍贵，我一定要去！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_103"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.wav",
+        "text": "蓬蓬好奇西边幽静的小路，觉得东边的大路太普通，便不顾蓝色火焰的指引，向西走去。半路突然跳出一只强大无比的大BOSS，它身形巨大、气势汹汹。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0056.webm",
+        "dubbing": "scenes\\audio\\Final Boss00000.wav",
+        "text": "吼！小肥羊，你竟敢闯入我的地盘！",
+        "characterImage": "scenes\\images\\finalboss tou.webp",
+        "characterName": "Final Boss"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0056.webm",
+        "dubbing": "scenes\\audio\\Pengpeng00020.wav",
+        "text": "啊！怪物啊！救命！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\功夫攻击.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_106"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.wav",
+        "text": "被巨爪拍飞翻滚落地，挣扎爬起又跌倒：啊！怪物啊！救命！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0123.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00006.wav",
+        "text": "唉，不听劝告，被打败了吧！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "soundEffects": "scenes\\audio\\hongxiao.mp3",
+        "characterName": "Blue Flame"
+      },
+      "branches": [
+        {
+          "nextId": "scene_108",
+          "label": "前往东边"
+        }
+      ]
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00021.wav",
+        "text": "蓝火姐姐，我听你的，向东走！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00007.wav",
+        "text": "真棒！坚持住，你离成功越来越近了！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_110"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\West Crossing00001.wav",
+        "text": "哼，不识货，宝藏都不要！",
+        "characterImage": "scenes\\images\\westcrossing tou.webp",
+        "soundEffects": "scenes\\audio\\大火燃烧.mp3",
+        "characterName": "West Crossing"
+      },
+      "nextId": "scene_111"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.wav",
+        "text": "蓬蓬牢记蓝色火焰的指引，没有被西边的小路诱惑，坚定地向东前行。东边的道路十分平稳，路边开满了五颜六色的小花，阳光透过云层洒下来，温暖又舒适。蓬蓬迈着轻快的脚步，继续向彩虹小草靠近。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00022.wav",
+        "text": "这里的风景真美啊！加油，蓬蓬！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.wav",
+        "text": "抬头望向前方，双手握拳给自己鼓劲：加油，蓬蓬！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.wav",
+        "text": "站在路口转身面向东方，深吸一口气后迈出第一步",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.wav",
+        "text": "迈着轻快脚步沿东边大道前行，双臂自然摆动：蓬蓬：这里的风景真美啊！加油，蓬蓬！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.wav",
+        "text": "继续向前行走，目光坚定地望向远方",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.wav",
+        "text": "抵达东边的安全区域后，两条崭新的道路摆在蓬蓬面前：一条通向水流哗哗的鳄鱼河，一条通向雾气蒙蒙的神秘迷宫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.wav",
+        "text": "鳄鱼河哗哗作响：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\Crocodile00000.wav",
+        "text": "我是通往彩虹小草的必经之路，勇敢的你就过来吧！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.wav",
+        "text": "神秘迷宫幽幽低语：",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\Maze00000.wav",
+        "text": "我充满了惊喜，进来探索吧！",
+        "characterImage": "scenes\\images\\maze tou.webp",
+        "characterName": "Maze"
+      },
+      "branches": [
+        {
+          "nextId": "scene_122",
+          "label": "走到有鳄鱼的河"
+        },
+        {
+          "nextId": "scene_139",
+          "label": "走到神秘的迷宫"
+        }
+      ]
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0023.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00023.wav",
+        "text": "我要成为云中王，再大的困难我都不怕！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\Crocodile River00000.wav",
+        "text": "好勇气！准备接受渡河考验吧！",
+        "characterImage": "scenes\\images\\crocodileriver tou.webp",
+        "characterName": "Crocodile River"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\Maze00001.wav",
+        "text": "哼，胆小鬼，不敢来探索！",
+        "characterImage": "scenes\\images\\maze tou.webp",
+        "characterName": "Maze"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.wav",
+        "text": "蓬蓬想起传说中的叮嘱，知道鳄鱼河是通往彩虹小草的必经之路，哪怕知道河里有凶猛的鳄鱼，它也没有退缩。蓬蓬鼓起勇气，选择走向鳄鱼河，准备接受渡河的终极考验。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00024.wav",
+        "text": "鳄鱼先生，我来了！请你多多指教！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.wav",
+        "text": "突然回头，眼神灼灼望向鳄鱼：请你多多指教！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.wav",
+        "text": "深吸一口气，胸膛鼓起，双脚稳扎河岸，右手握拳置于心口：鳄鱼先生，我来了！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.wav",
+        "text": "缓缓浮出水面，眼睑微抬，鼻孔喷出水柱：请你多多指教！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.wav",
+        "text": "向前迈出坚定一步，脚尖试探水面，身体微微前倾",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.wav",
+        "text": "猛然摆尾，身躯完全展露，张开巨口又缓缓闭合，示意渡河开始",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.wav",
+        "text": "来到鳄鱼河边，河水清澈却湍急，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.wav",
+        "text": "一只体型巨大的鳄鱼静静趴在河中央，坚硬的鳞片闪着光，挡住所有前进的道路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.wav",
+        "text": "鳄鱼睁开眼睛，看着眼前的小羊，没有说话，也没有攻击。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\Crocodile00001.wav",
+        "text": "小不点，你想过河？",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_136"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00025.wav",
+        "text": "是的，鳄鱼先生，我要去寻找彩虹小草！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_137"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\Crocodile00002.wav",
+        "text": "那你打算怎么过去？",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.wav",
+        "text": "蓬蓬必须选择渡河方式，才能继续前进。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_149",
+          "label": "跟鳄鱼讲道理"
+        },
+        {
+          "nextId": "scene_173",
+          "label": "踩着鳄鱼的头过河"
+        }
+      ]
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00026.wav",
+        "text": "迷宫看起来好有趣啊，我要去玩！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.wav",
+        "text": "迷宫：哈哈哈，进来吧，你永远出不去！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.wav",
+        "text": "鳄鱼河：蓬蓬，不要进去！里面会让你体力耗尽！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00027.wav",
+        "text": "我就玩一会儿！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_143"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.wav",
+        "text": "蓬蓬对神秘的迷宫充满好奇，觉得迷宫里一定藏着宝藏，便放弃主线，误入迷宫之中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.wav",
+        "text": "迷宫内部道路错综复杂，岔路一个接着一个，到处都是一模一样的墙壁。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00028.wav",
+        "text": "咦，这条路刚才走过了啊……",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_146"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\纪录片悲痛回顾.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0060.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00029.wav",
+        "text": "好累啊，我走不动了……",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\纪录片悲痛回顾.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0126.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00030.wav",
+        "text": "呜呜，我好想出去……",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\纪录片悲痛回顾.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.wav",
+        "text": "蓬蓬在里面不停奔走，绕了一圈又一圈，体力一点点耗尽，最后累得体力不支倒地，再也站不起来。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_122",
+          "label": "重新选择有鳄鱼的河"
+        }
+      ]
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00031.wav",
+        "text": "鳄鱼先生，我想成为云中王，守护草原上的家人和朋友，",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00032.wav",
+        "text": "所以必须渡过这条河去寻找彩虹小草。",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00033.wav",
+        "text": "我没有恶意，只是想完成守护的梦想，请你帮帮我。",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Crocodile00003.wav",
+        "text": "你真的想守护大家？不是为了自己的力量？",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_153"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00034.wav",
+        "text": "是的！我想让所有小动物都平安快乐！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0029.webp",
+        "dubbing": "scenes\\audio\\Crocodile00004.wav",
+        "text": "……你真是一只善良的小羊。",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.wav",
+        "text": "蓬蓬的善良、坚持与真诚，深深打动了原本凶猛的鳄鱼。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.wav",
+        "text": "鳄鱼原本严肃的眼神慢慢变得温柔，它轻轻点了点头，缓缓趴在地上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\Crocodile00005.wav",
+        "text": "上来吧，小勇士，我驮你过河！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00035.wav",
+        "text": "太谢谢你了，鳄鱼先生！你真是太好了！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_159"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.wav",
+        "text": "鳄鱼慢慢游动，带着蓬蓬平安渡过危险的河流，将它送到对岸。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.wav",
+        "text": "稳健游动，四肢交替划水，背部保持平稳",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.wav",
+        "text": "站立于鳄鱼背部，身体随波浪轻微摇晃，前蹄自然下垂",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet12_13",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0099.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00036.wav",
+        "text": "再见，鳄鱼先生！我会永远记得你的帮助！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet12_14",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0100.webp",
+        "dubbing": "scenes\\audio\\Crocodile00006.wav",
+        "text": "加油，未来的云中王！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet12_15",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.wav",
+        "text": "毅然转身，向远方奔跑离去，身影渐小",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet12_16",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.wav",
+        "text": "--- 圣草择主，云上为王 ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet12_17",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.wav",
+        "text": "--- 第七抉择：善意考验 ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet12_18",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.wav",
+        "text": "成功过河后，蓬蓬向鳄鱼道谢，继续向前走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet12_19",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.wav",
+        "text": "伫立河岸目送蓬蓬离去，微微点头",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet12_20",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\pangbai00095.wav",
+        "text": "没走多远，它在一块冰冷的石头旁，遇到一只冻得瑟瑟发抖的小精灵。",
+        "soundEffects": "scenes\\audio\\女人哭泣.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet12_21",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\pangbai00096.wav",
+        "text": "小精灵的翅膀单薄，绒毛稀少，缩在角落里不停发抖，眼看就要被禁地的寒气冻僵。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet12_22",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\Little Elf00003.wav",
+        "text": "好冷啊……谁能帮帮我……",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_172"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet12_23",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\pangbai00097.wav",
+        "text": "这是最后的人性考验，蓬蓬该怎么做？",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_194",
+          "label": "分一点毛让精灵御寒"
+        },
+        {
+          "nextId": "scene_184",
+          "label": "不理它，不分毛给它"
+        }
+      ]
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00037.wav",
+        "text": "哼，挡路的鳄鱼，我踩你过去！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\电流攻击嗞~.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\Crocodile00007.wav",
+        "text": "你敢！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_175"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00038.wav",
+        "text": "我就要踩！快点让开！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_176"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.wav",
+        "text": "蓬蓬看着挡路的鳄鱼，心里十分急躁，只想快点过河完成梦想。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.wav",
+        "text": "它没有耐心沟通，直接急躁地踩上鳄鱼的头部，想要快速跳过去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0062.webp",
+        "dubbing": "scenes\\audio\\Crocodile00008.wav",
+        "text": "吼！你竟敢冒犯我！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00039.wav",
+        "text": "啊！好痛啊！救命！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.wav",
+        "text": "可鳄鱼是河流的守护者，绝不能容忍被随意踩踏。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.wav",
+        "text": "双手紧抱流血右脚，身体蜷缩颤抖：呜呜呜，我的脚好痛……我走不了路了……",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\Crocodile00009.wav",
+        "text": "这是对你无礼的惩罚！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_183"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.wav",
+        "text": "蓬蓬疼得哇哇大哭，伤口流血不止，再也无法继续前行。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_149",
+          "label": "跟鳄鱼讲道理"
+        }
+      ]
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0064.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00040.wav",
+        "text": "我才不管你呢，我要去找彩虹小草！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0064.webp",
+        "dubbing": "scenes\\audio\\Little Elf00004.wav",
+        "text": "求求你，帮帮我吧，我快冻死了……",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_186"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0065.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00041.wav",
+        "text": "别烦我，我没时间！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.wav",
+        "text": "蓬蓬一心只想着快点找到彩虹小草，成为云中王，完全无视小精灵的困境。它看都没看冻僵的小精灵，冷漠地转身离开，脚步匆匆地向前走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\Little Elf00005.wav",
+        "text": "既然你不帮我，那我只能自保了！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00042.wav",
+        "text": "啊！我的毛！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_190"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.wav",
+        "text": "濒临冻死的精灵为了自保，只能用尽最后一丝力气，悄悄飞到蓬蓬身后，夺走它身上的绒毛。没有了御寒的绒毛，蓬蓬很快被禁地的寒风吹倒，身体冻得僵硬，再也无法前进半步。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_191"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.wav",
+        "text": "【触发失败：返回主线，重新进行抉择】",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.wav",
+        "text": "踉跄旋转半圈后轰然跪倒",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.wav",
+        "text": "将绒毛裹紧自身，转身走入风雪中",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_194",
+          "label": "帮助小精灵"
+        }
+      ]
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00043.wav",
+        "text": "小精灵，你冻得好可怜啊，我来帮你！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\Little Elf00006.wav",
+        "text": "真的吗？可是我没有东西报答你……",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_196"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00044.wav",
+        "text": "不用报答！帮助别人是应该的！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_197"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.wav",
+        "text": "蓬蓬看到小精灵可怜的样子，心中立刻生出怜悯之情。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_198"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.wav",
+        "text": "它没有丝毫犹豫，主动伸出小手，轻轻揪下自己身上最柔软、最温暖的绒毛，小心翼翼地裹在小精灵身上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0038.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00045.wav",
+        "text": "小精灵，别害怕，我的绒毛很暖和，分给你一些，你就不会冷啦。",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0155.webp",
+        "dubbing": "scenes\\audio\\Little Elf00007.wav",
+        "text": "谢谢你！谢谢你！善良的小羊！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "soundEffects": "scenes\\audio\\youngnvxiao.mp3",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.wav",
+        "text": "蓬蓬的善意像一束温暖的阳光，瞬间融化了小精灵身上的寒冷。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.wav",
+        "text": "小精灵感动得热泪盈眶，它紧紧抱着蓬蓬送的绒毛，浑身重新充满力量。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_203"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0214.webp",
+        "dubbing": "scenes\\audio\\Little Elf00008.wav",
+        "text": "为了报答你，我要告诉你一个秘密！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0214.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00046.wav",
+        "text": "什么秘密呀？",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_205"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0214.webp",
+        "dubbing": "scenes\\audio\\Little Elf00009.wav",
+        "text": "我知道彩虹小草的秘密所在地，我来为你引路！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_206"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\Little Elf00010.wav",
+        "text": "善良的小羊，跟我来！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00047.wav",
+        "text": "好！谢谢你，小精灵！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.wav",
+        "text": "在小精灵的带领下，蓬蓬穿过层层秘境，避开所有隐藏的危险，直达彩虹小草生长的神圣之地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_209"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.wav",
+        "text": "那株传说中的彩虹小草就长在云端最顶端，叶片散发着红、橙、黄、绿、青、蓝、紫七种光芒，像天上的彩虹落进草丛里，美丽得让人移不开眼睛。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0107.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00048.wav",
+        "text": "哇！彩虹小草！终于找到你了！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0108.webp",
+        "dubbing": "scenes\\audio\\Little Elf00011.wav",
+        "text": "快吃下它吧，你会成为伟大的云中王！",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.wav",
+        "text": "蓬蓬轻轻摘下彩虹小草，慢慢放进嘴里。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.wav",
+        "text": "它的绒毛变得更加蓬松，身体绽放出耀眼的七彩光芒，力量与心性得到完美升华。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_214"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0043.webm",
+        "dubbing": "scenes\\audio\\pangbai00116.wav",
+        "text": "身体绽放耀眼七彩光芒，缓缓旋转展示蜕变后的姿态",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet15_21",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0044.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00005.wav",
+        "text": "恭喜你，孩子！",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet15_22",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0044.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00008.wav",
+        "text": "恭喜你，勇敢的守护者！",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet15_23",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0044.webp",
+        "dubbing": "scenes\\audio\\Crocodile00010.wav",
+        "text": "恭喜你，小勇士！",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_218"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet15_24",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.wav",
+        "text": "这一刻，光芒笼罩大地，云层为之散开，所有小动物都感受到了正义与善良的力量。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet15_25",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.wav",
+        "text": "蓬蓬成功蜕变为万众敬仰、守护天地的云中王！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_220"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet15_26",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0045.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00049.wav",
+        "text": "谢谢大家！我一定会用我的力量守护家园，守护所有善良的生命！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet15_27",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0045.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00050.wav",
+        "text": "让和平与温暖永远留在这片土地上！",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_222"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet15_28",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.wav",
+        "text": "冒险圆满成功！恭喜你，用善良与智慧帮助蓬蓬实现了梦想！",
+        "characterName": "旁白"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3660 @@
+{
+  "uid": "yunzhongwangcaihongmaoxian",
+  "name": "yunzhongwangcaihongmaoxian",
+  "token": "U2FsdGVkX1/0T8TLR36cP4ICGUKj4SVwTTPgb7yKss98rnGOl7/KqQkf+2eNQwmX",
+  "cover": "scenes\\images\\yunzhongwangcaihongmaoxian_0001.webp",
+  "version": "20260505-1555",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.wav",
+        "text": "Below the distant clouds, there is a green grassland covered with soft grass. A group of care - free little sheep live on the grassland.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.wav",
+        "text": "Among them, there is a little sheep named Pengpeng. It has fluffy wool, as soft as the clouds in the sky.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.wav",
+        "text": "Pengpeng is not only kind and lovely but also very brave. There is always a glimmer of yearning for the distance in its eyes.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.wav",
+        "text": "The old sheep on the grassland often tell an ancient legend:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.wav",
+        "text": "Deep in the mysterious restricted area above the clouds, there grows a magical rainbow grass.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.wav",
+        "text": "This grass has the magic to fulfill wishes and can also endow the guardian with powerful strength.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.wav",
+        "text": "As long as one passes all the trials and eats the rainbow grass, one can transform into the supreme Cloud King and protect a region.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.wav",
+        "text": "Pengpeng grew up listening to this legend. A big dream was planted in its heart - to become the Cloud King who protects everyone.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_8",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet1_8",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.wav",
+        "text": "Finally, one day, Pengpeng bid farewell to its warm home and dear family, and set off on an adventurous journey full of unknowns and challenges with its head held high.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet1_9",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.wav",
+        "text": "Now, brave young readers, let's start this wonderful adventure of the Cloud King with Pengpeng!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet1_10",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.wav",
+        "text": "At each node, you need to make a choice. Different choices will lead to different endings!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_11"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet1_11",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jinghuang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.wav",
+        "text": "Standing upright on the high slope of the grassland with its front hooves slightly raised, ready to take a step: Now, brave young readers, let's start this wonderful adventure of the Cloud King with Pengpeng!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet1_12",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.wav",
+        "text": "Pengpeng walked out of its familiar home. The gentle breeze gently blew through its fluffy wool, and the sun shone warmly on its body. Two completely different paths appeared ahead. One led to the fog - shrouded restricted area, and the other led to the sparkling seaside.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet1_13",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.wav",
+        "text": "Pengpeng stopped and tilted its little head. It asked the wind spirit beside it:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet1_14",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0007.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00000.wav",
+        "text": "Wind spirit, wind spirit, which path should I take?",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet1_15",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0071.webp",
+        "dubbing": "scenes\\audio\\Little Elf00000.wav",
+        "text": "Pengpeng, one is the main route to the restricted area, and the other is the side route to the seabed. You choose for yourself!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "branches": [
+        {
+          "nextId": "scene_16",
+          "label": "Go to the restricted area"
+        },
+        {
+          "nextId": "scene_32",
+          "label": "Go to the seabed"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00001.wav",
+        "text": "I'm going to the restricted area to find the rainbow grass and become the Cloud King!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\Little Elf00001.wav",
+        "text": "Good job! Stick to your goal and don't be tempted by distractions!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_18"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.wav",
+        "text": "Firmly walk towards the restricted area, ignoring the scenery by the roadside",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.wav",
+        "text": "Pengpeng stuck to its goal and was not distracted by the roadside scenery. It walked straight towards the restricted area where the rainbow grass was said to be hidden. The entrance of the restricted area was covered with a thin layer of fog, like a mysterious veil. Pengpeng took a deep breath and bravely stepped in, officially starting the adventure to find the sacred object.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00002.wav",
+        "text": "Wow, it's so mysterious inside the restricted area! I have to be careful!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.wav",
+        "text": "Its figure was gradually swallowed by the fog, and it took a last look back",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.wav",
+        "text": "Take a deep breath and bravely step into the entrance of the restricted area",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.wav",
+        "text": "After entering the restricted area, look around and move forward carefully: Wow, it's so mysterious inside the restricted area! I have to be careful!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.wav",
+        "text": "After successfully entering the restricted area, the fog gradually dispersed, and the road ahead became clear.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.wav",
+        "text": "Pengpeng found two items quietly placed on the bluestone at the intersection -",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.wav",
+        "text": "A map showing the route and a basket of fresh fruits emitting a sweet smell.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.wav",
+        "text": "Grandpa Map gently said:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00000.wav",
+        "text": "I'm the map. I can guide you in the right direction!",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_29"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.wav",
+        "text": "Fruit Sister blinks her eyes:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet2_14",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\Fruit Sister00000.wav",
+        "text": "I'm a fruit. I'm sweet and delicious. Eating me can replenish your energy!",
+        "characterImage": "scenes\\images\\fruitsister tou.webp",
+        "characterName": "Fruit Sister"
+      },
+      "nextId": "scene_31"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet2_15",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.wav",
+        "text": "Pengpeng tilts his head and falls into deep thought.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_41",
+          "label": "Obtained the map"
+        },
+        {
+          "nextId": "scene_65",
+          "label": "Obtained the fruit"
+        }
+      ]
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0046.webm",
+        "dubbing": "scenes\\audio\\Pengpeng00003.wav",
+        "text": "The seabed looks so beautiful! I want to go and have a look!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\海浪声.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0046.webm",
+        "dubbing": "scenes\\audio\\Little Elf00002.wav",
+        "text": "Oh dear, there are many dangers on the seabed. You'll get lost!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_34"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0048.webm",
+        "dubbing": "scenes\\audio\\Pengpeng00004.wav",
+        "text": "It doesn't matter. I just want to take a quick look!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0048.webm",
+        "dubbing": "scenes\\audio\\pangbai00025.wav",
+        "text": "Pengpeng is attracted by the mysterious underwater world and deviates from the main route into the deep sea.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0048.webm",
+        "dubbing": "scenes\\audio\\pangbai00026.wav",
+        "text": "Although the seabed is beautiful, it's full of dangers and undercurrents are surging.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00005.wav",
+        "text": "Woo, it's so dark here. I can't find my way...",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Little Turtle00000.wav",
+        "text": "Little lamb, little lamb, why did you come here? It's very dangerous here!",
+        "characterImage": "scenes\\images\\littleturtle tou.webp",
+        "characterName": "Little Turtle"
+      },
+      "nextId": "scene_39"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00006.wav",
+        "text": "I want to go home. I want to continue looking for the rainbow grass...",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_40"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0047.webp",
+        "dubbing": "scenes\\audio\\Little Turtle00001.wav",
+        "text": "Go back quickly! Choose again on land!",
+        "characterImage": "scenes\\images\\littleturtle tou.webp",
+        "characterName": "Little Turtle"
+      },
+      "branches": [
+        {
+          "nextId": "scene_16",
+          "label": "Head to the forbidden area"
+        }
+      ]
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00007.wav",
+        "text": "Grandpa Map, I need your help!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00001.wav",
+        "text": "Good boy, I'll always guide you forward!",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_43"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0012.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00008.wav",
+        "text": "Thank you, Grandpa Map! I won't disappoint you!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_44"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.wav",
+        "text": "Pengpeng remembers what the old sheep said. The roads deep in the forbidden area are complex. You must have a guide to avoid getting lost.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.wav",
+        "text": "Without hesitation, it picks up the map that guides the direction. The symbols on the map are shining, as if silently guiding it.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.wav",
+        "text": "Pengpeng carefully holds the map in his arms and continues to go deeper into the forbidden area based on the clues, getting closer to the goal.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0015.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00009.wav",
+        "text": "With the map, I won't get lost! Let's go!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_48"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.wav",
+        "text": "Clasping his fists in front of his chest and leaning forward slightly: Grandpa Map, I need your help!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.wav",
+        "text": "The parchment unfolds slightly, and the symbols shine with a flowing light: Good boy, I'll always guide you forward!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet4_9",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.wav",
+        "text": "Nodding vigorously, with hands hanging naturally and then making fists: Thank you, Grandpa Map! I won't disappoint you!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet4_10",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.wav",
+        "text": "Looking down at the map in his arms, gently stroking the paper with his fingers, then looking up: With the map, I won't get lost! Let's go!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet4_11",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.wav",
+        "text": "Running forward in big strides, tightly holding the map in front of his chest, with his tail up: With the map, I won't get lost! Let's go!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet4_12",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.wav",
+        "text": "--- Blue fire leads the way, and the crocodile river ferries the kind ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet4_13",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.wav",
+        "text": "--- The third choice: Guided by the flame ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet4_14",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.wav",
+        "text": "Ponpon, holding a map, slowly walked along the path.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet4_15",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.wav",
+        "text": "After walking for a short while, two strange flames suddenly appeared in front of him -",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet4_16",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.wav",
+        "text": "One was a gentle and serene blue flame, like the starlight at night;",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet4_17",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.wav",
+        "text": "One was a passionate and dazzling red flame, like a dancing fire.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet4_18",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.wav",
+        "text": "The blue flame said gently:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet4_19",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.wav",
+        "text": "Suddenly stopping, looking up and staring ahead, the map slipped half an inch from his hand",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet4_20",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00000.wav",
+        "text": "I am the guide of justice. Follow me, and you will get protection.",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_62"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet4_21",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.wav",
+        "text": "The red flame shouted impatiently:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet4_22",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0019.webp",
+        "dubbing": "scenes\\audio\\Red Flame00000.wav",
+        "text": "I am the symbol of power. Follow me, and you will become strong!",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_64"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet4_23",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.wav",
+        "text": "The two flames illuminated two different paths, and Ponpon needed to make a choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_74",
+          "label": "Move forward according to the blue flame"
+        },
+        {
+          "nextId": "scene_88",
+          "label": "Follow the red flame"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0011.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00010.wav",
+        "text": "Wow, the fruits look so delicious! I want to eat them!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0049.webp",
+        "dubbing": "scenes\\audio\\Fruit Sister00001.wav",
+        "text": "Come and eat! It'll surely leave you with a lingering aftertaste!",
+        "characterImage": "scenes\\images\\fruitsister tou.webp",
+        "characterName": "Fruit Sister"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0049.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00002.wav",
+        "text": "Ponpon, don't eat them! You'll lose your strength if you do!",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_68"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0049.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00011.wav",
+        "text": "Never mind! I'm so hungry!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.wav",
+        "text": "Ponpon was tempted by the sweet fruits and picked them up to eat greedily.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.wav",
+        "text": "Right after finishing eating, his body suddenly began to degenerate. He lost all his strength and turned into a weak lamb.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0051.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00012.wav",
+        "text": "Woohoo, my strength is gone... I can't walk anymore...",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_72"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.wav",
+        "text": "The lamb propped up on its front hooves, trembling, and its lips moved as it whimpered: I can't walk anymore...",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00003.wav",
+        "text": "Alas, if you don't listen to the elders, you'll surely suffer later!",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "branches": [
+        {
+          "nextId": "scene_41",
+          "label": "Choose the map"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00013.wav",
+        "text": "Sister Blue Flame, you look so gentle. I trust you!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\huoyan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00001.wav",
+        "text": "Thank you for your trust, brave little lamb!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_76"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\Red Flame00001.wav",
+        "text": "Humph, you don't know what's good! You should follow me!",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_77"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.wav",
+        "text": "Ponpon looked at the gentle blue flame and thought it was warm and reassuring. It must be the guide of justice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.wav",
+        "text": "It closely followed the steps of the blue flame and stepped onto the right path forward.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background2.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.wav",
+        "text": "Miraculously, since stepping on this path, the surrounding air became gentle. It seemed to be protected by a mysterious power, and the journey was safe and smooth all the way.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.wav",
+        "text": "Put down the map and step forward to follow the blue flame onto the left - hand path",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0087.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00014.wav",
+        "text": "Sister Blue Flame, thank you for protecting me!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet6_8",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0087.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00002.wav",
+        "text": "You're welcome. Keep going! The Rainbow Grass is right ahead!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_83"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet6_9",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.wav",
+        "text": "Standing still, looking into the distance, hooves slightly clenched",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet6_10",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.wav",
+        "text": "After following the blue flame for a while, Pengpeng came to a fork in the road. To the left was a quiet western path, and to the right was an open eastern avenue. The blue flame was gently flickering in the eastern direction, as if constantly calling to it.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet6_11",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00003.wav",
+        "text": "Pengpeng, go east! The east is the right way!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_86"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet6_12",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.wav",
+        "text": "A mysterious voice came from the western path:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet6_13",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0021.webp",
+        "dubbing": "scenes\\audio\\West Crossing00000.wav",
+        "text": "Come to me. I have treasures here!",
+        "characterImage": "scenes\\images\\westcrossing tou.webp",
+        "characterName": "West Crossing"
+      },
+      "branches": [
+        {
+          "nextId": "scene_99",
+          "label": "Go west"
+        },
+        {
+          "nextId": "scene_108",
+          "label": "Go east"
+        }
+      ]
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0052.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00015.wav",
+        "text": "Brother Red Fire, you look so powerful. I'll follow you!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\huoyan.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0052.webp",
+        "dubbing": "scenes\\audio\\Red Flame00002.wav",
+        "text": "Hahaha, come on! I'll take you flying!",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_90"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.wav",
+        "text": "Run towards the red flame at full speed, with arms outstretched",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00004.wav",
+        "text": "Pengpeng, don't go there! He's dangerous!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.wav",
+        "text": "Suddenly stop in your tracks and turn your head towards the blue flame",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00016.wav",
+        "text": "I want to become strong!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_94"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0053.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.wav",
+        "text": "Pengpeng was attracted by the bright and intense red flame. Thinking it was more powerful, he didn't hesitate to get closer.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.wav",
+        "text": "As soon as he touched it, he was directly pushed out of the forbidden area by a powerful and violent force, and the map was blown away by the wind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00017.wav",
+        "text": "Ouch! It hurts so much! My map is gone!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_97"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Red Flame00003.wav",
+        "text": "Hahaha, weak sheep don't deserve power at all!",
+        "characterImage": "scenes\\images\\redflame tou.webp",
+        "characterName": "Red Flame"
+      },
+      "nextId": "scene_98"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0054.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00004.wav",
+        "text": "Pengpeng, come back and make a new choice!",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "branches": [
+        {
+          "nextId": "scene_74",
+          "label": "Follow the blue flame"
+        }
+      ]
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.wav",
+        "text": "You've chosen: Go west!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00018.wav",
+        "text": "Treasures? I have to go and see!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_101"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00005.wav",
+        "text": "Pengpeng, don't go! There's a big boss in the west!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_102"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00019.wav",
+        "text": "The treasures must be very precious. I have to go!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_103"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.wav",
+        "text": "Pengpeng was curious about the quiet western path and thought the eastern avenue was too ordinary. So, ignoring the guidance of the blue flame, he walked west. Suddenly, a powerful boss jumped out halfway. It was huge and menacing.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0056.webm",
+        "dubbing": "scenes\\audio\\Final Boss00000.wav",
+        "text": "Roar! Little fat sheep, how dare you intrude into my territory!",
+        "characterImage": "scenes\\images\\finalboss tou.webp",
+        "characterName": "Final Boss"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0056.webm",
+        "dubbing": "scenes\\audio\\Pengpeng00020.wav",
+        "text": "Ah! Monster! Help!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\功夫攻击.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_106"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet8_7",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.wav",
+        "text": "Flung away by the giant claw, rolling and falling to the ground, struggling to get up and then falling again: Ah! Monster! Help!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet8_8",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichujinzhang.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0123.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00006.wav",
+        "text": "Alas, you didn't listen to the advice and got beaten, right!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "soundEffects": "scenes\\audio\\hongxiao.mp3",
+        "characterName": "Blue Flame"
+      },
+      "branches": [
+        {
+          "nextId": "scene_108",
+          "label": "Go east"
+        }
+      ]
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00021.wav",
+        "text": "Sister Blue Flame, I'll follow your advice and go east!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00007.wav",
+        "text": "Great! Hold on, you're getting closer to success!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_110"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\West Crossing00001.wav",
+        "text": "Humph, you don't know what's good. You don't even want the treasure!",
+        "characterImage": "scenes\\images\\westcrossing tou.webp",
+        "soundEffects": "scenes\\audio\\大火燃烧.mp3",
+        "characterName": "West Crossing"
+      },
+      "nextId": "scene_111"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.wav",
+        "text": "Pengpeng remembered the guidance of the blue flame and wasn't tempted by the path to the west. He firmly walked east. The road to the east was very smooth, and colorful little flowers bloomed by the roadside. The sun shone through the clouds, warm and comfortable. Pengpeng took brisk steps and continued to approach the rainbow grass.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00022.wav",
+        "text": "The scenery here is so beautiful! Come on, Pengpeng!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.wav",
+        "text": "Looking up at the front, clenching his fists to encourage himself: Come on, Pengpeng!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.wav",
+        "text": "Standing at the crossroads, turning to face the east, taking a deep breath and then taking the first step",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.wav",
+        "text": "Walking briskly along the eastern avenue with natural arm swings: Pengpeng: The scenery here is so beautiful! Come on, Pengpeng!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.wav",
+        "text": "Continuing to walk forward, looking firmly into the distance",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.wav",
+        "text": "After reaching the safe area in the east, two brand - new paths appeared in front of Pengpeng: one led to the gurgling Crocodile River, and the other led to the misty mysterious maze.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.wav",
+        "text": "The Crocodile River gurgled:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\Crocodile00000.wav",
+        "text": "I'm the only way to the rainbow grass. Come on, brave one!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.wav",
+        "text": "The mysterious maze whispered softly:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\Maze00000.wav",
+        "text": "I'm full of surprises. Come in and explore!",
+        "characterImage": "scenes\\images\\maze tou.webp",
+        "characterName": "Maze"
+      },
+      "branches": [
+        {
+          "nextId": "scene_122",
+          "label": "Walking to the river with crocodiles"
+        },
+        {
+          "nextId": "scene_139",
+          "label": "Walking to the mysterious maze"
+        }
+      ]
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0023.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00023.wav",
+        "text": "I want to be the King of the Clouds. I'm not afraid of any difficulties!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\Crocodile River00000.wav",
+        "text": "What courage! Get ready to take the river - crossing test!",
+        "characterImage": "scenes\\images\\crocodileriver tou.webp",
+        "characterName": "Crocodile River"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\Maze00001.wav",
+        "text": "Humph, coward, too scared to explore!",
+        "characterImage": "scenes\\images\\maze tou.webp",
+        "characterName": "Maze"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.wav",
+        "text": "Pengpeng remembered the instructions in the legend and knew that the Crocodile River was the only way to the rainbow grass. Even though he knew there were fierce crocodiles in the river, he didn't back down. Pengpeng summoned up his courage, chose to walk towards the Crocodile River, and prepared to take the ultimate river - crossing test.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00024.wav",
+        "text": "Mr. Crocodile, here I come! Please give me some advice!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.wav",
+        "text": "Suddenly turning back, looking at the crocodile with burning eyes: Please give me some advice!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.wav",
+        "text": "Taking a deep breath, puffing out his chest, standing firmly on the riverbank, and putting his right fist on his chest: Mr. Crocodile, here I come!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.wav",
+        "text": "Slowly floating to the surface, slightly raising his eyelids and spouting a water column from his nostrils: Please give me some advice!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet10_8",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.wav",
+        "text": "Taking a firm step forward, testing the water with his toes and leaning forward slightly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet10_9",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.wav",
+        "text": "Suddenly wagging his tail, fully showing his body, opening his huge mouth and then slowly closing it, indicating the start of the river - crossing",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet10_10",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.wav",
+        "text": "Arriving at the Crocodile River, the water was clear but swift",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet10_11",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.wav",
+        "text": "A huge crocodile was lying quietly in the middle of the river. Its hard scales glistened, blocking all the paths forward.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet10_12",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.wav",
+        "text": "The crocodile opened its eyes, looked at the little lamb in front of it, said nothing and didn't attack.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet10_13",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\Crocodile00001.wav",
+        "text": "Little one, you want to cross the river?",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_136"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet10_14",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0094.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00025.wav",
+        "text": "Yes, Mr. Crocodile, I'm going to look for the rainbow grass!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_137"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet10_15",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\Crocodile00002.wav",
+        "text": "Then how do you plan to get there?",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet10_16",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.wav",
+        "text": "Pengpeng has to choose a way to cross the river to continue moving forward.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_149",
+          "label": "Reason with the crocodile"
+        },
+        {
+          "nextId": "scene_173",
+          "label": "Step on the crocodile's head to cross the river"
+        }
+      ]
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00026.wav",
+        "text": "The maze looks so interesting! I'm going to play in it!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.wav",
+        "text": "Maze: Hahaha, come in! You'll never get out!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.wav",
+        "text": "Crocodile River: Pengpeng, don't go in! You'll exhaust your energy inside!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0058.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00027.wav",
+        "text": "I'll just play for a while!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_143"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.wav",
+        "text": "Pengpeng is full of curiosity about the mysterious maze. He thinks there must be treasures hidden in it, so he abandons the main path and strays into the maze.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.wav",
+        "text": "The internal paths of the maze are intricate, with one fork after another and identical walls everywhere.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0059.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00028.wav",
+        "text": "Hey, I've walked on this path before...",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_146"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\纪录片悲痛回顾.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0060.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00029.wav",
+        "text": "I'm so tired. I can't walk anymore...",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\纪录片悲痛回顾.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0126.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00030.wav",
+        "text": "Woo, I really want to get out...",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\纪录片悲痛回顾.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.wav",
+        "text": "Pengpeng keeps running inside, going around in circles. His energy is gradually exhausted, and finally he collapses from exhaustion and can't stand up anymore.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_122",
+          "label": "Choose the river with crocodiles again"
+        }
+      ]
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00031.wav",
+        "text": "Mr. Crocodile, I want to become the King of the Clouds and protect my family and friends on the grassland.",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0027.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00032.wav",
+        "text": "So I have to cross this river to look for the rainbow grass.",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00033.wav",
+        "text": "I have no ill intentions. I just want to fulfill my dream of protection. Please help me.",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Crocodile00003.wav",
+        "text": "Do you really want to protect everyone? Not for your own power?",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_153"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0025.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00034.wav",
+        "text": "Yes! I want all the little animals to be safe and happy!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_154"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0029.webp",
+        "dubbing": "scenes\\audio\\Crocodile00004.wav",
+        "text": "...You're really a kind little lamb.",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.wav",
+        "text": "Pengpeng's kindness, perseverance and sincerity deeply touch the originally fierce crocodile.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\影视氛围叙事抒情.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.wav",
+        "text": "The originally serious look in the crocodile's eyes gradually softens. It gently nods and slowly lies on the ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\Crocodile00005.wav",
+        "text": "Come on, little warrior. I'll carry you across the river!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00035.wav",
+        "text": "Thank you so much, Mr. Crocodile! You're so kind!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_159"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.wav",
+        "text": "The crocodile swims slowly, taking Pengpeng safely across the dangerous river and sending him to the other side.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.wav",
+        "text": "Swim steadily, paddling with the limbs alternately and keeping the back stable",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.wav",
+        "text": "Stand on the crocodile's back, the body swaying slightly with the waves and the front hooves hanging naturally",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet12_13",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0099.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00036.wav",
+        "text": "Goodbye, Mr. Crocodile! I'll always remember your help!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet12_14",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0100.webp",
+        "dubbing": "scenes\\audio\\Crocodile00006.wav",
+        "text": "Come on, future King of the Clouds!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_164",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet12_15",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.wav",
+        "text": "He turned around resolutely and ran away into the distance, his figure gradually shrinking",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet12_16",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.wav",
+        "text": "--- The sacred grass chooses its master, and rules above the clouds ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet12_17",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.wav",
+        "text": "--- The seventh choice: A test of kindness ---",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_167"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet12_18",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.wav",
+        "text": "After successfully crossing the river, PongPong thanked the crocodile and continued walking forward.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet12_19",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.wav",
+        "text": "Standing on the riverbank, watching PongPong leave and nodding slightly",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet12_20",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\pangbai00095.wav",
+        "text": "Not far ahead, it met a shivering little elf beside a cold stone.",
+        "soundEffects": "scenes\\audio\\女人哭泣.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet12_21",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\pangbai00096.wav",
+        "text": "The elf had thin wings and sparse fluff. It was huddled in the corner, shivering constantly. It seemed about to be frozen stiff by the cold air in the forbidden area.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet12_22",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\Little Elf00003.wav",
+        "text": "So cold... Who can help me...",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_172"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet12_23",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0035.webm",
+        "dubbing": "scenes\\audio\\pangbai00097.wav",
+        "text": "This is the final test of humanity. What should PongPong do?",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_194",
+          "label": "Share some fur to keep the elf warm"
+        },
+        {
+          "nextId": "scene_184",
+          "label": "Ignore it and don't share any fur"
+        }
+      ]
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00037.wav",
+        "text": "Humph, you crocodile blocking the way, I'll step on you and cross!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "soundEffects": "scenes\\audio\\电流攻击嗞~.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\Crocodile00007.wav",
+        "text": "How dare you!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_175"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00038.wav",
+        "text": "I will step on you! Get out of the way quickly!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_176"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.wav",
+        "text": "PongPong looked at the crocodile blocking the way. It was very impatient and just wanted to cross the river quickly to fulfill its dream.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.wav",
+        "text": "It had no patience to communicate and directly stepped on the crocodile's head impatiently, trying to jump across quickly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0062.webp",
+        "dubbing": "scenes\\audio\\Crocodile00008.wav",
+        "text": "Roar! How dare you offend me!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00039.wav",
+        "text": "Ah! It hurts so much! Help!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.wav",
+        "text": "But the crocodile is the guardian of the river and will never tolerate being trampled on casually.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.wav",
+        "text": "Hugging its bleeding right foot tightly with both hands, its body curled up and trembling: Wuwuwu, my foot hurts so much... I can't walk...",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_182"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\Crocodile00009.wav",
+        "text": "This is the punishment for your rudeness!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_183"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qileng.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.wav",
+        "text": "PongPong cried loudly in pain. The wound kept bleeding, and it could no longer move forward.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_149",
+          "label": "Reason with the crocodile"
+        }
+      ]
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0064.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00040.wav",
+        "text": "I don't care about you. I'm going to find the rainbow grass!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0064.webp",
+        "dubbing": "scenes\\audio\\Little Elf00004.wav",
+        "text": "Please, help me. I'm freezing to death...",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_186"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0065.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00041.wav",
+        "text": "Don't bother me. I'm in a hurry!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.wav",
+        "text": "PongPong only had one thing in mind: to find the rainbow grass quickly and become the King of the Clouds. It completely ignored the elf's plight. Without even looking at the frozen elf, it turned away coldly and walked forward in a hurry.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_188"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\Little Elf00005.wav",
+        "text": "Since you won't help me, I have to save myself!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00042.wav",
+        "text": "Ah! My fur!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_190"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.wav",
+        "text": "On the verge of freezing to death, the elf, in order to save itself, could only use its last bit of strength to quietly fly behind Pengpeng and steal the fluff on its body. Without the warm fluff, Pengpeng was soon blown down by the cold wind in the forbidden area. Its body froze stiff, and it couldn't move forward even half a step.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_191"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.wav",
+        "text": "[Trigger failed: Return to the main line and make a choice again]",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.wav",
+        "text": "Staggered and spun half a circle before kneeling down with a thud",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.wav",
+        "text": "Wrapped the fluff tightly around itself and turned to walk into the snowstorm",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_194",
+          "label": "Help the little elf"
+        }
+      ]
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00043.wav",
+        "text": "Little elf, you look so pitifully frozen! Let me help you!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\Little Elf00006.wav",
+        "text": "Really? But I have nothing to repay you with...",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_196"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00044.wav",
+        "text": "No need to repay! It's right to help others!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_197"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.wav",
+        "text": "Seeing the pitiful look of the little elf, Pengpeng immediately felt pity in its heart.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_198"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.wav",
+        "text": "Without the slightest hesitation, it actively stretched out its little hand, gently plucked the softest and warmest fluff on its body, and carefully wrapped it around the little elf.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0038.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00045.wav",
+        "text": "Little elf, don't be afraid. My fluff is very warm. I'll share some with you, and you won't be cold anymore.",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0155.webp",
+        "dubbing": "scenes\\audio\\Little Elf00007.wav",
+        "text": "Thank you! Thank you! Kind little lamb!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "soundEffects": "scenes\\audio\\youngnvxiao.mp3",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_201",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_201",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.wav",
+        "text": "Pengpeng's kindness was like a warm beam of sunlight, instantly melting the cold on the little elf's body.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_202"
+    },
+    {
+      "id": "scene_202",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\暗流后的正义.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.wav",
+        "text": "The little elf was so touched that tears welled up in its eyes. It tightly hugged the fluff given by Pengpeng, and its whole body was filled with strength again.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_203"
+    },
+    {
+      "id": "scene_203",
+      "sheetName": "Sheet15_9",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0214.webp",
+        "dubbing": "scenes\\audio\\Little Elf00008.wav",
+        "text": "To repay you, I'll tell you a secret!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_204",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_204",
+      "sheetName": "Sheet15_10",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0214.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00046.wav",
+        "text": "What secret?",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_205"
+    },
+    {
+      "id": "scene_205",
+      "sheetName": "Sheet15_11",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0214.webp",
+        "dubbing": "scenes\\audio\\Little Elf00009.wav",
+        "text": "I know the secret location of the Rainbow Grass. I'll lead the way for you!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_206"
+    },
+    {
+      "id": "scene_206",
+      "sheetName": "Sheet15_12",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\Little Elf00010.wav",
+        "text": "Kind little lamb, follow me!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_207",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_207",
+      "sheetName": "Sheet15_13",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00047.wav",
+        "text": "Okay! Thank you, little elf!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_208"
+    },
+    {
+      "id": "scene_208",
+      "sheetName": "Sheet15_14",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.wav",
+        "text": "Led by the little elf, Pengpeng passed through layers of secret realms, avoided all hidden dangers, and reached the sacred place where the Rainbow Grass grew.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_209"
+    },
+    {
+      "id": "scene_209",
+      "sheetName": "Sheet15_15",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\时光静好.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.wav",
+        "text": "The legendary Rainbow Grass grew at the very top of the clouds. Its leaves emitted seven kinds of light - red, orange, yellow, green, cyan, blue, and purple, like a rainbow in the sky falling into the grass, so beautiful that one couldn't take their eyes off it.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_210"
+    },
+    {
+      "id": "scene_210",
+      "sheetName": "Sheet15_16",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0107.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00048.wav",
+        "text": "Wow! The Rainbow Grass! Finally found you!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_211",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_211",
+      "sheetName": "Sheet15_17",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0108.webp",
+        "dubbing": "scenes\\audio\\Little Elf00011.wav",
+        "text": "Eat it quickly. You'll become the great King of the Clouds!",
+        "characterImage": "scenes\\images\\littleelf tou.webp",
+        "characterName": "Little Elf"
+      },
+      "nextId": "scene_212",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_212",
+      "sheetName": "Sheet15_18",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.wav",
+        "text": "Pengpeng gently picked the Rainbow Grass and slowly put it into its mouth.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_213",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_213",
+      "sheetName": "Sheet15_19",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.wav",
+        "text": "Its fluff became even more fluffy, and its body emitted a dazzling seven - colored light. Its strength and character were perfectly sublimated.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_214"
+    },
+    {
+      "id": "scene_214",
+      "sheetName": "Sheet15_20",
+      "excelSheetName": "Sheet15",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0043.webm",
+        "dubbing": "scenes\\audio\\pangbai00116.wav",
+        "text": "The body emits a dazzling seven - colored light and slowly rotates to show the transformed posture",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_215",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_215",
+      "sheetName": "Sheet15_21",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0044.webp",
+        "dubbing": "scenes\\audio\\Grandpa Map00005.wav",
+        "text": "Congratulations, child!",
+        "characterImage": "scenes\\images\\grandpamap tou.webp",
+        "characterName": "Grandpa Map"
+      },
+      "nextId": "scene_216",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_216",
+      "sheetName": "Sheet15_22",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0044.webp",
+        "dubbing": "scenes\\audio\\Blue Flame00008.wav",
+        "text": "Congratulations, brave guardian!",
+        "characterImage": "scenes\\images\\blueflame tou.webp",
+        "characterName": "Blue Flame"
+      },
+      "nextId": "scene_217",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_217",
+      "sheetName": "Sheet15_23",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xianjing.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0044.webp",
+        "dubbing": "scenes\\audio\\Crocodile00010.wav",
+        "text": "Congratulations, little warrior!",
+        "characterImage": "scenes\\images\\crocodile tou.webp",
+        "characterName": "Crocodile"
+      },
+      "nextId": "scene_218"
+    },
+    {
+      "id": "scene_218",
+      "sheetName": "Sheet15_24",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.wav",
+        "text": "At this moment, the light enveloped the earth, the clouds dispersed, and all the small animals felt the power of justice and kindness.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_219",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_219",
+      "sheetName": "Sheet15_25",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.wav",
+        "text": "Pengpeng has successfully transformed into the Cloud King, revered by all and guarding the heavens and earth!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_220"
+    },
+    {
+      "id": "scene_220",
+      "sheetName": "Sheet15_26",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0045.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00049.wav",
+        "text": "Thank you all! I will definitely use my power to protect our homeland and all kind - hearted lives!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_221",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_221",
+      "sheetName": "Sheet15_27",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0045.webp",
+        "dubbing": "scenes\\audio\\Pengpeng00050.wav",
+        "text": "Let peace and warmth always remain in this land!",
+        "characterImage": "scenes\\images\\pengpeng tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_222"
+    },
+    {
+      "id": "scene_222",
+      "sheetName": "Sheet15_28",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background.mp3",
+        "video": "scenes\\images\\yunzhongwangcaihongmaoxian_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.wav",
+        "text": "The adventure is a complete success! Congratulations on helping Pengpeng realize his dream with kindness and wisdom!",
+        "characterName": "旁白"
+      }
+    }
+  ]
+}
