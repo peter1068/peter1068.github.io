@@ -66,6 +66,24 @@
       "entry": "okeweb/guimie_zymt/index.html",
       "enabled": true,
       "order": 1
+    },
+    {
+      "id": "yuanhun_mv",
+      "title": "怨魂魔女",
+      "description": "怨魂魔女",
+      "cover": "okeweb/yuanhun_mv/fm.jpg",
+      "entry": "okeweb/yuanhun_mv/index.html",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "xiaonanhai_gwm",
+      "title": "小男孩的国王梦",
+      "description": "小男孩的国王梦",
+      "cover": "okeweb/xiaonanhai_gwm/fm.webp",
+      "entry": "okeweb/xiaonanhai_gwm/index.html",
+      "enabled": true,
+      "order": 1
     }
   ]
 }

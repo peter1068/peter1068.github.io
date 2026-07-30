@@ -196,8 +196,10 @@
 
     function loadConfig() {
         showLoading();
-
-        fetch(withCacheBust(CONFIG_URL), { cache: 'no-cache' })
+        // 增加随机版本号，防止缓存
+        var version = Math.random().toString(36).substring(2, 15);
+        var configUrl = CONFIG_URL + '?v=' + version;
+        fetch(withCacheBust(configUrl), { cache: 'no-cache' })
             .then(function (response) {
                 if (!response.ok) {
                     throw new Error('HTTP ' + response.status);
