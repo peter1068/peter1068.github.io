@@ -6,7 +6,7 @@
     <meta name="description" content="OKE.X33工作室 — 孩子们用AI创造的视觉互动世界">
     <meta name="theme-color" content="#0a0a0f">
     <title>OKE.X33工作室</title>
-    <script src="./assets/version.js"></script>
+    <script src="./assets/version.js?v=20260731-2135"></script>
     <script>
         (function () {
             var v = typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : '';
@@ -47,9 +47,17 @@
         (function () {
             var v = typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : '';
             var q = v ? '?v=' + encodeURIComponent(v) : '';
-            var js = document.createElement('script');
-            js.src = './assets/js/home.js' + q;
-            document.body.appendChild(js);
+
+            function loadHome() {
+                var js = document.createElement('script');
+                js.src = './assets/js/home.js' + q;
+                document.body.appendChild(js);
+            }
+
+            var common = document.createElement('script');
+            common.src = './assets/js/common.js' + q;
+            common.onload = loadHome;
+            document.body.appendChild(common);
         })();
     </script>
 </body>

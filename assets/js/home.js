@@ -2,7 +2,6 @@
     'use strict';
 
     var CONFIG_URL = './configs/games.json';
-    var PLAY_PAGE = './play.html';
 
     // 仅允许站内相对路径，防止 open redirect
     var SAFE_PATH_RE = /^(?!\/)(?!.*\.\.)([a-zA-Z0-9_\-./]+)$/;
@@ -49,18 +48,15 @@
     }
 
     /**
-     * 构建游戏跳转链接
-     * - 默认经 play.html 外壳加载（oke 游戏需 STORY_PLAYER_AUTH 握手后才能启动）
-     * - wrapper: false 时直链 entry（仅适用于无需外壳认证的独立游戏）
+     * 构建游戏跳转链接（进入宣传页）
      * @param {object} game
      * @returns {string}
      */
     function buildGameUrl(game) {
-        var entry = normalizePath(game.entry);
-        if (game.wrapper === false) {
-            return './' + entry;
+        if (window.SiteCommon && window.SiteCommon.buildPromoUrl) {
+            return window.SiteCommon.buildPromoUrl(game);
         }
-        return PLAY_PAGE + '?player=' + encodeURIComponent(entry);
+        return './game.html?id=' + encodeURIComponent(game.id);
     }
 
     /**
@@ -81,7 +77,7 @@
         var link = document.createElement('a');
         link.className = 'card';
         link.href = buildGameUrl(game);
-        link.setAttribute('aria-label', '进入游戏：' + game.title);
+        link.setAttribute('aria-label', '查看详情：' + game.title);
 
         var coverWrap = document.createElement('div');
         coverWrap.className = 'card__cover-wrap';

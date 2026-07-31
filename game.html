@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#07070c">
+    <title>游戏详情</title>
+    <script src="./assets/version.js?v=20260731-2135"></script>
+    <script>
+        (function () {
+            var v = typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : '';
+            var q = v ? '?v=' + encodeURIComponent(v) : '';
+
+            var css = document.createElement('link');
+            css.rel = 'stylesheet';
+            css.href = './assets/css/game.css' + q;
+            document.head.appendChild(css);
+        })();
+    </script>
+</head>
+<body>
+    <div class="promo" id="promoApp">
+        <header class="promo__topbar">
+            <a class="promo__back" href="./" aria-label="返回首页">
+                <span class="promo__back-icon" aria-hidden="true">←</span>
+                <span>返回首页</span>
+            </a>
+            <span class="promo__version" id="siteVersion"></span>
+        </header>
+
+        <div class="status" id="loading" aria-live="polite">
+            <div class="status__spinner" aria-hidden="true"></div>
+            <span>正在加载…</span>
+        </div>
+
+        <div class="status status--hidden" id="error" role="alert">
+            <p class="status__message" id="errorMessage">加载失败</p>
+            <a class="status__link" href="./">返回首页</a>
+        </div>
+
+        <main class="promo__main status--hidden" id="promoMain">
+            <section class="promo__media" aria-label="宣传视频">
+                <div class="promo__media-bg" id="promoBg" aria-hidden="true"></div>
+                <div class="promo__video-shell">
+                    <video
+                        class="promo__video"
+                        id="promoVideo"
+                        controls
+                        playsinline
+                        preload="metadata"
+                        controlsList="nodownload"
+                    ></video>
+                    <div class="promo__poster is-hidden" id="promoPoster">
+                        <img class="promo__poster-img" id="posterImg" alt="">
+                        <p class="promo__poster-tip">暂无宣传视频</p>
+                    </div>
+                </div>
+            </section>
+
+            <aside class="promo__panel">
+                <p class="promo__label">互动视觉小说</p>
+                <h1 class="promo__title" id="gameTitle"></h1>
+                <p class="promo__desc" id="gameDesc"></p>
+
+                <div class="promo__actions">
+                    <a class="promo__cta" id="playBtn" href="#">
+                        <span class="promo__cta-icon" aria-hidden="true">▶</span>
+                        <span>开始游戏</span>
+                    </a>
+                    <p class="promo__hint">观看宣传视频后，点击按钮进入完整互动体验</p>
+                </div>
+            </aside>
+        </main>
+    </div>
+
+    <script>
+        (function () {
+            var v = typeof SITE_VERSION !== 'undefined' ? SITE_VERSION : '';
+            var q = v ? '?v=' + encodeURIComponent(v) : '';
+
+            var common = document.createElement('script');
+            common.src = './assets/js/common.js' + q;
+            common.onload = function () {
+                var js = document.createElement('script');
+                js.src = './assets/js/game.js' + q;
+                document.body.appendChild(js);
+            };
+            document.body.appendChild(common);
+        })();
+    </script>
+</body>
+</html>

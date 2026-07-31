@@ -10,6 +10,7 @@
       "description": "在中央公园的午后，一段奇幻冒险即将展开……",
       "cover": "okeweb/ailisi/cover.jpg",
       "entry": "okeweb/ailisi/index.html",
+      "video": "okeweb/ailisi/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -19,6 +20,7 @@
       "description": "代码幻境",
       "cover": "okeweb/huanjing_dm/cover.webp",
       "entry": "okeweb/huanjing_dm/index.html",
+      "video": "okeweb/huanjing_dm/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -28,6 +30,7 @@
       "description": "归位",
       "cover": "okeweb/guiwei/fm.jpg",
       "entry": "okeweb/guiwei/index.html",
+      "video": "okeweb/guiwei/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -37,6 +40,7 @@
       "description": "花园微观奇遇",
       "cover": "okeweb/huayuan_wgqy/cover.jpg",
       "entry": "okeweb/huayuan_wgqy/index.html",
+      "video": "okeweb/huayuan_wgqy/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -46,6 +50,7 @@
       "description": "千万别变成烤乳猪",
       "cover": "okeweb/kaoru_z/cover.jpg",
       "entry": "okeweb/kaoru_z/index.html",
+      "video": "okeweb/kaoru_z/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -55,6 +60,7 @@
       "description": "时空草本",
       "cover": "okeweb/shikong_bc/cover.jpg",
       "entry": "okeweb/shikong_bc/index.html",
+      "video": "okeweb/shikong_bc/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -64,6 +70,7 @@
       "description": "鬼灭：地狱迷途",
       "cover": "okeweb/guimie_zymt/fm.jpg",
       "entry": "okeweb/guimie_zymt/index.html",
+      "video": "okeweb/guimie_zymt/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -73,6 +80,7 @@
       "description": "怨魂魔女",
       "cover": "okeweb/yuanhun_mv/fm.jpg",
       "entry": "okeweb/yuanhun_mv/index.html",
+      "video": "okeweb/yuanhun_mv/video.mp4",
       "enabled": true,
       "order": 1
     },
@@ -82,6 +90,7 @@
       "description": "小男孩的国王梦",
       "cover": "okeweb/xiaonanhai_gwm/fm.webp",
       "entry": "okeweb/xiaonanhai_gwm/index.html",
+      "video": "okeweb/xiaonanhai_gwm/video.mp4",
       "enabled": true,
       "order": 1
     }
@@ -92,6 +101,7 @@
       "description": "云中王彩虹冒险",
       "cover": "okeweb/yunzhongwang/fm.webp",
       "entry": "okeweb/yunzhongwang/index.html",
+      "video": "okeweb/yunzhongwang/video.mp4",
       "enabled": true,
       "order": 1
     }
