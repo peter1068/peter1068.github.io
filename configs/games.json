@@ -105,5 +105,27 @@
       "enabled": true,
       "order": 1
     }
+    ,
+    {
+      "id": "niuyue_wj",
+      "title": "纽约危机",
+      "description": "纽约危机",
+      "cover": "okeweb/niuyue_wj/fm.jpg",
+      "entry": "okeweb/niuyue_wj/index.html",
+      "video": "okeweb/niuyue_wj/video.mp4",
+      "enabled": true,
+      "order": 1
+    }
+    ,
+    {
+      "id": "linghu_dsl",
+      "title": "灵狐渡世录",
+      "description": "灵狐渡世录",
+      "cover": "okeweb/linghu_dsl/fm.jpg",
+      "entry": "okeweb/linghu_dsl/index.html",
+      "video": "okeweb/linghu_dsl/video.mp4",
+      "enabled": true,
+      "order": 1
+    }
   ]
 }
