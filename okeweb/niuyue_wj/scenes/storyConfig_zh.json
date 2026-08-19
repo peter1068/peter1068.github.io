@@ -1,0 +1,3445 @@
+{
+  "uid": "nywj21_20260819151332",
+  "name": "纽约危机21合成导入表程序表格式",
+  "token": "U2FsdGVkX1/TpFkoiU0WxLp6VVxeRyWq0T0Fvkr1SKWE+HfaqpKGx4DrXU6vDx86NFV0MRs8yl5je7gvalpUuQ==",
+  "cover": "scenes\\images\\nywj21_20260819151332_0001.webp",
+  "version": "20260819-2151",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\nywj21_20260819151332_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "《纽约危机》",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "喧嚣的纽约市，落日把摩天大楼的玻璃幕墙染成一片滚烫的橘红色。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "大街小巷车流不息，汽车鸣笛声、路人的交谈声混杂在一起，构成这座城市永不停歇的脉搏。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "Derrick “Pan” 靠在公寓楼顶的空调外机旁，破旧的蜘蛛侠战衣搭在肩头，额角还挂着刚刚处理完小骚乱留下的汗珠。晚风拂过Derrick “Pan” 略显疲惫的脸庞，Derrick “Pan” 低头望向脚下万家灯火的城市。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "做蜘蛛侠的日子，光鲜的背后是数不清的伤痛、熬夜和Derrick “Pan” 不得不舍弃的普通生活。Derrick “Pan” 的学校功课落下一堆，Derrick “Pan” 对朋友的邀约总是一次次爽约，Derrick “Pan” 身上大大小小的伤口从来没有完全愈合过。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "Derrick “Pan” 轻声自言自语，声音带着几分迷茫。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0007.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00000.mp3",
+        "text": "我到底还要这样撑多久？",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "命运的岔路口就摆在Derrick “Pan” 面前，两条完全不同的人生道路，正静静等待着Derrick “Pan” 做出抉择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "做普通高中生"
+        },
+        {
+          "nextId": "scene_22",
+          "label": "决心继续守护纽约"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "Derrick指尖缓缓松开，那件伴随他无数个夜晚出生入死的蜘蛛侠战衣，从楼顶滑落，坠向楼下的小巷。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Derrick长长吐出一口积压许久的浊气，脸上卸下了属于英雄的紧绷，露出少年本该有的松弛神态。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0011.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00001.mp3",
+        "text": "够了，我也该做回我自己。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "Derrick不再追逐城市里此起彼伏的警笛声，不再深夜穿梭楼宇之间，把所有英雄的重担通通抛在脑后。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "第二天，少年背上书包准时走进高中校园",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "重新回归普通少年的日常，度过课堂写作业的时光",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "课间少年和同学嬉笑打闹",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "放学之后少年闲逛街边小店",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "不用再随时绷紧神经提防突如其来的危机",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "纽约依旧会发生犯罪，依旧会有危机上演",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "但那一切，再也和少年没有关系",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "少年放下了蜘蛛侠的身份",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "安安稳稳度过属于自己平凡普通的日常",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "走完属于自己平凡普通的一生",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_22",
+          "label": "决心继续守护纽约"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "Derrick低头望着下方街道，听见远处传来警笛尖锐的呼啸声，街边慌乱逃窜的行人映入眼帘。那些普通人恐惧的模样，像一块石头压在Derrick心口。",
+        "soundEffects": "scenes\\audio\\jingchejingdisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "Derrick弯腰伸手，一把捞回快要滑落的战衣",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "指尖紧紧攥住布料",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0025.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00002.mp3",
+        "text": "我不能就这么丢下这座城市。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Derrick咬了咬下唇，眼神重新变得坚定。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0027.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00003.mp3",
+        "text": "这里的人需要蜘蛛侠。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "Derrick迅速套好战衣，面罩落下，那个守护纽约的蜘蛛侠再次就位。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "就在这时，刺耳的城市警报骤然炸响",
+        "soundEffects": "scenes\\audio\\jingchejingdisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "无线电里传来警方急促的呼喊",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0030.webp",
+        "dubbing": "scenes\\audio\\Officer Wang00000.mp3",
+        "text": "注意！运钞车遭歹徒劫持！正在曼哈顿街道高速逃窜！嫌疑车辆携带武器，极度危险！",
+        "characterImage": "scenes\\images\\officerwang tou.webp",
+        "characterName": "Officer Wang"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "一批歹徒劫持运钞车，正在城市街道横冲直撞。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_11",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0032.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00004.mp3",
+        "text": "麻烦来了。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_12",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0033.webm",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "Derrick脚下猛地一蹬楼顶边缘，蛛丝咻地弹射出去，缠绕住对面大楼，身体凌空飞荡",
+        "soundEffects": "scenes\\audio\\jiguangfashe.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_13",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "立刻动身前去拦截逃窜的运钞车。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_14",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "追捕途中，道路两侧大楼的窗口突然掀开，埋伏已久的恐怖分子猛然现身，重型机枪架在窗台，火舌瞬间喷涌而出，密集的子弹朝着蜘蛛侠疯狂扫射过来。",
+        "soundEffects": "scenes\\audio\\tututujiguanqiangsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_15",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0036.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00005.mp3",
+        "text": "该死！是埋伏！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_16",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "子弹打在建筑墙面上炸开片片碎屑。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_39",
+          "label": "直接进攻恐怖分子"
+        },
+        {
+          "nextId": "scene_48",
+          "label": "优先保护大街民众"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "Derrick 脑子里只有一个念头 —— 尽快解决这群暴徒，他完全不顾扑面而来的枪火",
+        "soundEffects": "scenes\\audio\\tututujiguanqiangsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0039.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00006.mp3",
+        "text": "给我停下！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "Derrick不顾一切直冲上前强攻恐怖分子",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "子弹呼啸着擦过四周，重型火力铺天盖地压过来，Derrick孤身一人，没有任何支援。就算Derrick拥有超凡体质，他的肉体依旧难以硬扛如此凶猛的重武器。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "几发子弹狠狠命中Derrick的躯体，巨大冲击力把Derrick狠狠砸在街边墙壁上",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0043.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00007.mp3",
+        "text": "呃啊！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Derrick重重摔落在地，战衣裂开道道口子，剧痛席卷Derrick全身",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "Derrick挣扎着想爬起来",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "四肢却渐渐失去力气，敌人一步步逼近，枪口对准了躺在地上的Derrick。缺少支援的Derrick无力抵挡，被敌人击倒，故事就此落幕",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_48",
+          "label": "优先保护大街民众"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "Derrick看着街道上来不及逃跑、吓得尖叫四散奔逃的普通路人，立刻打消直接冲上去厮杀的想法。",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0048.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00008.mp3",
+        "text": "大家快往两边建筑物里面躲！！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "Derrick高声大喊，在密集的枪林弹雨之间来回腾跃，用自己的身体挡在平民和枪口中间，冒着纷飞的子弹掩护街上的百姓。",
+        "soundEffects": "scenes\\audio\\tututujiguanqiangsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0050.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00009.mp3",
+        "text": "快！跟着我往巷子里撤！别待在马路中间！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "Derrick一边挥手指挥，一边用蛛丝推倒废弃的广告牌当做临时掩体，把惊慌失措的一批普通百姓快速转移到相对安全的小巷区域。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "穷凶极恶的歹徒并不打算就此罢手，一名歹徒猛地伸手揪住街边来不及跑开的一名路人，手臂死死箍住人质的脖颈，手枪抵住人质太阳穴，朝着蜘蛛侠的方向嘶吼。",
+        "soundEffects": "scenes\\audio\\laqiangshuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0053.webp",
+        "dubbing": "scenes\\audio\\Zhang Long00000.mp3",
+        "text": "蜘蛛侠！别动！再往前一步，我直接杀了他！",
+        "characterImage": "scenes\\images\\zhanglong tou.webp",
+        "characterName": "Zhang Long"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "人质浑身发抖，脸色惨白，恐惧得发不出完整的声音。歹徒挟持一名人质，逼迫蜘蛛侠束手投降。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "人质被歹徒牢牢控制，又一道生死选择题摆在蜘蛛侠面前。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_57",
+          "label": "猛击进攻恐怖分子"
+        },
+        {
+          "nextId": "scene_65",
+          "label": "顺从歹徒，放下武器"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "Derrick的拳头攥得咯咯作响，心里急得冒烟。Derrick暗自盘算，凭借自己的速度，说不定可以在歹徒扣动扳机之前把对方制服。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0057.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00010.mp3",
+        "text": "放开他！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "Derrick低喝一声，不顾眼前人质的处境，执意强行出击，身体猛地朝着恐怖分子飞扑进攻。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "歹徒看见Derrick冲过来，脸上露出狰狞的冷笑，没有丝毫犹豫。",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0060.webp",
+        "dubbing": "scenes\\audio\\Zhang Long00001.mp3",
+        "text": "找死。",
+        "characterImage": "scenes\\images\\zhanglong tou.webp",
+        "characterName": "Zhang Long"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "砰！枪声响起",
+        "soundEffects": "scenes\\audio\\shouqiang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "人质身体一软，直接倒在了地上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "即便Derrick转瞬之间就冲到歹徒面前，一拳狠狠将敌人打倒在地，彻底击败这群暴徒，可悲剧已经发生。无辜的生命就此消逝，酿成无法挽回的悲剧。",
+        "soundEffects": "scenes\\audio\\gongfugongji.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_65",
+          "label": "顺从歹徒，放下武器"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0064.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "Derrick看着抵在人质脑袋上那把黑洞洞的枪口，心里清楚，自己赌不起。只要动作稍有差错，眼前无辜的普通人就会丢掉性命。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "Derrick高高举起双手，放缓全部动作",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "大声回应歹徒。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0066.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00011.mp3",
+        "text": "别动手！我听你的！不要伤害他。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "Derrick松开手里备用的蛛丝发射器，把身上所有能够作战的装备一件件摘下来扔到地面。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "歹徒狞笑几声。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0068.webp",
+        "dubbing": "scenes\\audio\\Zhang Long00002.mp3",
+        "text": "很好，乖乖过来。",
+        "characterImage": "scenes\\images\\zhanglong tou.webp",
+        "characterName": "Zhang Long"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "Derrick顺从地走上前，恐怖分子一拥而上，粗重冰冷的金属锁链层层缠绕，把Derrick的手脚牢牢捆绑，锁链锁扣“咔哒”死死扣紧。",
+        "soundEffects": "scenes\\audio\\mofa3.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "人质被推到一边得以脱险，而Derrick被恐怖分子用锁链捆绑带走。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0071.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "在被歹徒押解的路上，Derrick被枪口顶着后背，被迫跟着这群人穿行在城市偏僻的道路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "Derrick目光悄悄扫过歹徒随身携带的背包，留意到歹徒背包里装着两支泛着幽蓝微光的特殊血清。一支被歹徒小心翼翼妥善保管，紧紧收在背包内层；",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "路面经过颠簸，另一支玻璃试管意外滑落，咕噜噜滚落到路边阴暗的下水道格栅里面，消失在黑漆漆的管道深处。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "浑身被沉重锁链捆住的Derrick没有就此坐以待毙，大脑飞速思考脱身的办法。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_78",
+          "label": "静待他人救援"
+        },
+        {
+          "nextId": "scene_83",
+          "label": "靠自己挣脱锁链"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "锁链勒得Derrick皮肉生疼，Derrick身体处处都是战斗留下的伤痛",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "Derrick心里抱有一丝希望，警方应该很快就能顺着线索追踪过来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0077.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00012.mp3",
+        "text": "我先保存体力，等着救援就好。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "Derrick放弃挣扎，垂着脑袋，安静等待别人前来营救。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "可歹徒行动极为迅速，不断更换行进路线，刻意抹去所有踪迹。救援队伍的速度远远跟不上歹徒的节奏。还没等到任何支援赶来，冰冷的枪口已经对准了Derrick。Derrick还没来得及等到希望，生命便走到了尽头。",
+        "soundEffects": "scenes\\audio\\shouqiang.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_83",
+          "label": "靠自己挣脱锁链"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "Derrick很清楚，把性命交到别人手上太过冒险，只能靠自己。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Derrick表面装作疲惫无力、垂头丧气的模样，暗地里调动起身体超凡的力量。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "Derrick的肌肉在锁链之下紧绷鼓起，Derrick找准铁链之间衔接的缝隙，借着走路颠簸的节奏，依靠巧劲来回拉扯衔接处散落的铁链。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0083.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00013.mp3",
+        "text": "嗯…… 喝啊！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "soundEffects": "scenes\\audio\\nanrencanjiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "哐啷 ——！！",
+        "soundEffects": "scenes\\audio\\lingjianfeilai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "金属锁链不堪承受这股巨力，链环一根根崩开断裂，枷锁被Derrick成功挣断！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "看守的歹徒大吃一惊",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0087.webp",
+        "dubbing": "scenes\\audio\\Guard Thug00000.mp3",
+        "text": "什么？！他挣脱开了！",
+        "characterImage": "scenes\\images\\guardthug tou.webp",
+        "characterName": "Guard Thug"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "Derrick立刻反击，几下便把身旁押解自己的几人击倒，成功重获自由。",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "Derrick身上依旧残留着不少伤痛，胳膊和腰腹被锁链磨出火辣辣的伤口，可纽约市民的安危沉甸甸压在Derrick的心头，Derrick顾不上休养，咬牙继续行动。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "一周的时间匆匆过去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "掉入下水道的那支特殊血清终究还是被恐怖分子找到并且使用。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "一名歹徒接受注射之后，躯体发生恐怖的畸变，骨骼扭曲膨胀，皮肤长出坚硬外骨骼，化作凶残狂暴的蚂蚱人。",
+        "soundEffects": "scenes\\audio\\guaiwujiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "蚂蚱人冲出地下，在纽约街头肆意作乱，大肆破坏街边商铺，路人吓得四处奔逃。",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "偷袭水蜘蛛"
+        },
+        {
+          "nextId": "scene_105",
+          "label": "偷袭蚂蚱人"
+        },
+        {
+          "nextId": "scene_114",
+          "label": "正面迎敌开战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "Derrick接到报警赶到现场，街上到处都是破碎的橱窗和翻倒的汽车。",
+        "soundEffects": "scenes\\audio\\boliposui.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "Derrick得到情报，变异怪物一共有两只，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "水蜘蛛此刻就在附近水域潜伏。",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0097.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00014.mp3",
+        "text": "先解决潜藏的水蜘蛛，免得它在背后搞偷袭。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "Derrick压低身子，借着建筑阴影掩护，打算暗中偷袭变异怪物水蜘蛛。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "Derrick悄无声息靠近水边，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0099.webm",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "可潜藏水下的水蜘蛛感官极其敏锐，水波的细微震动就已经将Derrick的潜伏行动完全察觉。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "水面骤然炸开巨大水花！水蜘蛛猛地从水中扑跃而出，不等Derrick发动攻击，水蜘蛛锋利的肢足直接朝Derrick劈砍过来。偷袭彻底失败，Derrick遭到猛烈反击，重重摔倒在地，彻底战败。",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_105",
+          "label": "偷袭蚂蚱人"
+        },
+        {
+          "nextId": "scene_114",
+          "label": "正面迎敌开战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "街道中央，体型壮硕的蚂蚱人正疯狂捣毁路边路灯，咆哮声响彻整条街道。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Derrick躲在楼房阴影之中，心里盘算蚂蚱人现在注意力全放在破坏城市上面，正是偷袭的好机会。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0103.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00015.mp3",
+        "text": "就趁现在。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "Derrick屏住呼吸，蛛丝蓄力，猛然从暗处冲出，全力朝着体魄强悍的蚂蚱人发动偷袭。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "砰！一记重拳狠狠砸在蚂蚱人的后背坚硬甲壳上。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0106.webp",
+        "dubbing": "scenes\\audio\\Grasshopper Man00000.mp3",
+        "text": "吼！！",
+        "characterImage": "scenes\\images\\grasshopperman tou.webp",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "Grasshopper Man"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "蚂蚱人吃痛怒吼，但是甲壳防御力惊人，这一记偷袭完全没有造成致命伤害，Derrick不仅偷袭计划落空，自身的位置也彻底暴露。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "蚂蚱人猛地转身，粗壮的后腿狠狠一脚踹在Derrick胸口。Derrick整个人像断线的风筝一样飞出去，狠狠撞在墙体上，一口血气涌上喉咙。",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0109.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00016.mp3",
+        "text": "糟了。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "偷袭水蜘蛛"
+        },
+        {
+          "nextId": "scene_114",
+          "label": "正面迎敌开战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "Derrick观察片刻，看得明白，蚂蚱人外壳坚硬，偷袭很难一击奏效。与其躲躲藏藏赌偷袭，不如光明正大正面作战。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0111.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "Derrick不再躲藏，直接从高楼边缘纵身跃下",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "稳稳落在马路正中央，直面暴躁的蚂蚱人。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0113.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00017.mp3",
+        "text": "你的闹剧到此结束了！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "蚂蚱人扭过头，猩红的双眼锁定蜘蛛侠，发出刺耳的嘶鸣，迈开长腿直冲过来。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0115.webm",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "一人一怪物就此展开一番苦战。碎石飞溅，街道设施被战斗的余波不断损毁",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "Derrick一边战斗，还要分心尽量避开周边建筑，避免波及无辜民众。几番缠斗周旋之后",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "Derrick抓住怪物攻击间隙，用多层蛛丝层层缠绕束缚住蚂蚱人的躯体，终于将这只狂暴的怪物成功制服。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0118.webm",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "蚂蚱人被警方接管，戴上特制束缚装备押往监狱。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "可就在转运的路途当中，蚂蚱人找准防护的破绽，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "奋力挣脱枷锁，猛地撞破车辆，",
+        "soundEffects": "scenes\\audio\\zhuangche.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "窜入错综复杂、四通八达的城市下水道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0122.webm",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "幽深潮湿的地下管道之中，",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet12_13",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "此前的那只变异水蜘蛛遇见了另一只已经接触另一支血清完成变异的水蜘蛛。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet12_14",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "两只变异怪物一拍即合，就此结成同盟。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet12_15",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "得知两只危险怪物潜藏在城市地下，随时可能从下水道窜出来危害全城，Derrick明白普通战衣已经不足以应对接下来的战斗。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet12_16",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "Derrick下定决心，要打造一套全新的作战战衣。Derrick耗费数个日夜打造的崭新战衣制作完成。这套崭新战衣拥有耐磨的面料，加固防护的护甲，还有改良后的蛛丝发射器，全部准备就绪。",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet12_17",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "Derrick穿梭在城市上空巡逻，很快就探测到地下传来巨大的震动信号。",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet12_18",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "蚂蚱人与水蜘蛛正在地下大肆进行破坏。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet12_19",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "某人深吸一口气，掀开下水道厚重的检修井盖",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet12_20",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "纵身跳了下去，冲入危机四伏的下水道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet12_21",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "潮湿腥臭的气流扑面而来，管道四通八达，某人越往深处前进，",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet12_22",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "震动的声音就越发清晰。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet12_23",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "下水道最幽深的密室之中，赫然安放着一枚核弹。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet12_24",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "屏幕上面提示，核弹拥有两组解锁密码，一旦输错，整座纽约都将万劫不复。红色倒计时数字一秒一秒跳动，留给Derrick的时间已经不多。",
+        "soundEffects": "scenes\\audio\\shizhongdidasheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_139",
+          "label": "输入密码 0213"
+        },
+        {
+          "nextId": "scene_149",
+          "label": "输入密码 0712"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "Derrick看着屏幕上面的密码输入框，回忆之前搜集到的零碎线索，脑子里冒出一串数字。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0136.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00018.mp3",
+        "text": "应该是这个。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00116.mp3",
+        "text": "Derrick没有再多反复核对，手指直接在操作面板按下密码：0213。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0138.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.mp3",
+        "text": "滴 —— 密码确认。",
+        "soundEffects": "scenes\\audio\\kejidianbo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.mp3",
+        "text": "刺耳的警报瞬间疯狂鸣响！屏幕上跳出红色大字【确认启动核弹】。",
+        "soundEffects": "scenes\\audio\\shiyanshibaojingsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0140.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00019.mp3",
+        "text": "不！不可能！！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.mp3",
+        "text": "Derrick瞳孔骤缩。剧烈刺眼的白光瞬间吞没整个地下密室，爆炸迅速向外蔓延。",
+        "soundEffects": "scenes\\audio\\zhadanbaozha.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.mp3",
+        "text": "火光席卷整座纽约，",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.mp3",
+        "text": "高楼崩塌，街道化为废墟，",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.mp3",
+        "text": "整座纽约城化为焦土。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_149",
+          "label": "输入密码 0712"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00123.mp3",
+        "text": "Derrick 强迫自己冷静下来，快速复盘从歹徒、怪物那里收集来的所有线索信息，反复比对两组候选密码。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0146.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00020.mp3",
+        "text": "是 0712。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0147.webp",
+        "dubbing": "scenes\\audio\\pangbai00124.mp3",
+        "text": "Derrick伸出手指，在操作面板上稳稳输入密码：0712。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.mp3",
+        "text": "滴 —— 验证通过。",
+        "soundEffects": "scenes\\audio\\kejidianbo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.mp3",
+        "text": "刺耳的倒计时警报戛然而止，核弹的指示灯由刺眼的红色切换为安全的绿色，核弹顺利关机，毁灭性威胁成功解除。纽约得以保全。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0150.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.mp3",
+        "text": "巨大的危机解除，Derrick 松了一大口气，随即转身冲上前，奋力击倒蚂蚱人。",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.mp3",
+        "text": "但灾难远远还没有结束。蚂蚱人和水蜘蛛仅仅只是棋子，在他们背后，还藏着策划全部事件的幕后黑手 —— 疯狂科学家。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.mp3",
+        "text": "蜘蛛侠顺着现场遗留下来的文件、通讯记录一点点追踪线索，终于锁定了疯狂科学家的踪迹。情报传来，科学家计划前往时化广矿，利用矿场的设备和资源，批量制造更多的变异怪物，到时候，整个东海岸都会陷入灾难。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.mp3",
+        "text": "Derrick 不敢耽搁，立刻动身赶到时化广矿。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.mp3",
+        "text": "矿场巨大的工业厂房矗立在荒芜的场地之中，到处都是大型采矿机械。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet14_10",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.mp3",
+        "text": "蜘蛛侠打算引出幕后的疯子科学家，在这里做最终对决。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet14_11",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.mp3",
+        "text": "蜘蛛侠的新战衣已经穿戴就位，蜘蛛侠心里清楚，自己的实战经验严重不足，而这名疯狂科学家早已经布下重重陷阱，就等着蜘蛛侠自投罗网。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet14_12",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0157.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.mp3",
+        "text": "厂房大门 “哐当” 一声缓缓向内敞开，黑暗之中传来男人癫狂的笑声。",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet14_13",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0158.webp",
+        "dubbing": "scenes\\audio\\Mad Scientist00000.mp3",
+        "text": "哈哈哈，蜘蛛侠，你居然真的敢孤身闯到我的地盘上来。",
+        "characterImage": "scenes\\images\\madscientist tou.webp",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "Mad Scientist"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet14_14",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.mp3",
+        "text": "疯狂科学家缓步从阴影之中走出来，眼神狂热而冰冷。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_164",
+          "label": "害怕不敢应战"
+        },
+        {
+          "nextId": "scene_173",
+          "label": "直面敌人奋力应战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.mp3",
+        "text": "Derrick看着对方一身改造装备",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.mp3",
+        "text": "周围墙壁暗处到处显露出来已经架设好的武器炮口，Derrick的心脏猛地往下一沉。一股浓烈的恐惧攫住了Derrick。Derrick意识到敌人的布置远远超出自己预想，胜算看起来渺茫到极点。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0162.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00021.mp3",
+        "text": "我……",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00138.mp3",
+        "text": "Derrick脚步不自觉向后退了半步，面对强敌心生畏惧，退缩不敢应战。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.mp3",
+        "text": "就在这一瞬间，地板板块突然向下陷落！是提前布置好的圈套。Derrick根本来不及反应，整个人直接落入陷阱深坑。",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0165.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.mp3",
+        "text": "无数机械臂从坑壁伸出，死死压制住Derrick的身体。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.mp3",
+        "text": "疯狂科学家站在坑边俯视，发出嘲弄的大笑。",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0167.webp",
+        "dubbing": "scenes\\audio\\Mad Scientist00001.mp3",
+        "text": "游戏结束了，蜘蛛侠。",
+        "characterImage": "scenes\\images\\madscientist tou.webp",
+        "characterName": "Mad Scientist"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.mp3",
+        "text": "Derrick落入疯狂科学家的圈套被击败，故事走向终结。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_173",
+          "label": "直面敌人奋力应战"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.mp3",
+        "text": "Derrick的恐惧确实涌上心头，手心冒出冷汗",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.mp3",
+        "text": "但是一想到纽约千千万万普通市民，想到那些可能会被变异怪物伤害的无辜生命，Derrick把内心的害怕强行压下去。面罩之下，Derrick眼神变得无比坚定。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0170.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00022.mp3",
+        "text": "你的计划到此为止。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.mp3",
+        "text": "Derrick双拳紧握，鼓起勇气直面敌人，全力投入战斗。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0172.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.mp3",
+        "text": "矿场厂房之内，金属碰撞的巨响接连不断，炮火、蛛丝、机械残骸四处飞舞。疯狂科学家手段层出不穷，改造的机械装备火力凶猛，",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0173.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.mp3",
+        "text": "Derrick靠着新战衣的防护，凭借敏捷身法不断周旋，身上依旧不断添上新的伤口。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet16_6",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.mp3",
+        "text": "一番惊心动魄的恶战过后，疯狂科学家终于被狠狠打倒，瘫倒在地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet16_7",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0175.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.mp3",
+        "text": "可就在倒下的那一瞬间，疯狂科学家脸上浮现出一抹诡异的狞笑，用尽最后力气按下手中遥控器。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet16_8",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0176.webp",
+        "dubbing": "scenes\\audio\\Mad Scientist00002.mp3",
+        "text": "就算我输，你们也别想完好离开！",
+        "characterImage": "scenes\\images\\madscientist tou.webp",
+        "characterName": "Mad Scientist"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet16_9",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0177.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.mp3",
+        "text": "工厂刺耳的红色警报立刻响彻整个矿场。",
+        "soundEffects": "scenes\\audio\\shiyanshibaojingsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet16_10",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0178.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00023.mp3",
+        "text": "不好！自毁程序！",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet16_11",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.mp3",
+        "text": "整个矿场开始剧烈崩塌，头顶厚重的混凝土大块往下砸落，钢铁支架扭曲断裂，滚滚尘土漫天飞扬，Derrick意识到必须立刻撤离这里。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet16_12",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0180.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.mp3",
+        "text": "碎石不断坠落，逃生通道被掉落的钢架、石块一块块封死，Derrick的退路正在快速消失。危急时刻，以前一位老人曾经告诫Derrick的话语，清晰地在Derrick脑海之中回响。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet16_13",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0181.webp",
+        "dubbing": "scenes\\audio\\Old Chen00000.mp3",
+        "text": "你拥有超凡的肌肉与力量，能力越大，责任也就越大",
+        "characterImage": "scenes\\images\\oldchen tou.webp",
+        "characterName": "Old Chen"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet16_14",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0182.webp",
+        "dubbing": "scenes\\audio\\Old Chen00001.mp3",
+        "text": "这份力量可以用来守护城市，而你的责任，就是守护纽约",
+        "characterImage": "scenes\\images\\oldchen tou.webp",
+        "characterName": "Old Chen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_188",
+          "label": "丢掉战衣伪装普通人逃生"
+        },
+        {
+          "nextId": "scene_194",
+          "label": "坚守身份战斗到底"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0183.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.mp3",
+        "text": "大块岩石不断砸落在不远处，死亡的阴影近在咫尺。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.mp3",
+        "text": "活下去的念头占据了Derrick的脑海。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0184.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00024.mp3",
+        "text": "我要活下去。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0185.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.mp3",
+        "text": "Derrick快速扯下身上整套蜘蛛侠战衣，随手丢到一旁的废墟堆里，从旁边地上捡起一件沾满灰尘的工人外套裹住身体，脸上的面罩也一并扔掉。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0186.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.mp3",
+        "text": "轰鸣和尘土之中，Derrick低下头，混进慌乱向外逃窜的矿场工作人员队伍，伪装成搬运工人，一言不发跟着人流向外狂奔。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.mp3",
+        "text": "Derrick成功从崩塌的矿场逃出生天，保住了自己的性命，但是属于蜘蛛侠的一切，全部被留在那片坍塌的废墟之中，Derrick彻底放弃英雄的使命。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_194",
+          "label": "坚守身份战斗到底"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0188.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.mp3",
+        "text": "Derrick耳边回响那句“能力越大，责任越大”，低头看了一眼自己沾满灰尘与伤痕的双手",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.mp3",
+        "text": "又望向不断垮塌的矿场深处，那里还有来不及撤离的普通矿场工作人员。Derrick没有后退半步，把摇摇欲坠的战衣重新整理好，面罩牢牢戴好。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0190.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00025.mp3",
+        "text": "我是蜘蛛侠，我不能就这么逃走。",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet18_3",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0191.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.mp3",
+        "text": "Derrick坚守蜘蛛侠的身份不肯退缩，转身向着危险更深的地方",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet18_4",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.mp3",
+        "text": "轰隆隆 ——！！",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet18_5",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0193.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.mp3",
+        "text": "冲去，想要尽可能救出被困的其他人",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet18_6",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0194.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.mp3",
+        "text": "巨大的顶层结构彻底崩落，厚重的废墟铺天盖地掩埋整片矿场，烟尘冲天而起。Derrick与这片战场一同被掩埋在废墟之下。",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://wcsc.xnewd-b.com/"
+}

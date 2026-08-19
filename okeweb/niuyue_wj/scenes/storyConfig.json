@@ -1,0 +1,3445 @@
+{
+  "uid": "nywj21_20260819151332",
+  "name": "nywj21_20260819151332",
+  "token": "U2FsdGVkX1+qz6LYnhxHOHENF7xs/0MrWRTZDfmcgeWJfdZg/s2WIzTDB9eC/h8V",
+  "cover": "scenes\\images\\nywj21_20260819151332_0001.webp",
+  "version": "20260819-2151",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "video": "scenes\\images\\nywj21_20260819151332_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "New York Crisis",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "In the bustling New York City, the setting sun painted the glass curtain walls of skyscrapers in a searing orange - red hue.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "The streets were filled with a constant stream of cars. The honking of horns and the chatter of passers - by mingled together, forming the never - ending pulse of the city.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0004.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "Derrick “Pan” leaned against the air - conditioning unit on the rooftop of his apartment. The tattered Spider - Man suit was slung over his shoulder, and there were still beads of sweat on his forehead from dealing with a minor commotion. The evening breeze caressed Derrick “Pan”'s slightly tired face as he looked down at the city lit up below.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "Behind the glamour of being Spider - Man were countless injuries, sleepless nights, and the ordinary life that Derrick “Pan” had to give up. He fell behind in his schoolwork, always stood up his friends' invitations, and his wounds, big and small, never fully healed.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "Derrick “Pan” murmured to himself, his voice tinged with confusion.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0007.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00000.mp3",
+        "text": "How much longer do I have to keep this up?",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\aimei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "The crossroads of fate lay right in front of Derrick “Pan”. Two completely different life paths were quietly waiting for him to make a choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "Be an ordinary high - school student"
+        },
+        {
+          "nextId": "scene_22",
+          "label": "Resolve to continue protecting New York"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "Derrick's fingers slowly loosened. The Spider - Man suit that had accompanied him through countless life - and - death nights slipped off the rooftop and fell into the alley below.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Derrick let out a long breath of pent - up air. The tension of being a hero faded from his face, revealing the relaxed look that a teenager should have.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0011.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00001.mp3",
+        "text": "Enough. It's time for me to be myself again.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\background1.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "Derrick no longer chased after the sirens in the city, nor did he dart between buildings at night. He left all the burdens of being a hero behind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "The next day, the teenager slung his schoolbag over his shoulder and walked into the high - school campus on time.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0014.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "He returned to the daily life of an ordinary teenager, spending time doing homework in class.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "During the breaks, the teenager laughed and played around with his classmates.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "After school, he strolled around the shops on the street leisurely.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_16",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet2_8",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "He no longer had to be on high alert all the time for sudden crises.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet2_9",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "Crimes still happened in New York, and crises still unfolded.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet2_10",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "But all that had nothing to do with the teenager anymore.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet2_11",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0020.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "The teenager let go of his identity as Spider - Man.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet2_12",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "He lived a peaceful and ordinary daily life.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet2_13",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "He lived an ordinary life to the end.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_22",
+          "label": "Resolve to continue protecting New York"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0023.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "Derrick looked down at the street below. He heard the shrill wail of sirens in the distance, and the panicked pedestrians running on the street came into view. The terrified looks of those ordinary people weighed on Derrick's heart like a stone.",
+        "soundEffects": "scenes\\audio\\jingchejingdisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "Derrick bent down and reached out, grabbing back the suit that was about to slide away.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "His fingers tightly clutched the fabric.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_25",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0025.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00002.mp3",
+        "text": "I can't just abandon this city.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0026.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "Derrick bit his lower lip, and his eyes regained their determination.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0027.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00003.mp3",
+        "text": "The people here need Spider - Man.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guwurenxinlizhi.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "Derrick quickly put on his suit, and the mask dropped. The Spider - Man who guards New York was back in position.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0029.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "Just then, the harsh city alarm suddenly rang out.",
+        "soundEffects": "scenes\\audio\\jingchejingdisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "The urgent shouts of the police came over the radio.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_31",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet3_9",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0030.webp",
+        "dubbing": "scenes\\audio\\Officer Wang00000.mp3",
+        "text": "Attention! The armored truck has been hijacked by gangsters! It's speeding through the streets of Manhattan! The suspect vehicle is armed and extremely dangerous!",
+        "characterImage": "scenes\\images\\officerwang tou.webp",
+        "characterName": "Officer Wang"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet3_10",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "A group of gangsters hijacked an armored truck and are running amok on the city streets.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet3_11",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0032.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00004.mp3",
+        "text": "Trouble's coming.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet3_12",
+      "excelSheetName": "Sheet3",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0033.webm",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "Derrick suddenly pushed off the edge of the rooftop. His web shot out with a whoosh, wrapped around the opposite building, and his body swung through the air.",
+        "soundEffects": "scenes\\audio\\jiguangfashe.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet3_13",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0034.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "He immediately set off to intercept the fleeing armored truck.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet3_14",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "During the pursuit, the windows of the buildings on both sides of the road suddenly opened. The long - lying terrorists suddenly appeared. Heavy machine guns were set up on the window sills, and tongues of fire instantly spurted out. A hail of bullets rained down on Spider - Man.",
+        "soundEffects": "scenes\\audio\\tututujiguanqiangsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet3_15",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0036.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00005.mp3",
+        "text": "Damn it! It's an ambush!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet3_16",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "The bullets hit the building walls, sending chips flying.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_39",
+          "label": "Attack the terrorists directly."
+        },
+        {
+          "nextId": "scene_48",
+          "label": "Prioritize protecting the civilians on the street."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0038.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "There was only one thought in Derrick's mind - to take out these thugs as soon as possible. He didn't care about the incoming gunfire at all.",
+        "soundEffects": "scenes\\audio\\tututujiguanqiangsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0039.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00006.mp3",
+        "text": "Stop right there!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0040.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "Derrick rushed forward recklessly to attack the terrorists head - on.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0041.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "Bullets whistled past all around. The heavy firepower came down like a storm. Derrick was alone, with no support. Even though Derrick had a superhuman physique, his body could hardly withstand such fierce heavy weapons.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0042.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "Several bullets hit Derrick's body hard. The huge impact slammed him against the street wall.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0043.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00007.mp3",
+        "text": "Ugh!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet4_6",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "Derrick fell heavily to the ground. His suit split open in several places. Severe pain swept through his whole body.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet4_7",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "Derrick struggled to get up.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet4_8",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "But his limbs gradually lost their strength. The enemies were approaching step by step, and their guns were pointed at Derrick lying on the ground. Without support, Derrick was no match for them and was knocked down. The story ended here.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_48",
+          "label": "Prioritize protecting the civilians on the street."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "Looking at the ordinary passers - by on the street who didn't have time to escape and were screaming and running in all directions in panic, Derrick immediately gave up the idea of charging straight in and fighting.",
+        "soundEffects": "scenes\\audio\\aojiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0048.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00008.mp3",
+        "text": "Everyone, quickly take shelter in the buildings on both sides!!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "Derrick shouted at the top of his voice. He leaped back and forth through the dense hail of bullets, using his body to shield the civilians from the gunfire, covering the people on the street at the risk of being hit by flying bullets.",
+        "soundEffects": "scenes\\audio\\tututujiguanqiangsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0050.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00009.mp3",
+        "text": "Hurry! Follow me into the alley! Don't stay in the middle of the road!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "While waving his hand to direct, Derrick used his webs to knock down an abandoned billboard as a temporary shelter, quickly moving a group of panicked ordinary people to the relatively safe alley area.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0052.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "The ruthless gangsters weren't going to stop there. One of the gangsters suddenly reached out and grabbed a passer - by on the street who didn't have time to run away. He tightly wrapped his arm around the hostage's neck, pressed a pistol against the hostage's temple, and roared in Spider - Man's direction.",
+        "soundEffects": "scenes\\audio\\laqiangshuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0053.webp",
+        "dubbing": "scenes\\audio\\Zhang Long00000.mp3",
+        "text": "Spider - Man! Freeze! One more step and I'll kill him right away!",
+        "characterImage": "scenes\\images\\zhanglong tou.webp",
+        "characterName": "Zhang Long"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "The hostage was trembling all over, his face deathly pale, too scared to utter a complete sentence. The criminal was holding a hostage, forcing Spider - Man to surrender.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_56",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "The hostage was firmly in the criminal's grip. Another life - or - death choice was placed in front of Spider - Man.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_57",
+          "label": "Attack the terrorist head - on"
+        },
+        {
+          "nextId": "scene_65",
+          "label": "Comply with the criminal and put down your weapons"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "Derrick's fists clenched so tight that they creaked. He was extremely anxious. He secretly thought that with his speed, he might be able to subdue the criminal before he pulled the trigger.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0057.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00010.mp3",
+        "text": "Let him go!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "Derrick growled. Ignoring the hostage's situation, he insisted on attacking. His body lunged directly at the terrorist.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "Seeing Derrick charging towards him, the criminal showed a hideous sneer on his face and didn't hesitate at all.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0060.webp",
+        "dubbing": "scenes\\audio\\Zhang Long00001.mp3",
+        "text": "You're asking for death.",
+        "characterImage": "scenes\\images\\zhanglong tou.webp",
+        "characterName": "Zhang Long"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "Bang! The gunshot rang out.",
+        "soundEffects": "scenes\\audio\\shouqiang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0062.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "The hostage's body went limp and he fell directly to the ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "Even though Derrick reached the criminal in an instant and knocked the enemy to the ground with a powerful punch, completely defeating the mob, the tragedy had already happened. An innocent life was gone, an irreversible tragedy was born.",
+        "soundEffects": "scenes\\audio\\gongfugongji.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_65",
+          "label": "Comply with the criminal and put down your weapons"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0064.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "Looking at the dark muzzle of the gun pressed against the hostage's head, Derrick knew he couldn't take the risk. One slightest mistake and the innocent civilian in front of him would lose his life.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "Derrick raised his hands high and slowed down all his movements",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "He replied loudly to the criminal.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0066.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00011.mp3",
+        "text": "Don't shoot! I'll do as you say! Don't hurt him.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "Derrick let go of the spare web - shooter in his hand and took off all his combat equipment one by one, throwing them to the ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "The criminal let out a few sinister laughs.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0068.webp",
+        "dubbing": "scenes\\audio\\Zhang Long00002.mp3",
+        "text": "Good. Come here obediently.",
+        "characterImage": "scenes\\images\\zhanglong tou.webp",
+        "characterName": "Zhang Long"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "Derrick walked forward obediently. The terrorists swarmed up. Heavy and cold metal chains wrapped around him layer by layer, tightly binding his hands and feet. The chain lock clicked shut.",
+        "soundEffects": "scenes\\audio\\mofa3.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "The hostage was pushed aside and escaped danger, while Derrick was taken away by the terrorists in chains.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_74",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0071.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "On the way being escorted by the criminals, with a gun pointed at his back, Derrick was forced to follow them through the secluded streets of the city.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "Derrick's eyes secretly scanned the criminal's backpack. He noticed two special serums emitting a faint blue glow in it. One was carefully stored in the inner layer of the backpack.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "The road was bumpy. Another glass test - tube accidentally slipped out and rolled into the dark sewer grate by the roadside, disappearing into the depths of the pitch - black pipe.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guichudaomei.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "Derrick, bound by heavy chains, didn't give up. His mind was racing, thinking of ways to break free.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_78",
+          "label": "Wait for someone to rescue you"
+        },
+        {
+          "nextId": "scene_83",
+          "label": "Break free from the chains by yourself"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "The chains were digging into Derrick's skin, causing excruciating pain. His body was full of wounds from the battle",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "Derrick still held a glimmer of hope. He thought the police should be able to track them down soon along the clues.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0077.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00012.mp3",
+        "text": "I'll conserve my energy first and just wait for rescue.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_81",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "Derrick gave up struggling. He hung his head and quietly waited for someone to come to his rescue.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0079.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "But the gangsters were extremely swift. They constantly changed their routes and deliberately erased all traces. The rescue team couldn't keep up with the gangsters' pace at all. Before any support arrived, the cold muzzle of a gun was already pointed at Derrick. Before Derrick could even wait for hope, his life came to an end.",
+        "soundEffects": "scenes\\audio\\shouqiang.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_83",
+          "label": "Break free from the chains by yourself"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0080.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "Derrick knew very well that it was too risky to leave his life in others' hands. He had to rely on himself.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Derrick pretended to be exhausted and dejected on the surface, but secretly mobilized his extraordinary physical strength.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "Derrick's muscles tensed and bulged under the chains. He found the gap between the chains and, taking advantage of the rhythm of the bumpy walk, used his dexterity to pull the scattered chains at the joint back and forth.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0083.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00013.mp3",
+        "text": "Hmm... Argh!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "soundEffects": "scenes\\audio\\nanrencanjiao.mp3",
+        "characterName": "Me"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "Clang ——!!",
+        "soundEffects": "scenes\\audio\\lingjianfeilai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "The metal chains couldn't bear this huge force. The links snapped one by one, and Derrick successfully broke free from the shackles!",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "The guarding gangster was greatly shocked.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0087.webp",
+        "dubbing": "scenes\\audio\\Guard Thug00000.mp3",
+        "text": "What?! He broke free!",
+        "characterImage": "scenes\\images\\guardthug tou.webp",
+        "characterName": "Guard Thug"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "Derrick immediately counter - attacked and knocked down the several people escorting him in a few moves, successfully regaining his freedom.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_92",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0089.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "There were still many wounds on Derrick's body. His arms and abdomen were rubbed raw by the chains, but the safety of New York citizens weighed heavily on Derrick's mind. He didn't care about resting and gritted his teeth to continue his action.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "A week passed in a hurry.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet9_11",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "That special serum that fell into the sewer was finally found and used by the terrorists.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet9_12",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "After a gangster was injected, his body underwent a terrifying mutation. His bones twisted and swelled, and hard exoskeletons grew on his skin, turning him into a ferocious and violent Grasshopper Man.",
+        "soundEffects": "scenes\\audio\\guaiwujiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet9_13",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0093.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "The Grasshopper Man rushed out of the underground and ran amok on the streets of New York, wantonly destroying the street shops. Passers - by were so scared that they fled in all directions.",
+        "soundEffects": "scenes\\audio\\paobujiachuanqisheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "Sneak attack on the Water Spider"
+        },
+        {
+          "nextId": "scene_105",
+          "label": "Sneak attack on the Grasshopper Man"
+        },
+        {
+          "nextId": "scene_114",
+          "label": "Fight head - on"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "Derrick received the alarm and rushed to the scene. The streets were full of broken shop windows and overturned cars.",
+        "soundEffects": "scenes\\audio\\boliposui.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_98",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "Derrick got the intelligence that there were two mutant monsters in total.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0096.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "The Water Spider was lurking in the nearby waters at the moment.",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0097.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00014.mp3",
+        "text": "Take care of the lurking Water Spider first, or it might sneak up on us from behind.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "Derrick crouched down and used the shadows of the buildings as cover, planning to secretly sneak up on the mutant monster, the Water Spider.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "Derrick quietly approached the water's edge.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet10_6",
+      "excelSheetName": "Sheet10",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0099.webm",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "But the Water Spider lurking under the water had extremely sharp senses. The slightest vibration of the water waves had already alerted it to Derrick's sneaking operation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet10_7",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0100.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "Suddenly, a huge splash exploded on the water surface! The Water Spider leaped out of the water suddenly. Before Derrick could launch an attack, the sharp limbs of the Water Spider slashed directly at Derrick. The sneak attack completely failed. Derrick was fiercely counter - attacked and fell heavily to the ground, defeated completely.",
+        "soundEffects": "scenes\\audio\\shujingpachu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_105",
+          "label": "Sneak attack on the Grasshopper Man"
+        },
+        {
+          "nextId": "scene_114",
+          "label": "Engage in a head - on battle"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "In the middle of the street, a bulky Grasshopper Man is frantically smashing the streetlights by the road, and his roars echo through the whole street.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Derrick is hiding in the shadow of a building. He figures that the Grasshopper Man is fully focused on destroying the city, and it's a perfect opportunity for a sneak attack.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0103.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00015.mp3",
+        "text": "Now's the time.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "Derrick holds his breath, charges his web - shooters, and suddenly rushes out of the shadows, launching a full - force sneak attack on the powerful Grasshopper Man.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "Bang! A powerful punch lands hard on the hard carapace of the Grasshopper Man's back.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0106.webp",
+        "dubbing": "scenes\\audio\\Grasshopper Man00000.mp3",
+        "text": "Roar!!",
+        "characterImage": "scenes\\images\\grasshopperman tou.webp",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "Grasshopper Man"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "The Grasshopper Man roars in pain, but its carapace has amazing defensive power. This sneak attack doesn't cause any fatal damage. Not only does Derrick's sneak - attack plan fail, but his position is also completely exposed.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "The Grasshopper Man suddenly turns around and kicks Derrick hard in the chest with its thick hind leg. Derrick flies out like a kite with a broken string, hitting the wall hard, and a surge of blood rushes to his throat.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0109.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00016.mp3",
+        "text": "Damn it.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "branches": [
+        {
+          "nextId": "scene_97",
+          "label": "Sneak attack on the Water Spider"
+        },
+        {
+          "nextId": "scene_114",
+          "label": "Engage in a head - on battle"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "After observing for a while, Derrick realizes that the Grasshopper Man's shell is too hard, and it's difficult to succeed in a single sneak attack. Instead of hiding and gambling on a sneak attack, he'd better fight it head - on.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_115",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0111.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "Derrick stops hiding and jumps directly from the edge of a tall building.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "He lands steadily in the middle of the road, facing the furious Grasshopper Man directly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0113.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00017.mp3",
+        "text": "Your little show ends here!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0114.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "The Grasshopper Man turns its head, locks its scarlet eyes on Spider - Man, emits a shrill screech, and rushes over with its long legs.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet12_5",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0115.webm",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "A fierce battle ensues between the man and the monster. Gravel flies everywhere, and the street facilities are constantly damaged by the aftermath of the fight.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_120",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet12_6",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "While fighting, Derrick has to be distracted to avoid the nearby buildings as much as possible to prevent innocent civilians from being affected. After several rounds of entanglement and maneuvering...",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet12_7",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "Derrick seizes the gap in the monster's attack and wraps multiple layers of webs around the Grasshopper Man's body, finally subduing the raging monster successfully.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet12_8",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0118.webm",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "The Grasshopper Man is taken over by the police, put on special restraint equipment, and escorted to prison.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet12_9",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "But on the way of transportation, the Grasshopper Man finds a flaw in the protection...",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet12_10",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "It struggles to break free from the shackles, smashes through the vehicle suddenly...",
+        "soundEffects": "scenes\\audio\\zhuangche.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet12_11",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "And scurries into the intricate and criss - crossed city sewers.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet12_12",
+      "excelSheetName": "Sheet12",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0122.webm",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "In the deep and damp underground pipes...",
+        "soundEffects": "scenes\\audio\\liushuisheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet12_13",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "The previously seen mutated Water Spider meets another mutated Water Spider that has completed its mutation after being exposed to another serum.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet12_14",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "The two mutated monsters hit it off and form an alliance.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet12_15",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "Knowing that two dangerous monsters are hiding underground in the city and may emerge from the sewers at any time to endanger the whole city, Derrick realizes that his ordinary suit is no longer sufficient to handle the upcoming battle.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet12_16",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "Derrick makes up his mind to build a brand - new combat suit. After spending several days and nights, Derrick finishes making the brand - new suit. This new suit has wear - resistant fabric, reinforced protective armor, and an improved web - shooter. Everything is ready.",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet12_17",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "Derrick patrols above the city. Soon, he detects a huge vibration signal from underground.",
+        "soundEffects": "scenes\\audio\\shuziwangluo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet12_18",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\rexueranshaozhandou.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0128.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "The Grasshopper Man and the Water Spider are causing massive destruction underground.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet12_19",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "Someone takes a deep breath and lifts the heavy manhole cover of the sewer.",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet12_20",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "Then, he jumps down and rushes into the perilous sewer.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet12_21",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "A damp and stinky airflow rushes towards him. The pipes lead in all directions. The deeper he goes,",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet12_22",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "the clearer the vibration sounds become.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet12_23",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "In the deepest chamber of the sewer, there lies a nuclear bomb in plain sight.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet12_24",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00114.mp3",
+        "text": "The screen shows that the nuclear bomb has two sets of unlock passwords. Once the wrong password is entered, the whole of New York will be doomed. The red countdown numbers tick away. Derrick doesn't have much time left.",
+        "soundEffects": "scenes\\audio\\shizhongdidasheng.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_139",
+          "label": "Enter the password 0213."
+        },
+        {
+          "nextId": "scene_149",
+          "label": "Enter the password 0712."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0135.webp",
+        "dubbing": "scenes\\audio\\pangbai00115.mp3",
+        "text": "Derrick looks at the password input box on the screen. Recalling the fragmented clues he collected before, a series of numbers pops up in his mind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_140",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0136.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00018.mp3",
+        "text": "It should be this one.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00116.mp3",
+        "text": "Without double - checking, Derrick directly presses the password 0213 on the control panel.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0138.webp",
+        "dubbing": "scenes\\audio\\pangbai00117.mp3",
+        "text": "Beep —— Password confirmed.",
+        "soundEffects": "scenes\\audio\\kejidianbo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00118.mp3",
+        "text": "An ear - piercing alarm goes off crazily in an instant! The red words [Confirm to activate the nuclear bomb] pop up on the screen.",
+        "soundEffects": "scenes\\audio\\shiyanshibaojingsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0140.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00019.mp3",
+        "text": "No! It can't be!!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\xuanyi，kongbu，zhentan，fanzui.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00119.mp3",
+        "text": "Derrick's pupils shrink suddenly. A violent and dazzling white light engulfs the entire underground chamber in an instant, and the explosion spreads rapidly outward.",
+        "soundEffects": "scenes\\audio\\zhadanbaozha.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_146",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0142.webp",
+        "dubbing": "scenes\\audio\\pangbai00120.mp3",
+        "text": "The fire sweeps across New York.",
+        "soundEffects": "scenes\\audio\\huoyansheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0143.webp",
+        "dubbing": "scenes\\audio\\pangbai00121.mp3",
+        "text": "Skyscrapers collapse, and the streets turn into ruins.",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\dazhangqian.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0144.webp",
+        "dubbing": "scenes\\audio\\pangbai00122.mp3",
+        "text": "The whole city of New York turns into scorched earth.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_149",
+          "label": "Enter the password 0712."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0145.webp",
+        "dubbing": "scenes\\audio\\pangbai00123.mp3",
+        "text": "Derrick forces himself to calm down. He quickly reviews all the clues and information he collected from the gangsters and monsters, and compares the two candidate passwords repeatedly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_150",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_150",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0146.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00020.mp3",
+        "text": "It's 0712.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_151",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_151",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0147.webp",
+        "dubbing": "scenes\\audio\\pangbai00124.mp3",
+        "text": "Derrick stretches out his finger and steadily enters the password 0712 on the control panel.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_152",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_152",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0148.webp",
+        "dubbing": "scenes\\audio\\pangbai00125.mp3",
+        "text": "Beep —— Verification passed.",
+        "soundEffects": "scenes\\audio\\kejidianbo.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_153",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_153",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0149.webp",
+        "dubbing": "scenes\\audio\\pangbai00126.mp3",
+        "text": "The ear - piercing countdown alarm stops abruptly. The indicator light of the nuclear bomb switches from a dazzling red to a safe green. The nuclear bomb shuts down smoothly, and the devastating threat is successfully lifted. New York is saved.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_154",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_154",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0150.webp",
+        "dubbing": "scenes\\audio\\pangbai00127.mp3",
+        "text": "After the great crisis is averted, Derrick breathes a huge sigh of relief. Then he turns around and rushes forward, knocking down the Grasshopper Man with all his might.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_155",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_155",
+      "sheetName": "Sheet14_6",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0151.webp",
+        "dubbing": "scenes\\audio\\pangbai00128.mp3",
+        "text": "But the disaster is far from over. The Grasshopper Man and the Water Spider are just pawns. Behind them, there is a mastermind of the whole incident — the mad scientist.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_156",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_156",
+      "sheetName": "Sheet14_7",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0152.webp",
+        "dubbing": "scenes\\audio\\pangbai00129.mp3",
+        "text": "Spider - Man traces the clues little by little through the documents and communication records left at the scene, and finally locates the mad scientist. The intelligence shows that the scientist plans to go to the Shihua Mine and use the equipment and resources there to mass - produce more mutant monsters. By then, the entire East Coast will be in disaster.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_157",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_157",
+      "sheetName": "Sheet14_8",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0153.webp",
+        "dubbing": "scenes\\audio\\pangbai00130.mp3",
+        "text": "Derrick doesn't dare to waste any time. He immediately sets off for the Shihua Mine.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_158",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_158",
+      "sheetName": "Sheet14_9",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0154.webp",
+        "dubbing": "scenes\\audio\\pangbai00131.mp3",
+        "text": "The huge industrial workshop of the mine stands in the desolate area, with large mining machinery everywhere.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_159",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_159",
+      "sheetName": "Sheet14_10",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0155.webp",
+        "dubbing": "scenes\\audio\\pangbai00132.mp3",
+        "text": "Spider - Man plans to lure out the crazy scientist behind the scenes and have a final showdown here.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_160",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_160",
+      "sheetName": "Sheet14_11",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0156.webp",
+        "dubbing": "scenes\\audio\\pangbai00133.mp3",
+        "text": "Spider - Man has put on his new suit. He knows clearly that his actual combat experience is seriously lacking, and this crazy scientist has already set up numerous traps, just waiting for him to walk into them.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_161",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_161",
+      "sheetName": "Sheet14_12",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0157.webp",
+        "dubbing": "scenes\\audio\\pangbai00134.mp3",
+        "text": "The workshop door slowly swings open with a 'clank', and a man's crazy laughter comes from the darkness.",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_162",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_162",
+      "sheetName": "Sheet14_13",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0158.webp",
+        "dubbing": "scenes\\audio\\Mad Scientist00000.mp3",
+        "text": "Hahaha, Spider - Man, you actually dared to come alone to my territory.",
+        "characterImage": "scenes\\images\\madscientist tou.webp",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "Mad Scientist"
+      },
+      "nextId": "scene_163",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_163",
+      "sheetName": "Sheet14_14",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0159.webp",
+        "dubbing": "scenes\\audio\\pangbai00135.mp3",
+        "text": "The crazy scientist slowly steps out of the shadows, his eyes wild and cold.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_164",
+          "label": "Be afraid and don't fight back."
+        },
+        {
+          "nextId": "scene_173",
+          "label": "Face the enemy and fight bravely."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_164",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingshifenweishishijinzhang.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0160.webp",
+        "dubbing": "scenes\\audio\\pangbai00136.mp3",
+        "text": "Derrick looks at the opponent's modified equipment.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_165",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_165",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0161.webp",
+        "dubbing": "scenes\\audio\\pangbai00137.mp3",
+        "text": "The muzzles of pre - installed weapons emerge from the dark corners of the surrounding walls. Derrick's heart sinks. A strong sense of fear seizes him. He realizes that the enemy's setup far exceeds his expectations, and the chance of winning seems extremely slim.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_166",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_166",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0162.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00021.mp3",
+        "text": "I...",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_167",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_167",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0163.webp",
+        "dubbing": "scenes\\audio\\pangbai00138.mp3",
+        "text": "Derrick unconsciously takes a half - step back. Facing the powerful enemy, he is afraid and retreats, not daring to fight.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_168",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_168",
+      "sheetName": "Sheet15_4",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0164.webp",
+        "dubbing": "scenes\\audio\\pangbai00139.mp3",
+        "text": "At that very moment, the floor suddenly collapses! It's a pre - arranged trap. Derrick has no time to react and falls directly into the deep pit of the trap.",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_169",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_169",
+      "sheetName": "Sheet15_5",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0165.webp",
+        "dubbing": "scenes\\audio\\pangbai00140.mp3",
+        "text": "Countless mechanical arms stretch out from the pit wall and firmly hold Derrick's body down.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_170",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_170",
+      "sheetName": "Sheet15_6",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0166.webp",
+        "dubbing": "scenes\\audio\\pangbai00141.mp3",
+        "text": "The crazy scientist stands by the pit, looking down and letting out a mocking laugh.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_171",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_171",
+      "sheetName": "Sheet15_7",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0167.webp",
+        "dubbing": "scenes\\audio\\Mad Scientist00001.mp3",
+        "text": "Game over, Spider - Man.",
+        "characterImage": "scenes\\images\\madscientist tou.webp",
+        "characterName": "Mad Scientist"
+      },
+      "nextId": "scene_172",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_172",
+      "sheetName": "Sheet15_8",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0167.webp",
+        "dubbing": "scenes\\audio\\pangbai00142.mp3",
+        "text": "Derrick falls into the crazy scientist's trap and is defeated. The story comes to an end.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_173",
+          "label": "Face the enemy and fight bravely."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_173",
+      "sheetName": "Sheet16_0",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0168.webp",
+        "dubbing": "scenes\\audio\\pangbai00143.mp3",
+        "text": "Derrick is indeed overcome with fear, and cold sweat breaks out on his palms.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_174",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_174",
+      "sheetName": "Sheet16_1",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0169.webp",
+        "dubbing": "scenes\\audio\\pangbai00144.mp3",
+        "text": "But when he thinks of the millions of ordinary citizens in New York and the innocent lives that may be harmed by the mutant monsters, Derrick forces down his inner fear. Beneath the mask, his eyes become extremely determined.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_175",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_175",
+      "sheetName": "Sheet16_2",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\beipan.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0170.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00022.mp3",
+        "text": "Your plan ends here.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_176",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_176",
+      "sheetName": "Sheet16_3",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0171.webp",
+        "dubbing": "scenes\\audio\\pangbai00145.mp3",
+        "text": "Derrick clenches his fists, musters up the courage to face the enemy, and fully engages in the battle.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_177",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_177",
+      "sheetName": "Sheet16_4",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0172.webp",
+        "dubbing": "scenes\\audio\\pangbai00146.mp3",
+        "text": "Inside the mine workshop, the loud noises of metal collisions keep ringing out. Cannons, spider - webs, and mechanical debris fly everywhere. The crazy scientist has endless tricks, and his modified mechanical equipment has fierce firepower.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_178",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_178",
+      "sheetName": "Sheet16_5",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0173.webp",
+        "dubbing": "scenes\\audio\\pangbai00147.mp3",
+        "text": "Thanks to the protection of his new suit, Derrick keeps dodging with his agile movements, but new wounds still appear on his body constantly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_179",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_179",
+      "sheetName": "Sheet16_6",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0174.webp",
+        "dubbing": "scenes\\audio\\pangbai00148.mp3",
+        "text": "After a thrilling and fierce battle, the crazy scientist is finally knocked down hard and collapses on the ground.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_180",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_180",
+      "sheetName": "Sheet16_7",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0175.webp",
+        "dubbing": "scenes\\audio\\pangbai00149.mp3",
+        "text": "But at the moment of falling, a strange sneer appears on the crazy scientist's face. He uses his last bit of strength to press the remote control in his hand.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_181",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_181",
+      "sheetName": "Sheet16_8",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0176.webp",
+        "dubbing": "scenes\\audio\\Mad Scientist00002.mp3",
+        "text": "Even if I lose, you won't leave here unscathed!",
+        "characterImage": "scenes\\images\\madscientist tou.webp",
+        "characterName": "Mad Scientist"
+      },
+      "nextId": "scene_182",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_182",
+      "sheetName": "Sheet16_9",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0177.webp",
+        "dubbing": "scenes\\audio\\pangbai00150.mp3",
+        "text": "The shrill red alarm in the factory immediately rings throughout the entire mine.",
+        "soundEffects": "scenes\\audio\\shiyanshibaojingsheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_183",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_183",
+      "sheetName": "Sheet16_10",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0178.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00023.mp3",
+        "text": "No! It's the self - destruct program!",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_184",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_184",
+      "sheetName": "Sheet16_11",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0179.webp",
+        "dubbing": "scenes\\audio\\pangbai00151.mp3",
+        "text": "The whole mine begins to collapse violently. Large chunks of thick concrete fall from above, the steel supports twist and break, and clouds of dust fly everywhere. Derrick realizes that he must evacuate immediately.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_185",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_185",
+      "sheetName": "Sheet16_12",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0180.webp",
+        "dubbing": "scenes\\audio\\pangbai00152.mp3",
+        "text": "Rubble kept falling, and the escape route was gradually blocked by falling steel frames and stones one by one. Derrick's way back was quickly disappearing. In this critical moment, the words an old man had once warned Derrick clearly echoed in his mind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_186",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_186",
+      "sheetName": "Sheet16_13",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0181.webp",
+        "dubbing": "scenes\\audio\\Old Chen00000.mp3",
+        "text": "You have extraordinary muscles and strength. With great power comes great responsibility.",
+        "characterImage": "scenes\\images\\oldchen tou.webp",
+        "characterName": "Old Chen"
+      },
+      "nextId": "scene_187",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_187",
+      "sheetName": "Sheet16_14",
+      "excelSheetName": "Sheet16",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0182.webp",
+        "dubbing": "scenes\\audio\\Old Chen00001.mp3",
+        "text": "This power can be used to protect the city, and your responsibility is to safeguard New York.",
+        "characterImage": "scenes\\images\\oldchen tou.webp",
+        "characterName": "Old Chen"
+      },
+      "branches": [
+        {
+          "nextId": "scene_188",
+          "label": "Take off the suit and escape as an ordinary person."
+        },
+        {
+          "nextId": "scene_194",
+          "label": "Stay true to your identity and fight to the end."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_188",
+      "sheetName": "Sheet17_0",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0183.webp",
+        "dubbing": "scenes\\audio\\pangbai00153.mp3",
+        "text": "Large rocks kept crashing down nearby, and the shadow of death was looming.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_189",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_189",
+      "sheetName": "Sheet17_1",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0184.webp",
+        "dubbing": "scenes\\audio\\pangbai00154.mp3",
+        "text": "The thought of survival occupied Derrick's mind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_190",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_190",
+      "sheetName": "Sheet17_2",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0184.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00024.mp3",
+        "text": "I want to survive.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_191",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_191",
+      "sheetName": "Sheet17_3",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0185.webp",
+        "dubbing": "scenes\\audio\\pangbai00155.mp3",
+        "text": "Derrick quickly tore off his entire Spider - Man suit and casually threw it into a nearby pile of ruins. He picked up a dusty worker's jacket from the ground and wrapped it around himself, and also discarded the mask on his face.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_192",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_192",
+      "sheetName": "Sheet17_4",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0186.webp",
+        "dubbing": "scenes\\audio\\pangbai00156.mp3",
+        "text": "Amid the rumbling and dust, Derrick lowered his head, mingled with the panicked mine workers fleeing outside, disguised as a porter, and silently ran out with the crowd.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_193",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_193",
+      "sheetName": "Sheet17_5",
+      "excelSheetName": "Sheet17",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0187.webp",
+        "dubbing": "scenes\\audio\\pangbai00157.mp3",
+        "text": "Derrick successfully escaped from the collapsing mine and saved his own life. However, everything related to Spider - Man was left in the collapsed ruins. Derrick completely abandoned his heroic mission.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_194",
+          "label": "Stay true to your identity and fight to the end."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_194",
+      "sheetName": "Sheet18_0",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0188.webp",
+        "dubbing": "scenes\\audio\\pangbai00158.mp3",
+        "text": "The words \"With great power comes great responsibility\" echoed in Derrick's ears. He glanced down at his hands, covered in dust and scars.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_195",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_195",
+      "sheetName": "Sheet18_1",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0189.webp",
+        "dubbing": "scenes\\audio\\pangbai00159.mp3",
+        "text": "Then he looked towards the depths of the constantly collapsing mine, where there were still ordinary mine workers who hadn't had time to evacuate. Without taking a single step back, Derrick tidied up his shaky suit and firmly put on his mask.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_196",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_196",
+      "sheetName": "Sheet18_2",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0190.webp",
+        "dubbing": "scenes\\audio\\Derrick Pan00025.mp3",
+        "text": "I'm Spider - Man. I can't just run away like this.",
+        "characterImage": "scenes\\images\\derrickpan tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_197",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_197",
+      "sheetName": "Sheet18_3",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0191.webp",
+        "dubbing": "scenes\\audio\\pangbai00160.mp3",
+        "text": "Derrick remained true to his Spider - Man identity and refused to back down. He turned towards the more dangerous area.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_198",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_198",
+      "sheetName": "Sheet18_4",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0192.webp",
+        "dubbing": "scenes\\audio\\pangbai00161.mp3",
+        "text": "Rumble ——!!",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_199",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_199",
+      "sheetName": "Sheet18_5",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0193.webp",
+        "dubbing": "scenes\\audio\\pangbai00162.mp3",
+        "text": "He rushed forward, trying to save as many trapped people as possible.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_200",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_200",
+      "sheetName": "Sheet18_6",
+      "excelSheetName": "Sheet18",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\weijikongbu.mp3",
+        "video": "scenes\\images\\nywj21_20260819151332_0194.webp",
+        "dubbing": "scenes\\audio\\pangbai00163.mp3",
+        "text": "The huge top - level structure completely collapsed. The thick ruins buried the entire mine, and the dust soared into the sky. Derrick was buried under the ruins along with this battlefield.",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://wcsc.xnewd-b.com/"
+}
