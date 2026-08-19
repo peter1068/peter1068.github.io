@@ -1,0 +1,2583 @@
+{
+  "uid": "lhdsl6_20260819154050",
+  "name": "lhdsl6_20260819154050",
+  "token": "U2FsdGVkX19S8X9wSrtyjLVocDi54xBzJYRXezY1iJQN2wVkeH1/3ZXmt8+AAziN",
+  "cover": "scenes\\images\\lhdsl6_20260819154050_0001.webp",
+  "version": "20260819-1640",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "Record of the Fox Spirit Saving the World",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "Deep in the mountains of Qingqiu, a little fox with fur as white as snow curled up in the hollow of an ancient pine tree. Its amber eyes were full of longing. Since childhood, the little fox had heard from the old foxes in the mountains that the highest state of cultivation for the fox clan in the world was to become a nine - tailed fox with great powers.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "The little fox wagged its single, lonely tail and secretly made up its mind.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0004.webp",
+        "dubbing": "scenes\\audio\\Little Fox00000.mp3",
+        "text": "I must practice hard and grow nine tails to protect the living beings in this mountain forest.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "But for the fox clan to embark on the path of cultivation, it's not enough to just practice hard. They must first pass the spiritual trial of the immortals. The way of the trial is to drop a drop of their own blood essence onto a spiritual stone. The stone will then transform into a trial illusion to test the heart of the seeker. If they fail to gain the approval of the trial, all their hard work will be in vain.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "The little fox bit its fingertip, forcing out a drop of warm blood through the pain.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "It gently landed on the cold surface of the spiritual stone. The blood seeped into the stone's veins, and the stone suddenly burst out a blinding white light. The surrounding scenery instantly distorted.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "Two completely different illusion gates suddenly appeared in front of the little fox.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "Enter the World of Gold"
+        },
+        {
+          "nextId": "scene_16",
+          "label": "Enter the World of Poverty"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "The little fox looked up at the glittering golden gate.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "Behind the door, golden light flowed, and countless gold and jewels piled up like small mountains. The dazzling golden light made the little fox's eyes go blurry.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0010.webp",
+        "dubbing": "scenes\\audio\\Little Fox00001.mp3",
+        "text": "Wow, so much gold!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "Unable to suppress the greed in its heart, the little fox stepped into the gate in one stride.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "The moment it stepped into the illusion, the gate slammed shut. The gold on the ground rolled with a clatter.",
+        "soundEffects": "scenes\\audio\\jixieshiguanmen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "It condensed into a golden demon covered in gold. The golden demon laughed heartily and blocked the little fox's way.",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0014.webp",
+        "dubbing": "scenes\\audio\\Gold Demon00000.mp3",
+        "text": "Now that you're here, don't even think about leaving. Staying here with all this gold, isn't that a happy thing?",
+        "characterImage": "scenes\\images\\golddemon tou.webp",
+        "characterName": "Gold Demon"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "Only then did the little fox wake up and try to escape, but it was already surrounded by thick golden walls. The endless temptation of gold and silver entangled the little fox's mind, and it could no longer break free. Thus, it was trapped in the World of Gold and had no chance of cultivation ever again.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_16",
+          "label": "Enter the World of Poverty"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "On the other side, the gate was dull and gray. Inside, the cold wind howled, and everywhere was a desolate and dilapidated scene. The little fox suppressed its longing for glory and stepped into the World of Poverty.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "Here, the grass and trees were withered and yellow, and there were hungry and cold little animals everywhere. The hares shivered from the cold, the little sparrows were too hungry to flap their wings, and the little hedgehogs' spines were curled up from the cold. The little fox itself had low cultivation and weak magic power, but seeing the miserable state of the living beings, it really couldn't bear to ignore them.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "The little fox ran around, sharing the wild fruits it found with the hungry little animals, gathering dry grass to build shelters for them, and braving the cold wind to fetch water from the stream. Even though it was out of breath and its fur was in a mess from the cold wind, it still tried its best to take care of every weak living being.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "The illusion dissipated, and the little fox was wrapped in white light. A gentle voice came from the void.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0020.webp",
+        "dubbing": "scenes\\audio\\Immortal00000.mp3",
+        "text": "With kindness in your heart and compassion for all living beings, you have passed the spiritual assessment and can start your path of cultivation.",
+        "characterImage": "scenes\\images\\immortal tou.webp",
+        "characterName": "Immortal"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "The trial ended, and the illusion faded. The little fox returned to the real mountain forest.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "But before the little fox could recover, a sticky, black slime slowly flowed out from the grass, taking on a vague human form and pretending to be an immortal with a noble and elegant demeanor.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0023.webp",
+        "dubbing": "scenes\\audio\\Black Slime Demon00000.mp3",
+        "text": "Little fox, congratulations on passing the trial. Come with me, and I'll teach you the supreme cultivation method.",
+        "characterImage": "scenes\\images\\blackslimedemon tou.webp",
+        "characterName": "Black Slime Demon"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "The black slime monster pinched its voice and pretended to be an immortal to deceive the little fox.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_25",
+          "label": "Trust the 'immortal'"
+        },
+        {
+          "nextId": "scene_31",
+          "label": "Stay vigilant"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "Hearing that a celestial being was willing to teach cultivation methods, the little fox was overjoyed and nodded in agreement without a second thought.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0026.webp",
+        "dubbing": "scenes\\audio\\Little Fox00002.mp3",
+        "text": "Thank you, celestial being! I'll go with you!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0027.webm",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "The little fox excitedly followed behind the black slime monster, completely unaware of the faint evil aura emanating from it. After walking just a few dozen steps,",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "The black slime suddenly exploded, transforming into a huge, pitch - black mouth.",
+        "soundEffects": "scenes\\audio\\baozha.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0029.webp",
+        "dubbing": "scenes\\audio\\Black Slime Demon00001.mp3",
+        "text": "Silly little fox, your spiritual energy belongs to me!",
+        "characterImage": "scenes\\images\\blackslimedemon tou.webp",
+        "characterName": "Black Slime Demon"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "The little fox's cultivation was still shallow and it was unable to resist at all. In an instant, it was swallowed by the black monster and completely disappeared in the mountain forest.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_31",
+          "label": "Stay on alert."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "The little fox took two steps back and gently sniffed with its nose.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "There was not a trace of pure celestial energy on this so - called \"celestial being\". Instead, it was filled with a stinky and evil aura. The little fox's alarm bells rang in its heart and it didn't rashly agree. Seeing the little fox hesitate, the black slime monster continued to lure it.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0033.webp",
+        "dubbing": "scenes\\audio\\Black Slime Demon00002.mp3",
+        "text": "What? Don't you believe me? If you miss this opportunity, it'll be very difficult for you to cultivate in the future.",
+        "characterImage": "scenes\\images\\blackslimedemon tou.webp",
+        "characterName": "Black Slime Demon"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0034.webp",
+        "dubbing": "scenes\\audio\\Little Fox00003.mp3",
+        "text": "I... I won't go with you for now.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "The little fox secretly clenched its claws and silently chanted in its heart, \"Lord Mountain God, please help me!\"",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "A deep mountain roar suddenly sounded, and the entire mountain forest trembled slightly. The majestic Mountain God revealed his figure from between the rocks.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "With a wave of his big hand, a strong wind swept towards the black slime monster.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0038.webp",
+        "dubbing": "scenes\\audio\\Mountain God00000.mp3",
+        "text": "Bold monster! How dare you disguise as a celestial being to deceive those seeking the path of cultivation!",
+        "characterImage": "scenes\\images\\mountaingod tou.webp",
+        "characterName": "Mountain God"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "The black monster was terrified and tried to escape, but was firmly imprisoned by the Mountain God's power. After several struggles, it was completely subdued. After the monster dissipated, a red demon core and a transformation magic weapon that could change one's form at will fell out.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0040.webm",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "The Mountain God looked down at the little fox with a deep voice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0041.webp",
+        "dubbing": "scenes\\audio\\Mountain God00001.mp3",
+        "text": "I'll give you this demon's core and magic weapon. I hope you stay true to your heart and cultivate well.",
+        "characterImage": "scenes\\images\\mountaingod tou.webp",
+        "characterName": "Mountain God"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0042.webp",
+        "dubbing": "scenes\\audio\\Little Fox00004.mp3",
+        "text": "Thank you, Lord Mountain God, for saving me!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "The red demon core entered the little fox's body, and a warm power flowed through its whole body. Behind the little fox, a second tail quietly grew. Holding the transformation magic weapon in its paw, the little fox could change its appearance at will with a single thought. The little fox put away the treasures, shook its fur, and continued on its cultivation journey.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "After crossing the mountain range, the little fox could hear a noisy scolding sound from afar. It quickly ran forward to take a look.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "There, the burly Bull Demon King was glaring with his big, bull - like eyes and bullying a group of weak beasts in a domineering way. The small animals were so scared that they fled in all directions, daring not to say a word even though they were angry.",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "The little fox had an idea and tightly held the transformation magic weapon.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "With a flash of spiritual light, it transformed into the appearance of Princess Iron Fan and stepped forward.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_48",
+          "label": "Fan the Bull Demon King with the Plantain Fan."
+        },
+        {
+          "nextId": "scene_56",
+          "label": "Call the Bull Demon King home for dinner."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "After the little fox completed the transformation, it waved its hand and conjured up a fake Plantain Fan, putting on a majestic stance.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "It shouted sternly:",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0049.webp",
+        "dubbing": "scenes\\audio\\Little Fox00005.mp3",
+        "text": "Bull Demon King! Stop bullying the weak! Take this fan of mine!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "The little fox waved the fake fan in its hand with all its might, but not even a wisp of wind came out.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "The Demon Bull King was stunned for a moment, then threw his head back and laughed heartily, stomping his thick hooves heavily on the ground.",
+        "soundEffects": "scenes\\audio\\hongxiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0052.webp",
+        "dubbing": "scenes\\audio\\Bull Demon King00000.mp3",
+        "text": "Hahaha! Where did this imposter come from! This fan is fake. Do you think you can deceive me?",
+        "characterImage": "scenes\\images\\bulldemonking tou.webp",
+        "characterName": "Bull Demon King"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0053.webm",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "The Demon Bull King, having seen through the disguise, flew into a rage. He strode forward, his sharp claws tearing and biting ferociously.",
+        "soundEffects": "scenes\\audio\\gongfugongji.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "The little fox didn't have time to transform back into her original form. Unable to dodge in time, she was seriously injured on the spot and fell to the ground.",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_56",
+          "label": "Call the Demon Bull King home for dinner."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "The little fox didn't act rashly. Suppressing the anger in her heart, she pretended to be the Iron Fan Princess, softly shouting in a gentle voice.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0055.webp",
+        "dubbing": "scenes\\audio\\Little Fox00006.mp3",
+        "text": "Old Bull! What are you causing a ruckus out here for? Hurry up and come home with me for dinner!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "Hearing his \"wife's\" call, the Demon Bull King was taken aback. He stopped bullying the little animals, scratching his head.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0056.webp",
+        "dubbing": "scenes\\audio\\Bull Demon King00001.mp3",
+        "text": "Dinner? Is it already time to eat so soon?",
+        "characterImage": "scenes\\images\\bulldemonking tou.webp",
+        "characterName": "Bull Demon King"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0057.webp",
+        "dubbing": "scenes\\audio\\Little Fox00007.mp3",
+        "text": "Indeed, the food will get cold.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "While pretending to urge him on, the little fox slowly approached.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "Use sweet words to deceive.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0059.webp",
+        "dubbing": "scenes\\audio\\Little Fox00008.mp3",
+        "text": "Lend me your Plantain Fan and I'll return it to you when we get home.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0060.webm",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "Without much thought, the Demon Bull King casually handed over the real Plantain Fan.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "As soon as the fan was in the little fox's hands, she immediately activated it with all her might.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0062.webp",
+        "dubbing": "scenes\\audio\\Little Fox00009.mp3",
+        "text": "Take this!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "Suddenly, a violent gale swept across the world. The powerful gust of wind carried the Demon Bull King with it. After letting out a shrill scream, he was directly fanned away and disappeared into the distant cosmic sky.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0064.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "All the little animals that had been bullied cheered and gathered around one after another. A stream of gentle and delicate spiritual energy continuously flowed into the little fox.",
+        "soundEffects": "scenes\\audio\\renqunhuanhu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "With the Plantain Fan in her possession and the spiritual energy bestowed by all sentient beings, another fluffy tail grew behind the little fox. Now she had three tails.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet7_14",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "The little fox bid farewell to all the sentient beings and continued her journey deeper into the mountains.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet7_15",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "When she reached a village at the foot of a mountain, wails filled the air in the village.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet7_16",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "All the villagers looked haggard.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet7_17",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "It turned out that a fierce snake demon had taken up residence here, disturbing the village and harming the villagers all day long.",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_74",
+          "label": "Transform the magic weapon into a sword."
+        },
+        {
+          "nextId": "scene_81",
+          "label": "Transform the magic weapon into a flute."
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "Seeing the villagers suffering, the little fox immediately activated her magic weapon to transform it. With a flash of cold light, a sharp sword appeared in her paw.",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0071.webp",
+        "dubbing": "scenes\\audio\\Little Fox00010.mp3",
+        "text": "Snake demon, give me your life!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "The little fox tightly grasped the sword, leaped into the air, and stabbed straight at the snake demon's vital spot.",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "But the snake demon's scales were as hard as fine iron. With a crisp \"clang\", the sword snapped directly and shattered into three pieces, falling to the ground.",
+        "soundEffects": "scenes\\audio\\daojianpengzhuang1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "The snake demon flicked its scarlet tongue and let out a cold laugh.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0074.webp",
+        "dubbing": "scenes\\audio\\Snake Demon00000.mp3",
+        "text": "A mere little fox dares to provoke me?",
+        "characterImage": "scenes\\images\\snakedemon tou.webp",
+        "characterName": "Snake Demon"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "The snake demon spat out a cloud of dark green venomous mist. The little fox couldn't dodge in time and was corroded by the venom. Its skin and flesh were eaten away by the toxin, and it could no longer hold on.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_81",
+          "label": "The magic weapon turns into a flute"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "Instead of confronting the snake demon head - on, the little fox had an idea. Its magic weapon transformed into a bamboo flute and landed in its paw.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "The little fox retreated to a safe position, put the flute to its lips, and a gentle tune slowly sounded. Strangely enough, when the snake demon heard the flute, its body became out of control. Its huge body wriggled, it shook its head and tail, and started dancing a funny dance right there, unable to stop.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "All the villagers poked their heads out. Seeing the fierce - looking snake demon in such a state, they couldn't hold back their laughter and burst out laughing.",
+        "soundEffects": "scenes\\audio\\qingjingjuxiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0079.webp",
+        "dubbing": "scenes\\audio\\Gaunt Villager00000.mp3",
+        "text": "Hahaha, the big snake is dancing!",
+        "characterImage": "scenes\\images\\gauntvillager tou.webp",
+        "characterName": "Gaunt Villager"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0080.webp",
+        "dubbing": "scenes\\audio\\Suffering Village Woman00000.mp3",
+        "text": "It used to lord it over us, but now look at it!",
+        "characterImage": "scenes\\images\\sufferingvillagewoman tou.webp",
+        "characterName": "Suffering Village Woman"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "One after another, the taunts reached the snake demon's ears. The snake demon had been running amok for years and was always feared by everyone. When had it ever been mocked like this? Its self - esteem was completely shattered. It let out a shrill scream and rammed its head into a rock, committing suicide.",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "After the snake demon died, it dropped a bright green demon core and a set of defensive magic weapons made of snake scales. The little fox took the two treasures. The power of the green demon core flowed into its body, and its fourth tail slowly grew. The little fox put on the snake - scale armor.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0083.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "After resting, the little fox set off on the path of cultivation again.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "In the future, it can use this to withstand attacks when in danger.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "Not long after, strange things happened frequently in the small town ahead. There was a \"miracle doctor\" going around treating patients, but the conditions of the villagers who went to him only got worse and worse.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "The little fox secretly investigated and finally saw the truth: the so - called miracle doctor was actually a centipede demon in disguise. The centipede demon had no intention of saving people. It was just using the guise of treating patients to secretly poison people, using human lives for fun and improving its cultivation in the process.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_92",
+          "label": "Transform into a cockroach demon"
+        },
+        {
+          "nextId": "scene_98",
+          "label": "Transform into a patient"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "The little fox thought about a strategy and planned to disguise itself as a fellow demon to try and get information.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "The magic weapon flashed, and the little fox transformed into a cockroach demon. It tiptoed closer to the centipede demon.",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0089.webp",
+        "dubbing": "scenes\\audio\\Little Fox00011.mp3",
+        "text": "Brother Centipede, I've long heard of your great name! I came here especially to see you.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "The centipede demon looked down and saw the cockroach in front of it. Its eyes immediately lit up. It licked its mouthparts and grinned greedily.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0090.webp",
+        "dubbing": "scenes\\audio\\Centipede Demon00000.mp3",
+        "text": "What a delicious meal that's come to me!",
+        "characterImage": "scenes\\images\\centipededemon tou.webp",
+        "characterName": "Centipede Demon"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "The centipede demon usually ate cockroaches and wouldn't listen to the little fox at all. It moved all its hundred legs at once, suddenly launched a sneak attack, and swallowed the little fox, which was disguised as a cockroach, in one gulp.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_98",
+          "label": "Transform into a patient"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "The little fox changed its plan. With a flash of light, it transformed into a patient who was weak and coughing non - stop. Staggering, it walked up to the centipede demon's medical stall.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0093.webp",
+        "dubbing": "scenes\\audio\\Little Fox00012.mp3",
+        "text": "Miracle doctor... Please save me. I'm in so much pain. Please give me a dose of medicine.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "The little fox covered its chest and pretended to be sickly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "The centipede demon squinted its eyes, a hint of malice flashed in them, and it casually prepared a highly poisonous medicine and handed it over.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0096.webp",
+        "dubbing": "scenes\\audio\\Centipede Demon00001.mp3",
+        "text": "Drink this medicine, and your illness will be cured.",
+        "characterImage": "scenes\\images\\centipededemon tou.webp",
+        "characterName": "Centipede Demon"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "The little fox took the medicine but didn't drink it on the spot. After pretending to finish it",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "A moment later, it showed a happy expression.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0098.webp",
+        "dubbing": "scenes\\audio\\Little Fox00013.mp3",
+        "text": "Great healer! Your medicine is truly miraculous! I feel refreshed all over!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "The centipede spirit scoffed in disbelief.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0100.webp",
+        "dubbing": "scenes\\audio\\Centipede Demon00002.mp3",
+        "text": "Impossible. This medicine is clearly poison. You're lying. I'll try it myself.",
+        "characterImage": "scenes\\images\\centipededemon tou.webp",
+        "characterName": "Centipede Demon"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "The centipede spirit snatched the medicine bowl, completely unaware that the little fox had secretly mixed the snake venom from the snake demon into it. The centipede spirit tilted its head back and gulped it down.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "The poison took effect instantly. The centipede spirit twitched all over, fell to the ground and struggled in pain, and finally was poisoned to death by the poison it had concocted itself.",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0103.webm",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "The little fox took out the method of alchemy, refined the centipede spirit into centipede pills, and also obtained a Hundred - Legged Magic Treasure. This treasure could shoot out poisonous centipede legs as an attack weapon.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "The wronged souls of the common people poisoned by the centipede spirit were finally freed. Countless ghosts turned into wisps of spiritual power and coiled around the little fox. Coupled with the purple demon core of the centipede spirit, the two forces combined, and two more tails grew behind the little fox. Now it had six tails.",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "After everything was settled, the little fox returned to its own cave and closed the door for the final cultivation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet11_15",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "On the other hand, when the spider spirit heard that its friends, the snake demon and the centipede spirit, had all died at the hands of this fox demon, it was filled with anger and determined to avenge them. The spider spirit contacted others everywhere and gathered a group of monster helpers: the pine tree spirit, the willow tree spirit, the stone demon, the butterfly demon, and the cat demon. A group of monsters secretly ambushed around the cave, waiting for the little fox to come out of the cave and then rush forward together.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet11_16",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "Outside the cave, the grass and trees rustled, and there were hidden dangers everywhere. Inside the cave, the little fox had already sensed the dense demonic aura outside.",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_115",
+          "label": "Fight back"
+        },
+        {
+          "nextId": "scene_120",
+          "label": "Ignore them"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "Sensing the invasion of external enemies, the little fox didn't want to cower in the cave. It directly pushed open the cave door, held various magic treasures and rushed out to face the group of monsters.",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0109.webp",
+        "dubbing": "scenes\\audio\\Little Fox00014.mp3",
+        "text": "Why are you causing trouble for me!",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "The spider spirit sneered.",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0111.webp",
+        "dubbing": "scenes\\audio\\Spider Demon00000.mp3",
+        "text": "You killed my friends. Today is your death day!",
+        "characterImage": "scenes\\images\\spiderdemon tou.webp",
+        "characterName": "Spider Demon"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "Several monsters rushed forward and launched attacks from all directions. Although the little fox held many magic treasures, it lacked actual combat experience when facing so many enemies at the same time. The little fox could defend on the left but couldn't block on the right. It used its magic treasures one after another, but it was difficult to resist the multi - pronged attacks at the same time. After several fierce battles, outnumbered, the little fox fell in the melee.",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_120",
+          "label": "Ignore them"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "Hearing the noisy shouts of the monsters outside the cave, the little fox didn't rush out impulsively. It first stepped to the cave door, pinched a magic formula, and a shining barrier rose up, firmly protecting the cave. No matter how the monsters outside attacked, they couldn't break in.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0114.webp",
+        "dubbing": "scenes\\audio\\Spider Demon00001.mp3",
+        "text": "If you have the guts, come out! Hiding in the cave is no way to be a hero!",
+        "characterImage": "scenes\\images\\spiderdemon tou.webp",
+        "characterName": "Spider Demon"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "Outside the cave, the spider spirit shouted angrily.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "The little fox ignored it and turned back to the depths of the cave.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "The little fox took out all the magic treasures it had obtained along the way, such as the banana fan, the snake - scale armor, and the Hundred - Legged Poisonous Weapon.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "It activated its own cultivation and smelted these treasures together. Inside the cave, the spiritual light soared into the sky, and countless precious lights intertwined.",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "After expending a lot of effort, the little fox finally refined a brand - new magic treasure with amazing power.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "The barrier slowly disappeared, and the little fox stepped out of the cave holding the newly refined magic treasure.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "Seeing the little fox appear, the spider spirit shouted sternly.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0122.webp",
+        "dubbing": "scenes\\audio\\Spider Demon00002.mp3",
+        "text": "Guys, go! Avenge our dead friends!",
+        "characterImage": "scenes\\images\\spiderdemon tou.webp",
+        "characterName": "Spider Demon"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "A group of monsters immediately rushed up. The little fox didn't want to kill them at first and intended to show mercy, but these monsters' moves were extremely vicious, aiming to take the little fox's life. Helplessly, the little fox had to fight with all its might.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "Once the great battle started, it lasted for forty - nine days. The rocks cracked, the trees were broken, and the earth - shattering fight echoed through the mountains and forests. In the end, the spider spirit and all its helpers were defeated and captured.",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "The little fox confiscated their demon cores but didn't swallow them to increase its own cultivation.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "The little fox raised its hand and cast a spell, turning each demon core into a vast amount of spiritual power and spreading it across the world to help the suffering people who were once harmed by demons.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "High above in the Ninth Heaven, all the immortals witnessed what the little fox did and were deeply moved.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0128.webp",
+        "dubbing": "scenes\\audio\\Immortal00001.mp3",
+        "text": "This fox cares about all sentient beings and does good deeds to save the world. It deserves perfection.",
+        "characterImage": "scenes\\images\\immortal tou.webp",
+        "characterName": "Immortal"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "A streak of light fell from the sky, and a shining immortal pill landed in the little fox's hand.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "The immortal pill entered the little fox's belly, and the majestic immortal power swept through its whole body. The remaining three tails of the little fox all grew out.",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "Behind the little fox, nine snow - white and fluffy fox tails fluttered gracefully. The little fox finally cultivated into the legendary nine - tailed fox.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "After the little fox became a nine - tailed fox, the Heavenly Dao presented two paths in front of it, waiting for the little fox to make the final choice.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_140",
+          "label": "Ascend to the Heavenly Court"
+        },
+        {
+          "nextId": "scene_146",
+          "label": "Stay in the mortal world"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "The little fox looked up at the mist - shrouded Heavenly Court in the Ninth Heaven.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "The guiding divine light of the celestial officials had already fallen on the little fox.",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "The little fox thought to itself: If I ascend to the Heavenly Court, I can obtain the orthodox immortal power and protect more sentient beings in the world.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0135.webp",
+        "dubbing": "scenes\\audio\\Little Fox00015.mp3",
+        "text": "Okay, I'll go to the heaven with you celestial officials.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0136.webm",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "The light enveloped the nine - tailed fox. Stepping on auspicious clouds, the nine - tailed fox ascended to the Heavenly Court step by step",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "and officially joined the ranks of the immortals. From then on, year after year, the nine - tailed fox lived in the Heavenly Court, using its immortal power to protect the common people in the mortal world and keep them safe every year.",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_146",
+          "label": "Stay in the mortal world"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0138.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "The little fox looked up in the direction of the Heavenly Court and then looked down at the bustling mortal land under its feet.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "The little fox gently wagged its nine fluffy tails and declined the invitation of the celestial officials.",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0140.webp",
+        "dubbing": "scenes\\audio\\Little Fox00016.mp3",
+        "text": "Although the Heavenly Court is wonderful, I still cherish the mountains and rivers of this mortal world.",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "The little fox chose to stay in the mortal world, traveling around and continuing to punish the evil and promote the good, saving the suffering sentient beings. The legend of the nine - tailed spiritual fox saving the world and helping people has always been spread among the mountains and villages.",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://wcsc.xnewd-b.com/"
+}

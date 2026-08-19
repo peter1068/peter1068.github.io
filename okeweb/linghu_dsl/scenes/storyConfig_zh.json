@@ -1,0 +1,2583 @@
+{
+  "uid": "lhdsl6_20260819154050",
+  "name": "灵狐渡世录6合成导入表程序表格式",
+  "token": "U2FsdGVkX1/ZpJ8ewLOfnihmwdjy3+Mhn9BH8W3QtZzWeuqn99Z3Oar/TEm6ZEyI3TilrtRqbkzAeGs5K72/dQ==",
+  "cover": "scenes\\images\\lhdsl6_20260819154050_0001.webp",
+  "version": "20260819-1640",
+  "scenes": [
+    {
+      "id": "scene_0",
+      "sheetName": "Sheet1_0",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0001.webp",
+        "dubbing": "scenes\\audio\\pangbai00000.mp3",
+        "text": "《灵狐渡世录》",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_1",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_1",
+      "sheetName": "Sheet1_1",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0002.webp",
+        "dubbing": "scenes\\audio\\pangbai00001.mp3",
+        "text": "青丘的山林深处，一只皮毛如雪的小狐狸蜷在古松的树洞里，琥珀色的眼眸满是憧憬。小狐狸自小听山中老狐讲过传说，世间狐族修行的至高境界，便是修成神通广大的九尾狐。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_2",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_2",
+      "sheetName": "Sheet1_2",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0003.webp",
+        "dubbing": "scenes\\audio\\pangbai00002.mp3",
+        "text": "小狐狸晃了晃自己孤零零的一条尾巴，心里暗暗打定主意",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_3",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_3",
+      "sheetName": "Sheet1_3",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0004.webp",
+        "dubbing": "scenes\\audio\\Little Fox00000.mp3",
+        "text": "我一定要刻苦修行，修出九条尾巴，护这山林里的生灵。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_4",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_4",
+      "sheetName": "Sheet1_4",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0005.webp",
+        "dubbing": "scenes\\audio\\pangbai00003.mp3",
+        "text": "可狐族想要踏入修仙之路，并非埋头苦修就够，得先过神仙的灵性试炼。试炼的法子，是将自身一滴精血滴入通灵灵石，灵石便会幻化出试炼幻境，以此来考验求道者的心性。若是得不到试炼的认可，再怎么苦修也是枉然。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_5",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_5",
+      "sheetName": "Sheet1_5",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0006.webp",
+        "dubbing": "scenes\\audio\\pangbai00004.mp3",
+        "text": "小狐狸咬了咬自己的指尖，忍痛逼出一滴温热的鲜血，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_6",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_6",
+      "sheetName": "Sheet1_6",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0007.webp",
+        "dubbing": "scenes\\audio\\pangbai00005.mp3",
+        "text": "轻轻落在冰凉的灵石表面。血色渗入石纹，灵石骤然爆发出一阵刺眼白光，周遭景物瞬间扭曲，",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_7",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_7",
+      "sheetName": "Sheet1_7",
+      "excelSheetName": "Sheet1",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0008.webp",
+        "dubbing": "scenes\\audio\\pangbai00006.mp3",
+        "text": "两道截然不同的幻境大门，赫然出现在小狐狸的眼前。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_8",
+          "label": "进入金子世界"
+        },
+        {
+          "nextId": "scene_16",
+          "label": "进入贫困世界"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_8",
+      "sheetName": "Sheet2_0",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0009.webp",
+        "dubbing": "scenes\\audio\\pangbai00007.mp3",
+        "text": "小狐狸抬眼望向那扇金光闪闪的大门，",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_9",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_9",
+      "sheetName": "Sheet2_1",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0010.webp",
+        "dubbing": "scenes\\audio\\pangbai00008.mp3",
+        "text": "门后金光流淌，数不尽的黄金珠宝堆成小山，金灿灿的光芒晃得小狐狸眼睛都花了。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_10",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_10",
+      "sheetName": "Sheet2_2",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0010.webp",
+        "dubbing": "scenes\\audio\\Little Fox00001.mp3",
+        "text": "哇，好多金子！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_11",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_11",
+      "sheetName": "Sheet2_3",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0011.webp",
+        "dubbing": "scenes\\audio\\pangbai00009.mp3",
+        "text": "小狐狸按捺不住心底的贪念，一步就跨进了大门。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_12",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_12",
+      "sheetName": "Sheet2_4",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0012.webp",
+        "dubbing": "scenes\\audio\\pangbai00010.mp3",
+        "text": "踏入幻境的瞬间，大门轰然闭合。满地金子哗啦啦滚动",
+        "soundEffects": "scenes\\audio\\jixieshiguanmen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_13",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_13",
+      "sheetName": "Sheet2_5",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0013.webp",
+        "dubbing": "scenes\\audio\\pangbai00011.mp3",
+        "text": "凝聚成一头浑身鎏金的金子妖，金子妖哈哈大笑拦住了小狐狸的去路。",
+        "soundEffects": "scenes\\audio\\zhongniannanxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_14",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_14",
+      "sheetName": "Sheet2_6",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0014.webp",
+        "dubbing": "scenes\\audio\\Gold Demon00000.mp3",
+        "text": "既然来了，就别想着走啦，留在这里陪着这些黄金，岂不是快活？",
+        "characterImage": "scenes\\images\\golddemon tou.webp",
+        "characterName": "Gold Demon"
+      },
+      "nextId": "scene_15",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_15",
+      "sheetName": "Sheet2_7",
+      "excelSheetName": "Sheet2",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0015.webp",
+        "dubbing": "scenes\\audio\\pangbai00012.mp3",
+        "text": "小狐狸这才幡然醒悟想要逃跑，可四下早已被厚重的金墙封死。无尽的金银诱惑缠绕住小狐狸的心神，小狐狸再也挣脱不开，就此被困在了金子世界，再也无缘修行。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_16",
+          "label": "进入贫困世界"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_16",
+      "sheetName": "Sheet3_0",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0016.webp",
+        "dubbing": "scenes\\audio\\pangbai00013.mp3",
+        "text": "另一边的大门灰扑扑的，门内寒风呼啸，处处都是破败萧瑟的景象。小狐狸压下对荣华的向往，抬腿踏入了贫困世界。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_17",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_17",
+      "sheetName": "Sheet3_1",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0017.webp",
+        "dubbing": "scenes\\audio\\pangbai00014.mp3",
+        "text": "这里草木枯黄，到处都是挨饿受冻的小动物。野兔冻得瑟瑟发抖，小雀饿得扑腾不动翅膀，小刺猬浑身的刺都冻得蜷缩起来。小狐狸本身修为低微，法力浅薄，可看着一众生灵凄苦的模样，实在不忍心坐视不理。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_18",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_18",
+      "sheetName": "Sheet3_2",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0018.webp",
+        "dubbing": "scenes\\audio\\pangbai00015.mp3",
+        "text": "小狐狸四处奔走，把自己找到的野果分给挨饿的小动物，寻来干草给它们搭建避风的窝，冒着寒风去溪边叼来清水。小狐狸哪怕自己累得气喘吁吁，皮毛都被寒风刮得凌乱，也依旧尽力照料每一个弱小生灵。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_19",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_19",
+      "sheetName": "Sheet3_3",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0019.webp",
+        "dubbing": "scenes\\audio\\pangbai00016.mp3",
+        "text": "幻境消散，白光包裹住小狐狸。冥冥之中传来一道温和的声音。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_20",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_20",
+      "sheetName": "Sheet3_4",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0020.webp",
+        "dubbing": "scenes\\audio\\Immortal00000.mp3",
+        "text": "心有善念，体恤众生，你已通过灵性考核，可得开启修行之路。",
+        "characterImage": "scenes\\images\\immortal tou.webp",
+        "characterName": "Immortal"
+      },
+      "nextId": "scene_21",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_21",
+      "sheetName": "Sheet3_5",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0021.webp",
+        "dubbing": "scenes\\audio\\pangbai00017.mp3",
+        "text": "试炼落幕，幻境退去，小狐狸回到现实的山林之中。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_22",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_22",
+      "sheetName": "Sheet3_6",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0022.webp",
+        "dubbing": "scenes\\audio\\pangbai00018.mp3",
+        "text": "可还没等小狐狸缓过神，一团黏糊糊、黑漆漆的粘液缓缓从草丛里流淌出来，化作模糊的人形，装作一副仙风道骨的模样。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_23",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_23",
+      "sheetName": "Sheet3_7",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0023.webp",
+        "dubbing": "scenes\\audio\\Black Slime Demon00000.mp3",
+        "text": "小狐儿，恭喜你通过试炼。随我去吧，我传你无上修行法门。",
+        "characterImage": "scenes\\images\\blackslimedemon tou.webp",
+        "characterName": "Black Slime Demon"
+      },
+      "nextId": "scene_24",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_24",
+      "sheetName": "Sheet3_8",
+      "excelSheetName": "Sheet3",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0024.webp",
+        "dubbing": "scenes\\audio\\pangbai00019.mp3",
+        "text": "黑色粘液妖怪捏着假嗓子，装作神仙的口吻哄骗小狐狸。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_25",
+          "label": "相信神仙"
+        },
+        {
+          "nextId": "scene_31",
+          "label": "保持警惕"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_25",
+      "sheetName": "Sheet4_0",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0025.webp",
+        "dubbing": "scenes\\audio\\pangbai00020.mp3",
+        "text": "小狐狸一听有神仙愿意传授功法，心中大喜，想都没想便点头应下",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_26",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_26",
+      "sheetName": "Sheet4_1",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0026.webp",
+        "dubbing": "scenes\\audio\\Little Fox00002.mp3",
+        "text": "多谢上仙！我跟您走！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_27",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_27",
+      "sheetName": "Sheet4_2",
+      "excelSheetName": "Sheet4",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0027.webm",
+        "dubbing": "scenes\\audio\\pangbai00021.mp3",
+        "text": "小狐狸兴冲冲跟在黑粘液妖怪身后，丝毫没有察觉黑粘液妖怪身上那股隐晦的邪恶气息。才走出数十步，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_28",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_28",
+      "sheetName": "Sheet4_3",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0028.webp",
+        "dubbing": "scenes\\audio\\pangbai00022.mp3",
+        "text": "那团黑色粘液骤然爆开，化作一张巨大的漆黑大口",
+        "soundEffects": "scenes\\audio\\baozha.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_29",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_29",
+      "sheetName": "Sheet4_4",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0029.webp",
+        "dubbing": "scenes\\audio\\Black Slime Demon00001.mp3",
+        "text": "傻乎乎的小狐狸，你的灵气，归我了！",
+        "characterImage": "scenes\\images\\blackslimedemon tou.webp",
+        "characterName": "Black Slime Demon"
+      },
+      "nextId": "scene_30",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_30",
+      "sheetName": "Sheet4_5",
+      "excelSheetName": "Sheet4",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0030.webp",
+        "dubbing": "scenes\\audio\\pangbai00023.mp3",
+        "text": "小狐狸修为尚浅，根本无力反抗，瞬间就被黑色妖怪一口吞噬，彻底消散在山林之间",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_31",
+          "label": "保持警惕"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_31",
+      "sheetName": "Sheet5_0",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0031.webp",
+        "dubbing": "scenes\\audio\\pangbai00024.mp3",
+        "text": "小狐狸往后退了两步，鼻子轻轻嗅了嗅。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_32",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_32",
+      "sheetName": "Sheet5_1",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0032.webp",
+        "dubbing": "scenes\\audio\\pangbai00025.mp3",
+        "text": "这“神仙”身上没有半分清润的仙气，反倒弥漫着一股腥臭的邪气。小狐狸心里瞬间警铃大作，没有贸然应下。黑色粘液妖怪见小狐狸迟疑，又继续引诱。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_33",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_33",
+      "sheetName": "Sheet5_2",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0033.webp",
+        "dubbing": "scenes\\audio\\Black Slime Demon00002.mp3",
+        "text": "怎么？还不信我？错过此次机缘，你再想修行，可就难咯。",
+        "characterImage": "scenes\\images\\blackslimedemon tou.webp",
+        "characterName": "Black Slime Demon"
+      },
+      "nextId": "scene_34",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_34",
+      "sheetName": "Sheet5_3",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0034.webp",
+        "dubbing": "scenes\\audio\\Little Fox00003.mp3",
+        "text": "我…… 我先不跟你走。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_35",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_35",
+      "sheetName": "Sheet5_4",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0035.webp",
+        "dubbing": "scenes\\audio\\pangbai00026.mp3",
+        "text": "小狐狸暗暗攥紧爪子，在心底默默默念，山神大人，还请帮帮我！",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_36",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_36",
+      "sheetName": "Sheet5_5",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0036.webp",
+        "dubbing": "scenes\\audio\\pangbai00027.mp3",
+        "text": "一声厚重的山鸣轰然响起，整座山林都微微震颤。巍峨的山神自山石之间显出身形，",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_37",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_37",
+      "sheetName": "Sheet5_6",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0037.webp",
+        "dubbing": "scenes\\audio\\pangbai00028.mp3",
+        "text": "大手一挥，狂风卷向那团黑色粘液妖怪。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_38",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_38",
+      "sheetName": "Sheet5_7",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0038.webp",
+        "dubbing": "scenes\\audio\\Mountain God00000.mp3",
+        "text": "大胆妖物，竟敢伪装神仙诱骗求道生灵！",
+        "characterImage": "scenes\\images\\mountaingod tou.webp",
+        "characterName": "Mountain God"
+      },
+      "nextId": "scene_39",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_39",
+      "sheetName": "Sheet5_8",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0039.webp",
+        "dubbing": "scenes\\audio\\pangbai00029.mp3",
+        "text": "黑色妖怪大惊失色，想要逃窜，却被山神的力量牢牢禁锢，几番挣扎之后便被彻底制服。妖怪溃散之后，掉落出一枚赤红妖丹，还有一件可以随意变换身形的幻化法宝。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_40",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_40",
+      "sheetName": "Sheet5_9",
+      "excelSheetName": "Sheet5",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0040.webm",
+        "dubbing": "scenes\\audio\\pangbai00030.mp3",
+        "text": "山神低头看向小狐狸，声线浑厚。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_41",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_41",
+      "sheetName": "Sheet5_10",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0041.webp",
+        "dubbing": "scenes\\audio\\Mountain God00001.mp3",
+        "text": "此妖的妖丹与法宝便赠予你，望你坚守本心，好好修行。",
+        "characterImage": "scenes\\images\\mountaingod tou.webp",
+        "characterName": "Mountain God"
+      },
+      "nextId": "scene_42",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_42",
+      "sheetName": "Sheet5_11",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0042.webp",
+        "dubbing": "scenes\\audio\\Little Fox00004.mp3",
+        "text": "多谢山神大人搭救！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_43",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_43",
+      "sheetName": "Sheet5_12",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0043.webp",
+        "dubbing": "scenes\\audio\\pangbai00031.mp3",
+        "text": "红色妖丹入体，一股温热力量流淌全身，小狐狸的身后，悄然长出了第二条尾巴。幻化法宝握在小狐狸爪中，小狐狸心念一动，便能随意改换模样。小狐狸收好宝物，抖了抖皮毛，继续踏上自己的修行旅途。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_44",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_44",
+      "sheetName": "Sheet5_13",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0044.webp",
+        "dubbing": "scenes\\audio\\pangbai00032.mp3",
+        "text": "一路翻过山岭，远远便听见一阵喧闹的呵斥声。小狐狸快步跑上前一看",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_45",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_45",
+      "sheetName": "Sheet5_14",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0045.webp",
+        "dubbing": "scenes\\audio\\pangbai00033.mp3",
+        "text": "只见体型魁梧的牛魔王正瞪着铜铃大的牛眼，蛮横地驱赶欺负一群弱小的走兽。小动物们吓得四处逃窜，敢怒不敢言。",
+        "soundEffects": "scenes\\audio\\guaiwupaoxiao_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_46",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_46",
+      "sheetName": "Sheet5_15",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0046.webp",
+        "dubbing": "scenes\\audio\\pangbai00034.mp3",
+        "text": "小狐狸心念一转，握紧幻化法宝",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_47",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_47",
+      "sheetName": "Sheet5_16",
+      "excelSheetName": "Sheet5",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0047.webp",
+        "dubbing": "scenes\\audio\\pangbai00035.mp3",
+        "text": "灵光一闪，化作了铁扇公主的模样站了出来。",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_48",
+          "label": "用芭蕉扇扇牛魔王"
+        },
+        {
+          "nextId": "scene_56",
+          "label": "叫牛魔王回家吃饭"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_48",
+      "sheetName": "Sheet6_0",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0048.webp",
+        "dubbing": "scenes\\audio\\pangbai00036.mp3",
+        "text": "小狐狸幻化完成，抬手虚晃，变出一把假的芭蕉扇，摆出一副威严的架势",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_49",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_49",
+      "sheetName": "Sheet6_1",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0049.webp",
+        "dubbing": "scenes\\audio\\pangbai00037.mp3",
+        "text": "厉声喝道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_50",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_50",
+      "sheetName": "Sheet6_2",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0049.webp",
+        "dubbing": "scenes\\audio\\Little Fox00005.mp3",
+        "text": "牛魔王！休要恃强凌弱！吃我一扇！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_51",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_51",
+      "sheetName": "Sheet6_3",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0050.webp",
+        "dubbing": "scenes\\audio\\pangbai00038.mp3",
+        "text": "小狐狸奋力挥动手中的假扇子，可扇子连一丝风都吹不出来",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_52",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_52",
+      "sheetName": "Sheet6_4",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0051.webp",
+        "dubbing": "scenes\\audio\\pangbai00039.mp3",
+        "text": "牛魔王愣了一瞬，随即仰头哈哈大笑，粗壮的牛蹄重重踏在地上",
+        "soundEffects": "scenes\\audio\\hongxiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_53",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_53",
+      "sheetName": "Sheet6_5",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0052.webp",
+        "dubbing": "scenes\\audio\\Bull Demon King00000.mp3",
+        "text": "哈哈哈！哪来的冒牌货！这扇子是假的，你以为能骗得了我？",
+        "characterImage": "scenes\\images\\bulldemonking tou.webp",
+        "characterName": "Bull Demon King"
+      },
+      "nextId": "scene_54",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_54",
+      "sheetName": "Sheet6_6",
+      "excelSheetName": "Sheet6",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0053.webm",
+        "dubbing": "scenes\\audio\\pangbai00040.mp3",
+        "text": "识破伪装的牛魔王勃然大怒，迈开大步冲上前，锋利的牛爪狠狠撕咬过来",
+        "soundEffects": "scenes\\audio\\gongfugongji.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_55",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_55",
+      "sheetName": "Sheet6_7",
+      "excelSheetName": "Sheet6",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\erciyuanrexuezhandou.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0054.webp",
+        "dubbing": "scenes\\audio\\pangbai00041.mp3",
+        "text": "小狐狸来不及变回原形，躲闪不及，当场重伤倒地",
+        "soundEffects": "scenes\\audio\\gedouti.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_56",
+          "label": "叫牛魔王回家吃饭"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_56",
+      "sheetName": "Sheet7_0",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0055.webp",
+        "dubbing": "scenes\\audio\\pangbai00042.mp3",
+        "text": "小狐狸没有贸然动手，压下心中的怒意，装作铁扇公主的神态，柔声开口喊道",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_57",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_57",
+      "sheetName": "Sheet7_1",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0055.webp",
+        "dubbing": "scenes\\audio\\Little Fox00006.mp3",
+        "text": "老牛！你在外边闹什么，赶紧跟我回家吃饭啦！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_58",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_58",
+      "sheetName": "Sheet7_2",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0056.webp",
+        "dubbing": "scenes\\audio\\pangbai00043.mp3",
+        "text": "牛魔王听见“妻子”的呼唤，愣了愣，停下欺负小动物的动作，挠了挠脑袋",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_59",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_59",
+      "sheetName": "Sheet7_3",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0056.webp",
+        "dubbing": "scenes\\audio\\Bull Demon King00001.mp3",
+        "text": "吃饭？这么快就到饭点了？",
+        "characterImage": "scenes\\images\\bulldemonking tou.webp",
+        "characterName": "Bull Demon King"
+      },
+      "nextId": "scene_60",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_60",
+      "sheetName": "Sheet7_4",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0057.webp",
+        "dubbing": "scenes\\audio\\Little Fox00007.mp3",
+        "text": "可不是嘛，饭菜都要凉了。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_61",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_61",
+      "sheetName": "Sheet7_5",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0058.webp",
+        "dubbing": "scenes\\audio\\pangbai00044.mp3",
+        "text": "小狐狸一边假意催促，一边缓步靠近",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_62",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_62",
+      "sheetName": "Sheet7_6",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0059.webp",
+        "dubbing": "scenes\\audio\\pangbai00045.mp3",
+        "text": "巧言哄骗",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_63",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_63",
+      "sheetName": "Sheet7_7",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0059.webp",
+        "dubbing": "scenes\\audio\\Little Fox00008.mp3",
+        "text": "把你的芭蕉扇借我拿回去，到家我便还给你。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_64",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_64",
+      "sheetName": "Sheet7_8",
+      "excelSheetName": "Sheet7",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0060.webm",
+        "dubbing": "scenes\\audio\\pangbai00046.mp3",
+        "text": "牛魔王没多想，随手便把真正的芭蕉扇递了过来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_65",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_65",
+      "sheetName": "Sheet7_9",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0061.webp",
+        "dubbing": "scenes\\audio\\pangbai00047.mp3",
+        "text": "刚交到小狐狸手中，小狐狸立刻全力催动宝扇。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_66",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_66",
+      "sheetName": "Sheet7_10",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0062.webp",
+        "dubbing": "scenes\\audio\\Little Fox00009.mp3",
+        "text": "走你！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_67",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_67",
+      "sheetName": "Sheet7_11",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0063.webp",
+        "dubbing": "scenes\\audio\\pangbai00048.mp3",
+        "text": "狂风骤然席卷天地，强大的扇风裹挟着牛魔王，牛魔王发出一声惨叫过后，直接被扇飞，消失在遥远的天际宇宙。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_68",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_68",
+      "sheetName": "Sheet7_12",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0064.webp",
+        "dubbing": "scenes\\audio\\pangbai00049.mp3",
+        "text": "周遭受欺负的小动物们全都欢呼起来，纷纷围拢过来，一股又一股细碎温和的灵气，源源不断渡给小狐狸。",
+        "soundEffects": "scenes\\audio\\renqunhuanhu_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_69",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_69",
+      "sheetName": "Sheet7_13",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0065.webp",
+        "dubbing": "scenes\\audio\\pangbai00050.mp3",
+        "text": "小狐狸得到芭蕉扇，再加上众生馈赠的灵气，身后又多出一条蓬松的尾巴，如今已是三条尾巴。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_70",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_70",
+      "sheetName": "Sheet7_14",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\yingxiongkaixuanlezhang.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0066.webp",
+        "dubbing": "scenes\\audio\\pangbai00051.mp3",
+        "text": "小狐狸辞别一众生灵，继续往深山行去。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_71",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_71",
+      "sheetName": "Sheet7_15",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0067.webp",
+        "dubbing": "scenes\\audio\\pangbai00052.mp3",
+        "text": "行至一处山脚下的村落，村子里哀嚎四起，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_72",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_72",
+      "sheetName": "Sheet7_16",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0068.webp",
+        "dubbing": "scenes\\audio\\pangbai00053.mp3",
+        "text": "百姓个个面色憔悴，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_73",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_73",
+      "sheetName": "Sheet7_17",
+      "excelSheetName": "Sheet7",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0069.webp",
+        "dubbing": "scenes\\audio\\pangbai00054.mp3",
+        "text": "原来是一条凶恶的大蛇妖盘踞在此，整日搅扰村庄，祸害村民。",
+        "soundEffects": "scenes\\audio\\guaiwujiao.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_74",
+          "label": "法宝变成宝剑"
+        },
+        {
+          "nextId": "scene_81",
+          "label": "法宝变成笛子"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_74",
+      "sheetName": "Sheet8_0",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0070.webp",
+        "dubbing": "scenes\\audio\\pangbai00055.mp3",
+        "text": "小狐狸见村民受苦，当即催动幻化法宝，寒光一闪，一柄锋利的长剑出现在小狐狸的爪中。",
+        "soundEffects": "scenes\\audio\\badaoshengyin.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_75",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_75",
+      "sheetName": "Sheet8_1",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0071.webp",
+        "dubbing": "scenes\\audio\\Little Fox00010.mp3",
+        "text": "蛇妖，拿命来！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_76",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_76",
+      "sheetName": "Sheet8_2",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0072.webp",
+        "dubbing": "scenes\\audio\\pangbai00056.mp3",
+        "text": "小狐狸握紧宝剑，纵身一跃，直刺蛇妖七寸。",
+        "soundEffects": "scenes\\audio\\mofazhen.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_77",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_77",
+      "sheetName": "Sheet8_3",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0073.webp",
+        "dubbing": "scenes\\audio\\pangbai00057.mp3",
+        "text": "可蛇妖一身鳞片坚硬如同精铁，“哐当”一声脆响，宝剑直接崩断，碎成三段掉落在地。",
+        "soundEffects": "scenes\\audio\\daojianpengzhuang1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_78",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_78",
+      "sheetName": "Sheet8_4",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0074.webp",
+        "dubbing": "scenes\\audio\\pangbai00058.mp3",
+        "text": "蛇妖吐着猩红的信子，阴冷地笑出声。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_79",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_79",
+      "sheetName": "Sheet8_5",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0074.webp",
+        "dubbing": "scenes\\audio\\Snake Demon00000.mp3",
+        "text": "区区小狐狸，也敢来招惹我？",
+        "characterImage": "scenes\\images\\snakedemon tou.webp",
+        "characterName": "Snake Demon"
+      },
+      "nextId": "scene_80",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_80",
+      "sheetName": "Sheet8_6",
+      "excelSheetName": "Sheet8",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0075.webp",
+        "dubbing": "scenes\\audio\\pangbai00059.mp3",
+        "text": "蛇妖蛇口一吐，墨绿色的剧毒蛇雾扑面而来。小狐狸躲闪不及，被蛇毒侵蚀，浑身皮肉被毒素腐蚀，再也支撑不住。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_81",
+          "label": "法宝变成笛子"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_81",
+      "sheetName": "Sheet9_0",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0076.webp",
+        "dubbing": "scenes\\audio\\pangbai00060.mp3",
+        "text": "小狐狸没有选择硬碰硬，心念一动，幻化法宝化作一支青竹笛子落到爪间。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_82",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_82",
+      "sheetName": "Sheet9_1",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0077.webp",
+        "dubbing": "scenes\\audio\\pangbai00061.mp3",
+        "text": "小狐狸退到安全位置，将笛子凑到唇边，悠悠扬扬的曲调缓缓响起。诡异的事情发生了，蛇妖听见笛声，浑身不受控制，庞大的身躯扭动起来，摇头摆尾，原地跳起了滑稽的舞蹈，根本停不下来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_83",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_83",
+      "sheetName": "Sheet9_2",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0078.webp",
+        "dubbing": "scenes\\audio\\pangbai00062.mp3",
+        "text": "村子里的百姓全都探出头，看见凶神恶煞的蛇妖这般模样，再也压不住，哄堂大笑。",
+        "soundEffects": "scenes\\audio\\qingjingjuxiao.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_84",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_84",
+      "sheetName": "Sheet9_3",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0079.webp",
+        "dubbing": "scenes\\audio\\Gaunt Villager00000.mp3",
+        "text": "哈哈哈，大蛇在跳舞嘞！",
+        "characterImage": "scenes\\images\\gauntvillager tou.webp",
+        "characterName": "Gaunt Villager"
+      },
+      "nextId": "scene_85",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_85",
+      "sheetName": "Sheet9_4",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0080.webp",
+        "dubbing": "scenes\\audio\\Suffering Village Woman00000.mp3",
+        "text": "平日里作威作福，现在这般模样！",
+        "characterImage": "scenes\\images\\sufferingvillagewoman tou.webp",
+        "characterName": "Suffering Village Woman"
+      },
+      "nextId": "scene_86",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_86",
+      "sheetName": "Sheet9_5",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0081.webp",
+        "dubbing": "scenes\\audio\\pangbai00063.mp3",
+        "text": "一声声嘲讽传入蛇妖耳中。蛇妖横行多年，向来被众人惧怕，何曾受过这般嘲弄。蛇妖自尊心彻底破碎，发出一声凄厉嘶吼，猛地一头撞向山石，自尽而亡。",
+        "soundEffects": "scenes\\audio\\daota.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_87",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_87",
+      "sheetName": "Sheet9_6",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0082.webp",
+        "dubbing": "scenes\\audio\\pangbai00064.mp3",
+        "text": "蛇妖身死，掉落一枚翠绿色的妖丹，还有一套蛇鳞炼制的防御法宝。小狐狸收下两件宝物，绿色妖丹的力量涌入体内，第四条尾巴缓缓生长出来。小狐狸将蛇鳞宝甲披在身上，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_88",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_88",
+      "sheetName": "Sheet9_7",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0083.webp",
+        "dubbing": "scenes\\audio\\pangbai00065.mp3",
+        "text": "休整完毕，小狐狸再次踏上修行之路。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_89",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_89",
+      "sheetName": "Sheet9_8",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0084.webp",
+        "dubbing": "scenes\\audio\\pangbai00066.mp3",
+        "text": "往后遇到危险，便可以用来抵挡攻击。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_90",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_90",
+      "sheetName": "Sheet9_9",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0085.webp",
+        "dubbing": "scenes\\audio\\pangbai00067.mp3",
+        "text": "没过多久，前方小镇之中怪事频发。有一位 “神医” 四处行医，可凡是找他看病的百姓，病情只会越来越重。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_91",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_91",
+      "sheetName": "Sheet9_10",
+      "excelSheetName": "Sheet9",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0086.webp",
+        "dubbing": "scenes\\audio\\pangbai00068.mp3",
+        "text": "小狐狸悄悄探查，才看清真相：所谓神医，原来是蜈蚣精假扮的。蜈蚣精根本无心救人，只是以行医为幌子偷偷给人下毒，拿凡人的性命来玩乐，借此提升自己的修为。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_92",
+          "label": "变成蟑螂妖"
+        },
+        {
+          "nextId": "scene_98",
+          "label": "变成病人"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_92",
+      "sheetName": "Sheet10_0",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0087.webp",
+        "dubbing": "scenes\\audio\\pangbai00069.mp3",
+        "text": "小狐狸思索对策，打算伪装成同族妖怪前去套话。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_93",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_93",
+      "sheetName": "Sheet10_1",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0088.webp",
+        "dubbing": "scenes\\audio\\pangbai00070.mp3",
+        "text": "法宝灵光一闪，小狐狸化作一只蟑螂妖，蹑手蹑脚靠近蜈蚣精。",
+        "soundEffects": "scenes\\audio\\shanliangdengchang.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_94",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_94",
+      "sheetName": "Sheet10_2",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0089.webp",
+        "dubbing": "scenes\\audio\\Little Fox00011.mp3",
+        "text": "蜈蚣大哥，久仰大名！我特意过来找你。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_95",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_95",
+      "sheetName": "Sheet10_3",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0090.webp",
+        "dubbing": "scenes\\audio\\pangbai00071.mp3",
+        "text": "蜈蚣精低头瞧见眼前的蟑螂，眼睛瞬间一亮，舔了舔自己的口器，贪婪地笑。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_96",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_96",
+      "sheetName": "Sheet10_4",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0090.webp",
+        "dubbing": "scenes\\audio\\Centipede Demon00000.mp3",
+        "text": "真是送上门的美味！",
+        "characterImage": "scenes\\images\\centipededemon tou.webp",
+        "characterName": "Centipede Demon"
+      },
+      "nextId": "scene_97",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_97",
+      "sheetName": "Sheet10_5",
+      "excelSheetName": "Sheet10",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0091.webp",
+        "dubbing": "scenes\\audio\\pangbai00072.mp3",
+        "text": "蜈蚣精本就以蟑螂为食，哪里会听小狐狸多说半句。蜈蚣精百足齐动，骤然发动偷袭，一口便将伪装成蟑螂的小狐狸吞入腹中。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_98",
+          "label": "变成病人"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_98",
+      "sheetName": "Sheet11_0",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0092.webp",
+        "dubbing": "scenes\\audio\\pangbai00073.mp3",
+        "text": "小狐狸心念一转，改换计策。灵光闪动，化作一名浑身虚弱、咳嗽不止的病人，踉踉跄跄走到蜈蚣精的医摊之前。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_99",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_99",
+      "sheetName": "Sheet11_1",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0093.webp",
+        "dubbing": "scenes\\audio\\Little Fox00012.mp3",
+        "text": "神医…… 求求您救救我，我身子难受得厉害，求您赐我一副药吧。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_100",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_100",
+      "sheetName": "Sheet11_2",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0094.webp",
+        "dubbing": "scenes\\audio\\pangbai00074.mp3",
+        "text": "小狐狸捂着胸口，装作病恹恹的模样。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_101",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_101",
+      "sheetName": "Sheet11_3",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0095.webp",
+        "dubbing": "scenes\\audio\\pangbai00075.mp3",
+        "text": "蜈蚣精眯起眼睛，眼中闪过一丝歹毒，随手配了一份带着剧毒的药递过来。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_102",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_102",
+      "sheetName": "Sheet11_4",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0096.webp",
+        "dubbing": "scenes\\audio\\Centipede Demon00001.mp3",
+        "text": "喝下这服药，你的病就好了。",
+        "characterImage": "scenes\\images\\centipededemon tou.webp",
+        "characterName": "Centipede Demon"
+      },
+      "nextId": "scene_103",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_103",
+      "sheetName": "Sheet11_5",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0097.webp",
+        "dubbing": "scenes\\audio\\pangbai00076.mp3",
+        "text": "小狐狸接过药，没有当场服下，假意喝完之后",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_104",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_104",
+      "sheetName": "Sheet11_6",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0098.webp",
+        "dubbing": "scenes\\audio\\pangbai00077.mp3",
+        "text": "片刻之后面露喜色。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_105",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_105",
+      "sheetName": "Sheet11_7",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0098.webp",
+        "dubbing": "scenes\\audio\\Little Fox00013.mp3",
+        "text": "神医！您的药太灵了！我感觉浑身都舒坦了！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_106",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_106",
+      "sheetName": "Sheet11_8",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0099.webp",
+        "dubbing": "scenes\\audio\\pangbai00078.mp3",
+        "text": "蜈蚣精满脸不信，嗤笑一声。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_107",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_107",
+      "sheetName": "Sheet11_9",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0100.webp",
+        "dubbing": "scenes\\audio\\Centipede Demon00002.mp3",
+        "text": "怎么可能，这药明明是毒药。你骗人，我得亲自试试。",
+        "characterImage": "scenes\\images\\centipededemon tou.webp",
+        "characterName": "Centipede Demon"
+      },
+      "nextId": "scene_108",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_108",
+      "sheetName": "Sheet11_10",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0101.webp",
+        "dubbing": "scenes\\audio\\pangbai00079.mp3",
+        "text": "蜈蚣精一把抢过药碗，全然没有料到，小狐狸早已经偷偷把之前蛇妖的蛇毒混入药里。蜈蚣精仰头一饮而尽。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_109",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_109",
+      "sheetName": "Sheet11_11",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0102.webp",
+        "dubbing": "scenes\\audio\\pangbai00080.mp3",
+        "text": "毒药瞬间发作，蜈蚣精浑身抽搐，倒在地上痛苦挣扎，最后被自己调配的毒药毒杀。",
+        "soundEffects": "scenes\\audio\\aojiao1.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_110",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_110",
+      "sheetName": "Sheet11_12",
+      "excelSheetName": "Sheet11",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0103.webm",
+        "dubbing": "scenes\\audio\\pangbai00081.mp3",
+        "text": "小狐狸取出炼丹之法，将蜈蚣精炼制成蜈蚣丸，还得到一件百足法宝，这件法宝可以射出剧毒蜈蚣足，用作攻击武器。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_111",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_111",
+      "sheetName": "Sheet11_13",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0104.webp",
+        "dubbing": "scenes\\audio\\pangbai00082.mp3",
+        "text": "被蜈蚣精毒害的百姓，冤魂得以解脱，无数鬼魂化作缕缕灵力，缠绕在小狐狸身上。再加上蜈蚣精的紫色妖丹，两股力量叠加，小狐狸身后又生长出两条尾巴，如今已是六条尾巴。",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_112",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_112",
+      "sheetName": "Sheet11_14",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0105.webp",
+        "dubbing": "scenes\\audio\\pangbai00083.mp3",
+        "text": "诸事了结，小狐狸回到属于自己的洞府，闭关，准备做最后的修行。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_113",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_113",
+      "sheetName": "Sheet11_15",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0106.webp",
+        "dubbing": "scenes\\audio\\pangbai00084.mp3",
+        "text": "另一边，蜘蛛精听闻自己的好友蛇妖、蜈蚣精全都死在了这只狐妖手里，心中满腔怒火，决意要报仇雪恨。蜘蛛精四处联络，纠集了一众精怪帮手：松树精、柳树精、石妖、蝴蝶妖、猫妖。一众妖物悄悄埋伏在洞府四周，就等着小狐狸一出洞府，便一拥而上。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_114",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_114",
+      "sheetName": "Sheet11_16",
+      "excelSheetName": "Sheet11",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\shenmi，xuannian.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0107.webp",
+        "dubbing": "scenes\\audio\\pangbai00085.mp3",
+        "text": "洞府之外，草木沙沙作响，处处都潜藏杀机。小狐狸在洞府之中，已经感知到外面密密麻麻的妖气。",
+        "soundEffects": "scenes\\audio\\dafeng_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_115",
+          "label": "应战"
+        },
+        {
+          "nextId": "scene_120",
+          "label": "不理睬"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_115",
+      "sheetName": "Sheet12_0",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0108.webp",
+        "dubbing": "scenes\\audio\\pangbai00086.mp3",
+        "text": "察觉到外敌来袭，小狐狸不愿缩在洞府，直接推开洞府大门，手持各路法宝冲出去直面一众妖怪。",
+        "soundEffects": "scenes\\audio\\daxingjixiemendakai.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_116",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_116",
+      "sheetName": "Sheet12_1",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0109.webp",
+        "dubbing": "scenes\\audio\\Little Fox00014.mp3",
+        "text": "你们为何要来寻我的麻烦！",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_117",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_117",
+      "sheetName": "Sheet12_2",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0110.webp",
+        "dubbing": "scenes\\audio\\pangbai00087.mp3",
+        "text": "蜘蛛精面露冷笑。",
+        "soundEffects": "scenes\\audio\\fanpainanxieekongbuxiaosheng.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_118",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_118",
+      "sheetName": "Sheet12_3",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0111.webp",
+        "dubbing": "scenes\\audio\\Spider Demon00000.mp3",
+        "text": "你杀了我的朋友，今日便是你的死期！",
+        "characterImage": "scenes\\images\\spiderdemon tou.webp",
+        "characterName": "Spider Demon"
+      },
+      "nextId": "scene_119",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_119",
+      "sheetName": "Sheet12_4",
+      "excelSheetName": "Sheet12",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0112.webp",
+        "dubbing": "scenes\\audio\\pangbai00088.mp3",
+        "text": "数名妖怪一拥而上，四面八方同时发动攻势。虽说小狐狸手握不少法宝，可同时面对这么多敌人，实战经验远远不足。小狐狸顾得了左边，挡不住右边，法宝轮番施展，却很难同时抵御多方进攻。几番恶斗之后，小狐狸寡不敌众，倒在了混战之中。",
+        "soundEffects": "scenes\\audio\\dadouchangmian.mp3",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_120",
+          "label": "不理睬"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_120",
+      "sheetName": "Sheet13_0",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0113.webp",
+        "dubbing": "scenes\\audio\\pangbai00089.mp3",
+        "text": "小狐狸听着洞外妖怪吵吵嚷嚷的叫嚣，没有冲动冲出去硬拼。小狐狸先迈步来到洞府门前，掐动法诀，一道光华流转的结界升腾而起，牢牢把洞府护住，任凭外面妖怪如何攻打，都无法闯入。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_121",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_121",
+      "sheetName": "Sheet13_1",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0114.webp",
+        "dubbing": "scenes\\audio\\Spider Demon00001.mp3",
+        "text": "有本事就出来！躲在洞里算什么本事！",
+        "characterImage": "scenes\\images\\spiderdemon tou.webp",
+        "characterName": "Spider Demon"
+      },
+      "nextId": "scene_122",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_122",
+      "sheetName": "Sheet13_2",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0115.webp",
+        "dubbing": "scenes\\audio\\pangbai00090.mp3",
+        "text": "洞外蜘蛛精气急败坏地大喊。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_123",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_123",
+      "sheetName": "Sheet13_3",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0116.webp",
+        "dubbing": "scenes\\audio\\pangbai00091.mp3",
+        "text": "小狐狸置若罔闻，转身退回洞府深处。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_124",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_124",
+      "sheetName": "Sheet13_4",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0117.webp",
+        "dubbing": "scenes\\audio\\pangbai00092.mp3",
+        "text": "小狐狸将一路得来的芭蕉扇、蛇鳞护甲、百足毒器等等全部取出",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_125",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_125",
+      "sheetName": "Sheet13_5",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0118.webp",
+        "dubbing": "scenes\\audio\\pangbai00093.mp3",
+        "text": "催动自身修为，把诸多宝物互相熔炼。洞府之内灵光冲天，无数宝光交织",
+        "soundEffects": "scenes\\audio\\guangbiaoxianshi.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_126",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_126",
+      "sheetName": "Sheet13_6",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijiyinle.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0119.webp",
+        "dubbing": "scenes\\audio\\pangbai00094.mp3",
+        "text": "小狐狸耗费不少心力，终于炼出一件威力惊天的全新法宝。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_127",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_127",
+      "sheetName": "Sheet13_7",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0120.webp",
+        "dubbing": "scenes\\audio\\pangbai00095.mp3",
+        "text": "结界缓缓撤去，小狐狸握着新炼的法宝踏出洞府。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_128",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_128",
+      "sheetName": "Sheet13_8",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0121.webp",
+        "dubbing": "scenes\\audio\\pangbai00096.mp3",
+        "text": "蜘蛛精见到小狐狸现身，厉声喝道。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_129",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_129",
+      "sheetName": "Sheet13_9",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0122.webp",
+        "dubbing": "scenes\\audio\\Spider Demon00002.mp3",
+        "text": "兄弟们，上！给死去的朋友报仇！",
+        "characterImage": "scenes\\images\\spiderdemon tou.webp",
+        "characterName": "Spider Demon"
+      },
+      "nextId": "scene_130",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_130",
+      "sheetName": "Sheet13_10",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0123.webp",
+        "dubbing": "scenes\\audio\\pangbai00097.mp3",
+        "text": "一众妖物立刻冲杀上来。小狐狸本心不愿痛下杀手，本打算手下留情，可这群精怪招招狠辣，招招都要取小狐狸性命。无可奈何之下，小狐狸只能全力出手。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_131",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_131",
+      "sheetName": "Sheet13_11",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0124.webp",
+        "dubbing": "scenes\\audio\\pangbai00098.mp3",
+        "text": "大战一打响，便是整整七七四十九天。山石崩裂，林木摧折，惊天动地的斗法响彻山林。最终，蜘蛛精与一众帮手尽数落败被擒。",
+        "soundEffects": "scenes\\audio\\shantidaota_zhuanhuan.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_132",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_132",
+      "sheetName": "Sheet13_12",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0125.webp",
+        "dubbing": "scenes\\audio\\pangbai00099.mp3",
+        "text": "小狐狸收缴了它们的妖丹，却没有吞服用来增长自身修为。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_133",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_133",
+      "sheetName": "Sheet13_13",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\jiliedouzheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0126.webp",
+        "dubbing": "scenes\\audio\\pangbai00100.mp3",
+        "text": "小狐狸抬手施法，把一颗颗妖丹尽数化为浩荡灵力，散播到世间，用来救助从前被妖物残害的受苦百姓。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_134",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_134",
+      "sheetName": "Sheet13_14",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0127.webp",
+        "dubbing": "scenes\\audio\\pangbai00101.mp3",
+        "text": "远在九天之上，一众神仙目睹了小狐狸的所作所为，无不心中动容。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_135",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_135",
+      "sheetName": "Sheet13_15",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0128.webp",
+        "dubbing": "scenes\\audio\\Immortal00001.mp3",
+        "text": "此狐心怀苍生，行善渡世，当得圆满。",
+        "characterImage": "scenes\\images\\immortal tou.webp",
+        "characterName": "Immortal"
+      },
+      "nextId": "scene_136",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_136",
+      "sheetName": "Sheet13_16",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0129.webp",
+        "dubbing": "scenes\\audio\\pangbai00102.mp3",
+        "text": "一道流光自天际坠落，一枚熠熠生辉的仙丹落到小狐狸的手中。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_137",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_137",
+      "sheetName": "Sheet13_17",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0130.webp",
+        "dubbing": "scenes\\audio\\pangbai00103.mp3",
+        "text": "仙丹进入小狐狸腹中，磅礴仙力席卷小狐狸全身，小狐狸剩余的三条尾巴尽数生长而出。",
+        "soundEffects": "scenes\\audio\\nengliangjuexing.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_138",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_138",
+      "sheetName": "Sheet13_18",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0131.webp",
+        "dubbing": "scenes\\audio\\pangbai00104.mp3",
+        "text": "小狐狸身后雪白蓬松的九条狐尾舒展飞扬，小狐狸终于修成了传说中的九尾狐。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_139",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_139",
+      "sheetName": "Sheet13_19",
+      "excelSheetName": "Sheet13",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\guaijishenmi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0132.webp",
+        "dubbing": "scenes\\audio\\pangbai00105.mp3",
+        "text": "小狐狸修成九尾之后，天道降下两道前路，摆在小狐狸的面前，等待小狐狸做出最后的抉择。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_140",
+          "label": "飞升天庭"
+        },
+        {
+          "nextId": "scene_146",
+          "label": "留在人间"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_140",
+      "sheetName": "Sheet14_0",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0133.webp",
+        "dubbing": "scenes\\audio\\pangbai00106.mp3",
+        "text": "小狐狸抬眼望向云雾缭绕的九天天庭，",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_141",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_141",
+      "sheetName": "Sheet14_1",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00107.mp3",
+        "text": "仙官的接引神光已经落在小狐狸身上。",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_142",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_142",
+      "sheetName": "Sheet14_2",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0134.webp",
+        "dubbing": "scenes\\audio\\pangbai00108.mp3",
+        "text": "小狐狸心中思索：若是飞升天庭，便可获得正统仙力，能够庇护世间更多的苍生。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_143",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_143",
+      "sheetName": "Sheet14_3",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\qingtingfangtanshijigushi.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0135.webp",
+        "dubbing": "scenes\\audio\\Little Fox00015.mp3",
+        "text": "好，我随诸位仙官上天。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_144",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_144",
+      "sheetName": "Sheet14_4",
+      "excelSheetName": "Sheet14",
+      "type": "video",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0136.webm",
+        "dubbing": "scenes\\audio\\pangbai00109.mp3",
+        "text": "光芒包裹住九尾狐，九尾狐踏着祥云，一步步飞升天庭，",
+        "soundEffects": "scenes\\audio\\kejichuxian.mp3",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_145",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_145",
+      "sheetName": "Sheet14_5",
+      "excelSheetName": "Sheet14",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\wanshua.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0137.webp",
+        "dubbing": "scenes\\audio\\pangbai00110.mp3",
+        "text": "正式位列仙班。往后岁岁年年，九尾狐身居天庭，以仙力护佑凡间万民，岁岁平安。",
+        "characterName": "旁白"
+      },
+      "branches": [
+        {
+          "nextId": "scene_146",
+          "label": "留在人间"
+        }
+      ],
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_146",
+      "sheetName": "Sheet15_0",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0138.webp",
+        "dubbing": "scenes\\audio\\pangbai00111.mp3",
+        "text": "小狐狸仰头望了望天庭的方向，又低头看向脚下这片烟火缭绕的大地。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_147",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_147",
+      "sheetName": "Sheet15_1",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0139.webp",
+        "dubbing": "scenes\\audio\\pangbai00112.mp3",
+        "text": "小狐狸轻轻摇了摇九条蓬松的尾巴，婉拒了仙官的接引。",
+        "characterName": "旁白"
+      },
+      "nextId": "scene_148",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_148",
+      "sheetName": "Sheet15_2",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0140.webp",
+        "dubbing": "scenes\\audio\\Little Fox00016.mp3",
+        "text": "天庭虽好，可我还是眷恋这人间山河。",
+        "characterImage": "scenes\\images\\littlefox tou.webp",
+        "characterName": "Me"
+      },
+      "nextId": "scene_149",
+      "sceneTimeType": "溶解"
+    },
+    {
+      "id": "scene_149",
+      "sheetName": "Sheet15_3",
+      "excelSheetName": "Sheet15",
+      "type": "image",
+      "chapter": "",
+      "resources": {
+        "bgm": "scenes\\audio\\ganqingjiangshu，tanhua，yishurensheng.mp3",
+        "video": "scenes\\images\\lhdsl6_20260819154050_0141.webp",
+        "dubbing": "scenes\\audio\\pangbai00113.mp3",
+        "text": "小狐狸选择留在凡尘俗世，云游四方，继续行走世间惩恶扬善，救助受苦的众生。山林乡野之间，一直流传着九尾灵狐渡世救人的传说。",
+        "characterName": "旁白"
+      },
+      "sceneTimeType": "溶解"
+    }
+  ],
+  "officialWebsite": "https://wcsc.xnewd-b.com/"
+}
